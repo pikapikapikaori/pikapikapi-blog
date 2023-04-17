@@ -1,0 +1,5 @@
+- [李亦杨 个人博客](/)
+- [前言](/writings/README.md)
+- [大量私货的10年代十佳动画](/writings/10TenBest-20200105.md)
+- [「FLCL」：以青春之名向平庸的反抗](/writings/FLCL-20180922.md)
+- [四月赏曲——浅谈「四月是你的谎言」音乐选择](/writings/Shigatsunouso-20180401.md)

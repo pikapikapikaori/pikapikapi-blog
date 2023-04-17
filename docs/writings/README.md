@@ -1,15 +1,11 @@
 <!--
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
- * @Date: 2023-04-06 02:20:33
+ * @Date: 2023-04-17 18:41:04
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-17 18:43:32
- * @FilePath: /pikapikapi-blog/docs/_navbar.md
+ * @LastEditTime: 2023-04-17 19:10:43
+ * @FilePath: /pikapikapi-blog/docs/writings/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
-- [首页](/)
-- 工作相关
-- [一些随笔](/writings/)
-- 语言
-  - [:cn: 简体中文](/)
-  - [:jp: 日本語](/jp/)
-  - [:uk: English (US)](/en-us/)
+# 前言
+
+这里是本人的一些随笔。

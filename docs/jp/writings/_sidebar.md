@@ -1,0 +1,2 @@
+- [リエキヨウ ブログ](/jp/)
+- [序文](/jp/writings/README.md)
