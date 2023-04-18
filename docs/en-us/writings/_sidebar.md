@@ -1,2 +1,1 @@
-- [Jeff Li's Blog](/en-us/)
 - [Beginning](/en-us/writings/README.md)

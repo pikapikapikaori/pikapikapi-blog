@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-18 20:09:53
+ * @LastEditTime: 2023-04-18 20:19:29
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -54,7 +54,22 @@
         // 初始化索引时，我们从侧边栏查找第一个路径
         // 如果它与列表中的前缀匹配，我们将切换到相应的索引
         pathNamespaces: ['/', '/jp', '/en-us'],
-      }
+      },
+      pagination: {
+        previousText: {
+          '/en-us/': 'PREVIOUS',
+          '/jp/': '前',
+          '/': '上一章节'
+        },
+        // or
+        nextText: {
+          '/en-us/': 'NEXT',
+          '/jp/': '次',
+          '/': '下一章节'
+        },
+        crossChapter: false,
+        crossChapterText: false,
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -63,6 +78,8 @@
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
 
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 
 </html>
