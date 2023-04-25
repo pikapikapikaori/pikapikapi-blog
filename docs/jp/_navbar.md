@@ -6,9 +6,11 @@
  * @FilePath: /pikapikapi-blog/docs/_navbar.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
-- [ホームページ](/jp/)
+- ホームページ
+  - [ホームページ](/jp/)
+  - [私について](/jp/README)
 - 仕事につして
-- [随想](/jp/writings/README.md)
+- [随想](/jp/writings/README)
 - 言語
   - [:cn: 简体中文](/)
   - [:jp: 日本語](/jp/)
