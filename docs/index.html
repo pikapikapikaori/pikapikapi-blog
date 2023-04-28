@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 00:43:03
+ * @LastEditTime: 2023-04-29 03:59:19
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -96,7 +96,12 @@
           '/jp/': 'コピーしました',
           '/': '复制成功'
         }
-      }
+      },
+
+      // 支持mermaid插件设置
+      mermaidConfig: {
+        querySelector: ".mermaid",
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -126,6 +131,19 @@
   <!-- Docsify 复制代码插件 -->
   <!-- Latest v2.x.x -->
   <script src="https://unpkg.com/docsify-copy-code@2"></script>
+
+  <!-- Docsify 支持mermaid插件 -->
+  <!-- Import D3.js -->
+  <script src="//cdn.jsdelivr.net/npm/d3@7"></script>
+  <!-- Import Mermaid -->
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({ startOnLoad: true });
+    window.mermaid = mermaid;
+  </script>
+  <!-- Import Docsify-mermaid-zoom -->
+  <script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
+  <script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
 
   <!-- Docsify 代码关键词高亮插件 -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
