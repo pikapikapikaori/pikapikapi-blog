@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-28 22:07:11
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-28 22:53:22
+ * @LastEditTime: 2023-04-29 00:09:17
  * @FilePath: /pikapikapi-blog/docs/ITtech/OOADAntProblem-20210924.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -82,13 +82,43 @@ public:
 
 将结构体数组中按用于存放方向的数组展开，组合成$2^n$行，$n$列的矩阵：
 
-| 第$0$项                                  | 第$1$项                                  | 第$2$项                                  | ··· | 第$n-1$项                                  |
-| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | --- | ------------------------------------------ |
-| `stGameData[0].antDirection[0]`          | `stGameData[0].antDirection[1]`          | `stGameData[0].antDirection[2]`          | ··· | `stGameData[0].antDirection[n-1]`          |
-| `stGameData[1].antDirection[0]`          | `stGameData[1].antDirection[1]`          | `stGameData[1].antDirection[2]`          | ··· | `stGameData[1].antDirection[n-1]`          |
-| ···                                      | ···                                      | ···                                      | ··· | ···                                        |
-| `stGameData[pow(2,n)-2].antDirection[0]` | `stGameData[pow(2,n)-2].antDirection[1]` | `stGameData[pow(2,n)-2].antDirection[2]` | ··· | `stGameData[pow(2,n)-2].antDirection[n-1]` |
-| `stGameData[pow(2,n)-1].antDirection[0]` | `stGameData[pow(2,n)-1].antDirection[1]` | `stGameData[pow(2,n)-1].antDirection[2]` | ··· | `stGameData[pow(2,n)-1].antDirection[n-1]` |
+<table>
+    <tr>
+        <td><code>stGameData[0].antDirection[0]</code></td>
+        <td><code>stGameData[0].antDirection[1]</code></td>
+        <td><code>stGameData[0].antDirection[2]</code></td>
+        <td>···</td>
+        <td><code>stGameData[0].antDirection[n-1]</code></td>
+    </tr>
+    <tr>
+        <td><code>stGameData[1].antDirection[0]</code></td>
+        <td><code>stGameData[1].antDirection[1]</code></td>
+        <td><code>stGameData[1].antDirection[2]</code></td>
+        <td>···</td>
+        <td><code>stGameData[1].antDirection[n-1]</code></td>
+    </tr>
+    <tr>
+        <td>···</td>
+        <td>···</td>
+        <td>···</td>
+        <td>···</td>
+        <td>···</td>
+    </tr>
+    <tr>
+        <td><code>stGameData[pow(2,n)-2].antDirection[0]</code></td>
+        <td><code>stGameData[pow(2,n)-2].antDirection[1]</code></td>
+        <td><code>stGameData[pow(2,n)-2].antDirection[2]</code></td>
+        <td>···</td>
+        <td><code>stGameData[pow(2,n)-2].antDirection[n-1]</code></td>
+    </tr>
+    <tr>
+        <td><code>stGameData[pow(2,n)-1].antDirection[0]</code></td>
+        <td><code>stGameData[pow(2,n)-1].antDirection[1]</code></td>
+        <td><code>stGameData[pow(2,n)-1].antDirection[2]</code></td>
+        <td>···</td>
+        <td><code>stGameData[pow(2,n)-1].antDirection[n-1]</code></td>
+    </tr>
+</table>
 
 第一列自上而下依次赋值$0, 1, 0, 1, 0, 1, ···$
 

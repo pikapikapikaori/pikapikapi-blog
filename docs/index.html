@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-28 23:10:06
+ * @LastEditTime: 2023-04-29 00:19:52
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -55,6 +55,8 @@
           '/': '找不到结果'
         },
 
+        hideOtherSidebarContent: true,
+
         // 使用不同的索引作为路径前缀（namespaces）
         // 注意：仅适用于 paths: 'auto' 模式
         //
@@ -78,11 +80,6 @@
         },
         crossChapter: false,
         crossChapterText: false,
-      },
-      progress: {
-        position: "top",
-        color: "var(--theme-color,#42b983)",
-        height: "3px",
       },
 
       // 复制代码插件设置
@@ -119,9 +116,6 @@
 
   <!-- Docsify 图片注释插件 -->
   <script src="https://unpkg.com/@h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
-
-  <!-- Docsify 阅读进度条插件 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
 
   <!-- Docsify LATEX插件 -->
   <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
