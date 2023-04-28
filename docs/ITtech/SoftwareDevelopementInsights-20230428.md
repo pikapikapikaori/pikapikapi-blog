@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-29 03:19:58
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 07:16:05
+ * @LastEditTime: 2023-04-29 07:24:17
  * @FilePath: /pikapikapi-blog/docs/ITtech/SoftwareDevelopementInsights.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -28,6 +28,13 @@
 - 数据管理：和上面提到的图片视频的存储有关。需求上还挺麻烦的，视频格式支持太多还需要进行视频的格式转换，反应到和用户的交互上来说还需要实现分块上传等功能等。
 
 尽管后文对具体业务尽量不会涉及，但姑且将背景记于这里。不难看出这个项目还是一个比较传统的要用到数据库后端前端三个维度的项目，因而后文也主要想从这三个维度的设计与开发两方面来聊聊。
+
+项目可以参考：
+
+- [后端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-backend)
+- [前端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-frontend)
+
+本博客的仓库中也保存了相关的源码，可以参考[这里](https://github.com/pikapikapikaori/pikapikapi-blog/tree/master/docs/ITtech/_meida/SoftwareDevelopementInsights-20230428)。
 
 ## 设计
 
