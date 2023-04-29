@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 18:13:41
+ * @LastEditTime: 2023-04-29 19:32:33
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -103,7 +103,7 @@
         querySelector: ".mermaid",
       },
 
-      // GitTalk评论插件设置
+      // Gitalk评论插件设置
       gitalk: {
         clientID: '6a54e5946401951488d1',
         clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
@@ -154,7 +154,7 @@
   <script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
   <script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
 
-  <!-- Docsify GitTalk评论插件 -->
+  <!-- Docsify Gitalk评论插件 -->
   <!-- GitTalk评论 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
@@ -177,6 +177,18 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-swift.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+
+  <script>
+    // 使Gitalk下有空行占位
+    window.onload = function () {
+      var footer = document.createElement('footer');
+      var textInFooter = document.createElement('p');
+      var text = document.createElement('br');
+      textInFooter.appendChild(text);
+      footer.appendChild(textInFooter);
+      document.getElementById("main").parentNode.insertBefore(footer, undefined)
+    }
+  </script>
 </body>
 
 </html>
