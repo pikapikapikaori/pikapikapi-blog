@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-29 03:19:58
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 07:24:17
+ * @LastEditTime: 2023-04-29 18:11:10
  * @FilePath: /pikapikapi-blog/docs/ITtech/SoftwareDevelopementInsights.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -151,7 +151,7 @@ flowchart LR
     controlleri --> frontend
 ```
 
-作为微服务而言其实也是非常常见与合理的架构。中间层充当网关的角色被外部服务9前端）统一调用，其内部则再根据具体的调用请求来选择合适的服务进行通信，并将数据进行处理后转发给外部服务。在实践中，前端组与后端组同时开发，需求细节与开发细节还不明了的情况下，接口的内容与种类尽管可以大体确定，但具体的数据内容与种类等都是难以确定的。因而，利用中间层也即网关这一角色，接口确定的难题得以被解决。前后端可以先按照自己的想法对接口进行设计与模拟，当有一定的进度、对接口需求更加明确时再利用中间层进行数据的整合与处理，从而节约了大量沟通与修改的时间。
+作为微服务而言其实也是非常常见与合理的架构。中间层充当网关的角色被外部服务（前端）统一调用，其内部则再根据具体的调用请求来选择合适的服务进行通信，并将数据进行处理后转发给外部服务。在实践中，前端组与后端组同时开发，需求细节与开发细节还不明了的情况下，接口的内容与种类尽管可以大体确定，但具体的数据内容与种类等都是难以确定的。因而，利用中间层也即网关这一角色，接口确定的难题得以被解决。前后端可以先按照自己的想法对接口进行设计与模拟，当有一定的进度、对接口需求更加明确时再利用中间层进行数据的整合与处理，从而节约了大量沟通与修改的时间。
 
 ```mermaid
 sequenceDiagram
@@ -219,6 +219,25 @@ public static Boolean softEquals(String toBeJudged, String referencedValue) {
 
 为了在满足需求的基础上尽可能简化开发上的工作量（即少写`SQL`与对应的函数），我目前的想法是利用正则表达式（例如MySQL中的`REGEXP`关键字）进行查询，由此将查询的相关工作返还给数据库。利用数据库内部的索引等机制对查询进行优化（MySQL内部索引的B+树能带来数倍的性能），借此来消除服务器的负担。借由这一方法全字段搜索可以通过唯一的一条`SQL`来实现，也符合尽量不写`SQL`的原则。
 
+```java
+// Dao层
+@Query(value = "SELECT f.* FROM Feature f WHERE (f.name REGEXP :funcNameRegExp) AND (f.description REGEXP :funcDescriptionRegExp)", nativeQuery = true)
+ArrayList<Feature> findFeatureByRegExp(@Param("funcNameRegExp") String funcNameRegExp, @Param("funcDescriptionRegExp") String funcDescriptionRegExp);
+
+// Service层
+public JSONObject getFeature(
+        String funcName,
+        String funcDescription) {
+    String funcNameRegExp = funcName;
+    String funcDescriptionRegExp =  "^" + funcName + "$";
+    JSONObject res = new JSONObject();
+    res.put(
+            Constants.featureList,
+            JSONObject.parseArray(JSON.toJSONString(featureRepository.findFeatureByRegExp(funcNameRegExp, funcDescriptionRegExp))));
+    return ResponseHelper.constructSuccessResponse(res);
+}
+```
+
 再说删改查。项目中这些功能的实现大体如下：
 
 ```java
@@ -278,7 +297,7 @@ public JSONObject updateExamine(int examineId, String examineName, double examin
     }
 }
 
-\\ 查
+\\ 删
 public JSONObject deleteExamine(int examineId) {
     Optional<Examine> targetExamineOptional = examineRepository.findById(examineId);
 
@@ -361,7 +380,48 @@ public class GeneralService {
 }
 ```
 
-事实上，删除功能可以直接套用这一写法。当然，在上面的`getDataById`方法中查找`Method`与`Field`的逻辑也可以进一步进行优化这里先略去不表。
+事实上，删除功能可以直接套用这一写法。当然，在上面的`getDataById`方法中查找`Method`与`Field`的逻辑也可以进一步进行优化：
+
+```java
+public Class<JPARepository> getDataDaoClassByTableName (String tableName) throws Exception {
+    return Class.forName(
+            Constants.projectPackageName + "." + Constants.systemModulePackageName + "."
+                    + Constants.daoClassPackageName
+                    + "." + tableName
+                    + Constants.daoClassSuffix,
+            true,
+            Thread.currentThread().getContextClassLoader().getParent());
+}
+
+public JSONObject getDataById(String tableName, int id) throws Exception {
+    Class<?> dataDaoClass = this.getDataDaoClassByTableName(tableName);
+    Method getByIdMethod = dataDaoClass.getMethod(Constants.findByIdMethodName, Integer.class);
+    Field selfField = this.getClass().getDeclaredField(tableName.toFirstCharLowerCase());
+
+    Optional<?> getIdRes = (Optional<?>) getByIdMethod.invoke(selfField.get(this), id);
+
+    return getIdRes.isEmpty() ? ResponseHelper.constructFailedResponse(ResponseHelper.requestErrorCode) : ResponseHelper.constructSuccessResponse(getIdRes.get());
+}
+
+public JSONObject deleteDataById(String tableName, int id) throws Exception {
+    JSONObject getDataByIdRes = this.getDataById(tableName, id);
+
+    // 表内查询无数据
+    if (Object.equals(getDataByIdRes.data, null)) {
+        return getDataByIdRes;
+    }
+
+    Class<?> dataDaoClass = this.getDataDaoClassByTableName(tableName);
+    Method deleteByIdMethod = dataDaoClass.getMethod(Constants.deleteByIdMethodName, Integer.class);
+    Field selfField = this.getClass().getDeclaredField(tableName.toFirstCharLowerCase());
+
+    deleteByIdMethod.invoke(selfField.get(this), id);
+
+    return ResponseHelper.constructSuccessResponse(getDataByIdRes.get());
+}
+```
+
+为了进一步简化开发工作量与代码逻辑，可以考虑先创建公共类：`BaseEntity`与`BaseRepository`，使得实体类继承前者，对应的`dao`类继承后者。
 
 对于增改功能而言，业务逻辑中唯二的区别在于判断重复条件与判断外键存在逻辑这两项。可以考虑抽象成统一的公共方法，通过接收可变个数个参数构成的List来进行判断。更具体的，其可能是下面的实现形式：
 
@@ -492,3 +552,13 @@ new Person().getWater().drinkWater().getThirsty();
 ```
 
 这种写法更符合知觉，同时可以节省临时变量、简化代码。
+
+## 参考文献
+
+1. When I should use one to one relationship? (2012, September 7). Stack Overflow. https://stackoverflow.com/questions/12318870/when-i-should-use-one-to-one-relationship
+2. search using regex in JPA. (2020, June 15). Stack Overflow. https://stackoverflow.com/questions/62379559/search-using-regex-in-jpa
+3. Using Java Reflection. (n.d.). Using Java Reflection. https://www.oracle.com/technical-resources/articles/java/javareflection.html
+4. Rapid application development - Wikipedia. (2014, July 2). Rapid Application Development - Wikipedia. https://en.wikipedia.org/wiki/Rapid_application_development
+5. Jackson, C. (2019, June 19). Micro Frontends. martinfowler.com. https://martinfowler.com/articles/micro-frontends.html
+6. M. (n.d.). CQRS pattern - Azure Architecture Center. CQRS Pattern - Azure Architecture Center | Microsoft Learn. https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+7. Method chaining - why is it a good practice, or not? (2009, July 9). Stack Overflow. https://stackoverflow.com/questions/1103985/method-chaining-why-is-it-a-good-practice-or-not
