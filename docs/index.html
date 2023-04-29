@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 20:07:19
+ * @LastEditTime: 2023-04-29 20:31:00
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -102,15 +102,6 @@
       mermaidConfig: {
         querySelector: ".mermaid",
       },
-
-      // Gitalk评论插件设置
-      gitalk: {
-        clientID: '6a54e5946401951488d1',
-        clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
-        repo: 'pikapikapi-blog',
-        owner: 'pikapikapikaori',
-        admin: ['pikapikapikaori']
-      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -154,13 +145,6 @@
   <script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
   <script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
 
-  <!-- Docsify Gitalk评论插件 -->
-  <!-- GitTalk评论 -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script src="https://unpkg.com/docsify-gitalk@1.0.0/dist/docsify-gitalk.min.js"></script>
-
   <!-- Docsify 代码关键词高亮插件 -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-batch.min.js"></script>
@@ -177,6 +161,23 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-swift.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+
+  <!-- GitTalk评论 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '6a54e5946401951488d1',
+      clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
+      repo: 'pikapikapi-blog',
+      owner: 'pikapikapikaori',
+      admin: ['pikapikapikaori'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false,
+      id: location.href.split('#')[1]
+    })
+  </script>
 
   <script>
     // 使Gitalk下有空行占位
