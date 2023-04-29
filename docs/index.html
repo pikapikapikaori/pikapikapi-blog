@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 19:32:33
+ * @LastEditTime: 2023-04-29 19:35:55
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -183,8 +183,8 @@
     window.onload = function () {
       var footer = document.createElement('footer');
       var textInFooter = document.createElement('p');
-      var text = document.createElement('br');
-      textInFooter.appendChild(text);
+      var textBr = document.createElement('br');
+      textInFooter.appendChild(textBr);
       footer.appendChild(textInFooter);
       document.getElementById("main").parentNode.insertBefore(footer, undefined)
     }
