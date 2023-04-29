@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-29 03:19:58
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 20:07:28
+ * @LastEditTime: 2023-04-30 02:32:45
  * @FilePath: /pikapikapi-blog/docs/ITtech/SoftwareDevelopementInsights.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -443,6 +443,7 @@ public JSONObject updateDataById(
 
     Boolean isForeignKeyExist = true;
 
+    // 如果满足重复条件或外键不存在则直接返回，这里可以进一步优化
     for(foreignKey : foreignKeys) {
         Class<?> foreignKeyDaoClass = Class.forName(targetData.getDeclaredField(foreignKey).getType().getName() + ...); //找到外键对应Dao层类
         Method findByIdMethod = foreignKeyDaoClass.getMethod("findById"); 
@@ -461,13 +462,12 @@ public JSONObject updateDataById(
                 targetData.getDeclaredField(duplicateConditionField).get(targetData)
             );
         }
-        if (isExist) {
-            return true;
-        }
+        return isExist;
     }).collect(Collectors.toList()).size(), 0) || !isForeignKeyExist) {
         return;
     }
 
+    // 不满足重复条件且外键都存在时，进行数据更新
     for (field : targetData.getDeclaredFields()) {
         field.set(targetData, newValues.get(field.getName()).toTargetType());
     }
