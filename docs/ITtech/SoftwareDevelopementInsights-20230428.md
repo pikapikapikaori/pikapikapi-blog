@@ -553,7 +553,7 @@ new Person().getWater().drinkWater().getThirsty();
 
 这种写法更符合知觉，同时可以节省临时变量、简化代码。
 
-## 参考文献
+## 参考资料
 
 1. When I should use one to one relationship? (2012, September 7). Stack Overflow. https://stackoverflow.com/questions/12318870/when-i-should-use-one-to-one-relationship
 2. search using regex in JPA. (2020, June 15). Stack Overflow. https://stackoverflow.com/questions/62379559/search-using-regex-in-jpa
