@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-30 02:03:53
+ * @LastEditTime: 2023-04-30 17:05:59
  * @FilePath: /pikapikapi-blog/docs/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -27,3 +27,10 @@ Here are some of my information:
 [Github](https://github.com/pikapikapikaori)
 
 <?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M7 9l5 3.5L17 9" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M2 17V7a2 2 0 012-2h16a2 2 0 012 2v10a2 2 0 01-2 2H4a2 2 0 01-2-2z" stroke="#000000" stroke-width="1.5"></path></svg> &nbsp; Lyy8759@outlook.com
+
+## About This Site
+
+[Site repo
+](https://github.com/pikapikapikaori/pikapikapi-blog)：
+
+![picture](https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true)
