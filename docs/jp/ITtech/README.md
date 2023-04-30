@@ -12,7 +12,7 @@
 
 ## 言語使用
 
-![picture](https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10)
+![picture](https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact)
 
 ## ツールまたはプロジェクト
 
