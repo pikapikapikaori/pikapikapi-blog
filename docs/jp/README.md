@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-30 17:05:29
+ * @LastEditTime: 2023-04-30 21:22:17
  * @FilePath: /pikapikapi-blog/docs/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -25,7 +25,6 @@
 
 ## サイト情報
 
-[ブログリポジトリ
-](https://github.com/pikapikapikaori/pikapikapi-blog)：
+ブログリポジトリ：
 
-![picture](https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true)
+[![picture](https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true)](https://github.com/pikapikapikaori/pikapikapi-blog)
