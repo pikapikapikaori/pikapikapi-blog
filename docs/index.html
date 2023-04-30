@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-30 22:01:04
+ * @LastEditTime: 2023-05-01 01:18:06
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -17,6 +17,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css" disabled>
 </head>
 
 <body>
@@ -149,7 +150,13 @@
           },
         },
         isExpected: true,
-      }
+      },
+
+      // 添加明暗模式切换
+      switchLightDarkMode: {
+        useSwitchMode: true,
+        defaultMode: true // light mode
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -248,6 +255,9 @@
 
   <!-- 添加字数统计 -->
   <script src="./utils/countWords.js"></script>
+
+  <!-- 添加明暗模式切换 -->
+  <script src="./utils/switchLightDarkMode.js"></script>
 </body>
 
 </html>
