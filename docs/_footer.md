@@ -8,4 +8,3 @@
 -->
 
 ---
-<small>© 2023 -  李亦杨 / リエキヨウ / Jeff Li - All Rights Reserved.</small>
