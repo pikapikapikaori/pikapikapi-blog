@@ -27,7 +27,7 @@ function plugin(hook, vm) {
         var switchSpan = document.createElement('span')
 
         switchSpan.id = 'switchLightDarkModeDivBeforeArticle'
-        switchSpan.style.position = 'fixed';
+        switchSpan.style.position = 'fixed'
         switchSpan.style.right = '30px'
         switchSpan.style.top = '130px'
 

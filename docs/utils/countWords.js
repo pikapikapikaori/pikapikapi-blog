@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-30 12:57:52
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-30 13:52:57
+ * @LastEditTime: 2023-05-01 03:25:28
  * @FilePath: /pikapikapi-blog/docs/utils/countWords.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -41,21 +41,21 @@ function plugin(hook, vm) {
         }
         // Update countWords.localization strings based on options and location.href
         Object.keys(tempLocalization).forEach(key => {
-            const textValue = vm.config.countWords.localization[key];
+            const textValue = vm.config.countWords.localization[key]
 
             if (typeof textValue === 'string') {
-                tempLocalization[key] = textValue;
+                tempLocalization[key] = textValue
             }
             else if (typeof textValue === 'object') {
                 Object.keys(textValue).some(match => {
-                    const isMatch = location.href.indexOf(match) > -1;
+                    const isMatch = location.href.indexOf(match) > -1
 
-                    tempLocalization[key] = isMatch ? textValue[match] : vm.config.countWords.localization[key];
+                    tempLocalization[key] = isMatch ? textValue[match] : vm.config.countWords.localization[key]
 
-                    return isMatch;
-                });
+                    return isMatch
+                })
             }
-        });
+        })
 
         // Support localization
         let str = wordsCount + " " + tempLocalization.words
