@@ -1,2 +1,2 @@
 - **序文**
-  - [序文](/jp/writings/README)
+  - [序文](/jp/writings/)
