@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-05 02:10:31
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-30 14:01:58
+ * @LastEditTime: 2023-04-30 14:32:32
  * @FilePath: /pikapikapi-blog/blog/index.html
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -114,9 +114,18 @@
 
 
       // 自用插件
-      // 页面最底端添加footer，使得gitalk下方有空间
-      addFooterAfterGitalk: {
-        footerInnerHtml: "<div style='text-align: center;max-width: 80%;align-self: center;padding: 30px 15px 20px;margin: 0 auto'><div 1px solid #eee; style='border-top: 1px solid #eee;'><br><p><small>© 2023 -  李亦杨 / <ruby>リエキヨウ</ruby> / Jeff Li - All Rights Reserved.</small></p><div/></div>"
+      // 页面添加gitalk，并在最底端添加footer，使得gitalk下方有空间
+      gitalkWithFooter: {
+        footerInnerHtml: "<div style='text-align: center;max-width: 80%;align-self: center;padding: 30px 15px 20px;margin: 0 auto'><div 1px solid #eee; style='border-top: 1px solid #eee;'><br><p><small>© 2023 -  李亦杨 / <ruby>リエキヨウ</ruby> / Jeff Li - All Rights Reserved.</small></p><div/></div>",
+        gitalkConfig: {
+          clientID: '6a54e5946401951488d1',
+          clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
+          repo: 'pikapikapi-blog',
+          owner: 'pikapikapikaori',
+          admin: ['pikapikapikaori'],
+          // facebook-like distraction free mode
+          distractionFreeMode: false,
+        }
       },
 
       // 添加字数统计，并能够i18n国际化
@@ -204,23 +213,6 @@
   <!-- Docsify 回到顶部插件 -->
   <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
 
-  <!-- GitTalk评论 -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: '6a54e5946401951488d1',
-      clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
-      repo: 'pikapikapi-blog',
-      owner: 'pikapikapikaori',
-      admin: ['pikapikapikaori'],
-      // facebook-like distraction free mode
-      distractionFreeMode: false,
-      id: location.href.split('#')[1]
-    })
-  </script>
-
 
   <!-- Live2D模型 Cubism 4 -->
   <script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
@@ -248,8 +240,11 @@
 
 
   <!-- 自用插件 -->
-  <!-- 页面最底端添加footer -->
-  <script src="./utils/addFooterAfterGitalk.js"></script>
+  <!-- 添加gitalk与footer -->
+  <!-- GitTalk评论 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="./utils/gitalkWithFooter.js"></script>
 
   <!-- 添加字数统计 -->
   <script src="./utils/countWords.js"></script>
