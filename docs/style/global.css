@@ -5,3 +5,43 @@
     font-family: 'Menlo', sans-serif;
     color: #c6a2eb;
 }
+
+.coverPageScrollDownChevronDiv {
+    margin: 50px 0 0;
+}
+
+.coverPageScrollDownChevron {
+    position:relative;
+    animation: moveChevron 2s infinite;
+    -webkit-animation: moveChevron 2s infinite;
+}
+
+@keyframes moveChevron {
+    0%   {
+        top: 0px;
+        opacity: 0.3;
+    }
+	50%  {
+        top: 15px;
+        opacity: 1;
+    }
+	100% {
+        top: 0px;
+        opacity: 0.3;
+    }
+}
+
+@-webkit-keyframes moveChevron {
+    0%   {
+        top: 0px;
+        opacity: 0.3;
+    }
+	50%  {
+        top: 15px;
+        opacity: 1;
+    }
+	100% {
+        top: 0px;
+        opacity: 0.3;
+    }
+}
