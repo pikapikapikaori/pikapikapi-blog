@@ -2,14 +2,13 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-30 12:57:52
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-05-01 01:55:08
+ * @LastEditTime: 2023-05-01 14:14:00
  * @FilePath: /pikapikapi-blog/docs/utils/countWords.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 //default values
 var switchLightDarkModeOptions = {
     useSwitchMode: true,
-    defaultMode: true // light mode
 }
 
 // Docsify plugin functions
@@ -18,7 +17,7 @@ function plugin(hook, vm) {
         return
     }
 
-    let currentThemeMode = switchLightDarkModeOptions.defaultMode
+    let currentThemeMode = true
 
     hook.mounted(function () {
         let lightTheme = Docsify.dom.findAll('[href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"]')[0]
