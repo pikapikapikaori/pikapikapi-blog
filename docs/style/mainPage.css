@@ -1,0 +1,35 @@
+.mainPageRightPanelContainer {
+    border: 1px solid rgba(198,162,235,.17);
+    border-radius: 10px;
+    margin: 0 auto 20px;
+    max-width: 400px;
+    text-align: center;
+}
+
+.mainPageAboutMeAvatar {
+    max-width: 100px;
+    margin-top: 20px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.mainPageAboutMeTitle {
+    margin: 10px 0 5px !important;
+}
+
+.mainPageAboutMeDescription {
+    margin: 0 0 10px !important;
+}
+
+.mainPageAboutMeLinks {
+    margin: 0 0 10px !important;
+}
+
+.mainPageAboutMeLinks > a {
+    margin: 0 5px 0;
+    text-decoration: none;
+}
+
+.mainPageAboutMeImageLinks {
+    margin: 10px 0 0 !important;
+}
