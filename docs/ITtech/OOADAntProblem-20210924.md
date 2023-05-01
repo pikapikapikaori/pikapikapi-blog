@@ -2,7 +2,7 @@
  * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
  * @Date: 2023-04-28 22:07:11
  * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-04-29 00:09:17
+ * @LastEditTime: 2023-05-01 17:53:59
  * @FilePath: /pikapikapi-blog/docs/ITtech/OOADAntProblem-20210924.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -80,51 +80,15 @@ public:
 
 初步思想如下：
 
-将结构体数组中按用于存放方向的数组展开，组合成$2^n$行，$n$列的矩阵：
+将结构体数组中按用于存放方向的数组展开，组合成$2^n$行，$n$列的矩阵，其中第$i$行$j$列的项为`stGameData[i].antDirection[j]`。
 
-<table>
-    <tr>
-        <td><code>stGameData[0].antDirection[0]</code></td>
-        <td><code>stGameData[0].antDirection[1]</code></td>
-        <td><code>stGameData[0].antDirection[2]</code></td>
-        <td>···</td>
-        <td><code>stGameData[0].antDirection[n-1]</code></td>
-    </tr>
-    <tr>
-        <td><code>stGameData[1].antDirection[0]</code></td>
-        <td><code>stGameData[1].antDirection[1]</code></td>
-        <td><code>stGameData[1].antDirection[2]</code></td>
-        <td>···</td>
-        <td><code>stGameData[1].antDirection[n-1]</code></td>
-    </tr>
-    <tr>
-        <td>···</td>
-        <td>···</td>
-        <td>···</td>
-        <td>···</td>
-        <td>···</td>
-    </tr>
-    <tr>
-        <td><code>stGameData[pow(2,n)-2].antDirection[0]</code></td>
-        <td><code>stGameData[pow(2,n)-2].antDirection[1]</code></td>
-        <td><code>stGameData[pow(2,n)-2].antDirection[2]</code></td>
-        <td>···</td>
-        <td><code>stGameData[pow(2,n)-2].antDirection[n-1]</code></td>
-    </tr>
-    <tr>
-        <td><code>stGameData[pow(2,n)-1].antDirection[0]</code></td>
-        <td><code>stGameData[pow(2,n)-1].antDirection[1]</code></td>
-        <td><code>stGameData[pow(2,n)-1].antDirection[2]</code></td>
-        <td>···</td>
-        <td><code>stGameData[pow(2,n)-1].antDirection[n-1]</code></td>
-    </tr>
-</table>
+第一列自上而下依次赋值$0, 1, 0, 1, 0, 1, ···$。
 
-第一列自上而下依次赋值$0, 1, 0, 1, 0, 1, ···$
+第二列自上而下依次赋值$0, 0, 1, 1, 0, 0, 1, 1, ···$。
 
-第二列自上而下依次赋值$0, 0, 1, 1, 0, 0, 1, 1, ···$
+第三列自上而下依次赋值$0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, ···$。
 
-第三列自上而下依次赋值$0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, ···$
+即`stGameData[i].antDirection[j] = (i >> j) % 2`。
 
 因而如下构造生产函数：
 
