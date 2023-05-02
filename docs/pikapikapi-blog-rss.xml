@@ -6,6 +6,81 @@
   <description>Pikapikapi Blog</description>
    
   <item>
+    <title><![CDATA[logo](../_media/kaori-logo.JPG ':size=20% :class=ignoreViewFullImageImg')]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_coverpage</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_coverpage</guid>
+    <description><![CDATA[<figure>
+<img src="../_media/kaori-logo.JPG" title=":size=20% :class=ignoreViewFullImageImg" alt="" /><figcaption>logo</figcaption>
+</figure>
+<h1 id="リエキヨウ-李亦杨-jeff-li">リエキヨウ <small>李亦杨 / Jeff Li</small></h1>
+<blockquote>
+
+</blockquote>
+<div class="coverPageDescriptionDiv">
+<pre><code>&lt;h2 class=&quot;coverPageDescriptionTypewriter&quot;&gt;Don&#39;t worry, be happy.&lt;/h2&gt;</code></pre>
+</div>
+<div class="coverPageScrollDownChevronDiv">
+<pre><code>&lt;a href=&quot;#/jp/#main&quot; class=&quot;coverPageScrollDownChevron&quot;&gt;
+    &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;20&quot; height=&quot;20&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-chevron-down&quot; viewBox=&quot;0 0 16 16&quot;&gt; 
+        &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z&quot;/&gt; 
+    &lt;/svg&gt; 
+&lt;/a&gt;</code></pre>
+</div>
+<p><img src="_media/cover-background.jpeg" /></p>]]></description>
+    <pubDate>Wed, 3 May 2023 05:14:50 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[logo](../_media/kaori-logo.JPG ':size=20% :class=ignoreViewFullImageImg')]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/_coverpage</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/_coverpage</guid>
+    <description><![CDATA[<figure>
+<img src="../_media/kaori-logo.JPG" title=":size=20% :class=ignoreViewFullImageImg" alt="" /><figcaption>logo</figcaption>
+</figure>
+<h1 id="jeff-li-李亦杨-リエキヨウ">Jeff Li <small>李亦杨 / リエキヨウ</small></h1>
+<blockquote>
+
+</blockquote>
+<div class="coverPageDescriptionDiv">
+<pre><code>&lt;h2 class=&quot;coverPageDescriptionTypewriter&quot;&gt;Don&#39;t worry, be happy.&lt;/h2&gt;</code></pre>
+</div>
+<div class="coverPageScrollDownChevronDiv">
+<pre><code>&lt;a href=&quot;#/en-us/#main&quot; class=&quot;coverPageScrollDownChevron&quot;&gt;
+    &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;20&quot; height=&quot;20&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-chevron-down&quot; viewBox=&quot;0 0 16 16&quot;&gt; 
+        &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z&quot;/&gt; 
+    &lt;/svg&gt; 
+&lt;/a&gt;</code></pre>
+</div>
+<p><img src="_media/cover-background.jpeg" /></p>]]></description>
+    <pubDate>Wed, 3 May 2023 05:14:50 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[logo](_media/kaori-logo.JPG ':size=20% :class=ignoreViewFullImageImg')]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/_coverpage</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/_coverpage</guid>
+    <description><![CDATA[<figure>
+<img src="_media/kaori-logo.JPG" title=":size=20% :class=ignoreViewFullImageImg" alt="" /><figcaption>logo</figcaption>
+</figure>
+<h1 id="李亦杨-リエキヨウ-jeff-li">李亦杨 <small>リエキヨウ / Jeff Li</small></h1>
+<blockquote>
+
+</blockquote>
+<div class="coverPageDescriptionDiv">
+<pre><code>&lt;h2 class=&quot;coverPageDescriptionTypewriter&quot;&gt;Don&#39;t worry, be happy.&lt;/h2&gt;</code></pre>
+</div>
+<div class="coverPageScrollDownChevronDiv">
+<pre><code>&lt;a href=&quot;#?id=main&quot; class=&quot;coverPageScrollDownChevron&quot;&gt;
+    &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;20&quot; height=&quot;20&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-chevron-down&quot; viewBox=&quot;0 0 16 16&quot;&gt; 
+        &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z&quot;/&gt; 
+    &lt;/svg&gt; 
+&lt;/a&gt;</code></pre>
+</div>
+<p><img src="_media/cover-background.jpeg" /></p>]]></description>
+    <pubDate>Wed, 3 May 2023 05:14:50 +0800</pubDate>
+  </item>
+   
+  <item>
     <title><![CDATA[私について]]></title>
     <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/README</link>
     <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/README</guid>
@@ -274,60 +349,6 @@ To thy high requiem become a sod.</p>
 <li><a href="/jp/ITtech/">IT技術につして</a></li>
 <li><a href="/jp/writings/">随想</a></li>
 <li>言語
-<ul>
-<li><a href="/">:cn: 简体中文</a></li>
-<li><a href="/jp/">:jp: 日本語</a></li>
-<li><a href="/en-us/">:us: English (US)</a></li>
-</ul></li>
-</ul>]]></description>
-    <pubDate>Tue, 2 May 2023 23:19:08 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[iv class="pagesSideBarLevel1TitleDiv">]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/writings/_sidebar</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/writings/_sidebar</guid>
-    <description><![CDATA[<div class="pagesSideBarLevel1TitleDiv">
-<p>Preface</p>
-</div>
-<ul>
-<li><ul>
-<li><a href="/en-us/writings/">Beginning</a></li>
-</ul></li>
-</ul>
-<div class="pagesSideBarLevel1TitleDiv">
-<p>Writings</p>
-</div>
-<ul>
-<li><ul>
-<li><a href="/en-us/writings/PrivateEcard-20220517">Birthday E-card for GF</a></li>
-</ul></li>
-</ul>]]></description>
-    <pubDate>Tue, 2 May 2023 23:19:08 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[Birthday E-card for GF]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/writings/PrivateEcard-20220517</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/writings/PrivateEcard-20220517</guid>
-    <description><![CDATA[<h1 id="birthday-e-card-for-gf">Birthday E-card for GF</h1>
-<blockquote>
-<p>This page is first published on my <a href="https://github.com/pikapikapikaori">Github</a>, the repository of which has now been migrated to that of <a href="https://github.com/pikapikapikaori/pikapikapi-blog">this blog</a><br />
-Publish date: 2022.5.17</p>
-</blockquote>
-<p><a href="./_media/PrivateEcard-20220517/index.html" title=":include height=1000px">website</a></p>]]></description>
-    <pubDate>Tue, 2 May 2023 23:19:08 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[[Home Page](/en-us/)]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/_navbar</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/_navbar</guid>
-    <description><![CDATA[<ul>
-<li><a href="/en-us/">Home Page</a></li>
-<li><a href="/en-us/ITtech/">IT Related</a></li>
-<li><a href="/en-us/writings/">Writings</a></li>
-<li>Language
 <ul>
 <li><a href="/">:cn: 简体中文</a></li>
 <li><a href="/jp/">:jp: 日本語</a></li>
