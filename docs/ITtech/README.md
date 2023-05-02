@@ -18,7 +18,7 @@
 <div class="mainPageRightPanelContainer">
     <h4 class="mainPageAboutMeTitle">语言使用情况</h4>
     <div class="mainPageAboutMeImageLinks">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&locale=cn&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&locale=cn&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
     </div>
 </div>
 
