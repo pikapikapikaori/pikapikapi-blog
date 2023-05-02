@@ -1,16 +1,64 @@
-#viewFullImageSpan {
+#viewFullImageLeftButtonSpan {
     display: none;
     position: fixed;
     z-index: 9999;
     top: 0;
     left: 0;
-    width: 100vw;
+    width: 10vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+.viewFullImageButtonSpanInnerUpperLowerDiv {
+    height: 48vh;
+}
+
+#viewFullImageLeftButtonSpanInnerDiv {
+    height: 4vh;
+}
+
+#viewFullImageLeftButtonSVG {
+    height: 4vh;
+    width: 3vw;
+    margin-left: 3vw;
+    margin-top: calc((4vh - 20px)/2)
+}
+
+#viewFullImageRightButtonSpan {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 90vw;
+    width: 10vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+#viewFullImageRightButtonSpanInnerDiv {
+    height: 4vh;
+}
+
+#viewFullImageRightButtonSVG {
+    height: 4vh;
+    width: 3vw;
+    margin-left: calc(7vw - 20px);
+    margin-top: calc((4vh - 20px)/2)
+}
+
+#viewFullImageSpan {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 10vw;
+    width: 80vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, .7);
 }
 
 #viewFullImageSpanInnerUpperDiv {
-    width: 100vw;
+    width: 80vw;
     height: 10vh;
 }
 
@@ -18,6 +66,6 @@
     background-size: contain;
     background-repeat: no-repeat no-repeat;
     background-position: center center;
-    width: 100vw;
+    width: 80vw;
     height: 80vh;
 }
