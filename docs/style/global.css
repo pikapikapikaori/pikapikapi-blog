@@ -45,3 +45,42 @@
         opacity: 0.3;
     }
 }
+
+.coverPageDescriptionDiv {
+    align-self: center;
+    max-width: 400px;
+    margin: 0 auto 0 !important;
+}
+
+.coverPageDescriptionTypewriter {
+    width: 360px;
+    margin: 0 auto 0;
+    position: relative;
+    font-family: "Anonymous Pro", monospace;
+    letter-spacing: 2px;
+    overflow: hidden;
+    border-right: 2px solid;
+    white-space: nowrap;
+    animation: typewriter 5s steps(22) 1s 1 normal both,
+        blinkTextCursor 500ms infinite;
+}
+
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 350px;
+    }
+}
+
+@keyframes blinkTextCursor {
+    from {
+        border-right-color: hsl(0, 0%, 80%);
+    }
+
+    to {
+        border-right-color: transparent;
+    }
+}
