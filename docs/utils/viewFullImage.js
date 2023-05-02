@@ -18,17 +18,20 @@ function plugin(hook, vm) {
             this.style.display = 'none'
         }
 
+        viewFullImageSpan.innerHTML='<div id="viewFullImageSpanInnerUpperDiv"></div><div id="viewFullImageSpanInnerDiv"></div>'
+
         document.body.appendChild (viewFullImageSpan)
     })
 
     hook.doneEach(function () {
         Array.from(document.getElementsByTagName('img')).forEach(img => {
             let viewFullImageSpan = document.getElementById('viewFullImageSpan')
+            let viewFullImageSpanInnerDiv = document.getElementById('viewFullImageSpanInnerDiv')
             if(img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1) {
                 return
             }
             img.addEventListener('click', function () {
-                viewFullImageSpan.style.backgroundImage = 'url(' + img.src + ')';
+                viewFullImageSpanInnerDiv.style.backgroundImage = 'url(' + img.src + ')';
                 viewFullImageSpan.style.display = 'block';
             });
         })
