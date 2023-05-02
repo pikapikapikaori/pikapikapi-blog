@@ -6,6 +6,225 @@
   <description>Pikapikapi Blog</description>
    
   <item>
+    <title><![CDATA[Z 高达 Wave-Shooter 形态设定考]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</guid>
+    <description><![CDATA[<h1 id="z-高达-wave-shooter-形态设定考">Z 高达 Wave-Shooter 形态设定考</h1>
+<figure>
+<img src="_media/ZGundam-20220417/cover-picture.jpg" alt="" /><figcaption>Cover</figcaption>
+</figure>
+<blockquote>
+<p>本文首发于个人博客<br />
+发表日期：2022.4.17</p>
+</blockquote>
+<h2 id="tv-版原设">TV 版原设</h2>
+<p>根据《MASTER ARCHIVE MOBILESUIT MSZ-006 Z GUNDAM》中设定，自「Z」至「ZZ」也即0087至0088年间进行过多次机体的检修。</p>
+<figure>
+<img src="_media/ZGundam-20220417/picture-9.jpg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-10.jpg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<p>不难发现在0087年11月至0087年12月间实质上所采取的装备即是 Wave-Shooter 形态的装备。此时正值奥古与卡拉巴联手袭击乞立马扎罗基地。</p>
+<h2 id="wave-shooter-形态">Wave-Shooter 形态</h2>
+<figure>
+<img src="_media/ZGundam-20220417/picture-8.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<p>设定是0087年11月换装为了可变后退翼与对应的盾牌，也就是FXA-01K型装备（虽然12月又换回去了，值得一提的是mr魂z的后裙甲喷口比较类似于12月及之后的版本，但也不是完全相同），原本似乎是90年为了模型大河原参考zp设计的（不确定，未找到确切来源），后来在北川的漫画z define中泷川基于此设计了漫画版z。</p>
+<p>漫画版z事实上进行了大幅度的更改：驾驶舱与前裙甲中间变为了想当圆润的造型，而后者更是在变形后成为了ws形态的机头部分；胸部造型小改；盾牌分离机构使得ws形态下的枪被放置在机身下侧；腿部的变形方式似乎也有改变，使得腿部变形后不再像其他z一样比机身高出一层；可变后退翼的变化；甚至原本放置榴弹仓之处的末端增加了一处可伸缩的的机械臂（虽然我不记得漫画里用过）；另外局部配色也有修改。个人来看其实define版z的ws形态一体型更加好。</p>
+<h3 id="漫画设定图">漫画设定图</h3>
+<figure>
+<img src="_media/ZGundam-20220417/picture-1.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-2.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-3.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-4.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-5.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-6.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-7.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>]]></description>
+    <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[私について]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/README</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/README</guid>
+    <description><![CDATA[<h1 id="私について">私について</h1>
+<!-- panels:start -->
+<!-- div:left-panel -->
+<blockquote>
+<p>ひるもなほ<br />
+星みるひとの<br />
+目にも似る<br />
+さびしきつかれ<br />
+早春のたび</p>
+</blockquote>
+<p>私のブログへようこそ。フルスタックエンジニアを目指して勉強中です。</p>
+<!-- div:right-panel -->
+<div class="mainPageRightPanelContainer">
+<pre><code>&lt;img src=&quot;./_media/kaori-logo.JPG&quot; class=&quot;mainPageAboutMeAvatar&quot; /&gt;
+&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;リエキヨウ&lt;/h4&gt;
+&lt;p class=&quot;mainPageAboutMeDescription&quot;&gt;李亦杨 / Jeff Li&lt;/p&gt;
+&lt;div class=&quot;mainPageAboutMeLinks&quot;&gt;
+    &lt;a href=&quot;https://github.com/pikapikapikaori/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M16 22.027v-2.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7a5.44 5.44 0 00-1.5-3.75 5.07 5.07 0 00-.09-3.77s-1.18-.35-3.91 1.48a13.38 13.38 0 00-7 0c-2.73-1.83-3.91-1.48-3.91-1.48A5.07 5.07 0 005 5.797a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7a3.37 3.37 0 00-.94 2.58v2.87M9 20.027c-3 .973-5.5 0-7-3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;mailto:Lyy8759@outlook.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M7 9l5 3.5L17 9&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+            &lt;path d=&quot;M2 17V7a2 2 0 012-2h16a2 2 0 012 2v10a2 2 0 01-2 2H4a2 2 0 01-2-2z&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M12 19c0-4.2-2.8-7-7-7M19 19c0-8.4-5.6-14-14-14M5 19.01l.01-.011&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="mainPageRightPanelContainer">
+<pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;サイト情報&lt;/h4&gt;
+&lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;
+    &lt;a href=&quot;https://github.com/pikapikapikaori/pikapikapi-blog&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;img src=&quot;https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&amp;repo=pikapikapi-blog&amp;show_owner=true&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode&quot;&gt;
+    &lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<!-- panels:end -->]]></description>
+    <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[About Me]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/README</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/README</guid>
+    <description><![CDATA[<h1 id="about-me">About Me</h1>
+<!-- panels:start -->
+<!-- div:left-panel -->
+<blockquote>
+<p>Darkling I listen; and for many a time<br />
+I have been half in love with easeful Death,<br />
+Called him soft names in many a mused rhyme,<br />
+To take into the air my quiet breath;<br />
+Now more than ever seems it rich to die,<br />
+To cease upon the midnight with no pain,<br />
+While thou art pouring forth thy soul abroad<br />
+In such an ecstasy!<br />
+Still wouldst thou sing, and I have ears in vain –<br />
+To thy high requiem become a sod.</p>
+</blockquote>
+<p>Welcome to my blog. I am currently studying to become a good full-stack engineer.</p>
+<!-- div:right-panel -->
+<div class="mainPageRightPanelContainer">
+<pre><code>&lt;img src=&quot;./_media/kaori-logo.JPG&quot; class=&quot;mainPageAboutMeAvatar&quot; /&gt;
+&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;Jeff Li&lt;/h4&gt;
+&lt;p class=&quot;mainPageAboutMeDescription&quot;&gt;李亦杨 / リエキヨウ&lt;/p&gt;
+&lt;div class=&quot;mainPageAboutMeLinks&quot;&gt;
+    &lt;a href=&quot;https://github.com/pikapikapikaori/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M16 22.027v-2.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7a5.44 5.44 0 00-1.5-3.75 5.07 5.07 0 00-.09-3.77s-1.18-.35-3.91 1.48a13.38 13.38 0 00-7 0c-2.73-1.83-3.91-1.48-3.91-1.48A5.07 5.07 0 005 5.797a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7a3.37 3.37 0 00-.94 2.58v2.87M9 20.027c-3 .973-5.5 0-7-3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;mailto:Lyy8759@outlook.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M7 9l5 3.5L17 9&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+            &lt;path d=&quot;M2 17V7a2 2 0 012-2h16a2 2 0 012 2v10a2 2 0 01-2 2H4a2 2 0 01-2-2z&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M12 19c0-4.2-2.8-7-7-7M19 19c0-8.4-5.6-14-14-14M5 19.01l.01-.011&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="mainPageRightPanelContainer">
+<pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;About This Site&lt;/h4&gt;
+&lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;
+    &lt;a href=&quot;https://github.com/pikapikapikaori/pikapikapi-blog&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;img src=&quot;https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&amp;repo=pikapikapi-blog&amp;show_owner=true&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode&quot;&gt;
+    &lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<!-- panels:end -->]]></description>
+    <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[关于我]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/README</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/README</guid>
+    <description><![CDATA[<h1 id="关于我">关于我</h1>
+<!-- panels:start -->
+<!-- div:left-panel -->
+<blockquote>
+<p>式微，式微，胡不归？微君之故，胡为乎中露？<br />
+式微，式微，胡不归？微君之躬，胡为乎泥中？</p>
+</blockquote>
+<p>欢迎访问我的博客。我目前大体上以全栈工程师为目标学习中。</p>
+<!-- div:right-panel -->
+<div class="mainPageRightPanelContainer">
+<pre><code>&lt;img src=&quot;./_media/kaori-logo.JPG&quot; class=&quot;mainPageAboutMeAvatar&quot; /&gt;
+&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;李亦杨&lt;/h4&gt;
+&lt;p class=&quot;mainPageAboutMeDescription&quot;&gt;リエキヨウ / Jeff Li&lt;/p&gt;
+&lt;div class=&quot;mainPageAboutMeLinks&quot;&gt;
+    &lt;a href=&quot;https://github.com/pikapikapikaori/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M16 22.027v-2.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7a5.44 5.44 0 00-1.5-3.75 5.07 5.07 0 00-.09-3.77s-1.18-.35-3.91 1.48a13.38 13.38 0 00-7 0c-2.73-1.83-3.91-1.48-3.91-1.48A5.07 5.07 0 005 5.797a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7a3.37 3.37 0 00-.94 2.58v2.87M9 20.027c-3 .973-5.5 0-7-3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;mailto:Lyy8759@outlook.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M7 9l5 3.5L17 9&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+            &lt;path d=&quot;M2 17V7a2 2 0 012-2h16a2 2 0 012 2v10a2 2 0 01-2 2H4a2 2 0 01-2-2z&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+        &lt;svg width=&quot;20px&quot; height=&quot;20px&quot; stroke-width=&quot;1.5&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; color=&quot;#000000&quot;&gt;
+            &lt;path d=&quot;M12 19c0-4.2-2.8-7-7-7M19 19c0-8.4-5.6-14-14-14M5 19.01l.01-.011&quot; stroke=&quot;#000000&quot; stroke-width=&quot;1.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="mainPageRightPanelContainer">
+<pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;本站信息&lt;/h4&gt;
+&lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;
+    &lt;a href=&quot;https://github.com/pikapikapikaori/pikapikapi-blog&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;img src=&quot;https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&amp;repo=pikapikapi-blog&amp;show_owner=true&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode&quot;&gt;
+    &lt;/a&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<!-- panels:end -->]]></description>
+    <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
+  </item>
+   
+  <item>
     <title><![CDATA[iv class="pagesSideBarLevel1TitleDiv">]]></title>
     <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/_sidebar</link>
     <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/_sidebar</guid>
@@ -28,58 +247,6 @@
 <li><a href="/writings/Shigatsunouso-20180401">四月赏曲——浅谈「四月是你的谎言」音乐选择</a></li>
 </ul></li>
 </ul>]]></description>
-    <pubDate>Tue, 2 May 2023 18:46:34 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[Z 高达 Wave-Shooter 形态设定考]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</guid>
-    <description><![CDATA[<h1 id="z-高达-wave-shooter-形态设定考">Z 高达 Wave-Shooter 形态设定考</h1>
-<figure>
-<img src="_media/ZGundam-20220417/cover-picture.jpg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<blockquote>
-<p>本文首发于个人博客<br />
-发表日期：2022.4.17</p>
-</blockquote>
-<h2 id="tv-版原设">TV 版原设</h2>
-<p>根据《MASTER ARCHIVE MOBILESUIT MSZ-006 Z GUNDAM》中设定，自「Z」至「ZZ」也即0087至0088年间进行过多次机体的检修。</p>
-<figure>
-<img src="_media/ZGundam-20220417/picture-9.jpg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-10.jpg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<p>不难发现在0087年11月至0087年12月间实质上所采取的装备即是 Wave-Shooter 形态的装备。此时正值奥古与卡拉巴联手袭击乞立马扎罗基地。</p>
-<h2 id="wave-shooter-形态">Wave-Shooter 形态</h2>
-<figure>
-<img src="_media/ZGundam-20220417/picture-8.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<p>设定是0087年11月换装为了可变后退翼与对应的盾牌，也就是FXA-01K型装备（虽然12月又换回去了，值得一提的是mr魂z的后裙甲喷口比较类似于12月及之后的版本，但也不是完全相同），原本似乎是90年为了模型大河原参考zp设计的（不确定，未找到确切来源），后来在北川的漫画z define中泷川基于此设计了漫画版z。</p>
-<p>漫画版z事实上进行了大幅度的更改：驾驶舱与前裙甲中间变为了想当圆润的造型，而后者更是在变形后成为了ws形态的机头部分；胸部造型小改；盾牌分离机构使得ws形态下的枪被放置在机身下侧；腿部的变形方式似乎也有改变，使得腿部变形后不再像其他z一样比机身高出一层；可变后退翼的变化；甚至原本放置榴弹仓之处的末端增加了一处可伸缩的的机械臂（虽然我不记得漫画里用过）；另外局部配色也有修改。个人来看其实define版z的ws形态一体型更加好。</p>
-<h3 id="漫画设定图">漫画设定图</h3>
-<figure>
-<img src="_media/ZGundam-20220417/picture-1.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-2.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-3.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-4.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-5.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-6.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-7.jpeg" alt="" /><figcaption>Cover</figcaption>
-</figure>]]></description>
     <pubDate>Tue, 2 May 2023 18:46:34 +0800</pubDate>
   </item>
    
@@ -362,43 +529,6 @@ Like a diamond in the sky</p>
 <ul>
 <li><ul>
 <li><a href="/jp/writings/">序文</a></li>
-</ul></li>
-</ul>]]></description>
-    <pubDate>Tue, 2 May 2023 18:46:34 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[序文]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/writings/README</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/writings/README</guid>
-    <description><![CDATA[<h1 id="序文">序文</h1>
-<p>ここに私の随想があります。</p>]]></description>
-    <pubDate>Tue, 2 May 2023 18:46:34 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[[私について](/jp/README)]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_sidebar</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_sidebar</guid>
-    <description><![CDATA[<ul>
-<li><a href="/jp/README">私について</a></li>
-</ul>]]></description>
-    <pubDate>Tue, 2 May 2023 18:46:34 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[[ホームページ](/jp/)]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_navbar</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_navbar</guid>
-    <description><![CDATA[<ul>
-<li><a href="/jp/">ホームページ</a></li>
-<li><a href="/jp/ITtech/">IT技術につして</a></li>
-<li><a href="/jp/writings/">随想</a></li>
-<li>言語
-<ul>
-<li><a href="/">:cn: 简体中文</a></li>
-<li><a href="/jp/">:jp: 日本語</a></li>
-<li><a href="/en-us/">:uk: English (US)</a></li>
 </ul></li>
 </ul>]]></description>
     <pubDate>Tue, 2 May 2023 18:46:34 +0800</pubDate>
