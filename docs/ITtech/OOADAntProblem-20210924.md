@@ -1,11 +1,3 @@
-<!--
- * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
- * @Date: 2023-04-28 22:07:11
- * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-05-01 17:53:59
- * @FilePath: /pikapikapi-blog/docs/ITtech/OOADAntProblem-20210924.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # 生成n位全部二进制数，数组形式：蚂蚁爬杆问题
 
 > 本文首发于[CSDN](https://blog.csdn.net/weixin_42553007/article/details/120447886?spm=1001.2014.3001.5502) \
