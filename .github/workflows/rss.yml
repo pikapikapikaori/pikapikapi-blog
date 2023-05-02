@@ -20,7 +20,7 @@ jobs:
       - name: Build RSS
         run: |
           cd docs/
-          ./rss.sh
+          ./rss/rss.sh
 
       - name: Commit Updated
         uses: stefanzweifel/git-auto-commit-action@v4
