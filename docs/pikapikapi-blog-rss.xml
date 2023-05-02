@@ -6,58 +6,6 @@
   <description>Pikapikapi Blog</description>
    
   <item>
-    <title><![CDATA[Z 高达 Wave-Shooter 形态设定考]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</guid>
-    <description><![CDATA[<h1 id="z-高达-wave-shooter-形态设定考">Z 高达 Wave-Shooter 形态设定考</h1>
-<figure>
-<img src="_media/ZGundam-20220417/cover-picture.jpg" alt="" /><figcaption>Cover</figcaption>
-</figure>
-<blockquote>
-<p>本文首发于个人博客<br />
-发表日期：2022.4.17</p>
-</blockquote>
-<h2 id="tv-版原设">TV 版原设</h2>
-<p>根据《MASTER ARCHIVE MOBILESUIT MSZ-006 Z GUNDAM》中设定，自「Z」至「ZZ」也即0087至0088年间进行过多次机体的检修。</p>
-<figure>
-<img src="_media/ZGundam-20220417/picture-9.jpg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-10.jpg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<p>不难发现在0087年11月至0087年12月间实质上所采取的装备即是 Wave-Shooter 形态的装备。此时正值奥古与卡拉巴联手袭击乞立马扎罗基地。</p>
-<h2 id="wave-shooter-形态">Wave-Shooter 形态</h2>
-<figure>
-<img src="_media/ZGundam-20220417/picture-8.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<p>设定是0087年11月换装为了可变后退翼与对应的盾牌，也就是FXA-01K型装备（虽然12月又换回去了，值得一提的是mr魂z的后裙甲喷口比较类似于12月及之后的版本，但也不是完全相同），原本似乎是90年为了模型大河原参考zp设计的（不确定，未找到确切来源），后来在北川的漫画z define中泷川基于此设计了漫画版z。</p>
-<p>漫画版z事实上进行了大幅度的更改：驾驶舱与前裙甲中间变为了想当圆润的造型，而后者更是在变形后成为了ws形态的机头部分；胸部造型小改；盾牌分离机构使得ws形态下的枪被放置在机身下侧；腿部的变形方式似乎也有改变，使得腿部变形后不再像其他z一样比机身高出一层；可变后退翼的变化；甚至原本放置榴弹仓之处的末端增加了一处可伸缩的的机械臂（虽然我不记得漫画里用过）；另外局部配色也有修改。个人来看其实define版z的ws形态一体型更加好。</p>
-<h3 id="漫画设定图">漫画设定图</h3>
-<figure>
-<img src="_media/ZGundam-20220417/picture-1.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-2.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-3.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-4.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-5.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-6.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>
-<figure>
-<img src="_media/ZGundam-20220417/picture-7.jpeg" alt="" /><figcaption>Picture</figcaption>
-</figure>]]></description>
-    <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
-  </item>
-   
-  <item>
     <title><![CDATA[私について]]></title>
     <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/README</link>
     <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/README</guid>
@@ -102,6 +50,11 @@
 </div>
 <div class="mainPageRightPanelContainer">
 <pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;サイト情報&lt;/h4&gt;
+&lt;p class=&quot;mainPageAboutMeBadges&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/license/pikapikapikaori/pikapikapi-blog&quot; alt=&quot;license&quot; height=&quot;17px&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build&quot; alt=&quot;rss build&quot; height=&quot;17px&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/last-commit/pikapikapikaori/pikapikapi-blog?label=last%20updated&quot; alt=&quot;last updated&quot; height=&quot;17px&quot;&gt;
+&lt;/p&gt;
 &lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;
     &lt;a href=&quot;https://github.com/pikapikapikaori/pikapikapi-blog&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
         &lt;img src=&quot;https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&amp;repo=pikapikapi-blog&amp;show_owner=true&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode&quot;&gt;
@@ -109,7 +62,7 @@
 &lt;/div&gt;</code></pre>
 </div>
 <!-- panels:end -->]]></description>
-    <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
+    <pubDate>Tue, 2 May 2023 21:04:07 +0800</pubDate>
   </item>
    
   <item>
@@ -162,6 +115,11 @@ To thy high requiem become a sod.</p>
 </div>
 <div class="mainPageRightPanelContainer">
 <pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;About This Site&lt;/h4&gt;
+&lt;p class=&quot;mainPageAboutMeBadges&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/license/pikapikapikaori/pikapikapi-blog&quot; alt=&quot;license&quot; height=&quot;17px&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build&quot; alt=&quot;rss build&quot; height=&quot;17px&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/last-commit/pikapikapikaori/pikapikapi-blog?label=last%20updated&quot; alt=&quot;last updated&quot; height=&quot;17px&quot;&gt;
+&lt;/p&gt;
 &lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;
     &lt;a href=&quot;https://github.com/pikapikapikaori/pikapikapi-blog&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
         &lt;img src=&quot;https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&amp;repo=pikapikapi-blog&amp;show_owner=true&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode&quot;&gt;
@@ -169,7 +127,7 @@ To thy high requiem become a sod.</p>
 &lt;/div&gt;</code></pre>
 </div>
 <!-- panels:end -->]]></description>
-    <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
+    <pubDate>Tue, 2 May 2023 21:04:07 +0800</pubDate>
   </item>
    
   <item>
@@ -214,6 +172,11 @@ To thy high requiem become a sod.</p>
 </div>
 <div class="mainPageRightPanelContainer">
 <pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;本站信息&lt;/h4&gt;
+&lt;p class=&quot;mainPageAboutMeBadges&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/license/pikapikapikaori/pikapikapi-blog&quot; alt=&quot;license&quot; height=&quot;17px&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build&quot; alt=&quot;rss build&quot; height=&quot;17px&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/github/last-commit/pikapikapikaori/pikapikapi-blog?label=last%20updated&quot; alt=&quot;last updated&quot; height=&quot;17px&quot;&gt;
+&lt;/p&gt;
 &lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;
     &lt;a href=&quot;https://github.com/pikapikapikaori/pikapikapi-blog&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
         &lt;img src=&quot;https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&amp;repo=pikapikapi-blog&amp;show_owner=true&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode&quot;&gt;
@@ -221,6 +184,58 @@ To thy high requiem become a sod.</p>
 &lt;/div&gt;</code></pre>
 </div>
 <!-- panels:end -->]]></description>
+    <pubDate>Tue, 2 May 2023 21:04:07 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[Z 高达 Wave-Shooter 形态设定考]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/writings/ZGundam-20220417</guid>
+    <description><![CDATA[<h1 id="z-高达-wave-shooter-形态设定考">Z 高达 Wave-Shooter 形态设定考</h1>
+<figure>
+<img src="_media/ZGundam-20220417/cover-picture.jpg" alt="" /><figcaption>Cover</figcaption>
+</figure>
+<blockquote>
+<p>本文首发于个人博客<br />
+发表日期：2022.4.17</p>
+</blockquote>
+<h2 id="tv-版原设">TV 版原设</h2>
+<p>根据《MASTER ARCHIVE MOBILESUIT MSZ-006 Z GUNDAM》中设定，自「Z」至「ZZ」也即0087至0088年间进行过多次机体的检修。</p>
+<figure>
+<img src="_media/ZGundam-20220417/picture-9.jpg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-10.jpg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<p>不难发现在0087年11月至0087年12月间实质上所采取的装备即是 Wave-Shooter 形态的装备。此时正值奥古与卡拉巴联手袭击乞立马扎罗基地。</p>
+<h2 id="wave-shooter-形态">Wave-Shooter 形态</h2>
+<figure>
+<img src="_media/ZGundam-20220417/picture-8.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<p>设定是0087年11月换装为了可变后退翼与对应的盾牌，也就是FXA-01K型装备（虽然12月又换回去了，值得一提的是mr魂z的后裙甲喷口比较类似于12月及之后的版本，但也不是完全相同），原本似乎是90年为了模型大河原参考zp设计的（不确定，未找到确切来源），后来在北川的漫画z define中泷川基于此设计了漫画版z。</p>
+<p>漫画版z事实上进行了大幅度的更改：驾驶舱与前裙甲中间变为了想当圆润的造型，而后者更是在变形后成为了ws形态的机头部分；胸部造型小改；盾牌分离机构使得ws形态下的枪被放置在机身下侧；腿部的变形方式似乎也有改变，使得腿部变形后不再像其他z一样比机身高出一层；可变后退翼的变化；甚至原本放置榴弹仓之处的末端增加了一处可伸缩的的机械臂（虽然我不记得漫画里用过）；另外局部配色也有修改。个人来看其实define版z的ws形态一体型更加好。</p>
+<h3 id="漫画设定图">漫画设定图</h3>
+<figure>
+<img src="_media/ZGundam-20220417/picture-1.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-2.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-3.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-4.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-5.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-6.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>
+<figure>
+<img src="_media/ZGundam-20220417/picture-7.jpeg" alt="" /><figcaption>Picture</figcaption>
+</figure>]]></description>
     <pubDate>Tue, 2 May 2023 20:30:47 +0800</pubDate>
   </item>
    
