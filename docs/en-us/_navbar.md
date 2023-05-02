@@ -4,4 +4,4 @@
 - Language
   - [:cn: 简体中文](/)
   - [:jp: 日本語](/jp/)
-  - [:uk: English (US)](/en-us/)
+  - [:us: English (US)](/en-us/)
