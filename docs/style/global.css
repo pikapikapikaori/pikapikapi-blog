@@ -5,6 +5,15 @@
     src: url('./fonts/WeibeiSC-Bold.otf');
 }
 
+::-webkit-scrollbar {
+    background: #eee;
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #c6a2eb !important;
+}
+
 .pageSidebarTitleClass {
     font-size: 26px;
     font-family: 'Menlo', sans-serif;
