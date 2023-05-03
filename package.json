@@ -1,5 +1,6 @@
 {
   "name": "pikapikapi-blog",
+  "version": "0.0.1",
   "scripts": {
     "start": "docsify serve ./docs --port 4000"
   },
@@ -8,6 +9,5 @@
   ],
   "devDependencies": {
     "docsify-cli": "^4.4.4"
-  },
-  "version": "0.0.1"
+  }
 }
