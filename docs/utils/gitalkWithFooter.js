@@ -6,18 +6,18 @@
  * @FilePath: /pikapikapi-blog/docs/utils/gitalkWithFooter.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
-//default values
+// default values
 var defaultOptions = {
-    footerInnerHtml: "",
+    footerInnerHtml: '',
     gitalkConfig: {
         clientID: '',
         clientSecret: '',
         repo: 'pikapikapi-blog',
         owner: 'pikapikapikaori',
-        admin: ['pikapikapikaori'],
+        admin: ['pikapikapikaori',],
         // facebook-like distraction free mode
         distractionFreeMode: false,
-    }
+    },
 }
 
 // Docsify plugin functions
@@ -30,7 +30,7 @@ function plugin(hook, vm) {
             gitalkContainer.id = 'gitalk-container'
             gitalkContainer.style.maxWidth = '80%'
             gitalkContainer.style.margin = '0px auto 20px'
-            document.getElementById("main").parentNode.insertBefore(gitalkContainer, undefined)
+            document.getElementById('main').parentNode.insertBefore(gitalkContainer, undefined)
         }
 
         // 若没有footer，则在gitalk容器下方重新添加footer
@@ -41,7 +41,7 @@ function plugin(hook, vm) {
             footerDiv.id = 'footerUnderGitalk'
             footerDiv.innerHTML = defaultOptions.footerInnerHtml
             footer.appendChild(footerDiv)
-            document.getElementById("main").parentNode.insertBefore(footer, undefined)
+            document.getElementById('main').parentNode.insertBefore(footer, undefined)
         }
 
         // render gitalk
@@ -54,15 +54,15 @@ function plugin(hook, vm) {
             admin: vm.config.gitalkWithFooter.gitalkConfig.admin,
             // facebook-like distraction free mode
             distractionFreeMode: vm.config.gitalkWithFooter.gitalkConfig.distractionFreeMode,
-            id: location.href.split('#')[1]
+            id: location.href.split('#')[1],
         })
         gitalk.render('gitalk-container')
     })
 }
 
 // Docsify plugin options
-window.$docsify["gitalkWithFooter"] = Object.assign(
+window.$docsify['gitalkWithFooter'] = Object.assign(
     defaultOptions,
-    window.$docsify["gitalkWithFooter"]
+    window.$docsify['gitalkWithFooter']
 )
 window.$docsify.plugins = [].concat(plugin, window.$docsify.plugins)
