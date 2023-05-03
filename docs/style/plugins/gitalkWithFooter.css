@@ -34,7 +34,19 @@
     fill: #c6a2eb !important;
 }
 
+.gt-container a.is--active {
+    color: #333 !important;
+}
+
+.gt-container a.is--active:before {
+    background: #c6a2eb !important;
+}
+
 .gt-container a {
+    color: #c6a2eb !important;
+}
+
+.gt-popup .gt-action {
     color: #c6a2eb !important;
 }
 
