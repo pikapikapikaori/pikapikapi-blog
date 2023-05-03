@@ -9,7 +9,7 @@
 
 .gt-link {
     color: #c6a2eb !important;
-    border-bottom: 1px dotted #c6a2eb!important;
+    border-bottom: 1px dotted #c6a2eb !important;
 }
 
 .gt-btn-preview {
@@ -31,4 +31,13 @@
 
 .gt-container .gt-svg svg {
     fill: #c6a2eb !important;
+}
+
+.gt-container a {
+    color: #c6a2eb !important;
+}
+
+.gt-container .gt-btn-public:hover {
+    background-color: #c6a2eb !important;
+    border-color: #c6a2eb !important;
 }
