@@ -6,6 +6,20 @@
   <description>Pikapikapi Blog</description>
    
   <item>
+    <title><![CDATA[Birthday E-card for GF]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/writings/PrivateEcard-20220517</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/en-us/writings/PrivateEcard-20220517</guid>
+    <description><![CDATA[<h1 id="birthday-e-card-for-gf">Birthday E-card for GF</h1>
+<blockquote>
+<p>This page is first published on my <a href="https://github.com/pikapikapikaori">Github</a>, the repository of which has now been migrated to that of <a href="https://github.com/pikapikapikaori/pikapikapi-blog">this blog</a><br />
+Publish date: 2022.5.17</p>
+</blockquote>
+<p>You can visit <a href="https://pikapikapikaori.github.io/pikapikapi-blog/en-us/writings/_media/PrivateEcard-20220517/index.html">here</a> to view the whole page.</p>
+<p><a href="./_media/PrivateEcard-20220517/index.html" title=":include height=1000px">website</a></p>]]></description>
+    <pubDate>Wed, 3 May 2023 14:51:55 +0800</pubDate>
+  </item>
+   
+  <item>
     <title><![CDATA[logo](../_media/kaori-logo.JPG ':size=20% :class=ignoreViewFullImageImg')]]></title>
     <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_coverpage</link>
     <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_coverpage</guid>
@@ -338,24 +352,6 @@ To thy high requiem become a sod.</p>
 </div>
 <!-- panels:end -->]]></description>
     <pubDate>Wed, 3 May 2023 01:12:18 +0800</pubDate>
-  </item>
-   
-  <item>
-    <title><![CDATA[[ホームページ](/jp/)]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_navbar</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#//#/jp/_navbar</guid>
-    <description><![CDATA[<ul>
-<li><a href="/jp/">ホームページ</a></li>
-<li><a href="/jp/ITtech/">IT技術につして</a></li>
-<li><a href="/jp/writings/">随想</a></li>
-<li>言語
-<ul>
-<li><a href="/">:cn: 简体中文</a></li>
-<li><a href="/jp/">:jp: 日本語</a></li>
-<li><a href="/en-us/">:us: English (US)</a></li>
-</ul></li>
-</ul>]]></description>
-    <pubDate>Tue, 2 May 2023 23:19:08 +0800</pubDate>
   </item>
   
 </channel>
