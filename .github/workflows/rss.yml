@@ -1,6 +1,6 @@
 name: RSS
 
-on: [ push, pull_request ]
+on: [ push ]
 
 jobs:
   build:
