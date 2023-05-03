@@ -1,0 +1,12 @@
+{
+  "name": "pikapikapi-blog",
+  "scripts": {
+    "start": "docsify serve ./docs --port 4000"
+  },
+  "files": [
+    "docs"
+  ],
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
