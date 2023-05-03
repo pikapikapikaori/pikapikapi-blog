@@ -1,0 +1,34 @@
+.gt-header-controls-tip {
+    color: #c6a2eb !important;
+}
+
+.gt-btn-login {
+    background-color: #c6a2eb !important;
+    border: 1px solid #c6a2eb !important;
+}
+
+.gt-link {
+    color: #c6a2eb !important;
+    border-bottom: 1px dotted #c6a2eb!important;
+}
+
+.gt-btn-preview {
+    color: #c6a2eb !important;
+    border: 1px solid #c6a2eb !important;
+}
+
+.gt-btn-preview:hover {
+    border-color: #c6a2eb !important;
+}
+
+.gt-container .gt-comment-username {
+    color: #c6a2eb !important;
+}
+
+.gt-container .gt-ico-github .gt-svg svg {
+    fill: #000 !important;
+}
+
+.gt-container .gt-svg svg {
+    fill: #c6a2eb !important;
+}
