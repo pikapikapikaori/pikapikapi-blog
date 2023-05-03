@@ -38,3 +38,38 @@
 .mainPageAboutMeImageLinks {
     margin: 0 0 0 !important;
 }
+
+.multiImagesContainerSection>p {
+    line-height: 0;
+
+    -webkit-column-count: 3 !important;
+    -webkit-column-gap: 5px !important;
+    -moz-column-count: 3 !important;
+    -moz-column-gap: 5px !important;
+    column-count: 3 !important;
+    column-gap: 5px !important;
+}
+
+.multiImagesContainerSection>p>img {
+    /* Just in case there are inline attributes */
+    width: 100% !important;
+    height: auto !important;
+
+    margin: 5px 0 0 !important;
+}
+
+@media screen and (max-width: 1000px) {
+    .multiImagesContainerSection>p {
+        -moz-column-count: 2 !important;
+        -webkit-column-count: 2 !important;
+        column-count: 2 !important;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .multiImagesContainerSection>p {
+        -moz-column-count: 1 !important;
+        -webkit-column-count: 1 !important;
+        column-count: 1 !important;
+    }
+}
