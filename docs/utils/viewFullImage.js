@@ -43,7 +43,7 @@ function plugin(hook, vm) {
             let viewFullImageSpanInnerDiv = document.getElementById('viewFullImageSpanInnerDiv')
 
             let imgArray = Array.from(document.getElementsByTagName('img')).filter(img => {
-                return !(img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1 || img.className.indexOf('emoji') > -1)
+                return !(img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1 || img.className.indexOf('emoji') > -1 || img.src.indexOf('avatars.githubusercontent') > -1)
             })
 
             imgArray.some((img, index) => {
@@ -80,7 +80,7 @@ function plugin(hook, vm) {
             let viewFullImageLeftButtonSpan = document.getElementById('viewFullImageLeftButtonSpan')
             let viewFullImageRightButtonSpan = document.getElementById('viewFullImageRightButtonSpan')
             let viewFullImageSpanInnerDiv = document.getElementById('viewFullImageSpanInnerDiv')
-            if (img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1 || img.className.indexOf('emoji') > -1) {
+            if (img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1 || img.className.indexOf('emoji') > -1 || img.src.indexOf('avatars.githubusercontent') > -1) {
                 return
             }
             img.addEventListener('click', function () {
