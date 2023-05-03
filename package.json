@@ -1,0 +1,19 @@
+{
+  "name": "pikapikapi-blog",
+  "version": "1.0.2",
+  "scripts": {
+    "start": "docsify serve ./docs --port 4000",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "files": [
+    "docs"
+  ],
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.21.8",
+    "docsify-cli": "^4.4.4"
+  },
+  "dependencies": {
+    "eslint": "^8.39.0"
+  }
+}

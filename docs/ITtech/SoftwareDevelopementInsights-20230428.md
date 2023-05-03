@@ -504,7 +504,7 @@ flowchart TD
 
 ### RAD
 
-快速应用开发模型，又称V模型。似乎是为了改进瀑布式模型而在上世纪70至80年代提出的。这一模型大体上遵循下图的几个阶段：
+快速应用开发模型（Rapid Application Development），又称V模型。似乎是为了改进瀑布式模型而在上世纪70至80年代提出的。这一模型大体上遵循下图的几个阶段：
 
 ![picture](_meida/SoftwareDevelopementInsights-20230428/RAD-model.webp)
 
