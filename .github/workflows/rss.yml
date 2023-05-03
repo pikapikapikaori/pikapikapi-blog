@@ -1,6 +1,6 @@
 name: RSS
 
-on: [ push, pull_request ]
+on: [ push ]
 
 jobs:
   build:
@@ -12,10 +12,6 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.head_ref }}
-      
-      - name: Pull
-        run:
-          git pull
 
       - name: Install Pandoc
         run:
