@@ -37,7 +37,12 @@
     color: #c6a2eb !important;
 }
 
-.gt-container .gt-btn-public:hover {
+.gt-btn-public {
+    background-color: #c6a2eb !important;
+    border-color: #c6a2eb !important;
+}
+
+.gt-btn-public:hover {
     background-color: #c6a2eb !important;
     border-color: #c6a2eb !important;
 }
