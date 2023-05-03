@@ -2,14 +2,14 @@
     color: #c6a2eb !important;
 }
 
-.gt-btn-login {
-    background-color: #c6a2eb !important;
-    border: 1px solid #c6a2eb !important;
-}
-
 .gt-link {
     color: #c6a2eb !important;
     border-bottom: 1px dotted #c6a2eb !important;
+}
+
+.gt-btn-login {
+    background-color: #c6a2eb !important;
+    border: 1px solid #c6a2eb !important;
 }
 
 .gt-btn-preview {
@@ -17,7 +17,8 @@
     border: 1px solid #c6a2eb !important;
 }
 
-.gt-btn-preview:hover {
+.gt-btn-public {
+    background-color: #c6a2eb !important;
     border-color: #c6a2eb !important;
 }
 
@@ -37,12 +38,6 @@
     color: #c6a2eb !important;
 }
 
-.gt-btn-public {
-    background-color: #c6a2eb !important;
-    border-color: #c6a2eb !important;
-}
-
-.gt-btn-public:hover {
-    background-color: #c6a2eb !important;
-    border-color: #c6a2eb !important;
+.gt-popup .gt-action {
+    color: #c6a2eb !important;
 }
