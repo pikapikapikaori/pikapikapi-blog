@@ -16,6 +16,10 @@
 
 Welcome to my blog. I am currently studying to become a good full-stack engineer.
 
+## About This Blog
+
+[This blog](https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/) is powered by [Docsify](https://docsify.js.org/#/), and is deployed on Github Pages. You can also visit the [standby site](https://pikapikapi-blog.vercel.app/#/en-us/) which is deployed on Vercel.
+
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
