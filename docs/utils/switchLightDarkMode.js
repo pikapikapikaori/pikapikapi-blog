@@ -20,7 +20,35 @@ function plugin(hook, vm) {
         return
     }
 
-    let currentThemeMode = true
+    let themeModes = ['light', 'dark', 'auto',]
+
+    let currentThemeModeIndex = 2
+
+    let changeDynamicImageThemeMode = function (currentTheme) {
+        let dynamicImageThemeName = 'buefy'
+        switch (currentTheme) {
+        case 'light':
+            dynamicImageThemeName = 'buefy'
+            break
+        case 'dark':
+            dynamicImageThemeName = 'material-palenight'
+            break
+        case 'auto':
+            dynamicImageThemeName = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'material-palenight' : 'buefy'
+            break
+        }
+
+        Array.from(document.getElementsByClassName('dynamicPictureAccordingToThemeMode')).forEach(img => {
+            var imgSrc = img.src
+
+            if (imgSrc.indexOf('theme=') > -1) {
+                img.src = imgSrc.split('theme=')[0] + 'theme=' + dynamicImageThemeName
+            }
+            else {
+                img.src = imgSrc + '&theme=' + dynamicImageThemeName
+            }
+        })
+    }
 
     hook.mounted(function () {
         let lightTheme = Docsify.dom.findAll('[href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"]')[0]
@@ -35,28 +63,57 @@ function plugin(hook, vm) {
 
         const lightModeIconHtml = '<?xml version="1.0" encoding="UTF-8"?><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#d1b5ef"><path d="M12 18a6 6 0 100-12 6 6 0 000 12zM22 12h1M12 2V1M12 23v-1M20 20l-1-1M20 4l-1 1M4 20l1-1M4 4l1 1M1 12h1" stroke="#d1b5ef" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
         const darkModeIconHtml = '<?xml version="1.0" encoding="UTF-8"?><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#d1b5ef"><path d="M3 11.507a9.493 9.493 0 0018 4.219c-8.507 0-12.726-4.22-12.726-12.726A9.494 9.494 0 003 11.507z" stroke="#d1b5ef" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
+        const autoModeIconHtml = '<?xml version="1.0" encoding="UTF-8"?><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#d1b5ef"><path d="M3 15c2.483 0 4.345-3 4.345-3s1.862 3 4.345 3c2.482 0 4.965-3 4.965-3s2.483 3 4.345 3M3 20c2.483 0 4.345-3 4.345-3s1.862 3 4.345 3c2.482 0 4.965-3 4.965-3s2.483 3 4.345 3M19 10a7 7 0 10-14 0" stroke="#d1b5ef" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
 
-        switchSpan.innerHTML = lightModeIconHtml
+        let setThemeMode = function (currentTheme) {
+            switch (currentTheme) {
+            case 'light':
+                lightTheme.disabled = false
+                darkTheme.disabled = true
+                switchSpan.innerHTML = lightModeIconHtml
+
+                if (!switchLightDarkModeOptions.switchDynamicPicture) return
+
+                changeDynamicImageThemeMode(currentTheme)
+                break
+            case 'dark':
+                lightTheme.disabled = true
+                darkTheme.disabled = false
+                switchSpan.innerHTML = darkModeIconHtml
+
+                if (!switchLightDarkModeOptions.switchDynamicPicture) return
+
+                changeDynamicImageThemeMode(currentTheme)
+                break
+            case 'auto':
+                var isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+                lightTheme.disabled = isDarkMode
+                darkTheme.disabled = !isDarkMode
+                switchSpan.innerHTML = autoModeIconHtml
+                
+                if (!switchLightDarkModeOptions.switchDynamicPicture) return
+
+                changeDynamicImageThemeMode(isDarkMode ? 'dark' : 'light')
+                break
+            }
+        }
+
+        setThemeMode(themeModes[currentThemeModeIndex])
+        let preferredThemeChangeEventListenerFunction = function () {
+            if (currentThemeModeIndex === 2) {
+                setThemeMode(themeModes[currentThemeModeIndex])
+            }
+        }
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', preferredThemeChangeEventListenerFunction)
+
         switchSpan.onclick = function (e) {
-            currentThemeMode = !currentThemeMode
-            switchSpan.innerHTML = currentThemeMode ? lightModeIconHtml : darkModeIconHtml
-            lightTheme.disabled = !currentThemeMode
-            darkTheme.disabled = currentThemeMode
-
-            if (!switchLightDarkModeOptions.switchDynamicPicture) return
-
-            Array.from(document.getElementsByClassName('dynamicPictureAccordingToThemeMode')).forEach(img => {
-                var imgSrc = img.src
-
-                var themeParam = currentThemeMode ? 'buefy' : 'material-palenight'
-
-                if (imgSrc.indexOf('theme=') > -1) {
-                    img.src = imgSrc.split('theme=')[0] + 'theme=' + themeParam
-                }
-                else {
-                    img.src = imgSrc + '&theme=' + themeParam
-                }
-            })
+            if (currentThemeModeIndex === 2) {
+                currentThemeModeIndex = 0
+            }
+            else {
+                currentThemeModeIndex ++
+            }
+            setThemeMode(themeModes[currentThemeModeIndex])
         }
 
         document.body.appendChild(switchSpan)
@@ -159,18 +216,7 @@ function plugin(hook, vm) {
 
         if (!switchLightDarkModeOptions.switchDynamicPicture) return
 
-        Array.from(document.getElementsByClassName('dynamicPictureAccordingToThemeMode')).forEach(img => {
-            var imgSrc = img.src
-
-            var themeParam = currentThemeMode ? 'buefy' : 'material-palenight'
-
-            if (imgSrc.indexOf('theme=') > -1) {
-                img.src = imgSrc.split('theme=')[0] + 'theme=' + themeParam
-            }
-            else {
-                img.src = imgSrc + '&theme=' + themeParam
-            }
-        })
+        changeDynamicImageThemeMode(themeModes[currentThemeModeIndex])
     })
 }
 
