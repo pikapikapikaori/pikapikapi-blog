@@ -1,0 +1,9 @@
+.pageRightToolsWidgetsSpanAppear {
+    transform: translate(0, 0);
+    transition-duration: 500ms;
+}
+
+.pageRightToolsWidgetsSpanDisappear {
+    transform: translate(52px, 0);
+    transition-duration: 500ms;
+}
