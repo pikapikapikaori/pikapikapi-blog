@@ -109,15 +109,6 @@
         querySelector: ".mermaid",
       },
 
-      // 回到顶部插件设置
-      scrollToTop: {
-        auto: true,
-        text: '⇪',
-        right: 15,
-        bottom: 15,
-        offset: 500
-      },
-
 
       // 自用插件
       // 页面添加gitalk，并在最底端添加footer，使得gitalk下方有空间
@@ -160,7 +151,18 @@
       // 添加明暗模式切换
       switchLightDarkMode: {
         useSwitchMode: true,
-        switchDynamicPicture: true
+        switchDynamicPicture: true,
+        top: 130,
+        right: 26
+      },
+
+      // 回到顶部
+      scrollToTop: {
+        auto: true,
+        text: '<?xml version="1.0" encoding="UTF-8"?><svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#d1b5ef"><path d="M6 11l6-6 6 6M6 19l6-6 6 6" stroke="#d1b5ef" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        right: 26,
+        top: 305,
+        offset: 500
       },
     }
   </script>
@@ -222,9 +224,6 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-swift.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
 
-  <!-- Docsify 回到顶部插件 -->
-  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
-
   <!-- Docsify docsify-example-panels 插件 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script>
 
@@ -272,6 +271,9 @@
   <!-- 添加查看大图 -->
   <link rel="stylesheet" href="./style/plugins/viewFullImage.css">
   <script src="./utils/viewFullImage.js"></script>
+
+  <!-- 回到顶部 -->
+  <script src="./utils/docsify-scroll-to-top.js"></script>
 </body>
 
 </html>
