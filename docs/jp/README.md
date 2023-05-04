@@ -15,6 +15,10 @@
 
 [このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用しており、Github Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
 
+さらに、[Hexo](https://hexo.io/)を利用しておるこのブログの[サブサイト](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)もデプロイされました。以下のセクションでプレビューすることができます：
+
+![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=700px')
+
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
