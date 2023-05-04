@@ -91,12 +91,12 @@ function plugin(hook, vm) {
         }
 
         zoomInSpan.onclick = function () {
-            currentSize = currentSize - 0.1
+            currentSize = currentSize + 0.1
             set(currentSize)
         }
 
         zoomOutSpan.onclick = function () {
-            currentSize = currentSize + 0.1
+            currentSize = currentSize - 0.1
             set(currentSize)
         }
 
