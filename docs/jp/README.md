@@ -11,6 +11,10 @@
 
 私のブログへようこそ。フルスタックエンジニアを目指して勉強中です。
 
+## このブログについて
+
+[このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用しており、Github Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
+
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">

@@ -73,3 +73,7 @@
         column-count: 1 !important;
     }
 }
+
+iframe {
+    border-radius: 10px;
+}
