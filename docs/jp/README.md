@@ -58,7 +58,7 @@
     </p>
     <div class="mainPageAboutMeImageLinks">
         <a href="https://github.com/pikapikapikaori/pikapikapi-blog" target="_blank" rel="noopener">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
+            <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
         </a>
     </div>
 </div>

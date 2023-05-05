@@ -4,6 +4,7 @@
 
 -
   - [前言](/writings/)
+  - [短评集](/writings/BriefComments)
 
 <div class="pagesSideBarLevel1TitleDiv">
   文章
