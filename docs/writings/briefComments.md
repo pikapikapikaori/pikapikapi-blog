@@ -65,7 +65,7 @@
             <br>
             总的来讲就是动画片真的不好看，然后就是希望今年好看点，不过八成没啥希望。
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
-            2021-01-02
+            2021.1.2
         </div>
     </div>
 </details>
