@@ -77,3 +77,120 @@
 iframe {
     border-radius: 10px;
 }
+
+.briefCommentsOrNotesInBlogTitleYear {
+    font-family: "WeibeiSC-Bold";
+}
+
+.briefCommentsOrNotesInBlogTitleYear>summary {
+    text-align: center;
+    font-family: "Menlo";
+    font-size: 50px;
+    color: #c6a2eb;
+    list-style: none;
+    margin-bottom: 40px;
+}
+
+.briefCommentsOrNotesInBlogTitleYear>summary:hover {
+    cursor: pointer;
+}
+
+.briefCommentsOrNotesInBlogTitleYear>summary::-webkit-details-marker {
+    display: none;
+}
+
+.briefCommentsOrNotesInBlogTitleYear>summary::after {
+    content: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyOHB4IiBoZWlnaHQ9IjI4cHgiIHN0cm9rZS13aWR0aD0iMS41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY29sb3I9IiNjNmEyZWIiPjxwYXRoIGQ9Ik02IDlsNiA2IDYtNiIgc3Ryb2tlPSIjYzZhMmViIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+PC9zdmc+");
+    position: absolute;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+
+.briefCommentsOrNotesInBlogTitleYear[open] summary::after {
+    content: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyOHB4IiBoZWlnaHQ9IjI4cHgiIHN0cm9rZS13aWR0aD0iMS41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY29sb3I9IiNjNmEyZWIiPjxwYXRoIGQ9Ik02IDE1bDYtNiA2IDYiIHN0cm9rZT0iI2M2YTJlYiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPjwvc3ZnPg==");
+}
+
+.briefCommentsOrNotesInBlog {
+    margin: 10px 30px 0;
+    display: flex;
+}
+
+.briefCommentsOrNotesInBlogImageContainer {
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 50px;
+    max-height: 50px;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.briefCommentsOrNotesInBlogCommentsContainer {
+    margin-left: 30px;
+    margin-right: 10px;
+    padding: 20px 20px 20px;
+    background-color: #c6a2eb;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.briefCommentsOrNotesInBlogCommentsDivider {
+    border: 0 !important;
+    width: 100% !important;
+    height: 0 !important;
+    border-top: 0.2rem dotted #fff !important;
+    position: relative !important;
+    overflow: visible !important;
+    margin: 1.2rem 0 !important;
+}
+
+.briefCommentsOrNotesInBlogCommentsDivider:before {
+    animation: move 5s infinite linear;
+    position: absolute;
+    top: -14px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyOHB4IiBoZWlnaHQ9IjI4cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjUiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY29sb3I9IiNmZmZmZmYiPjxwYXRoIGQ9Ik0xNiAxMmwuMDExLjAxTTE5IDEybC4wMTEuMDFNMjIgMTJsLjAxMS4wMU0yIDEyYzAgNS41MjMgNC40NzcgMTAgMTAgMTBhOS45ODUgOS45ODUgMCAwMDgtMy45OTlMMTIgMTJsOC02LjAwMUE5Ljk4NSA5Ljk4NSAwIDAwMTIgMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnoiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPjwvc3ZnPg==");
+    background-size: 22px;
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+    content: ' ';
+    height: 24px;
+}
+
+@media screen and (max-width: 1000px) {
+    .briefCommentsOrNotesInBlog {
+        margin: 10px 0 0;
+        flex-wrap: wrap;
+    }
+
+    .briefCommentsOrNotesInBlogImageContainer {
+        border-radius: 50%;
+        overflow: hidden;
+        max-width: 40px;
+        max-height: 40px;
+        min-width: 40px;
+        min-height: 40px;
+    }
+
+    .briefCommentsOrNotesInBlogCommentsContainer {
+        margin-top: 20px;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 20px 20px 20px;
+        background-color: #c6a2eb;
+        color: #fff;
+        border-radius: 10px;
+    }
+
+    .briefCommentsOrNotesInBlogCommentsDivider:before {
+        animation: move 3s infinite linear;
+    }
+}
+
+@keyframes move {
+    0% {
+        background-position: 0 0;
+    }
+}
