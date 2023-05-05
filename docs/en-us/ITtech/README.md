@@ -18,7 +18,7 @@ Below is some tools or projects I developed:
 <div class="mainPageRightPanelContainer">
     <h4 class="mainPageAboutMeTitle">Language Usage</h4>
     <div class="mainPageAboutMeImageLinks">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
+        <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
     </div>
 </div>
 
