@@ -2,6 +2,8 @@
 
 > 本篇主要包含一些难以成文的短评
 
+<br>
+<hr class="briefCommentsOrNotesInBlogTitleYearDivider">
 <details class="briefCommentsOrNotesInBlogTitleYear">
     <summary>2021</summary>
     <div class="briefCommentsOrNotesInBlog">
@@ -69,3 +71,4 @@
         </div>
     </div>
 </details>
+<hr class="briefCommentsOrNotesInBlogTitleYearDivider">
