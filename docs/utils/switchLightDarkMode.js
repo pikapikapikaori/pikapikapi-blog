@@ -51,8 +51,10 @@ function plugin(hook, vm) {
     }
 
     hook.mounted(function () {
-        let lightTheme = Docsify.dom.findAll('[href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"]')[0]
-        let darkTheme = Docsify.dom.findAll('[href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"]')[0]
+        let lightTheme = Docsify.dom.findAll('link[href*="vue.css"]')[0]
+        let darkTheme = Docsify.dom.findAll('link[href*="dark.css"]')[0]
+
+        let darkThemeTableCss = Docsify.dom.findAll('link[href*="darkModeThemeTable.css"]')[0]
 
         var switchSpan = document.createElement('span')
 
@@ -70,6 +72,7 @@ function plugin(hook, vm) {
             case 'light':
                 lightTheme.disabled = false
                 darkTheme.disabled = true
+                darkThemeTableCss.disabled = true
                 switchSpan.innerHTML = lightModeIconHtml
 
                 if (!switchLightDarkModeOptions.switchDynamicPicture) return
@@ -79,6 +82,7 @@ function plugin(hook, vm) {
             case 'dark':
                 lightTheme.disabled = true
                 darkTheme.disabled = false
+                darkThemeTableCss.disabled = false
                 switchSpan.innerHTML = darkModeIconHtml
 
                 if (!switchLightDarkModeOptions.switchDynamicPicture) return
@@ -89,6 +93,7 @@ function plugin(hook, vm) {
                 var isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
                 lightTheme.disabled = isDarkMode
                 darkTheme.disabled = !isDarkMode
+                darkThemeTableCss.disabled = !isDarkMode
                 switchSpan.innerHTML = autoModeIconHtml
                 
                 if (!switchLightDarkModeOptions.switchDynamicPicture) return
