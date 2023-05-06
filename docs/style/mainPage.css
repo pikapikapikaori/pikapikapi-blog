@@ -86,6 +86,7 @@ iframe {
     border: 0 !important;
     height: 24px;
     margin: 1.7rem 0 !important;
+    position: relative !important;
 }
 
 .briefCommentsOrNotesInBlogTitleYearDivider::before {
@@ -120,6 +121,7 @@ iframe {
     color: #c6a2eb;
     list-style: none;
     margin-bottom: 40px;
+    position: relative !important;
 }
 
 .briefCommentsOrNotesInBlogTitleYear>summary:hover {
