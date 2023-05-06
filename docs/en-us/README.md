@@ -18,7 +18,7 @@ Welcome to my blog. I am currently studying to become a good full-stack engineer
 
 ## About This Blog
 
-[This blog](https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/) is powered by [Docsify](https://docsify.js.org/#/), and is deployed on Github Pages. You can also visit the [standby site](https://pikapikapi-blog.vercel.app/#/en-us/) which is deployed on Vercel.
+[This blog](https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/) is powered by [Docsify](https://docsify.js.org/#/), and is deployed on GitHub Pages. You can also visit the [standby site](https://pikapikapi-blog.vercel.app/#/en-us/) which is deployed on Vercel.
 
 Besides, a [sub-site](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/) of this blog is also available, which is powered by [Hexo](https://hexo.io/). You can preview the sub-site below:
 

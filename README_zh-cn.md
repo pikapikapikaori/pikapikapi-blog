@@ -6,5 +6,5 @@
 
 个人博客项目
 
-- 主页：[Github Pages](https://pikapikapikaori.github.io/pikapikapi-blog/)
+- 主页：[GitHub Pages](https://pikapikapikaori.github.io/pikapikapi-blog/)
 - RSS：[点击](https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml)打开rss阅读器

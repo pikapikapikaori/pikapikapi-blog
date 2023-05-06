@@ -6,5 +6,5 @@
 
 個人ブログ
 
-- ホームページ：[Github Pages](https://pikapikapikaori.github.io/pikapikapi-blog/)
+- ホームページ：[GitHub Pages](https://pikapikapikaori.github.io/pikapikapi-blog/)
 - RSS：[クリックして](https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml)RSSリーダーを開く

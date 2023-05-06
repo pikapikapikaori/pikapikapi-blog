@@ -13,7 +13,7 @@
 
 ## このブログについて
 
-[このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用しており、Github Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
+[このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用しており、GitHub Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
 
 さらに、[Hexo](https://hexo.io/)を利用しておるこのブログの[サブサイト](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)もデプロイされました。以下のセクションでプレビューすることができます：
 
