@@ -59,6 +59,7 @@ function plugin(hook, vm) {
         var switchSpan = document.createElement('span')
 
         switchSpan.id = 'switchLightDarkModeDivBeforeArticle'
+        switchSpan.className = 'pageRightToolsWidgetsSpan'
         switchSpan.style.position = 'fixed'
         switchSpan.style.right = switchLightDarkModeOptions.right.toString() + 'px'
         switchSpan.style.top = switchLightDarkModeOptions.top.toString() + 'px'
@@ -125,6 +126,7 @@ function plugin(hook, vm) {
 
         var zoomInSpan = document.createElement('span')
         zoomInSpan.id = 'zoomInSpan'
+        zoomInSpan.className = 'pageRightToolsWidgetsSpan'
         zoomInSpan.style.position = 'fixed'
         zoomInSpan.style.right = switchLightDarkModeOptions.right.toString() + 'px'
         zoomInSpan.style.top = (switchLightDarkModeOptions.top + 35).toString() + 'px'
@@ -132,6 +134,7 @@ function plugin(hook, vm) {
 
         var zoomOutSpan = document.createElement('span')
         zoomOutSpan.id = 'zoomOutSpan'
+        zoomOutSpan.className = 'pageRightToolsWidgetsSpan'
         zoomOutSpan.style.position = 'fixed'
         zoomOutSpan.style.right = switchLightDarkModeOptions.right.toString() + 'px'
         zoomOutSpan.style.top = (switchLightDarkModeOptions.top + 70).toString() + 'px'
@@ -139,6 +142,7 @@ function plugin(hook, vm) {
 
         var zoomDefaultSpan = document.createElement('span')
         zoomDefaultSpan.id = 'zoomDefaultSpan'
+        zoomDefaultSpan.className = 'pageRightToolsWidgetsSpan'
         zoomDefaultSpan.style.position = 'fixed'
         zoomDefaultSpan.style.right = switchLightDarkModeOptions.right.toString() + 'px'
         zoomDefaultSpan.style.top = (switchLightDarkModeOptions.top + 105).toString() + 'px'
@@ -173,6 +177,7 @@ function plugin(hook, vm) {
 
         var scrollToCommentSpan = document.createElement('span')
         scrollToCommentSpan.id = 'scrollToCommentSpan'
+        scrollToCommentSpan.className = 'pageRightToolsWidgetsSpan'
         scrollToCommentSpan.style.position = 'fixed'
         scrollToCommentSpan.style.right = switchLightDarkModeOptions.right.toString() + 'px'
         scrollToCommentSpan.style.top = (switchLightDarkModeOptions.top + 140).toString() + 'px'

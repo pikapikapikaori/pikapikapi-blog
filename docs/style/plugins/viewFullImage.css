@@ -15,6 +15,7 @@
 
 #viewFullImageLeftButtonSpanInnerDiv {
     height: 4vh;
+    cursor: pointer;
 }
 
 #viewFullImageLeftButtonSVG {
@@ -37,6 +38,7 @@
 
 #viewFullImageRightButtonSpanInnerDiv {
     height: 4vh;
+    cursor: pointer;
 }
 
 #viewFullImageRightButtonSVG {
