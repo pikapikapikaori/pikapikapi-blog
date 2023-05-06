@@ -2,7 +2,7 @@
 
 feed="pikapikapi-blog-rss.xml"
 website_title="Pikapikapi Blog"
-website_link="https://pikapikapikaori.github.io/pikapikapi-blog/#/"
+website_link="https://pikapikapikaori.github.io/pikapikapi-blog"
 description="Pikapikapi Blog"
 
 urlencode() {
