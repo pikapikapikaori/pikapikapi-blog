@@ -17,7 +17,7 @@ urlencode() {
 }
 
 newest_files=$(
-    git ls-files -z '*.md' |
+    git ls-files -z '**/*.md' ':!:**/_*.md' |
         xargs -0 -n1 -I{} -- git log -1 --format="%at {}" {} |
         sort -r |
         head -n10 |
@@ -33,13 +33,13 @@ for file in ${newest_files[@]}; do
     html=$(pandoc -f markdown -t html $file)
     date=$(git log -1 --format="%aD" -- $file)
     item="
-  <item>
+  <entry>
     <title><![CDATA[${title:2}]]></title>
     <link>$link</link>
     <guid isPermaLink=\"false\">$link</guid>
-    <description><![CDATA[$html]]></description>
+    <content type="html"><![CDATA[$html]]></content>
     <pubDate>$date</pubDate>
-  </item>
+  </entry>
   "
     items="$items $item"
 done
