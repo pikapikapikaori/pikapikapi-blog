@@ -6,5 +6,5 @@ English | [简体中文](./README_zh-cn.md) | [日本語](./README_jp.md)
 
 Personal blog
 
-- Homepage: [Github Pages](https://pikapikapikaori.github.io/pikapikapi-blog/)
+- Homepage: [GitHub Pages](https://pikapikapikaori.github.io/pikapikapi-blog/)
 - RSS: [Click](https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml) to open rss reader
