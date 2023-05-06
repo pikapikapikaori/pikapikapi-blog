@@ -30,14 +30,14 @@ for file in ${newest_files[@]}; do
     title=$(grep "." $file | head -n1)
     encode=$(urlencode "${file::-3}")
     link="$website_link/#/$encode"
-    html=$(pandoc -f markdown -t html $file)
+    html=$(pandoc -f markdown -t html $file | tr -d '\n')
     date=$(git log -1 --format="%aD" -- $file)
     item="
   <entry>
     <title><![CDATA[${title:2}]]></title>
     <link>$link</link>
     <guid isPermaLink=\"false\">$link</guid>
-    <content type="html"><![CDATA[$html]]></content>
+    <content type=\"html\"><![CDATA[$html]]></content>
     <pubDate>$date</pubDate>
   </entry>
   "
