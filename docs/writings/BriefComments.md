@@ -14,7 +14,7 @@
             敢达水星魔女，グエル也即挑染这个角色确实是刻画的挺好的。从s1ep1开始一直到如今的s2ep17，尽管只是寥寥几笔，却有着充足的成长性。s1ep12的父子戏、s2ep15给出的地球上实战规格机战都利用比较传统的机战战争戏来给这个角色刺激，这一点在水星魔女这个聚焦于校园不死人敢达决斗的青春校园片里实在是难能可贵，换句话说实在是难得的敢达味（ep15标题「父と子」，对应的Z敢达ep5标题「父と子）。而这一真实性也直接延续到了s2ep17的敢达决斗，几个舱内的镜头算是给了不错的交代。
             <img src="./writings/_media/BriefComments/gundam-1-20230507.jpeg" alt="brief comment picture: Cure Miracle">
             <blockquote>
-                图源（按序）：twi<a href="https://twitter.com/AkimatutiX" target="_blank">@AkimatutiX</a>，s2ep15エンティングイラスト
+                图源（按序）：twi<a href="https://twitter.com/AkimatutiX" target="_blank">@AkimatutiX</a>，s2ep15エンディングイラスト
             </blockquote>
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
             2023.5.7
@@ -29,7 +29,7 @@
             <br>
             另外一提本集片尾报幕是最喜欢的キュアミラクル：
             <img src="./writings/_media/BriefComments/breifComments-20230430.jpg" alt="brief comment picture: Cure Miracle">
-            48话的分离连接到了49话的再会，而49话的重逢又指向了50话的未来，单这两集半多就将前中期的甜水百合拉高了不少，实在是难以忘记的神回。不知道明年的二期会延续出怎样的故事。
+            ep48的分离连接到了ep49的再会，而ep49的重逢又指向了ep50的未来，单这两集半多就将前中期的甜水百合拉高了不少，实在是难以忘记的神回。不知道明年的二期会延续出怎样的故事。
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
             2023.4.30
         </div>
