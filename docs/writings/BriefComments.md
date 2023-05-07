@@ -4,6 +4,52 @@
 
 <br>
 <hr class="briefCommentsOrNotesInBlogTitleYearDivider">
+<details class="briefCommentsOrNotesInBlogTitleYear" open>
+    <summary>2023</summary>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            敢达水星魔女，グエル也即挑染这个角色确实是刻画的挺好的。从s1ep1开始一直到如今的s2ep17，尽管只是寥寥几笔，却有着充足的成长性。s1ep12的父子戏、s2ep15给出的地球上实战规格机战都利用比较传统的机战战争戏来给这个角色刺激，这一点在水星魔女这个聚焦于校园不死人敢达决斗的青春校园片里实在是难能可贵，换句话说实在是难得的敢达味（ep15标题「父と子」，对应的Z敢达ep5标题「父と子）。而这一真实性也直接延续到了s2ep17的敢达决斗，几个舱内的镜头算是给了不错的交代。
+            <img src="./writings/_media/BriefComments/gundam-1-20230507.jpeg" alt="brief comment picture: Cure Miracle">
+            <blockquote>
+                图源（按序）：twi<a href="https://twitter.com/AkimatutiX" target="_blank">@AkimatutiX</a>，s2ep15エンティングイラスト
+            </blockquote>
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2023.5.7
+        </div>
+    </div>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            天空q ep13，值得在系列历史中留下一笔的一话。应该是系列第一次变身不打怪，且全程敌人未出现的一话（愈q ep26总集篇；热q ep33小剧场虽然也不注重打怪，但还是让变身打怪来方便卖玩具了）。肉身打架的q娃不仅仅只是20年前宣扬的女性独立战斗的代表，而更重要的是帮助他人的心情。本话用帮助离别者的明线暗点主角间未知的分离算是点找的挺好的一个地方，另一方面新篇章的推进也不再是遗忘的拿到新玩具来推动展开。不过笔力实在是一般。
+            <br>
+            另外一提本集片尾报幕是最喜欢的キュアミラクル：
+            <img src="./writings/_media/BriefComments/breifComments-20230430.jpg" alt="brief comment picture: Cure Miracle">
+            48话的分离连接到了49话的再会，而49话的重逢又指向了50话的未来，单这两集半多就将前中期的甜水百合拉高了不少，实在是难以忘记的神回。不知道明年的二期会延续出怎样的故事。
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2023.4.30
+        </div>
+    </div>
+</details>
+<hr class="briefCommentsOrNotesInBlogTitleYearDivider">
+<details class="briefCommentsOrNotesInBlogTitleYear">
+    <summary>2022</summary>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            20年开播的dq终于在100话完结，很难以想象如今还能有如此质朴的超长篇动画播出，而其中更是有着不少的神回。ep30、67、73、96，基本上都是以法师ポップ的成长为最核心，而不去聚焦于身为本篇主角的龙骑士之子ダイ。难得的代表着“勇气的”法师ポップ，比起ダイ更称得上是人类的代表、勇者。每一个传统的充斥着剑与魔法的作品所歌颂的人类的勇气，在他身上展现的淋漓尽致，正如ep96标题所呈现的那样：「閃光のように」。
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2022.10.22
+        </div>
+    </div>
+</details>
+<hr class="briefCommentsOrNotesInBlogTitleYearDivider">
 <details class="briefCommentsOrNotesInBlogTitleYear">
     <summary>2021</summary>
     <div class="briefCommentsOrNotesInBlog">

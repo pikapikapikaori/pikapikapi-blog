@@ -145,7 +145,7 @@ iframe {
 }
 
 .briefCommentsOrNotesInBlog {
-    margin: 10px 30px 0;
+    margin: 10px 30px 30px;
     display: flex;
 }
 
@@ -165,6 +165,20 @@ iframe {
     background-color: #c6a2eb;
     color: #fff;
     border-radius: 10px;
+}
+
+.briefCommentsOrNotesInBlogCommentsContainer img {
+    margin: 5px 0 5px;
+    border-radius: 5px;
+}
+
+.briefCommentsOrNotesInBlogCommentsContainer a {
+    color: #9F88CF !important;
+}
+
+.briefCommentsOrNotesInBlogCommentsContainer blockquote {
+    border-left: 4px solid #9F88CF !important;
+    margin: 0.7em 0 !important;
 }
 
 .briefCommentsOrNotesInBlogCommentsDivider {
@@ -194,13 +208,11 @@ iframe {
 
 @media screen and (max-width: 1000px) {
     .briefCommentsOrNotesInBlog {
-        margin: 10px 0 0;
+        margin: 10px 0 20px;
         flex-wrap: wrap;
     }
 
     .briefCommentsOrNotesInBlogImageContainer {
-        border-radius: 50%;
-        overflow: hidden;
         max-width: 40px;
         max-height: 40px;
         min-width: 40px;
@@ -211,10 +223,6 @@ iframe {
         margin-top: 20px;
         margin-left: 0;
         margin-right: 0;
-        padding: 20px 20px 20px;
-        background-color: #c6a2eb;
-        color: #fff;
-        border-radius: 10px;
     }
 
     .briefCommentsOrNotesInBlogCommentsDivider:before {
