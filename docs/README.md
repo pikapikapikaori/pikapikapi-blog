@@ -58,6 +58,9 @@
             <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
         </a>
     </div>
+    <div class="mainPageAboutMeImageLinks">
+        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignoreViewFullImageImg">
+    </div>
 </div>
 
 <!-- panels:end -->

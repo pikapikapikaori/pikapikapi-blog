@@ -32,11 +32,11 @@
 }
 
 .mainPageAboutMeBadges {
-    margin: 25px 0 0 !important;
+    margin: 25px 0 10px !important;
 }
 
 .mainPageAboutMeImageLinks {
-    margin: 0 0 0 !important;
+    margin: 0 0 10px !important;
 }
 
 .multiImagesContainerSection>p {
