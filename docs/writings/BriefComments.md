@@ -12,7 +12,9 @@
         </div>
         <div class="briefCommentsOrNotesInBlogCommentsContainer">
             敢达水星魔女，グエル也即挑染这个角色确实是刻画的挺好的。从s1ep1开始一直到如今的s2ep17，尽管只是寥寥几笔，却有着充足的成长性。s1ep12的父子戏、s2ep15给出的地球上实战规格机战都利用比较传统的机战战争戏来给这个角色刺激，这一点在水星魔女这个聚焦于校园不死人敢达决斗的青春校园片里实在是难能可贵，换句话说实在是难得的敢达味（ep15标题「父と子」，对应的Z敢达ep5标题「父と子）。而这一真实性也直接延续到了s2ep17的敢达决斗，几个舱内的镜头算是给了不错的交代。
-            <img src="./writings/_media/BriefComments/gundam-1-20230507.jpeg" alt="brief comment picture: Cure Miracle">
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/gundam-1-20230507.jpeg" alt="brief comment picture: Cure Miracle">
+            </div>
             <blockquote>
                 图源（按序）：twi<a href="https://twitter.com/AkimatutiX" target="_blank">@AkimatutiX</a>，s2ep15エンディングイラスト
             </blockquote>
@@ -28,7 +30,9 @@
             天空q ep13，值得在系列历史中留下一笔的一话。应该是系列第一次变身不打怪，且全程敌人未出现的一话（愈q ep26总集篇；热q ep33小剧场虽然也不注重打怪，但还是让变身打怪来方便卖玩具了）。肉身打架的q娃不仅仅只是20年前宣扬的女性独立战斗的代表，而更重要的是帮助他人的心情。本话用帮助离别者的明线暗点主角间未知的分离算是点找的挺好的一个地方，另一方面新篇章的推进也不再是遗忘的拿到新玩具来推动展开。不过笔力实在是一般。
             <br>
             另外一提本集片尾报幕是最喜欢的キュアミラクル：
-            <img src="./writings/_media/BriefComments/breifComments-20230430.jpg" alt="brief comment picture: Cure Miracle">
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/breifComments-20230430.jpg" alt="brief comment picture: Cure Miracle">
+            </div>
             ep48的分离连接到了ep49的再会，而ep49的重逢又指向了ep50的未来，单这两集半多就将前中期的甜水百合拉高了不少，实在是难以忘记的神回。不知道明年的二期会延续出怎样的故事。
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
             2023.4.30
