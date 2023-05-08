@@ -5,6 +5,10 @@
     src: url('./fonts/WeibeiSC-Bold.otf');
 }
 
+:root {
+    --docsify-example-panels-document-width: calc(80% + 30px);
+}
+
 ::-webkit-scrollbar {
     background: #eee;
     width: 5px;
