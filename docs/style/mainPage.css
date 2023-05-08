@@ -167,6 +167,10 @@ iframe {
     border-radius: 10px;
 }
 
+.briefCommentsOrNotesInBlogCommentsContainerImg {
+    text-align: center;
+}
+
 .briefCommentsOrNotesInBlogCommentsContainer img {
     margin: 5px 0 5px;
     border-radius: 5px;
