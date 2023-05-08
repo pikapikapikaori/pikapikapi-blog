@@ -6,7 +6,7 @@
 }
 
 :root {
-    --docsify-example-panels-document-width: calc(80% + 30px);
+    --docsify-example-panels-document-width: 80%;
 }
 
 ::-webkit-scrollbar {
