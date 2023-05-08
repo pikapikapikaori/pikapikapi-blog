@@ -30,6 +30,7 @@ function plugin(hook, vm) {
             gitalkContainer.id = 'gitalk-container'
             gitalkContainer.style.maxWidth = '80%'
             gitalkContainer.style.margin = '0px auto 20px'
+            gitalkContainer.style.padding = '0 15px 0'
             document.getElementById('main').parentNode.insertBefore(gitalkContainer, undefined)
         }
 
