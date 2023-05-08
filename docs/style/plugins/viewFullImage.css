@@ -1,73 +1,52 @@
-#viewFullImageLeftButtonSpan {
-    display: none;
-    position: fixed;
-    z-index: 9999;
-    top: 0;
-    left: 0;
-    width: 10vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, .7);
-}
-
-.viewFullImageButtonSpanInnerUpperLowerDiv {
-    height: 48vh;
-}
-
-#viewFullImageLeftButtonSpanInnerDiv {
-    height: 4vh;
-    cursor: pointer;
-}
-
-#viewFullImageLeftButtonSVG {
-    height: 4vh;
-    width: 3vw;
-    margin-left: 3vw;
-    margin-top: calc((4vh - 20px)/2)
-}
-
-#viewFullImageRightButtonSpan {
-    display: none;
-    position: fixed;
-    z-index: 9999;
-    top: 0;
-    left: 90vw;
-    width: 10vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, .7);
-}
-
-#viewFullImageRightButtonSpanInnerDiv {
-    height: 4vh;
-    cursor: pointer;
-}
-
-#viewFullImageRightButtonSVG {
-    height: 4vh;
-    width: 3vw;
-    margin-left: calc(7vw - 20px);
-    margin-top: calc((4vh - 20px)/2)
-}
-
 #viewFullImageSpan {
     display: none;
     position: fixed;
     z-index: 9999;
     top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .5);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+}
+
+#viewFullImageSpanInnerLeftDiv {
+    top: calc((100vh - 20px)/2);
+    left: 3vw;
+    width: 3vw;
+    height: 4vh;
+    position: absolute;
+    cursor: pointer;
+}
+
+#viewFullImageSpanInnerRightDiv {
+    top: calc((100vh - 20px)/2);
+    right: 3vw;
+    width: 3vw;
+    height: 4vh;
+    position: absolute;
+    cursor: pointer;
+}
+
+#viewFullImageSpanInnerImgDiv {
+    top: 10vh;
     left: 10vw;
     width: 80vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, .7);
-}
-
-#viewFullImageSpanInnerUpperDiv {
-    width: 80vw;
-    height: 10vh;
-}
-
-#viewFullImageSpanInnerDiv {
+    height: 80vh;
+    position: absolute;
     background-size: contain;
     background-repeat: no-repeat no-repeat;
     background-position: center center;
-    width: 80vw;
-    height: 80vh;
+}
+
+#viewFullImageSpanInnerTextDiv {
+    bottom: 5vh;
+    left: 40vw;
+    width: 20vw;
+    height: 3vh;
+    position: absolute;
+    text-align: center;
+    color: #c6a2eb;
+    font-family: 'Menlo';
 }
