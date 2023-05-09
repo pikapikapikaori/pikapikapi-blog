@@ -63,6 +63,23 @@ function plugin(hook, vm) {
             this.style.display = 'none'
         }
 
+        let touchStartX, touchEndX
+
+        viewFullImageSpan.ontouchstart = function (e) {
+            touchStartX = e.targetTouches[0].pageX
+        }
+
+        viewFullImageSpan.ontouchend = function (e) {
+            touchEndX = e.changedTouches[0].pageX
+
+            if (touchEndX - touchStartX > 80) {
+                buttonLeftRightOnClick(true)
+            }
+            else if (touchEndX - touchStartX < -80) {
+                buttonLeftRightOnClick(false)
+            }
+        }
+
         viewFullImageSpanInnerLeftDiv.onclick = function (e) {
             buttonLeftRightOnClick(true)
         }
