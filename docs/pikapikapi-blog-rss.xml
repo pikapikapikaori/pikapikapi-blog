@@ -6,6 +6,14 @@
   <description>Pikapikapi Blog</description>
    
   <entry>
+    <title><![CDATA[ノート：アルバム　令和5年5月8日]]></title>
+    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/writings/Notes-20230508</link>
+    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/writings/Notes-20230508</guid>
+    <content type="html"><![CDATA[<h1 id="ノートアルバム-令和5年5月8日">ノート：アルバム　令和5年5月8日</h1><figure><img src="_media/Notes-20230508/cover-picture.JPG" alt="" /><figcaption>cover</figcaption></figure><blockquote><p>この記事は、私の個人ブログで最初に公開されました<br />公開日：2023.5.8</p></blockquote><p>令和5年5月6日、上海。</p><section class="multiImagesContainerSection"><p><img src="_media/Notes-20230508/picture-1.jpeg" alt="picture" /> <img src="_media/Notes-20230508/picture-3.jpeg" alt="picture" /> <img src="_media/Notes-20230508/picture-2.jpeg" alt="picture" /> <img src="_media/Notes-20230508/picture-4.jpeg" alt="picture" /> <img src="_media/Notes-20230508/picture-5.jpeg" alt="picture" /> <img src="_media/Notes-20230508/picture-6.jpeg" alt="picture" /></p></section>]]></content>
+    <pubDate>Tue, 9 May 2023 16:45:45 +0800</pubDate>
+  </entry>
+   
+  <entry>
     <title><![CDATA[个人博客搭建心得（壹）：以CSS 3为代表的一些前端开发感悟]]></title>
     <link>https://pikapikapikaori.github.io/pikapikapi-blog/#/ITtech/BlogBuildingInsightsNotesOne-20230508</link>
     <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#/ITtech/BlogBuildingInsightsNotesOne-20230508</guid>
@@ -74,14 +82,6 @@
     <link>https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/ITtech/README</link>
     <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/ITtech/README</guid>
     <content type="html"><![CDATA[<h1 id="beginning">Beginning</h1><!-- panels:start --><!-- div:left-panel --><p>Here are some IT-related blogs that I write.</p><h2 id="some-tools-or-projects">Some Tools or Projects</h2><p>Below is some tools or projects I developed:</p><ul><li><a href="https://github.com/pikapikapikaori/docsify-gitalk-with-footer">docsify-gitalk-with-footer</a>: A plugin to enhance gitalk for docsify.</li><li><a href="https://github.com/pikapikapikaori/docsify-enhanced-word-count">docsify-enhanced-word-count</a>: A plugin that supports word count and i18n localization for docsify.</li><li><a href="https://github.com/pikapikapikaori/docsify-simple-dark-mode">docsify-simple-dark-mode</a>: A plugin to add dark mode for docsify.</li></ul><!-- div:right-panel --><div class="mainPageRightPanelContainer"><pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;Language Usage&lt;/h4&gt;&lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;    &lt;img src=&quot;https://github-readme-stats-pikapikapikaori.vercel.app/api/top-langs/?username=pikapikapikaori&amp;langs_count=10&amp;layout=compact&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode ignoreViewFullImageImg&quot;&gt;&lt;/div&gt;</code></pre></div><!-- panels:end -->]]></content>
-    <pubDate>Fri, 5 May 2023 23:39:31 +0800</pubDate>
-  </entry>
-   
-  <entry>
-    <title><![CDATA[前言]]></title>
-    <link>https://pikapikapikaori.github.io/pikapikapi-blog/#/ITtech/README</link>
-    <guid isPermaLink="false">https://pikapikapikaori.github.io/pikapikapi-blog/#/ITtech/README</guid>
-    <content type="html"><![CDATA[<h1 id="前言">前言</h1><!-- panels:start --><!-- div:left-panel --><p>这里是我写的一些技术相关博客。</p><h2 id="一些小工具或项目">一些小工具或项目</h2><p>下面是我开发的一些小工具或项目：</p><ul><li><a href="https://github.com/pikapikapikaori/docsify-gitalk-with-footer">docsify-gitalk-with-footer</a>: 用于docsify的一款插件，修复了原生添加gitalk时的一些问题。</li><li><a href="https://github.com/pikapikapikaori/docsify-enhanced-word-count">docsify-enhanced-word-count</a>: 用于docsify的一款插件，为docsify添加字数统计，且支持i18n国际化。</li><li><a href="https://github.com/pikapikapikaori/docsify-simple-dark-mode">docsify-simple-dark-mode</a>: 用于docsify的一款插件，为dcosify增加黑暗模式。</li></ul><!-- div:right-panel --><div class="mainPageRightPanelContainer"><pre><code>&lt;h4 class=&quot;mainPageAboutMeTitle&quot;&gt;语言使用情况&lt;/h4&gt;&lt;div class=&quot;mainPageAboutMeImageLinks&quot;&gt;    &lt;img src=&quot;https://github-readme-stats-pikapikapikaori.vercel.app/api/top-langs/?username=pikapikapikaori&amp;langs_count=10&amp;layout=compact&amp;locale=cn&amp;border_color=00000000&amp;bg_color=00000000&amp;theme=buefy&quot; alt=&quot;picture&quot; class=&quot;dynamicPictureAccordingToThemeMode ignoreViewFullImageImg&quot;&gt;&lt;/div&gt;</code></pre></div><!-- panels:end -->]]></content>
     <pubDate>Fri, 5 May 2023 23:39:31 +0800</pubDate>
   </entry>
   
