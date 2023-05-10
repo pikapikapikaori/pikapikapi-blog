@@ -11,9 +11,31 @@
             <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
         </div>
         <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            本日静冈模型展，说实话今天公布的MS只有这款基地限定TOLRO-800还挺想买来耍耍的。出自敢达UC第一话，巴纳吉的第一架座机，名场面飞身就小美。其实还挺乐于见到这类机子的模型化的，包括之前的德戴啊Base Jabber啊89式啊94式啊，G防卫者和米加粒子炮之类的武器装备类的就更不用说了。很适合摆场景，而且确实是能丰富模型种类。
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/tolro-800-1-20230511.jpeg" alt="brief comment picture: TOLRO-800">
+            </div>
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/tolro-800-2-20230511.jpeg" alt="brief comment picture: TOLRO-800">
+            </div>
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/tolro-800-3-20230511.jpeg" alt="brief comment picture: TOLRO-800">
+            </div>
+            <blockquote>
+                图源（按序）：twi<a href="https://twitter.com/HobbySite" target="_blank">@HobbySite</a>，twi<a href="https://twitter.com/gundambase_t" target="_blank">@gundambase_t</a>，twi<a href="https://twitter.com/hobby_magazine" target="_blank">@hobby_magazine</a>
+            </blockquote>
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2023.5.11
+        </div>
+    </div>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
             敢达水星魔女，グエル也即挑染这个角色确实是刻画的挺好的。从s1ep1开始一直到如今的s2ep17，尽管只是寥寥几笔，却有着充足的成长性。s1ep12的父子戏、s2ep15给出的地球上实战规格机战都利用比较传统的机战战争戏来给这个角色刺激，这一点在水星魔女这个聚焦于校园不死人敢达决斗的青春校园片里实在是难能可贵，换句话说实在是难得的敢达味（ep15标题「父と子」，对应的Z敢达ep5标题「父と子）。而这一真实性也直接延续到了s2ep17的敢达决斗，几个舱内的镜头算是给了不错的交代。
             <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
-                <img src="./writings/_media/BriefComments/gundam-1-20230507.jpeg" alt="brief comment picture: Cure Miracle">
+                <img src="./writings/_media/BriefComments/gundam-1-20230507.jpeg" alt="brief comment picture: Gundam">
             </div>
             <blockquote>
                 图源（按序）：twi<a href="https://twitter.com/AkimatutiX" target="_blank">@AkimatutiX</a>，s2ep15エンディングイラスト
