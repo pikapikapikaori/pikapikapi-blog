@@ -11,6 +11,20 @@
             <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
         </div>
         <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            近期观影：热天午后 Dog Day Afternoon，华尔街 Wall Street。
+            <br>
+            前者两小时几乎只聚焦于一个小小的银行内部及其外部周遭的一小部份街道，从抢劫团伙的一人离场开始全片就开始朝着荒谬而去。即使抛开亚提卡事件和少数群体议题，其中对阶级本质的直指仍是极尖锐的。当摄像机转向桑尼，即使是在抢劫风波之外的人也开始向漩涡中心涌去。然而与大喊我是明星的送披萨小哥相对比的，则是片尾那悠长的空镜头。身为全片内外将近两小时的桑尼在被逮捕后，才发现整个剧场内没有人还会注视他。全片的讽刺性也于此达到了最高潮。
+            <br>
+            后者的剧本选定比较迎合主流观众，道格拉斯的演绎确实值得一看。
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2023.5.12
+        </div>
+    </div>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
             本日静冈模型展，说实话今天公布的MS只有这款基地限定TOLRO-800还挺想买来耍耍的。出自敢达UC第一话，巴纳吉的第一架座机，名场面飞身就小美。其实还挺乐于见到这类机子的模型化的，包括之前的德戴啊Base Jabber啊89式啊94式啊，G防卫者和米加粒子炮之类的武器装备类的就更不用说了。很适合摆场景，而且确实是能丰富模型种类。
             <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
                 <img src="./writings/_media/BriefComments/tolro-800-1-20230511.jpeg" alt="brief comment picture: TOLRO-800">
