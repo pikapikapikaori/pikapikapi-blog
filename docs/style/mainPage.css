@@ -239,3 +239,73 @@ iframe {
         background-position: 0 0;
     }
 }
+
+.personalTenBestContainer {
+    display: flex;
+}
+
+.personalTenBest {
+    width: 50%;
+}
+
+.personalTenBestTitle {
+    text-align: center;
+    font-family: 'WeibeiSC-Bold';
+    font-size: 30px;
+}
+
+.personalTenBestContent {
+    margin-top: 20px;
+    display: flex;
+}
+
+.personalTenBestContentImg img {
+    width: 100px;
+    height: auto;
+    min-width: 100px;
+    max-width: 100px;
+}
+
+.personalTenBestContentInfo {
+    margin-left: 30px;
+}
+
+.personalTenBestContentInfo h5 {
+    margin: 0 0 0 !important;
+    font-size: 1.4em;
+}
+
+.personalTenBestContentInfo p {
+    margin: 0 0 0 !important;
+}
+
+@media screen and (max-width: 1000px) {
+    .personalTenBestContainer {
+        display: block;
+    }
+
+    .personalTenBest {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .personalTenBestContentInfo {
+        margin-left: 15px;
+    }
+
+    .personalTenBestContentImg img {
+        width: 80px;
+        height: auto;
+        min-width: 80px;
+        max-width: 80px;
+    }
+
+    .personalTenBestContentInfo h5 {
+        font-size: 1.1em;
+    }
+    
+    .personalTenBestContentInfo p {
+        font-size: 0.9em;
+        line-height: 1.4em;
+    }
+}
