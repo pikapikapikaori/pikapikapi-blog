@@ -11,6 +11,18 @@
             <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
         </div>
         <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            我的工作是百合 ep6，算是才意识到这片本质上其实隐含了三重的剧场：陽芽工作场所自身主打的剧场性是其一，陽芽自己实时扮演这角色，这使得她所身处的周遭就成了第二层的剧场，而观众本身直视片中角色则是更为直接的第三层的剧场。很有趣的一点在于工作场所自身的客人从某种意义上其实可以说是观众的投影或是替身。因此当所谓陽芽不再说谎加之在店内不再作扮演角色行为的时候，三重的剧场塌缩为了唯一单纯的剧场，荒谬性也是在此消除的。说实话感觉这个设置只用来作这种程度的百合有点可惜。
+            <br>
+            我倒是想到了Z敢达最终回由夏亚卡缪等人构筑出的特殊剧场，确实是很厉害的处理。
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2023.5.17
+        </div>
+    </div>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
             近期观影：热天午后 Dog Day Afternoon，华尔街 Wall Street。
             <br>
             前者两小时几乎只聚焦于一个小小的银行内部及其外部周遭的一小部份街道，从抢劫团伙的一人离场开始全片就开始朝着荒谬而去。即使抛开亚提卡事件和少数群体议题，其中对阶级本质的直指仍是极尖锐的。当摄像机转向桑尼，即使是在抢劫风波之外的人也开始向漩涡中心涌去。然而与大喊我是明星的送披萨小哥相对比的，则是片尾那悠长的空镜头。身为全片内外将近两小时的桑尼在被逮捕后，才发现整个剧场内没有人还会注视他。全片的讽刺性也于此达到了最高潮。
