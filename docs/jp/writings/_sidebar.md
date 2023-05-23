@@ -4,6 +4,7 @@
 
 -
   - [序文](/jp/writings/)
+  - [個人ベスト10リスト](/jp/writings/PersonalTenBest)
 
 <div class="pagesSideBarLevel1TitleDiv">
   ノート

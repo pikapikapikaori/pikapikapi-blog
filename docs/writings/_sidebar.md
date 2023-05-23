@@ -4,6 +4,7 @@
 
 -
   - [前言](/writings/)
+  - [个人十佳榜单](/writings/PersonalTenBest)
   - [短评集](/writings/BriefComments)
 
 <div class="pagesSideBarLevel1TitleDiv">

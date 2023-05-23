@@ -2,4 +2,4 @@
 
 ここに私の随想があります。
 
-[personal ten best](./PersonalTenBest.md ':include')
+[personal ten best card](./PersonalTenBestCard.md ':include')

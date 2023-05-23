@@ -1,4 +1,4 @@
-## 個人ベスト10リスト
+# 個人ベスト10リスト
 
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
