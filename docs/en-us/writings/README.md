@@ -2,4 +2,4 @@
 
 Here are some writings of mine.
 
-[personal ten best](./PersonalTenBest.md ':include')
+[personal ten best card](./PersonalTenBestCard.md ':include')

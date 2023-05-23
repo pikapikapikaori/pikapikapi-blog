@@ -279,6 +279,26 @@ iframe {
     margin: 0 0 0 !important;
 }
 
+.personalTenBestTitleSmall {
+    text-align: center;
+    font-family: 'WeibeiSC-Bold';
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+.personalTenBestImgSmall {
+    width: 450px;
+    margin: 0 auto 0;
+}
+
+.personalTenBestImgSmall img {
+    height: 120px;
+    width: auto;
+    margin-right: -45px;
+    position: relative;
+    border-radius: 10px;
+}
+
 @media screen and (max-width: 1000px) {
     .personalTenBestContainer {
         display: block;
@@ -307,5 +327,15 @@ iframe {
     .personalTenBestContentInfo p {
         font-size: 0.9em;
         line-height: 1.4em;
+    }
+
+    .personalTenBestImgSmall {
+        width: 282px;
+    }
+    
+    .personalTenBestImgSmall img {
+        height: 100px;
+        width: auto;
+        margin-right: -48px;
     }
 }

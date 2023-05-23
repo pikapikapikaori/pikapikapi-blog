@@ -4,6 +4,7 @@
 
 -
   - [Beginning](/en-us/writings/)
+  - [Personal Ten Best List](/en-us/writings/PersonalTenBest)
 
 <div class="pagesSideBarLevel1TitleDiv">
   Writings
