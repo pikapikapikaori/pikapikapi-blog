@@ -17,7 +17,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-2.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-2.jpg" alt="Watchmen">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Watchmen</h5>
@@ -28,7 +28,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-3.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-3.jpg" alt="Blade Runner">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Blade Runner</h5>
@@ -39,7 +39,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-4.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-4.jpg" alt="Once Upon a Time in America">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Once Upon a Time in America</h5>
@@ -50,7 +50,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-5.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-5.jpg" alt="Viskningar och rop">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Viskningar och rop</h5>
@@ -61,7 +61,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-6.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-6.jpg" alt="四月物語">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>四月物語</h5>
@@ -72,7 +72,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-7.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-7.jpg" alt="The Purple Rose of Cairo">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>The Purple Rose of Cairo</h5>
@@ -83,7 +83,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-8.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-8.jpg" alt="Pulp Fiction">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Pulp Fiction</h5>
@@ -94,7 +94,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-9.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-9.jpg" alt="大话西游之月光宝盒">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>大话西游之月光宝盒</h5>
@@ -105,7 +105,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-9-2.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-9-2.jpg" alt="大话西游之大圣娶亲">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>大话西游之大圣娶亲</h5>
@@ -116,7 +116,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-10.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-10.jpg" alt="リンダ リンダ リンダ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>リンダ リンダ リンダ</h5>
@@ -132,7 +132,7 @@
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-1.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-1.jpg" alt="ロングバケーション">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>ロングバケーション</h5>
@@ -143,7 +143,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-2.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-2.jpg" alt="火花">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>火花</h5>
@@ -154,7 +154,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-3.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-3.jpg" alt="篤姫">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>篤姫</h5>
@@ -165,7 +165,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="トクサツガガガ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>トクサツガガガ</h5>
@@ -176,7 +176,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-5.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-5.jpg" alt="ウルトラマンティガ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>ウルトラマンティガ</h5>
@@ -187,7 +187,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="あさが来た">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>あさが来た</h5>
@@ -198,7 +198,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="仮面ライダーBLACK RX">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>仮面ライダーBLACK RX</h5>
@@ -209,7 +209,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="Dekalog">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Dekalog</h5>
@@ -220,7 +220,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-9.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-9.jpg" alt="Friends">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Friends</h5>
@@ -231,7 +231,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-10.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-10.jpg" alt="東京ラブストーリー">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>東京ラブストーリー</h5>
@@ -250,7 +250,7 @@
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-1.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-1.jpg" alt="トップをねらえ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>トップをねらえ!</h5>
@@ -261,7 +261,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-1-2.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-1-2.jpg" alt="トップをねらえ2">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>トップをねらえ2!</h5>
@@ -272,7 +272,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-2.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-2.jpg" alt="機動戦士Ζガンダム">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>機動戦士Ζガンダム</h5>
@@ -283,7 +283,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-3.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-3.jpg" alt="銀河鉄道999">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>銀河鉄道999</h5>
@@ -294,7 +294,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-4.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-4.jpg" alt="機動戦艦ナデシコ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>機動戦艦ナデシコ</h5>
@@ -305,7 +305,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-4-2.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-4-2.jpg" alt="機動戦艦ナデシコ -The prince of darkness-">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>機動戦艦ナデシコ -The prince of darkness-</h5>
@@ -316,7 +316,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-5.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-5.jpg" alt="超時空要塞マクロス 愛・おぼえていますか">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>超時空要塞マクロス 愛・おぼえていますか</h5>
@@ -327,7 +327,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-6.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-6.jpg" alt="カウボーイビバップ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>カウボーイビバップ</h5>
@@ -338,7 +338,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-7.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-7.jpg" alt="るろうに剣心 -明治剣客浪漫譚- 追憶編">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>るろうに剣心 -明治剣客浪漫譚- 追憶編</h5>
@@ -349,7 +349,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-8.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-8.jpg" alt="交響詩篇エウレカセブン">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>交響詩篇エウレカセブン</h5>
@@ -360,7 +360,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-9.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-9.jpg" alt="魔法つかいプリキュア">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>魔法つかいプリキュア!</h5>
@@ -371,7 +371,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-10.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-10.jpg" alt="少女革命ウテナ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>少女革命ウテナ</h5>
@@ -387,7 +387,7 @@
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-1.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-1.jpg" alt="ミカるんX">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>ミカるんX</h5>
@@ -398,7 +398,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-2.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-2.jpg" alt="銀河鉄道999">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>銀河鉄道999</h5>
@@ -409,7 +409,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-3.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-3.jpg" alt="それでも町は廻っている">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>それでも町は廻っている</h5>
@@ -420,7 +420,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-4.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-4.jpg" alt="竹光侍">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>竹光侍</h5>
@@ -431,7 +431,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-5.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-5.jpg" alt="さくらの唄">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>さくらの唄</h5>
@@ -442,7 +442,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-6.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-6.jpg" alt="タッチ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>タッチ</h5>
@@ -453,7 +453,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-7.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-7.jpg" alt="機動戦士ガンダム THE ORIGIN">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>機動戦士ガンダム THE ORIGIN</h5>
@@ -464,7 +464,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-8.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-8.jpg" alt="H2">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>H2</h5>
@@ -475,7 +475,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-9.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-9.jpg" alt="星屑ニーナ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>星屑ニーナ</h5>
@@ -486,7 +486,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-10.jpg" alt="Le mépris">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-10.jpg" alt="AQUA">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>AQUA</h5>
