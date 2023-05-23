@@ -75,3 +75,23 @@
         </div>
     </div>
 </div>
+
+<div class="personalTenBestContainer">
+    <div class="personalTenBest">
+        <div class="personalTenBestTitleSmall">
+        游戏
+        </div>
+        <div class="personalTenBestImgSmall">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-1.jpg" style="z-index: 10" alt="KINGDOM HEARTS II">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-2.jpg" style="z-index: 9" alt="narcissu">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-3.jpg" style="z-index: 8" alt="遊☆戯☆王">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" style="z-index: 7" alt="ドラゴンクエストV 天空の花嫁">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-5.jpg" style="z-index: 6;margin-right: -90px !important" alt="ゼルダの伝説 時のオカリナ">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-6.jpg" style="z-index: 5;margin-right: -90px !important" alt="ポケットモンスター ブラック">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" style="z-index: 4" alt="ファイナルファンタジーIX">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-8.jpg" style="z-index: 3" alt="ベヨネッタ">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-9.jpg" style="z-index: 2" alt="ゼルダの伝説 ブレス オブ ザ ワイルド">
+            <img src="./writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" style="z-index: 1" alt="大乱闘スマッシュブラザーズ SPECIAL">
+        </div>
+    </div>
+</div>

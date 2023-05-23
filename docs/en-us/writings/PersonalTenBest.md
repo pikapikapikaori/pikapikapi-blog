@@ -498,3 +498,131 @@
         </div>
     </div>
 </div>
+
+<div class="personalTenBestContainer">
+    <div class="personalTenBest">
+        <div class="personalTenBestTitle">Game</div>
+        <div class="personalTenBestContentList">
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-1.jpg" alt="KINGDOM HEARTS II">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>KINGDOM HEARTS II</h5>
+                    <p>KINGDOM HEARTS II</p>
+                    <p>2005 &ensp; Japan</p>
+                    <p>SQUARE ENIX</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-2.jpg" alt="narcissu">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>narcissu</h5>
+                    <p>narcissu</p>
+                    <p>2005 &ensp; Japan</p>
+                    <p>Stage☆nana</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-3.jpg" alt="遊☆戯☆王">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>遊☆戯☆王</h5>
+                    <p>YU-GI-OH</p>
+                    <p>1999 &ensp; Japan</p>
+                    <p>KONAMI</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ドラゴンクエストV 天空の花嫁">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ドラゴンクエストV 天空の花嫁</h5>
+                    <p>Dragon Quest V: Hand of the Heavenly Bride</p>
+                    <p>1992 &ensp; Japan</p>
+                    <p>ENIX</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-5.jpg" alt="ゼルダの伝説 時のオカリナ">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ゼルダの伝説 時のオカリナ</h5>
+                    <p>The Legend of Zelda: Ocarina of Time</p>
+                    <p>1998 &ensp; Japan</p>
+                    <p>Nintendo Co., Ltd.</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-6.jpg" alt="ポケットモンスター ブラック">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ポケットモンスター ブラック</h5>
+                    <p>Pokémon Black</p>
+                    <p>2010 &ensp; Japan</p>
+                    <p>Game Freak</p>
+                </div>
+            </div><div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-6-2.jpg" alt="ポケットモンスター ホワイト">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ポケットモンスター ホワイト</h5>
+                    <p>Pokémon White</p>
+                    <p>2010 &ensp; Japan</p>
+                    <p>Game Freak</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" alt="ファイナルファンタジーIX">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ファイナルファンタジーIX</h5>
+                    <p>FINAL FANTASY IX</p>
+                    <p>2000 &ensp; Japan</p>
+                    <p>SQUARE</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-8.jpg" alt="ベヨネッタ">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ベヨネッタ</h5>
+                    <p>Bayonetta</p>
+                    <p>2009 &ensp; Japan</p>
+                    <p>PlatinumGames Inc.</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-9.jpg" alt="ゼルダの伝説 ブレス オブ ザ ワイルド">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ゼルダの伝説 ブレス オブ ザ ワイルド</h5>
+                    <p>The Legend of Zelda: Breath of The Wild</p>
+                    <p>2017 &ensp; Japan</p>
+                    <p>Nintendo Co., Ltd.</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="大乱闘スマッシュブラザーズ SPECIAL">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>大乱闘スマッシュブラザーズ SPECIAL</h5>
+                    <p>Super Smash Bros. Ultimate</p>
+                    <p>2018 &ensp; Japan</p>
+                    <p>Sora</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -498,3 +498,131 @@
         </div>
     </div>
 </div>
+
+<div class="personalTenBestContainer">
+    <div class="personalTenBest">
+        <div class="personalTenBestTitle">游戏</div>
+        <div class="personalTenBestContentList">
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-1.jpg" alt="KINGDOM HEARTS II">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>KINGDOM HEARTS II</h5>
+                    <p>王国之心2</p>
+                    <p>2005 &ensp; 日本</p>
+                    <p>史克威尔·艾尼克斯</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-2.jpg" alt="narcissu">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>narcissu</h5>
+                    <p>水仙</p>
+                    <p>2005 &ensp; 日本</p>
+                    <p>Stage☆nana</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-3.jpg" alt="遊☆戯☆王">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>遊☆戯☆王</h5>
+                    <p>游戏王</p>
+                    <p>1999 &ensp; 日本</p>
+                    <p>科乐美</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ドラゴンクエストV 天空の花嫁">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ドラゴンクエストV 天空の花嫁</h5>
+                    <p>勇者斗恶龙5 天空的新娘</p>
+                    <p>1992 &ensp; 日本</p>
+                    <p>艾尼克斯</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-5.jpg" alt="ゼルダの伝説 時のオカリナ">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ゼルダの伝説 時のオカリナ</h5>
+                    <p>塞尔达传说 -时光之笛-</p>
+                    <p>1998 &ensp; 日本</p>
+                    <p>任天堂</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-6.jpg" alt="ポケットモンスター ブラック">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ポケットモンスター ブラック</h5>
+                    <p>精灵宝可梦 黑</p>
+                    <p>2010 &ensp; 日本</p>
+                    <p>游戏狂想家</p>
+                </div>
+            </div><div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-6-2.jpg" alt="ポケットモンスター ホワイト">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ポケットモンスター ホワイト</h5>
+                    <p>精灵宝可梦 白</p>
+                    <p>2010 &ensp; 日本</p>
+                    <p>游戏狂想家</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" alt="ファイナルファンタジーIX">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ファイナルファンタジーIX</h5>
+                    <p>最终幻想9</p>
+                    <p>2000 &ensp; 日本</p>
+                    <p>史克威尔</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-8.jpg" alt="ベヨネッタ">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ベヨネッタ</h5>
+                    <p>蓓优妮塔 猎天使魔女</p>
+                    <p>2009 &ensp; 日本</p>
+                    <p>白金工作室</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-9.jpg" alt="ゼルダの伝説 ブレス オブ ザ ワイルド">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ゼルダの伝説 ブレス オブ ザ ワイルド</h5>
+                    <p>塞尔达传说 旷野之息</p>
+                    <p>2017 &ensp; 日本</p>
+                    <p>任天堂</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="大乱闘スマッシュブラザーズ SPECIAL">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>大乱闘スマッシュブラザーズ SPECIAL</h5>
+                    <p>任天堂明星大乱斗 特别版</p>
+                    <p>2018 &ensp; 日本</p>
+                    <p>Sora</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
