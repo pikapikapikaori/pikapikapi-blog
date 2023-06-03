@@ -11,6 +11,7 @@
 </div>
 
 -
+  - [对PPPoE协议的理解——从电信动态公网环境出发](/ITtech/PPPoE-20230603)
   - [IPSec 技术的理解](/ITtech/IPSecKnowledge-20230527)
   - [个人博客搭建心得（壹）：以CSS 3为代表的一些前端开发感悟](/ITtech/BlogBuildingInsightsNotesOne-20230508)
   - [软件项目实践的一些思索与后期优化方向：设计、开发以及其他](/ITtech/SoftwareDevelopementInsights-20230428)
