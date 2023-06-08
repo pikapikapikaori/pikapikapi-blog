@@ -11,7 +11,7 @@
 
 ## 个人观影记录
 
-备份用，更新时间：2023-05-12 21:49:23
+> 仅作备份用。\
+> 最后更新时间：2023-05-12 21:49:23
 
-- [电影 csv文件](writings/_media/README/db-movie-20230512.csv ':ignore')
-- [ACGN json文件](writings/_media/README/bgm-20230512.json ':ignore')
+请查看[这里](writings/PersonalRecordsBackup.md)。
