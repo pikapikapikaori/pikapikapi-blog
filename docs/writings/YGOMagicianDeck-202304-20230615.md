@@ -82,6 +82,7 @@
 ![Picture](_media/YGOMagicianDeck-202304-20230615/card-49.png)
 ![Picture](_media/YGOMagicianDeck-202304-20230615/card-50.png)
 ![Picture](_media/YGOMagicianDeck-202304-20230615/card-52.png)
+![Picture](_media/YGOMagicianDeck-202304-20230615/card-53.png)
 
 </section>
 
@@ -127,4 +128,4 @@
 ## 参考资料
 
 1. 本文所用卡图大多来源于[游戏王中国官方卡查网站](https://db.yugioh-card-cn.com/index.html)
-2. 本文卡组的卡图与文字版图片由游戏王官方APP“Neuron”导出。
+2. 本文卡组的卡图与文字版图片由游戏王官方APP“Neuron”导出
