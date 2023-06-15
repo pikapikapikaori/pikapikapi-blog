@@ -12,6 +12,7 @@
 </div>
 
 -
+  - [EM·魔术师·异色眼卡组分享](/writings/YGOMagicianDeck-202304-20230615)
   - [Z 高达 Wave-Shooter 形态设定考](/writings/ZGundam-20220417)
   - [大量私货的10年代十佳动画](/writings/10TenBest-20200105)
   - [「FLCL」：以青春之名向平庸的反抗](/writings/FLCL-20180922)
