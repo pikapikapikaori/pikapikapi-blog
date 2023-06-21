@@ -129,3 +129,11 @@ img {
 video {
     border-radius: 10px;
 }
+
+pre {
+    border-radius: 10px;
+}
+
+.docsify-copy-code-button {
+    border-radius: 10px !important;
+}
