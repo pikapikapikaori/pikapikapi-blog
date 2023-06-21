@@ -113,3 +113,7 @@
         border-right-color: transparent;
     }
 }
+
+.markdown-section {
+    max-width: 1100px !important;
+}
