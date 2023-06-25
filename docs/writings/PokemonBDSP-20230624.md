@@ -1,6 +1,6 @@
 # 宝可梦晶灿钻石／明亮珍珠与宝可梦Home联动相关
 
-> 本文首发于个人博客 \
+> 本文首发于个人博客\
 > 发表日期：2023.6.24
 
 ## bdsp传输限制
@@ -22,7 +22,7 @@
 > Nincada can't be placed in the game unless it came from Brilliant Diamond & Shining Pearl\
 > Spinda can't be added in the game or removed from the game If a Pokémon gets Hyper Trained in Scarlet & Violet and isn't Level 100, it cannot be added back until it is Level 100
 
-当然，问题在于这两个相对权威的百科网站对实际上的传送规则并没有更详细的说明。故而，笔者为此做了一些测试。实际上来说，从bdsp向home端的传送对神幻兽的限制并不如百科上字面理解的那样严格。事实上，这一限制（即同种神幻兽只能从存档中向home转移一只）仅对来自bdsp同一版本（bd/sp）的神幻兽起作用。从目前的表现反推，考虑是从Home的追踪码结合来源标记系统作出的限制。
+当然，问题在于这两个相对权威的百科网站对实际上的传送规则并没有更详细的说明。故而，笔者为此做了一些测试。实际上来说，从bdsp向home端的传送对神幻兽的限制并不如百科上字面理解的那样严格。事实上，这一限制（即同种神幻兽只能从存档中向home转移一只）仅对来自bdsp同一版本（bd/sp）的神幻兽起作用。另一方面，在遵循上述限制的前提下，同一个bdsp的存档可以向home传输的来源地标记为bdsp神奥地区的神幻兽宝可梦，其最多可以传输一只通常颜色的神幻兽宝可梦，以及一只异色（闪光）该种神幻兽宝可梦，即共计两只。从目前的表现反推，考虑是从Home的追踪码结合来源标记系统作出的限制。
 
 下面以几个例子详述：
 
