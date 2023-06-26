@@ -11,28 +11,6 @@
             <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
         </div>
         <div class="briefCommentsOrNotesInBlogCommentsContainer">
-            偶活十周年剧场版。
-            <br>
-            在自己也将毕业的这个时点看感触还真是微妙。毕业并不是什么了不得的大事，要缅怀的青春也早已在不经意间流去，离别之后的未来也绝不是什么星星闪闪的道路。相比于EVA那充满说教意味的圆满到不能再圆满的补完，我倒是更被她们用片刻青春编织出的无限延伸到未来的梦打动。就算被迫地走向再平凡普通的未来也不要紧，那是曾经闪耀的我们，以及你们，可以无数次重新开始的STARWAY。
-            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
-                <img src="./writings/_media/BriefComments/aikatsu-1-20230621.png" alt="brief comment picture: Aikatsu 10th Story">
-            </div>
-            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
-                <img src="./writings/_media/BriefComments/aikatsu-2-20230621.png" alt="brief comment picture: Aikatsu 10th Story">
-            </div>
-            さようなら、全てのアイカツ。
-            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
-                <img src="./writings/_media/BriefComments/aikatsu-3-20230621.png" alt="brief comment picture: Aikatsu 10th Story">
-            </div>
-            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
-            2023.06.21
-        </div>
-    </div>
-    <div class="briefCommentsOrNotesInBlog">
-        <div class="briefCommentsOrNotesInBlogImageContainer">
-            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
-        </div>
-        <div class="briefCommentsOrNotesInBlogCommentsContainer">
             最近几天高强度王国之泪，正好昨天看到篇采访说是野炊模式可能会延续到后续的塞尔达上，想了想其实是很合系列逻辑的。
             <br>
             塞尔达系列可以说是三大高峰的作品：众神的三角力量、时之笛、旷野之息。2D、3D和开放世界类型的三大顶峰，可以说在其之后的主要类似类型的作品都延续了这三作的玩法，而一脉相承的不变点则是极高的自由度。从三角力量内的两幅大地图上自由选择顺序进行攻略，到时之笛作为几个大神殿接续点的村子外大地图，再说到野炊作为开放世界而言无缝大地图，这一高度自由性的体现是相当明显的，也只有天剑相对更线性一些。王国之泪之于野炊，可能比较类似于假面和黄昏公主之于时之笛：在玩法上高度继承的基础上完成对前者基础玩法的进一步打磨，同时进一步添加更多的玩法。假面更多体现在独特的时间系统，而黄昏公主则是同时将剧情塑造和神殿解密都做出了进一步的优化；类似的王国之泪讲攀登和降落这两点着重进行了优化，并加入了最具代表性的开放世界重交互下的相对的自由建造。而这些改进对玩法带来的改变则无疑是巨大的。假面的时间系统带来的难度上的极大提升使得其成为系列难度之最，三天时间的限制某种意义上也如时之笛中时之神殿带来的七年时光间的流转，而这一点在黄昏公主中体现为光暗世界人狼形态的转变。类似的，王国之泪的几个新技能，尤其是究极手通天术倒转乾坤这三者，互相结合之下确实是出现了发售前难以想象的多种玩法。我个人而言还是挺满意的。
