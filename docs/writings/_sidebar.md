@@ -25,6 +25,7 @@
 </div>
 
 -
+  - [宝可梦晶灿钻石／明亮珍珠与宝可梦Home联动相关](/writings/PokemonBDSP-20230624)
   - [记第25届上海国际电影节](/writings/Siff25-20230604)
   - [随记：图集 癸卯年丁巳月丙寅日](/writings/Notes-20230508)
   - [随记：图集 庚子年庚辰月甲午日](/writings/Notes-20200421)
