@@ -3,7 +3,8 @@
 ![Cover](_media/Shigatsunouso-20180401/cover-picture.jpg)
 
 > 本文首发于[知乎](https://zhuanlan.zhihu.com/p/35181770)\
-> 发表日期：2018.4.1
+> 发表日期：2018.04.01\
+> 最后编辑于：{docsify-updated}
 
 ## 零.
 
