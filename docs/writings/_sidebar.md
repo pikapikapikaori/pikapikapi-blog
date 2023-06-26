@@ -12,7 +12,7 @@
 </div>
 
 -
-  - [季度印象最深刻单集 2023.4](/writings/SeasonBest-202304-20230612)
+  - [季度印象最深刻单集 2023.04](/writings/SeasonBest-202304-20230612)
   - [EM·魔术师·异色眼卡组分享](/writings/YGOMagicianDeck-202304-20230615)
   - [Z 高达 Wave-Shooter 形态设定考](/writings/ZGundam-20220417)
   - [2020年度印象最深刻动画](/writings/YearBest-2020-20210102)

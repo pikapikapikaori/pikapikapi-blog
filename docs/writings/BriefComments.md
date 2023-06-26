@@ -25,7 +25,7 @@
                 <img src="./writings/_media/BriefComments/aikatsu-3-20230621.png" alt="brief comment picture: Aikatsu 10th Story">
             </div>
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
-            2023.6.21
+            2023.06.21
         </div>
     </div>
     <div class="briefCommentsOrNotesInBlog">
@@ -39,7 +39,7 @@
             <br>
             当然，这种所谓的升级改进plus版本在不同玩家间的接受程度也确实是不同的。就像有些玩家在玩过时之笛后就不再能为假面黄昏公主等给出超高评价，玩过野炊的玩家再去玩王国之泪也难以体会到最初接触到野炊时的惊艳感。不过说来从野吹三千万到如今王国之泪三天一千万，速度直追隔壁朱紫的三天一千万记录，真是难以想象。
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
-            2023.5.21
+            2023.05.21
         </div>
     </div>
     <div class="briefCommentsOrNotesInBlog">
@@ -51,7 +51,7 @@
             <br>
             我倒是想到了Z敢达最终回由夏亚卡缪等人构筑出的特殊剧场，确实是很厉害的处理。
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
-            2023.5.17
+            2023.05.17
         </div>
     </div>
     <div class="briefCommentsOrNotesInBlog">
@@ -65,7 +65,7 @@
             <br>
             后者的剧本选定比较迎合主流观众，道格拉斯的演绎确实值得一看。
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
-            2023.5.12
+            2023.05.12
         </div>
     </div>
     <div class="briefCommentsOrNotesInBlog">
@@ -87,7 +87,7 @@
                 图源（按序）：twi<a href="https://twitter.com/HobbySite" target="_blank">@HobbySite</a>，twi<a href="https://twitter.com/gundambase_t" target="_blank">@gundambase_t</a>，twi<a href="https://twitter.com/hobby_magazine" target="_blank">@hobby_magazine</a>
             </blockquote>
             <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
-            2023.5.11
+            2023.05.11
         </div>
     </div>
 </details>
