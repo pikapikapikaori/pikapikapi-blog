@@ -10,4 +10,4 @@
 
 ---
 
-[点击此处返回。](writings/README.md)
+[点击此处返回。](writings/)
