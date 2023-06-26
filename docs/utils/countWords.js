@@ -41,7 +41,7 @@ function plugin(hook, vm) {
         }
         // Update countWords.localization strings based on options and location.href
         Object.keys(tempLocalization).forEach(key => {
-            const textValue = vm.config.countWords.localization[key]
+            const textValue = countWordsOptions.localization[key]
 
             if (typeof textValue === 'string') {
                 tempLocalization[key] = textValue
@@ -50,7 +50,7 @@ function plugin(hook, vm) {
                 Object.keys(textValue).some(match => {
                     const isMatch = location.href.indexOf(match) > -1
 
-                    tempLocalization[key] = isMatch ? textValue[match] : vm.config.countWords.localization[key]
+                    tempLocalization[key] = isMatch ? textValue[match] : countWordsOptions.localization[key]
 
                     return isMatch
                 })
