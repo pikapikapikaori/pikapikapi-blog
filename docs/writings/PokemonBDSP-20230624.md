@@ -2,7 +2,7 @@
 
 > 本文首发于个人博客\
 > 发表日期：2023.06.24\
-> 最后编辑于：{docsify-updated}
+> 最后编辑于：{docsify-last-updated}
 
 ## bdsp传输限制
 
