@@ -113,3 +113,27 @@
         border-right-color: transparent;
     }
 }
+
+.markdown-section {
+    max-width: 1100px !important;
+}
+
+iframe {
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+video {
+    border-radius: 10px;
+}
+
+pre {
+    border-radius: 10px;
+}
+
+.docsify-copy-code-button {
+    border-radius: 10px !important;
+}
