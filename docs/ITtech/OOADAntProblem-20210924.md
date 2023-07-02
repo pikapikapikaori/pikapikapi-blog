@@ -2,7 +2,7 @@
 
 > 本文首发于[CSDN](https://blog.csdn.net/weixin_42553007/article/details/120447886?spm=1001.2014.3001.5502) \
 > 发表日期：2021.09.24\
-> 最后编辑于：{docsify-updated}
+> 最后编辑于：{docsify-last-updated}
 
 OOAD第一次项目，以OOAD思想实现蚂蚁爬杆问题解法。
 

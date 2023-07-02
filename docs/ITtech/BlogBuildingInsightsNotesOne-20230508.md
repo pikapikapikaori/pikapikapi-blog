@@ -2,7 +2,7 @@
 
 > 本文首发于个人博客 \
 > 发表日期：2023.05.08\
-> 最后编辑于：{docsify-updated}
+> 最后编辑于：{docsify-last-updated}
 
 ## 前期考虑
 

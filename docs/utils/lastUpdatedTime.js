@@ -14,7 +14,7 @@ function plugin(hook, vm) {
                     updated = '---'
                 }
             })
-        next(html.replace(/{docsify-updated}/g, updated))
+        next(html.replace(/{docsify-last-updated}/g, updated))
     })
 }
 
