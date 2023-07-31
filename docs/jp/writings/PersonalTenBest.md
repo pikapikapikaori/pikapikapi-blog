@@ -50,18 +50,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-5.jpg" alt="Viskningar och rop">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>Viskningar och rop</h5>
-                    <p>叫びとささやき</p>
-                    <p>1972 &ensp; スウェーデン</p>
-                    <p>スヴェン・ニクヴィスト</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-6.jpg" alt="四月物語">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-5.jpg" alt="四月物語">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>四月物語</h5>
@@ -72,7 +61,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-7.jpg" alt="The Purple Rose of Cairo">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-6.jpg" alt="The Purple Rose of Cairo">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>The Purple Rose of Cairo</h5>
@@ -83,7 +72,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-8.jpg" alt="Pulp Fiction">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-7.jpg" alt="Pulp Fiction">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>Pulp Fiction</h5>
@@ -94,7 +83,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-9.jpg" alt="大话西游之月光宝盒">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-8.jpg" alt="大话西游之月光宝盒">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>大话西游之月光宝盒</h5>
@@ -105,7 +94,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-9-2.jpg" alt="大话西游之大圣娶亲">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-8-2.jpg" alt="大话西游之大圣娶亲">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>大话西游之大圣娶亲</h5>
@@ -116,13 +105,24 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-10.jpg" alt="リンダ リンダ リンダ">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-9.jpg" alt="リンダ リンダ リンダ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>リンダ リンダ リンダ</h5>
                     <p>リンダ リンダ リンダ</p>
                     <p>2005 &ensp; 日本</p>
                     <p>山下敦弘</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-10.jpg" alt="楽園の瑕">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>楽園の瑕</h5>
+                    <p>东邪西毒</p>
+                    <p>2008 &ensp; 中国</p>
+                    <p>ウォン・カーウァイ</p>
                 </div>
             </div>
         </div>
@@ -149,7 +149,7 @@
                     <h5>火花</h5>
                     <p>火花</p>
                     <p>2016 &ensp; 日本</p>
-                    <p>广木隆一 / 白石和弥 / 冲田修一 / 久万真路 / 毛利安孝</p>
+                    <p>广木隆一 / 白石和弥 / 冲田修一</p>
                 </div>
             </div>
             <div class="personalTenBestContent">
@@ -165,13 +165,13 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="トクサツガガガ">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="未来戦隊タイムレンジャー">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>トクサツガガガ</h5>
-                    <p>トクサツガガガ</p>
-                    <p>2019 &ensp; 日本</p>
-                    <p>末永創 / 新田真三 / 小野見知</p>
+                    <h5>未来戦隊タイムレンジャー</h5>
+                    <p>未来戦隊タイムレンジャー</p>
+                    <p>2000 &ensp; 日本</p>
+                    <p>诸田敏 / 松井升</p>
                 </div>
             </div>
             <div class="personalTenBestContent">
@@ -182,12 +182,23 @@
                     <h5>ウルトラマンティガ</h5>
                     <p>ウルトラマンティガ</p>
                     <p>1996 &ensp; 日本</p>
-                    <p>松原信吾 / 村石宏实 / 川崎乡太 / 冈田宁 / 神泽信一 / 北浦嗣巳 / 原田昌树 / 石井辉仪 / 实相寺昭雄 / 满田穧</p>
+                    <p>松原信吾 / 村石宏实 / 川崎乡太</p>
                 </div>
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="あさが来た">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="暴太郎戦隊ドンブラザーズ">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>暴太郎戦隊ドンブラザーズ</h5>
+                    <p>暴太郎戦隊ドンブラザーズ</p>
+                    <p>2022 &ensp; 日本</p>
+                    <p>田崎龙太</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="あさが来た">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>あさが来た</h5>
@@ -198,24 +209,13 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="仮面ライダーBLACK RX">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="仮面ライダー555">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>仮面ライダーBLACK RX</h5>
-                    <p>仮面ライダーBLACK RX</p>
-                    <p>1988 &ensp; 日本</p>
-                    <p>小林義明 / 蓑輪雅夫 / 蔦林淳望 / 辻理 / 小笠原猛 / 松井昇</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="Dekalog">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>Dekalog</h5>
-                    <p>デカローグ</p>
-                    <p>1989 &ensp; ポーランド</p>
-                    <p>	クシシュトフ・キェシロフスキ</p>
+                    <h5>仮面ライダー555</h5>
+                    <p>仮面ライダー555</p>
+                    <p>2003 &ensp; 日本</p>
+                    <p>田崎竜太 / 長石多可男</p>
                 </div>
             </div>
             <div class="personalTenBestContent">
@@ -283,18 +283,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-3.jpg" alt="銀河鉄道999">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>銀河鉄道999</h5>
-                    <p>銀河鉄道999</p>
-                    <p>1978 &ensp; 日本</p>
-                    <p>西沢信孝</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-4.jpg" alt="機動戦艦ナデシコ">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-3.jpg" alt="機動戦艦ナデシコ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>機動戦艦ナデシコ</h5>
@@ -305,7 +294,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-4-2.jpg" alt="機動戦艦ナデシコ -The prince of darkness-">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-3-2.jpg" alt="機動戦艦ナデシコ -The prince of darkness-">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>機動戦艦ナデシコ -The prince of darkness-</h5>
@@ -316,7 +305,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-5.jpg" alt="超時空要塞マクロス 愛・おぼえていますか">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-4.jpg" alt="超時空要塞マクロス 愛・おぼえていますか">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>超時空要塞マクロス 愛・おぼえていますか</h5>
@@ -327,7 +316,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-6.jpg" alt="カウボーイビバップ">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-5.jpg" alt="カウボーイビバップ">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>カウボーイビバップ</h5>
@@ -338,13 +327,24 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-7.jpg" alt="るろうに剣心 -明治剣客浪漫譚- 追憶編">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-6.jpg" alt="るろうに剣心 -明治剣客浪漫譚- 追憶編">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>るろうに剣心 -明治剣客浪漫譚- 追憶編</h5>
                     <p>るろうに剣心 -明治剣客浪漫譚- 追憶編</p>
                     <p>1999 &ensp; 日本</p>
                     <p>古橋一浩</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-7.jpg" alt="THE IDOLM@STER">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>THE IDOLM@STER</h5>
+                    <p>THE IDOLM@STER</p>
+                    <p>2011 &ensp; 日本</p>
+                    <p>錦織敦史</p>
                 </div>
             </div>
             <div class="personalTenBestContent">
@@ -453,18 +453,7 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-7.jpg" alt="機動戦士ガンダム THE ORIGIN">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>機動戦士ガンダム THE ORIGIN</h5>
-                    <p>機動戦士ガンダム THE ORIGIN</p>
-                    <p>2001 &ensp; 日本</p>
-                    <p>安彦良和</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-8.jpg" alt="H2">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-7.jpg" alt="H2">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>H2</h5>
@@ -475,24 +464,35 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-9.jpg" alt="星屑ニーナ">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>星屑ニーナ</h5>
-                    <p>星屑ニーナ</p>
-                    <p>2010 &ensp; 日本</p>
-                    <p>福島聡</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-10.jpg" alt="AQUA">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-8.jpg" alt="AQUA">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>AQUA</h5>
                     <p>AQUA</p>
                     <p>2001 &ensp; 日本</p>
                     <p>天野こずえ</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-9.jpg" alt="水は海に向かって流れる">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>水は海に向かって流れる</h5>
+                    <p>水は海に向かって流れる</p>
+                    <p>2019 &ensp; 日本</p>
+                    <p>田島列島</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-10.jpg" alt="機動戦士ガンダム THE ORIGIN">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>機動戦士ガンダム THE ORIGIN</h5>
+                    <p>機動戦士ガンダム THE ORIGIN</p>
+                    <p>2001 &ensp; 日本</p>
+                    <p>安彦良和</p>
                 </div>
             </div>
         </div>
@@ -538,24 +538,24 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ドラゴンクエストV 天空の花嫁">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ゼノブレイド2">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ゼノブレイド2</h5>
+                    <p>异度神剑2</p>
+                    <p>2017 &ensp; 日本</p>
+                    <p>モノリスソフト</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-5.jpg" alt="ドラゴンクエストV 天空の花嫁">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>ドラゴンクエストV 天空の花嫁</h5>
                     <p>ドラゴンクエストV 天空の花嫁</p>
                     <p>1992 &ensp; 日本</p>
                     <p>エニックス</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-5.jpg" alt="ゼルダの伝説 時のオカリナ">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>ゼルダの伝説 時のオカリナ</h5>
-                    <p>ゼルダの伝説 時のオカリナ</p>
-                    <p>1998 &ensp; 日本</p>
-                    <p>任天堂株式会社</p>
                 </div>
             </div>
             <div class="personalTenBestContent">
@@ -581,46 +581,46 @@
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" alt="ファイナルファンタジーIX">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" alt="NEWラブプラス+">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ファイナルファンタジーIX</h5>
-                    <p>ファイナルファンタジーIX</p>
-                    <p>2000 &ensp; 日本</p>
-                    <p>スクウェア</p>
+                    <h5>NEWラブプラス+</h5>
+                    <p>New爱相随+</p>
+                    <p>2014 &ensp; 日本</p>
+                    <p>Konami</p>
                 </div>
             </div>
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-8.jpg" alt="ベヨネッタ">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>ベヨネッタ</h5>
-                    <p>ベヨネッタ</p>
-                    <p>2009 &ensp; 日本</p>
-                    <p>プラチナゲームズ</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-9.jpg" alt="ゼルダの伝説 ブレス オブ ザ ワイルド">
-                </div>
-                <div class="personalTenBestContentInfo">
-                    <h5>ゼルダの伝説 ブレス オブ ザ ワイルド</h5>
-                    <p>ゼルダの伝説 ブレス オブ ザ ワイルド</p>
-                    <p>2017 &ensp; 日本</p>
-                    <p>任天堂株式会社</p>
-                </div>
-            </div>
-            <div class="personalTenBestContent">
-                <div class="personalTenBestContentImg">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="大乱闘スマッシュブラザーズ SPECIAL">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-8.jpg" alt="大乱闘スマッシュブラザーズ SPECIAL">
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>大乱闘スマッシュブラザーズ SPECIAL</h5>
                     <p>大乱闘スマッシュブラザーズ SPECIAL</p>
                     <p>2018 &ensp; 日本</p>
                     <p>ソラ</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-9.jpg" alt="ゼルダの伝説 時のオカリナ">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ゼルダの伝説 時のオカリナ</h5>
+                    <p>ゼルダの伝説 時のオカリナ</p>
+                    <p>1998 &ensp; 日本</p>
+                    <p>任天堂株式会社</p>
+                </div>
+            </div>
+            <div class="personalTenBestContent">
+                <div class="personalTenBestContentImg">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="ファイナルファンタジーIX">
+                </div>
+                <div class="personalTenBestContentInfo">
+                    <h5>ファイナルファンタジーIX</h5>
+                    <p>ファイナルファンタジーIX</p>
+                    <p>2000 &ensp; 日本</p>
+                    <p>スクウェア</p>
                 </div>
             </div>
         </div>
