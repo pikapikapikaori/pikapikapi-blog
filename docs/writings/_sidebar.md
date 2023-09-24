@@ -13,6 +13,7 @@
 
 -
   - [季度印象最深刻单集 2023.07](/writings/SeasonBest-202307-20230703)
+  - [大量私货的10年代十佳游戏](/writings/10TenBestGames-20230810)
   - [季度印象最深刻单集 2023.04](/writings/SeasonBest-202304-20230612)
   - [EM·魔术师·异色眼卡组分享](/writings/YGOMagicianDeck-202304-20230615)
   - [Z 高达 Wave-Shooter 形态设定考](/writings/ZGundam-20220417)
@@ -26,6 +27,7 @@
 </div>
 
 -
+  - [随记：近日玩具购入 癸卯年己未月乙未日](/writings/Notes-20230805)
   - [宝可梦晶灿钻石／明亮珍珠与宝可梦Home联动相关](/writings/PokemonBDSP-20230624)
   - [记第25届上海国际电影节](/writings/Siff25-20230604)
   - [随记：图集 癸卯年丁巳月丙寅日](/writings/Notes-20230508)
