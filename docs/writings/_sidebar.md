@@ -12,6 +12,7 @@
 </div>
 
 -
+  - [季度印象最深刻单集 2023.07](/writings/SeasonBest-202307-20230703)
   - [大量私货的10年代十佳游戏](/writings/10TenBestGames-20230810)
   - [季度印象最深刻单集 2023.04](/writings/SeasonBest-202304-20230612)
   - [EM·魔术师·异色眼卡组分享](/writings/YGOMagicianDeck-202304-20230615)
