@@ -1,3 +1,11 @@
+<!--
+ * @Author: pikapikapi pikapikapi_kaori@icloud.com
+ * @Date: 2023-09-19 17:06:07
+ * @LastEditors: pikapikapi pikapikapi_kaori@icloud.com
+ * @LastEditTime: 2023-12-11 08:34:22
+ * @FilePath: /pikapikapi-blog/docs/writings/BriefComments.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # 短评集
 
 > 本篇主要包含一些难以成文的短评
@@ -6,6 +14,16 @@
 <hr class="briefCommentsOrNotesInBlogTitleYearDivider">
 <details class="briefCommentsOrNotesInBlogTitleYear" open>
     <summary>2023</summary>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            9号和10号的偶像大师&Love Live异次元歌合战，虽然没有去现场不过也是两天全程看了生放配信，这里简单写一下repo吧。两天每天八九十个人五十首歌，拉拉这边水虹星莲都是两天全上，爱马仕因为人太多百万灰灰sc两天没重样的，比较惊喜的应该是第二天U149也来了。Live本身每天都有混唱部分，包括每个团自己的自选曲目或者虹是solo串，到最后则是两个团唱其他团代表曲以及整个系列唱另一个系列的本家曲，例如说Day1末拉拉唱了「Ready！」，这个环节确实还不错。两天下来最印象深刻的果然还是Day2的两首压轴曲吧，首先是爱马仕热唱「Snow Halation」，时隔多年的名曲以这种形式与大家再见，看到东蛋全场变色那一刻真的是太感动。紧接着的是拉拉热唱「M@sterpiece」，这首对爱马仕p而言也是有着相当的份量，而在最后的高潮安排让爱马仕的人加入拉拉变为全体大合唱，更给这周本就意义非常的曲子带来了新的闪耀。当然遗憾的是两方的本家都没来吧。过去那周也正好情绪来了重新看了765as的七周年、十周年和22年sunrich colorful的live，还有wug的final，感动常在呀。
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2023.12.11
+        </div>
+    </div>
     <div class="briefCommentsOrNotesInBlog">
         <div class="briefCommentsOrNotesInBlogImageContainer">
             <img src="./_media/kaori-logo.JPG" class="ignoreViewFullImageImg">
