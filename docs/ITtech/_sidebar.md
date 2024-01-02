@@ -22,6 +22,7 @@
 </div>
 
 -
+  - [论文阅读 2023.11](/ITtech/PaperReading-202311-20231114)
   - [论文阅读 2023.10](/ITtech/PaperReading-202310-20231016)
   - [论文阅读 2023.09](/ITtech/PaperReading-202309-20230920)
   - [论文阅读 2023.08](/ITtech/PaperReading-202308-20230810)
