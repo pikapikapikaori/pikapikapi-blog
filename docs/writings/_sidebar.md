@@ -12,6 +12,7 @@
 </div>
 
 -
+  - [2023年度TV动画单集十选](/writings/YearBest-2023-20240106)
   - [季度印象最深刻单集 2023.10](/writings/SeasonBest-202310-20231111)
   - [季度印象最深刻单集 2023.07](/writings/SeasonBest-202307-20230703)
   - [大量私货的10年代十佳游戏](/writings/10TenBestGames-20230810)
