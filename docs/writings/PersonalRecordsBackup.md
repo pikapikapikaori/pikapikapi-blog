@@ -5,6 +5,7 @@
 
 | 最后更新时间 |                                  电影 csv文件                                   |                              ACGN json文件                              |
 | :----------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+|  2024.01.21   | [db-movie-20240121.csv](writings/_media/PersonalRecordsBackup/db-movie-20240121.csv ':ignore') | [bgm-20240121.json](writings/_media/PersonalRecordsBackup/bgm-20240121.json ':ignore') |
 |  2023.12.31   | [db-movie-20231231.csv](writings/_media/PersonalRecordsBackup/db-movie-20231231.csv ':ignore') | [bgm-20231231.json](writings/_media/PersonalRecordsBackup/bgm-20231231.json ':ignore') |
 |  2023.11.26   | [db-movie-20231126.csv](writings/_media/PersonalRecordsBackup/db-movie-20231126.csv ':ignore') | [bgm-20231126.json](writings/_media/PersonalRecordsBackup/bgm-20231126.json ':ignore') |
 |  2023.10.26   | [db-movie-20231026.csv](writings/_media/PersonalRecordsBackup/db-movie-20231026.csv ':ignore') | [bgm-20231026.json](writings/_media/PersonalRecordsBackup/bgm-20231026.json ':ignore') |
