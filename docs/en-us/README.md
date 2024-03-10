@@ -14,7 +14,9 @@
 >Still wouldst thou sing, and I have ears in vain --\
 >To thy high requiem become a sod.
 
-Welcome to my blog. I am currently studying to become a good full-stack engineer.
+Welcome to my blog.
+
+Dream to be a person who holds love of wisdom and beauty.
 
 ## About This Blog
 
