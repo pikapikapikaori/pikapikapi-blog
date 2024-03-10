@@ -9,13 +9,15 @@
 > さびしきつかれ\
 > 早春のたび
 
-私のブログへようこそ。フルスタックエンジニアを目指して勉強中です。
+私のブログへようこそ。
+
+知恵と美への愛を持つ人になりたいです。
 
 ## このブログについて
 
-[このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用しており、GitHub Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
+[このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用して、GitHub Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
 
-さらに、[Hexo](https://hexo.io/)を利用しておるこのブログの[サブサイト](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)もデプロイされました。以下のセクションでプレビューすることができます：
+さらに、[Hexo](https://hexo.io/)を利用し、このブログの[サブサイト](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)もデプロイされました。プレビューはこちらです：
 
 ![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=700px')
 
