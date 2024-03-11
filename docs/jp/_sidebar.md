@@ -1,1 +1,2 @@
-- [私について](/jp/README)
+- [ナビ / 导航 / Navigation](/jp/README)
+- [このサイトについて](/jp/About)
