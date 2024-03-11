@@ -1,5 +1,9 @@
 # 個人ベスト10リスト
 
+[personal ten best card](./PersonalTenBestCard.md ':include')
+
+## リスト
+
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
         <div class="personalTenBestTitle">映画</div>
