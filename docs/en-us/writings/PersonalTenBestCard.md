@@ -1,7 +1,5 @@
 ## Personal Ten Best
 
-> Click [here](en-us/writings/PersonalTenBest.md) for details。
-
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
         <div class="personalTenBestTitleSmall">

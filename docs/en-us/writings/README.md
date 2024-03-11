@@ -2,4 +2,6 @@
 
 Here are some writings of mine.
 
-[personal ten best card](./PersonalTenBestCard.md ':include')
+## Links
+
+- [Personal Ten Best](/en-us/writings/PersonalTenBest)

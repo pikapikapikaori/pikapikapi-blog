@@ -6,6 +6,7 @@
   - [前言](/writings/)
   - [个人十佳榜单](/writings/PersonalTenBest)
   - [短评集](/writings/BriefComments)
+  - [个人观影记录](/writings/PersonalRecordsBackup)
 
 <div class="pagesSideBarLevel1TitleDiv">
   文章

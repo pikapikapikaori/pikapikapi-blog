@@ -2,4 +2,6 @@
 
 ここに私の随想があります。
 
-[personal ten best card](./PersonalTenBestCard.md ':include')
+## ナビ
+
+- [個人ベスト10](/jp/writings/PersonalTenBest)。

@@ -1,7 +1,5 @@
 ## 个人十佳
 
-> 详细信息请至[这里](writings/PersonalTenBest.md)。
-
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
         <div class="personalTenBestTitleSmall">
