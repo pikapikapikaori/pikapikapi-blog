@@ -20,7 +20,8 @@ function plugin(hook, vm) {
         if (!previousGitalk) {
             var gitalkContainer = document.createElement('div')
             gitalkContainer.id = 'gitalk-container'
-            gitalkContainer.style.maxWidth = '80%'
+            gitalkContainer.style.maxWidth = '1100px'
+            gitalkContainer.style.width = '80%'
             gitalkContainer.style.margin = '0px auto 20px'
             gitalkContainer.style.padding = '0 15px 0'
             document.getElementById('main').parentNode.insertBefore(gitalkContainer, undefined)
