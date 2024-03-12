@@ -1,29 +1,29 @@
 .gt-header-controls-tip {
-    color: #c6a2eb !important;
+    color: var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-link {
-    color: #c6a2eb !important;
-    border-bottom: 1px dotted #c6a2eb !important;
+    color: var(--theme-color,#ea6f5a) !important;
+    border-bottom: 1px dotted var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-btn-login {
-    background-color: #c6a2eb !important;
-    border: 1px solid #c6a2eb !important;
+    background-color: var(--theme-color,#ea6f5a) !important;
+    border: 1px solid var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-btn-preview {
-    color: #c6a2eb !important;
-    border: 1px solid #c6a2eb !important;
+    color: var(--theme-color,#ea6f5a) !important;
+    border: 1px solid var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-btn-public {
-    background-color: #c6a2eb !important;
-    border-color: #c6a2eb !important;
+    background-color: var(--theme-color,#ea6f5a) !important;
+    border-color: var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-container .gt-comment-username {
-    color: #c6a2eb !important;
+    color: var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-container .gt-ico-github .gt-svg svg {
@@ -31,7 +31,7 @@
 }
 
 .gt-container .gt-svg svg {
-    fill: #c6a2eb !important;
+    fill: var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-container a.is--active {
@@ -39,17 +39,17 @@
 }
 
 .gt-container a.is--active:before {
-    background: #c6a2eb !important;
+    background: var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-container a {
-    color: #c6a2eb !important;
+    color: var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-popup .gt-action {
-    color: #c6a2eb !important;
+    color: var(--theme-color,#ea6f5a) !important;
 }
 
 .gt-popup .gt-action {
-    color: #c6a2eb !important;
+    color: var(--theme-color,#ea6f5a) !important;
 }

@@ -16,13 +16,13 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #c6a2eb !important;
+    background: var(--theme-color,#ea6f5a) !important;
 }
 
 .pageSidebarTitleClass {
     font-size: 26px;
     font-family: 'Menlo', sans-serif;
-    color: #c6a2eb;
+    color: var(--theme-color,#ea6f5a);
 }
 
 .pagesSideBarLevel1TitleDiv {

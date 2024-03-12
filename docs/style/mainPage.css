@@ -92,7 +92,7 @@
 }
 
 .briefCommentsOrNotesInBlogTitleYearDivider::before {
-    background: #c6a2eb;
+    background: var(--theme-color,#ea6f5a);
     height: 2px;
     width: 100px;
     content: ' ';
@@ -102,7 +102,7 @@
 }
 
 .briefCommentsOrNotesInBlogTitleYearDivider::after {
-    background: #c6a2eb;
+    background: var(--theme-color,#ea6f5a);
     height: 2px;
     width: 100px;
     content: ' ';
@@ -120,7 +120,7 @@
     text-align: center;
     font-family: "Menlo";
     font-size: 50px;
-    color: #c6a2eb;
+    color: var(--theme-color,#ea6f5a);
     list-style: none;
     margin-bottom: 40px;
     position: relative !important;
@@ -164,7 +164,7 @@
     margin-left: 30px;
     margin-right: 10px;
     padding: 20px 20px 20px;
-    background-color: #c6a2eb;
+    background-color: var(--theme-color,#ea6f5a);
     color: #fff;
     border-radius: 10px;
 }
