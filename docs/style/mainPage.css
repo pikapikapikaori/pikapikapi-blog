@@ -1,6 +1,7 @@
 .mainPageRightPanelContainer {
     font-family: 'WeibeiSC-Bold';
-    border: 1px solid rgba(198, 162, 235, .17);
+    border: 1px solid var(--theme-color,#ea6f5a);
+    background-color: rgba(0,0,0,.1);
     border-radius: 10px;
     margin: 0 auto 20px;
     max-width: 400px;
@@ -178,12 +179,13 @@
 }
 
 .briefCommentsOrNotesInBlogCommentsContainer a {
-    color: #9F88CF !important;
+    color: #F3F6F4 !important;
 }
 
 .briefCommentsOrNotesInBlogCommentsContainer blockquote {
-    border-left: 4px solid #9F88CF !important;
+    border-left: 4px solid #F3F6F4 !important;
     margin: 0.7em 0 !important;
+    color: #EEEEEE !important;
 }
 
 .briefCommentsOrNotesInBlogCommentsDivider {
