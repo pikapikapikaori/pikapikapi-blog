@@ -180,11 +180,11 @@ function plugin(hook, vm) {
         colorPickerPopupSpan.className = 'colorPickerPopupSpan'
         colorPickerPopupSpan.style.position = 'fixed'
         colorPickerPopupSpan.style.right = (switchLightDarkModeOptions.right + 35).toString() + 'px'
-        colorPickerPopupSpan.style.top = (switchLightDarkModeOptions.top + 10).toString() + 'px'
+        colorPickerPopupSpan.style.top = (switchLightDarkModeOptions.top + 30).toString() + 'px'
         var colorPickerPopupDiv = document.createElement('div')
         colorPickerPopupDiv.id = 'colorPickerPopupDiv'
         colorPickerPopupDiv.className = 'colorPickerPopupDiv'
-        colorPickerPopupDiv.innerHTML = '<input type="range" min="0" max="360" value="270" class="colorPickerSlider" id="colorPickerSlider" step="5">'
+        colorPickerPopupDiv.innerHTML = '<div class="colorPickerPresetColorListDiv"><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2a2;" data-hue="0"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ecc7a2;" data-hue="30"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ececa2;" data-hue="60"></div> <div class="colorPickerPresetColorBtnDiv" style="background-color: #a2ecec;" data-hue="180"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #aea2ec;" data-hue="250"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #c7a2ec;" data-hue="270"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2ec;" data-hue="300"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2c7;" data-hue="330"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2b4;" data-hue="345"></div></div><input type="range" min="0" max="360" value="270" class="colorPickerSlider" id="colorPickerSlider" step="5">'
 
         colorPickerPopupSpan.appendChild(colorPickerPopupDiv)
 
@@ -194,18 +194,40 @@ function plugin(hook, vm) {
         colorPickerSlider = colorPickerPopupDiv.getElementsByClassName('colorPickerSlider')[0]
 
         colorPickerSlider.oninput = function () {
-            document.documentElement.style.setProperty('--theme-color', hslToHex(this.value, 66, 78));
+            document.documentElement.style.setProperty('--theme-color', hslToHex(this.value, 66, 78))
         }
 
+        Array.from(colorPickerPopupDiv.getElementsByClassName('colorPickerPresetColorBtnDiv')).forEach(colorPickerPresetColorBtn => {
+            colorPickerPresetColorBtn.onclick = function (event) {
+                document.documentElement.style.setProperty('--theme-color', hslToHex(event.target.dataset.hue, 66, 78))
+                colorPickerSlider.value = event.target.dataset.hue
+            }
+        })
+
         function hslToHex(h, s, l) {
-            l /= 100;
-            const a = s * Math.min(l, 1 - l) / 100;
+            l /= 100
+            const a = s * Math.min(l, 1 - l) / 100
             const f = n => {
-                const k = (n + h / 30) % 12;
+                const k = (n + h / 30) % 12
                 const color = l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
                 return Math.round(255 * color).toString(16).padStart(2, '0');   // convert to Hex and prefix "0" if needed
-            };
-            return `#${f(0)}${f(8)}${f(4)}`;
+            }
+            return `#${f(0)}${f(8)}${f(4)}`
+        }
+
+        let iscolorPickerPopupOpen = true
+
+        colorPickerSpan.onclick = function () {
+            iscolorPickerPopupOpen = !iscolorPickerPopupOpen
+
+            if (iscolorPickerPopupOpen) {
+                colorPickerPopupSpan.classList.remove('colorPickerPopupSpanDisappear')
+                colorPickerPopupSpan.classList.add('colorPickerPopupSpanAppear')
+            }
+            else {
+                colorPickerPopupSpan.classList.remove('colorPickerPopupSpanAppear')
+                colorPickerPopupSpan.classList.add('colorPickerPopupSpanDisappear')
+            }
         }
 
         var scrollToCommentSpan = document.createElement('span')
@@ -273,6 +295,17 @@ function plugin(hook, vm) {
                     widget.classList.remove('pageRightToolsWidgetsSpanAppear')
                     widget.classList.add('pageRightToolsWidgetsSpanDisappear')
                 })
+
+                iscolorPickerPopupOpen = isWidgetsOpen
+
+                if (iscolorPickerPopupOpen) {
+                    colorPickerPopupSpan.classList.remove('colorPickerPopupSpanDisappear')
+                    colorPickerPopupSpan.classList.add('colorPickerPopupSpanAppear')
+                }
+                else {
+                    colorPickerPopupSpan.classList.remove('colorPickerPopupSpanAppear')
+                    colorPickerPopupSpan.classList.add('colorPickerPopupSpanDisappear')
+                }
             }
         }
 
