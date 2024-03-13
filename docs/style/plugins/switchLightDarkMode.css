@@ -11,3 +11,37 @@
 .pageRightToolsWidgetsSpan>svg:hover {
     cursor: pointer;
 }
+
+.colorPickerPopupDiv {
+    border: 1px solid var(--theme-color,#ea6f5a);
+    height: 130px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,.1);
+    text-align: center;
+}
+
+.colorPickerSlider {
+    width: 80%;
+    margin-top: 110px;
+    border-radius: 10px;
+    appearance: none;
+    height: 5px;
+    background-color: var(--theme-color,#ea6f5a);
+}
+
+.colorPickerSlider::-webkit-slider-runnable-track {
+    background-color: rgba(0,0,0,.2);
+    height: 5px;
+    border-radius: 10px;
+}
+
+.colorPickerSlider::-webkit-slider-thumb {
+    appearance: none;
+    position: relative;
+    height: 20px;
+    width: 7px;
+    margin-top: -7px;
+    background-color: var(--theme-color,#ea6f5a);
+    border-radius: 3px;
+}
