@@ -14,9 +14,11 @@ Welcome to my blog, you can find the language selection to the right of the navi
 - ズームイン
 - ズームアウト
 - デフォルトのサイズに戻します
+- テーマカラーピッカー
 - コメント
 - 桜吹雪の特殊効果のオン/オフを切り替えます
 - アイコンの展開/折りたたみ
+- トップに戻ります
 
 ## クイックリンク
 

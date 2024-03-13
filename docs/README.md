@@ -14,9 +14,11 @@ Welcome to my blog, you can find the language selection to the right of the navi
 - 放大
 - 缩小
 - 回到默认大小
+- 主题色拾色器
 - 评论
 - 打开/关闭飘落的樱花特效
 - 展开/收起悬浮图标
+- 回顶部
 
 ## 快速链接
 

@@ -177,14 +177,14 @@ function plugin(hook, vm) {
 
         var colorPickerPopupSpan = document.createElement('span')
         colorPickerPopupSpan.id = 'colorPickerPopupSpan'
-        colorPickerPopupSpan.className = 'colorPickerPopupSpan'
+        colorPickerPopupSpan.className = 'colorPickerPopupSpan colorPickerPopupSpanDisappear'
         colorPickerPopupSpan.style.position = 'fixed'
         colorPickerPopupSpan.style.right = (switchLightDarkModeOptions.right + 35).toString() + 'px'
         colorPickerPopupSpan.style.top = (switchLightDarkModeOptions.top + 30).toString() + 'px'
         var colorPickerPopupDiv = document.createElement('div')
         colorPickerPopupDiv.id = 'colorPickerPopupDiv'
         colorPickerPopupDiv.className = 'colorPickerPopupDiv'
-        colorPickerPopupDiv.innerHTML = '<div class="colorPickerPresetColorListDiv"><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2a2;" data-hue="0"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ecc7a2;" data-hue="30"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ececa2;" data-hue="60"></div> <div class="colorPickerPresetColorBtnDiv" style="background-color: #a2ecec;" data-hue="180"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #aea2ec;" data-hue="250"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #c7a2ec;" data-hue="270"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2ec;" data-hue="300"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2c7;" data-hue="330"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2b4;" data-hue="345"></div></div><input type="range" min="0" max="360" value="270" class="colorPickerSlider" id="colorPickerSlider" step="5">'
+        colorPickerPopupDiv.innerHTML = '<div class="colorPickerPresetColorListDiv"><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2a2;" data-hue="0"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ecc7a2;" data-hue="30"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ececa2;" data-hue="60"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #c7eca2;" data-hue="90"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #a2ecec;" data-hue="180"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #aea2ec;" data-hue="250"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #c7a2ec;" data-hue="270"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2ec;" data-hue="300"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2c7;" data-hue="330"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2b4;" data-hue="345"></div></div><input type="range" min="0" max="360" value="270" class="colorPickerSlider" id="colorPickerSlider" step="5">'
 
         colorPickerPopupSpan.appendChild(colorPickerPopupDiv)
 
@@ -215,7 +215,7 @@ function plugin(hook, vm) {
             return `#${f(0)}${f(8)}${f(4)}`
         }
 
-        let iscolorPickerPopupOpen = true
+        let iscolorPickerPopupOpen = false
 
         colorPickerSpan.onclick = function () {
             iscolorPickerPopupOpen = !iscolorPickerPopupOpen
