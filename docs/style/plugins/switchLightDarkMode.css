@@ -24,6 +24,7 @@
     background-color: rgba(0,0,0,.1);
     text-align: center;
     backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
 }
 
 .colorPickerSlider {
