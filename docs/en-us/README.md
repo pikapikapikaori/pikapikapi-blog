@@ -14,9 +14,11 @@ The floating icons on the right are, from top to bottom:
 - Zoom in
 - Zoom out
 - Default size
+- Theme color picker
 - Comment
 - Turn on/off the falling cherry blossoms effect
 - Expand/collapse floating icons
+- Back to the top
 
 ## Quick Links
 
