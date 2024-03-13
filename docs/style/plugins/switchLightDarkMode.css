@@ -73,6 +73,6 @@
 }
 
 .colorPickerPopupSpanDisappear {
-    transform: translate(400px, 0);
+    transform: translate(270px, 0);
     transition-duration: 1s;
 }
