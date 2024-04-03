@@ -1,0 +1,4 @@
+.scroll-to-top:hover {
+    transform: scale(1.2);
+    transition-duration: 100ms;
+}

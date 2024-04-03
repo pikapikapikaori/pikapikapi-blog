@@ -12,6 +12,11 @@
     z-index: 999;
 }
 
+.pageRightToolsWidgetsSpan:hover {
+    transform: scale(1.2);
+    transition-duration: 100ms;
+}
+
 .pageRightToolsWidgetsSpan>svg:hover {
     cursor: pointer;
 }
