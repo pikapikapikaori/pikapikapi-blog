@@ -1,55 +1,30 @@
 .dynamicCover {
-    animation: dynamicCoverSwitch 90s infinite;
+    animation: dynamicCoverSwitch 60s infinite;
 }
 
 @keyframes dynamicCoverSwitch {
-    0%, 5%, 100% {
+    0%, 10%, 100% {
         background: url("../../_media/coverBackgrounds/cover-1.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    10%, 15% {
+    20%, 30% {
         background: url("../../_media/coverBackgrounds/cover-2.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    20%, 25% {
+    40%, 50% {
         background: url("../../_media/coverBackgrounds/cover-3.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    30%, 35% {
+    60%, 70% {
         background: url("../../_media/coverBackgrounds/cover-4.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    40%, 45% {
+    80%, 90% {
         background: url("../../_media/coverBackgrounds/cover-5.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-    50%, 55% {
-        background: url("../../_media/coverBackgrounds/cover-6.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-    60%, 65% {
-        background: url("../../_media/coverBackgrounds/cover-7.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-    70%, 75% {
-        background: url("../../_media/coverBackgrounds/cover-8.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-    80%, 85% {
-        background: url("../../_media/coverBackgrounds/cover-9.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-    90%, 95% {
-        background: url("../../_media/coverBackgrounds/cover-10.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
