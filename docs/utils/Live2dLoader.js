@@ -74,6 +74,7 @@ class Live2dLoader {
         canvas.id = 'canvas'
         document.body.appendChild(canvas)
         canvas.style.position = 'fixed'
+        canvas.style.zIndex = 99999
         if (config.left) canvas.style.left = config.left
         if (config.right) canvas.style.right = config.right
         if (config.top) canvas.style.top = config.top
