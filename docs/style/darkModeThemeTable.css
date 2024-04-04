@@ -1,3 +1,11 @@
 .markdown-section tr:nth-child(2n) {
     background-color: #4d4c4c !important;
 }
+
+.app-nav li ul {
+    background-color: #3f3f3f !important;
+}
+
+.docsify-pagination-container {
+    border-top: 1px solid #eee !important;
+}
