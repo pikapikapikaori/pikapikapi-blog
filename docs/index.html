@@ -37,7 +37,7 @@
       loadSidebar: true,
       subMaxLevel: 2,
       auto2top: true,
-      themeColor: '#c6a2eb',
+      themeColor: '#c7a2ec',
 
       // 脚注插件设置
       loadFooter: true,
@@ -114,7 +114,7 @@
       // 自用插件
       // 页面添加gitalk，并在最底端添加footer，使得gitalk下方有空间
       gitalkWithFooter: {
-        footerInnerHtml: "<div style='text-align: center;max-width: 80%;align-self: center;padding: 30px 15px 20px;margin: 0 auto'><div 1px solid #eee; style='border-top: 1px solid #eee;'><br><p><small>© 2023 - 2023 李亦杨 / <ruby>リエキヨウ</ruby> / Jeff Li - All Rights Reserved.</small></p><div/></div>",
+        footerInnerHtml: "<div style='text-align: center;max-width: 1100px;width: 80%;align-self: center;padding: 30px 15px 20px;margin: 0 auto'><div 1px solid #eee; style='border-top: 1px solid #eee;'><br><p><small>© 2023 - 2024 李亦杨 / <ruby>リエキヨウ</ruby> / Jeff Li - All Rights Reserved.</small></p><div/></div>",
         gitalkConfig: {
           clientID: '6a54e5946401951488d1',
           clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
@@ -160,9 +160,9 @@
       // 回到顶部
       scrollToTop: {
         auto: true,
-        text: '<?xml version="1.0" encoding="UTF-8"?><svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#d1b5ef"><path d="M6 11l6-6 6 6M6 19l6-6 6 6" stroke="#d1b5ef" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        text: '<?xml version="1.0" encoding="UTF-8"?><svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M6 11l6-6 6 6M6 19l6-6 6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         right: 26,
-        top: 375,
+        top: 410,
         offset: 500
       },
 
@@ -235,6 +235,9 @@
   <!-- Docsify docsify-example-panels 插件 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script>
 
+  <!-- Docsify docsify-loading 插件 -->
+  <script src="//cdn.jsdelivr.net/npm/@sy-records/docsify-loading/lib/index.min.js"></script>
+
 
   <!-- Live2D模型 Cubism 4 -->
   <script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
@@ -247,7 +250,7 @@
         {
           width: 400,
           height: 400,
-          right: "0px",
+          right: "55px",
           bottom: "0px",
           role: "./live2d/rice_pro_en/runtime/rice_pro_t03.model3.json",
           background: "",
@@ -284,11 +287,16 @@
   <script src="./utils/viewFullImage.js"></script>
 
   <!-- 回到顶部 -->
+  <link rel="stylesheet" href="./style/plugins/scrollToTop.css">
   <script src="./utils/docsify-scroll-to-top.js"></script>
 
   <!-- 最后编辑时间 -->
   <script src="//cdn.jsdelivr.net/npm/tinydate@1.3.0/dist/tinydate.min.js"></script>
   <script src="./utils/lastUpdatedTime.js"></script>
+
+  <!-- 最后编辑时间 -->
+  <link rel="stylesheet" href="./style/plugins/dynamicCover.css">
+  <script src="./utils/dynamicCover.js"></script>
 </body>
 
 </html>

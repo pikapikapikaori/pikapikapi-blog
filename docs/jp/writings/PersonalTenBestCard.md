@@ -1,7 +1,5 @@
 ## 個人ベスト10
 
-> 詳細は[こちら](jp/writings/PersonalTenBest.md)。
-
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
         <div class="personalTenBestTitleSmall">

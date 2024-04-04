@@ -1,1 +1,2 @@
-- [关于我](/README)
+- [导航 / ナビ / Navigation](/README)
+- [关于](/About)

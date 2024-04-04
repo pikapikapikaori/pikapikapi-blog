@@ -47,6 +47,6 @@
     height: 3vh;
     position: absolute;
     text-align: center;
-    color: #c6a2eb;
+    color: var(--theme-color,#ea6f5a);
     font-family: 'Menlo';
 }

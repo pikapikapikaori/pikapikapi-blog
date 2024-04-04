@@ -6,6 +6,8 @@
   - [前言](/writings/)
   - [个人十佳榜单](/writings/PersonalTenBest)
   - [短评集](/writings/BriefComments)
+  - [个人观影记录](/writings/PersonalRecordsBackup)
+  - [实用网站快速链接](/writings/UsefulWebsites)
 
 <div class="pagesSideBarLevel1TitleDiv">
   文章

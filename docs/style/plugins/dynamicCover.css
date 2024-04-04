@@ -1,0 +1,31 @@
+.dynamicCover {
+    animation: dynamicCoverSwitch 60s infinite;
+}
+
+@keyframes dynamicCoverSwitch {
+    0%, 10%, 100% {
+        background: url("../../_media/coverBackgrounds/cover-1.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    20%, 30% {
+        background: url("../../_media/coverBackgrounds/cover-2.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    40%, 50% {
+        background: url("../../_media/coverBackgrounds/cover-3.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    60%, 70% {
+        background: url("../../_media/coverBackgrounds/cover-4.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    80%, 90% {
+        background: url("../../_media/coverBackgrounds/cover-5.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

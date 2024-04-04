@@ -1,12 +1,3 @@
-/*
- * @Author: pikapikapikaori pikapikapi_kaori@icloud.com
- * @Date: 2023-05-02 12:57:52
- * @LastEditors: pikapikapikaori pikapikapi_kaori@icloud.com
- * @LastEditTime: 2023-05-03 03:25:28
- * @FilePath: /pikapikapi-blog/docs/utils/countWords.js
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
-
 // Docsify plugin functions
 function plugin(hook, vm) {
     hook.mounted(function () {
@@ -19,8 +10,8 @@ function plugin(hook, vm) {
 
         viewFullImageSpanInnerLeftDiv.id = 'viewFullImageSpanInnerLeftDiv'
         viewFullImageSpanInnerRightDiv.id = 'viewFullImageSpanInnerRightDiv'
-        viewFullImageSpanInnerLeftDiv.innerHTML = '<?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#c6a2eb"><path d="M15 6l-6 6 6 6" stroke="#c6a2eb" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
-        viewFullImageSpanInnerRightDiv.innerHTML = '<?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#c6a2eb"><path d="M9 6l6 6-6 6" stroke="#c6a2eb" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
+        viewFullImageSpanInnerLeftDiv.innerHTML = '<?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M15 6l-6 6 6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
+        viewFullImageSpanInnerRightDiv.innerHTML = '<?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M9 6l6 6-6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
 
         var viewFullImageSpanInnerImgDiv = document.createElement('div')
 
