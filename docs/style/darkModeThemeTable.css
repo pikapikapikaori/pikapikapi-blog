@@ -9,3 +9,7 @@
 .docsify-pagination-container {
     border-top: 1px solid #eee !important;
 }
+
+.sidebar {
+    border-right: 1px solid #eee !important;
+}
