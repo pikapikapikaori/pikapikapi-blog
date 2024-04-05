@@ -264,7 +264,7 @@
     margin-top: 20px;
     display: flex;
     overflow: hidden;
-    height: 150px;
+    height: 170px;
 }
 
 .personalTenBestContentImg img {
@@ -315,6 +315,11 @@
     .personalTenBest {
         margin-top: 10px;
         width: 100%;
+    }
+
+    .personalTenBestContent {
+        overflow: hidden;
+        height: 135px;
     }
 
     .personalTenBestContentInfo {
