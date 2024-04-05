@@ -4,9 +4,12 @@
 
 ## リスト
 
+<!-- tabs:start -->
+
+#### **映画**
+
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">映画</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -74,6 +77,10 @@
                     <p>ウディ・アレン</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-7.jpg" alt="Pulp Fiction">
@@ -131,8 +138,12 @@
             </div>
         </div>
     </div>
+</div>
+
+#### **ドラマ**
+
+<div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">ドラマ</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -189,6 +200,10 @@
                     <p>松原信吾 / 村石宏实 / 川崎乡太</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="暴太郎戦隊ドンブラザーズ">
@@ -248,9 +263,10 @@
     </div>
 </div>
 
+#### **アニメ**
+
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">アニメ</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -318,6 +334,10 @@
                     <p>石黒昇 / 河森正治</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-5.jpg" alt="カウボーイビバップ">
@@ -386,8 +406,12 @@
             </div>
         </div>
     </div>
+</div>
+
+#### **漫画**
+
+<div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">漫画</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -444,6 +468,10 @@
                     <p>安達哲</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-6.jpg" alt="タッチ">
@@ -503,9 +531,10 @@
     </div>
 </div>
 
+#### **ゲーム**
+
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">ゲーム</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -572,7 +601,12 @@
                     <p>2010 &ensp; 日本</p>
                     <p>ゲームフリーク</p>
                 </div>
-            </div><div class="personalTenBestContent">
+            </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
+            <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-6-2.jpg" alt="ポケットモンスター ホワイト">
                 </div>
@@ -630,3 +664,5 @@
         </div>
     </div>
 </div>
+
+<!-- tabs:end -->

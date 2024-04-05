@@ -1,2 +1,2 @@
-- [ナビ / 导航 / Navigation](/jp/README)
+- [ナビ](/jp/README)
 - [このサイトについて](/jp/About)

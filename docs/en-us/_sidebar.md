@@ -1,2 +1,2 @@
-- [Navigation / 导航 / ナビ](/en-us/README)
+- [Navigation](/en-us/README)
 - [About Me](/en-us/About)

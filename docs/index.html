@@ -39,6 +39,15 @@
       auto2top: true,
       themeColor: '#c7a2ec',
 
+      // tab插件设置
+      tabs: {
+        persist: false, // default
+        sync: false, // default
+        theme: 'material', // default
+        tabComments: true, // default
+        tabHeadings: true // default
+      },
+
       // 脚注插件设置
       loadFooter: true,
 
@@ -178,6 +187,9 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- Docsify docsify-tabs插件 (latest v1.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 
   <!-- Docsify 脚注 -->
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
