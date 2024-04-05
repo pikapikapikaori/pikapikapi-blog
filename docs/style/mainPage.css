@@ -261,10 +261,15 @@
 }
 
 .personalTenBestContent {
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     overflow: hidden;
     height: 170px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, .1);
+    border-radius: 10px;
+    border: 1px solid var(--theme-color,#ea6f5a);
+    align-items: center;
 }
 
 .personalTenBestContentImg img {
@@ -313,7 +318,6 @@
     }
 
     .personalTenBest {
-        margin-top: 10px;
         width: 100%;
     }
 
