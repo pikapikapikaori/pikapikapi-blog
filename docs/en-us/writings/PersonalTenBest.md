@@ -4,9 +4,12 @@
 
 ## Info List
 
+<!-- tabs:start -->
+
+#### **Movie**
+
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">Movie</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -74,6 +77,10 @@
                     <p>Woody Allen</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-7.jpg" alt="Pulp Fiction">
@@ -131,8 +138,12 @@
             </div>
         </div>
     </div>
+</div>
+
+#### **TV Series**
+
+<div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">TV Series</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -189,6 +200,10 @@
                     <p>Shingo Matsubara / Hiromitsu Muraishi / Kyôta Kawasaki</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="暴太郎戦隊ドンブラザーズ">
@@ -248,9 +263,10 @@
     </div>
 </div>
 
+#### **Animation**
+
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">Animation</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -318,6 +334,10 @@
                     <p>Ishiguro Noboru / Kawamori Shouji</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-5.jpg" alt="カウボーイビバップ">
@@ -386,8 +406,12 @@
             </div>
         </div>
     </div>
+</div>
+
+#### **Manga**
+
+<div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">Manga</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -444,6 +468,10 @@
                     <p>Adachi Tetsu</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-6.jpg" alt="タッチ">
@@ -503,9 +531,10 @@
     </div>
 </div>
 
+#### **Game**
+
 <div class="personalTenBestContainer">
     <div class="personalTenBest">
-        <div class="personalTenBestTitle">Game</div>
         <div class="personalTenBestContentList">
             <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
@@ -572,7 +601,12 @@
                     <p>2010 &ensp; Japan</p>
                     <p>Game Freak</p>
                 </div>
-            </div><div class="personalTenBestContent">
+            </div>
+        </div>
+    </div>
+    <div class="personalTenBest">
+        <div class="personalTenBestContentList">
+            <div class="personalTenBestContent">
                 <div class="personalTenBestContentImg">
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-6-2.jpg" alt="ポケットモンスター ホワイト">
                 </div>
@@ -630,3 +664,5 @@
         </div>
     </div>
 </div>
+
+<!-- tabs:end -->
