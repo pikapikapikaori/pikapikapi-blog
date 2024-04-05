@@ -13,3 +13,7 @@
 .sidebar {
     border-right: 1px solid #eee !important;
 }
+
+.search .input-wrap>input[type=search] {
+    background: #3f3f3f! important;
+}
