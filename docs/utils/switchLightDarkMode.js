@@ -43,6 +43,8 @@ function plugin(hook, vm) {
     }
 
     hook.mounted(function () {
+
+        // 黑暗模式切换
         let lightTheme = Docsify.dom.findAll('link[href*="vue.css"]')[0]
         let darkTheme = Docsify.dom.findAll('link[href*="dark.css"]')[0]
 
@@ -116,6 +118,7 @@ function plugin(hook, vm) {
 
         document.body.appendChild(switchSpan)
 
+        // 页面放大缩小
         var zoomInSpan = document.createElement('span')
         zoomInSpan.id = 'zoomInSpan'
         zoomInSpan.className = 'pageRightToolsWidgetsSpan'
@@ -167,6 +170,7 @@ function plugin(hook, vm) {
         document.body.appendChild(zoomOutSpan)
         document.body.appendChild(zoomDefaultSpan)
 
+        // 页面主题色
         var colorPickerSpan = document.createElement('span')
         colorPickerSpan.id = 'colorPickerSpan'
         colorPickerSpan.className = 'pageRightToolsWidgetsSpan'
@@ -230,6 +234,7 @@ function plugin(hook, vm) {
             }
         }
 
+        // 滚动到评论区
         var scrollToCommentSpan = document.createElement('span')
         scrollToCommentSpan.id = 'scrollToCommentSpan'
         scrollToCommentSpan.className = 'pageRightToolsWidgetsSpan'
@@ -244,6 +249,7 @@ function plugin(hook, vm) {
 
         document.body.appendChild(scrollToCommentSpan)
 
+        // 樱花雨特效
         let sakura = new Sakura('body')
 
         var showSakuraSpan = document.createElement('span')
@@ -269,6 +275,7 @@ function plugin(hook, vm) {
 
         document.body.appendChild(showSakuraSpan)
 
+        // 隐藏显示小组件
         var showWidgetsSpan = document.createElement('span')
         showWidgetsSpan.id = 'showWidgetsSpan'
         showWidgetsSpan.className = 'pageRightToolsWidgetsSpan'
