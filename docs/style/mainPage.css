@@ -250,6 +250,8 @@
 
 .personalTenBest {
     width: 50%;
+    overflow: hidden;
+    padding: 0 5px;
 }
 
 .personalTenBestTitle {
@@ -261,6 +263,8 @@
 .personalTenBestContent {
     margin-top: 20px;
     display: flex;
+    overflow: hidden;
+    height: 150px;
 }
 
 .personalTenBestContentImg img {
@@ -298,7 +302,7 @@
 .personalTenBestImgSmall img {
     height: 120px;
     width: auto;
-    margin-right: -45px;
+    margin-right: -55px;
     position: relative;
     border-radius: 10px;
 }
