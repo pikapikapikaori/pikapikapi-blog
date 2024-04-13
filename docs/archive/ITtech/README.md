@@ -44,5 +44,5 @@
 ### Brainfuck解释器
 
 <div style="max-width: 800px;margin: 0 auto 0;">
-    <iframe height="400px" src="ITtech/_media/README/terminal.html"></iframe>
+    <iframe height="400px" src="archive/ITtech/_media/README/terminal.html"></iframe>
 </div>

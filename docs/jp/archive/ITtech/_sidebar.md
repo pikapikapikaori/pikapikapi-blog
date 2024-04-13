@@ -1,6 +1,6 @@
 <div class="pagesSideBarLevel1TitleDiv">
-  Preface
+  序文
 </div>
 
 -
-  - [Beginning](/en-us/ITtech/)
+  - [序文](/jp/archive/ITtech/)
