@@ -27,7 +27,7 @@
 - [后端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-backend)
 - [前端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-frontend)
 
-本博客的仓库中也保存了相关的源码，可以参考[这里](https://github.com/pikapikapikaori/pikapikapi-blog/tree/master/resource/ITtech/SoftwareDevelopementInsights-20230428)。
+本博客的仓库中也保存了相关的源码，可以参考[这里](https://github.com/pikapikapikaori/pikapikapi-blog/tree/master/resource/ITtech/SoftwareInsights-20230428)。
 
 ## 设计
 
@@ -507,19 +507,19 @@ flowchart TD
 
 快速应用开发模型（Rapid Application Development），又称V模型。似乎是为了改进瀑布式模型而在上世纪70至80年代提出的。这一模型大体上遵循下图的几个阶段：
 
-![picture](_media/SoftwareDevelopementInsights-20230428/RAD-model.webp)
+![picture](_media/SoftwareInsights-20230428/RAD-model.webp)
 
 ### 微服务
 
 SOA（面向服务架构）的一种变体，提倡将单一应用程序划分为松耦合的服务组，每个服务可独立部署。其概念最早于2005年提出。
 
-![picture](_media/SoftwareDevelopementInsights-20230428/microservice.png)
+![picture](_media/SoftwareInsights-20230428/microservice.png)
 
 ### 微前端
 
 2016年被正式提出，是微服务这一概念被扩展到前端的一种应用形式，便于新老项目的共存与过渡，以及项目独立开发等。
 
-![picture](_media/SoftwareDevelopementInsights-20230428/mircro-frontend.png)
+![picture](_media/SoftwareInsights-20230428/mircro-frontend.png)
 
 ### `Java`反射机制
 
