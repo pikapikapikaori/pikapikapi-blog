@@ -10,4 +10,4 @@
 </div>
 
 -
-  - [IT技術に関する記事](/jp/archive/ITtech)
+  - [IT技術に関する文章](/jp/archive/ITtech)
