@@ -63,10 +63,10 @@ function plugin(hook, vm) {
         viewFullImageSpan.ontouchend = function (e) {
             touchEndX = e.changedTouches[0].pageX
 
-            if (touchEndX - touchStartX > 80) {
+            if (touchEndX - touchStartX > 40) {
                 buttonLeftRightOnClick(true)
             }
-            else if (touchEndX - touchStartX < -80) {
+            else if (touchEndX - touchStartX < -40) {
                 buttonLeftRightOnClick(false)
             }
         }
