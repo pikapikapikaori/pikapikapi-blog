@@ -550,8 +550,10 @@
 
         //获取两个日期相差的天数
         Lunar.prototype.getDaysByDateString = function (dt1, dt2) {
-            let startDate = Date.parse(dt1.replace("/-/g", "/"))
-            let endDate = Date.parse(dt2.replace("/-/g", "/"))
+            dt1array = dt1.replace("/-/g", "/").split('-')
+            dt2array = dt2.replace("/-/g", "/").split('-')
+            let startDate = new Date(dt1array[2], dt1array[0], dt1array[1])
+            let endDate = new Date(dt2array[2], dt2array[0], dt2array[1])
             let diffDate = Math.abs(endDate - startDate)
             return Math.floor(diffDate / (1 * 24 * 60 * 60 * 1000))
         }
