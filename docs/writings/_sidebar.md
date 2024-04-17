@@ -32,6 +32,7 @@
 </div>
 
 -
+  - [随记：玩具重摄 甲辰年四月十八日](/writings/Notes-20240418)
   - [近期艺术展 甲辰年四月十三日](/writings/ArtExibit-20240413)
   - [日本旅行随拍 令和六年三月](/writings/JPTra-20240328)
   - [日本旅行随拍 令和六年二月](/writings/JPTra-20240217)
