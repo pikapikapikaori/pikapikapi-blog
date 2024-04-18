@@ -14,7 +14,7 @@
 >Still wouldst thou sing, and I have ears in vain --\
 >To thy high requiem become a sod.
 
-Dream to be a person who holds love of wisdom and beauty.
+Dream of becoming a person who holds love of wisdom and beauty.
 
 ## About This Blog
 
