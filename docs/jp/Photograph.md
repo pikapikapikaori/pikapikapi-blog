@@ -19,9 +19,12 @@
 
 <section class="multiImagesContainerSection">
 
-![picture](_media/Photograph/figure-1.jpeg)
-![picture](_media/Photograph/figure-2.jpeg)
-![picture](_media/Photograph/figure-3.jpeg)
+![picture](_media/Photograph/figure-1.jpg)
+![picture](_media/Photograph/figure-2.jpg)
+![picture](_media/Photograph/figure-3.jpg)
+![picture](_media/Photograph/figure-4.jpg)
+![picture](_media/Photograph/figure-5.jpg)
+![picture](_media/Photograph/figure-6.jpg)
 
 </section>
 
