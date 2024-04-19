@@ -24,7 +24,7 @@
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
-    <img src="./_media/kaori-logo.JPG" class="mainPageAboutMeAvatar" />
+    <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
     <h4 class="mainPageAboutMeTitle">リエキヨウ</h4>
     <p class="mainPageAboutMeDescription">李亦杨 / Jeff Li</p>
     <div class="mainPageAboutMeLinks">
