@@ -27,7 +27,7 @@ Besides, a [sub-site](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/) o
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
-    <img src="./_media/kaori-logo.JPG" class="mainPageAboutMeAvatar" />
+    <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
     <h4 class="mainPageAboutMeTitle">Jeff Li</h4>
     <p class="mainPageAboutMeDescription">李亦杨 / リエキヨウ</p>
     <div class="mainPageAboutMeLinks">

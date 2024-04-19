@@ -1,4 +1,4 @@
-![logo](../_media/kaori-logo.JPG ':size=20% :class=ignoreViewFullImageImg')
+![logo](../_media/logo.JPG ':size=20% :class=ignoreViewFullImageImg')
 
 # Jeff Li <small>李亦杨 / リエキヨウ</small>
 
