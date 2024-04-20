@@ -82,6 +82,12 @@ function plugin(hook, vm) {
                     {
                         left: tarImageLeftStart, 
                         display: 'none',
+                        backgroundImage: oldBackground,
+                        offset: 0.5,
+                    },
+                    {
+                        left: tarImageLeftStart, 
+                        display: 'none',
                         backgroundImage: newBackground,
                         offset: 0.53,
                     }, 
@@ -119,6 +125,12 @@ function plugin(hook, vm) {
                         display: 'none',
                         backgroundImage: oldBackground,
                         offset: 0.47,
+                    },
+                    {
+                        left: tarImageRightStart, 
+                        display: 'none',
+                        backgroundImage: oldBackground,
+                        offset: 0.5,
                     },
                     {
                         left: tarImageRightStart, 
