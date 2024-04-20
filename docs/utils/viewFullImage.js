@@ -80,9 +80,9 @@ function plugin(hook, vm) {
                         offset: 0.47,
                     },
                     {
-                        left: tarImageLeftStart, 
+                        left: tarImageRightStart, 
                         display: 'none',
-                        backgroundImage: oldBackground,
+                        backgroundImage: newBackground,
                         offset: 0.5,
                     },
                     {
@@ -103,7 +103,7 @@ function plugin(hook, vm) {
                         backgroundImage: newBackground,
                     },
                 ],
-                keyframeDuration * 4,
+                keyframeDuration * 3,
             )
         }
         else {
@@ -127,9 +127,9 @@ function plugin(hook, vm) {
                         offset: 0.47,
                     },
                     {
-                        left: tarImageRightStart, 
+                        left: tarImageLeftStart, 
                         display: 'none',
-                        backgroundImage: oldBackground,
+                        backgroundImage: newBackground,
                         offset: 0.5,
                     },
                     {
@@ -150,7 +150,7 @@ function plugin(hook, vm) {
                         backgroundImage: newBackground,
                     },
                 ],
-                keyframeDuration * 4,
+                keyframeDuration * 3,
             )
         }
     }
