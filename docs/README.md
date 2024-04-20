@@ -21,9 +21,6 @@ Welcome to my blog, you can find the language selection to the right of the navi
 右侧的悬浮图标从上至下依次为：
 
 - 切换自动/浅色/深色模式
-- 放大
-- 缩小
-- 回到默认大小
 - 主题色拾色器
 - 评论
 - 打开/关闭飘落的樱花特效
