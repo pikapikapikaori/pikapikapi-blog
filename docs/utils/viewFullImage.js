@@ -1,5 +1,160 @@
 // Docsify plugin functions
 function plugin(hook, vm) {
+
+    let curImg = undefined
+
+    let tarImageTop = '10%'
+    let tarImageLeft = '10%'
+    let tarImageWidth = '80%'
+    let tarImageHeight = '80%'
+
+    let keyframeDuration = 150
+    let tarImageLeftStart = '-90%'
+    let tarImageRightStart = '110%'
+
+    function createImageOpenCloseKeyframe(tarImg, tarEl, isOpen) {
+        let fullImageTop = tarImg.getBoundingClientRect().top + 'px'
+        let fullImageLeft = tarImg.getBoundingClientRect().left + 'px'
+        let fullImageWidth = tarImg.offsetWidth + 'px'
+        let fullImageHeight = tarImg.offsetHeight + 'px'
+
+        if (isOpen) {
+            tarEl.animate(
+                [
+                    { 
+                        top: fullImageTop, 
+                        left: fullImageLeft, 
+                        width: fullImageWidth, 
+                        height: fullImageHeight, 
+                    }, 
+                    { 
+                        top: tarImageTop, 
+                        left: tarImageLeft, 
+                        width: tarImageWidth, 
+                        height: tarImageHeight, 
+                    },
+                ],
+                keyframeDuration,
+            )
+        }
+        else {
+            tarEl.animate(
+                [
+                    {
+                        top: tarImageTop, 
+                        left: tarImageLeft, 
+                        width: tarImageWidth, 
+                        height: tarImageHeight, 
+                    }, 
+                    {
+                        top: fullImageTop, 
+                        left: fullImageLeft, 
+                        width: fullImageWidth, 
+                        height: fullImageHeight, 
+                    },
+                ],
+                keyframeDuration,
+            )
+        }
+    }
+
+    function createImageSwitchKeyframe(tarEl, direction, oldBackground, newBackground) {
+        if (direction) {
+            tarEl.animate(
+                [
+                    {
+                        left: tarImageLeft, 
+                        display: 'inline',
+                        backgroundImage: oldBackground,
+                    }, 
+                    {
+                        left: tarImageRightStart, 
+                        display: 'inline',
+                        backgroundImage: oldBackground,
+                        offset: 0.45,
+                    },
+                    {
+                        left: tarImageRightStart, 
+                        display: 'none',
+                        backgroundImage: oldBackground,
+                        offset: 0.47,
+                    },
+                    {
+                        left: tarImageLeftStart, 
+                        display: 'none',
+                        backgroundImage: oldBackground,
+                        offset: 0.48,
+                    },
+                    {
+                        left: tarImageLeftStart, 
+                        display: 'none',
+                        backgroundImage: newBackground,
+                        offset: 0.53,
+                    }, 
+                    {
+                        left: tarImageLeftStart, 
+                        display: 'inline',
+                        backgroundImage: newBackground,
+                        offset: 0.55,
+                    },
+                    {
+                        left: tarImageLeft, 
+                        display: 'inline',
+                        backgroundImage: newBackground,
+                    },
+                ],
+                keyframeDuration * 3,
+            )
+        }
+        else {
+            tarEl.animate(
+                [
+                    {
+                        left: tarImageLeft, 
+                        display: 'inline',
+                        backgroundImage: oldBackground,
+                    }, 
+                    {
+                        left: tarImageLeftStart, 
+                        display: 'inline',
+                        backgroundImage: oldBackground,
+                        offset: 0.45,
+                    },
+                    {
+                        left: tarImageLeftStart, 
+                        display: 'none',
+                        backgroundImage: oldBackground,
+                        offset: 0.47,
+                    },
+                    {
+                        left: tarImageRightStart, 
+                        display: 'none',
+                        backgroundImage: oldBackground,
+                        offset: 0.48,
+                    },
+                    {
+                        left: tarImageRightStart, 
+                        display: 'none',
+                        backgroundImage: newBackground,
+                        offset: 0.53,
+                    }, 
+                    {
+                        left: tarImageRightStart, 
+                        display: 'inline',
+                        backgroundImage: newBackground,
+                        offset: 0.55,
+                    },
+                    {
+                        left: tarImageLeft, 
+                        display: 'inline',
+                        backgroundImage: newBackground,
+                    },
+                ],
+                keyframeDuration * 3,
+            )
+        }
+    }
+
     hook.mounted(function () {
         var viewFullImageSpan = document.createElement('span')
 
@@ -38,19 +193,25 @@ function plugin(hook, vm) {
             })
 
             imgArray.some((img, index, arr) => {
-                if (viewFullImageSpanInnerImgDiv.style.backgroundImage.indexOf(img.src) > -1) {
+                if (imgArray.length !== 1 && viewFullImageSpanInnerImgDiv.style.backgroundImage.indexOf(img.src) > -1) {
                     newImgIndex = direction ? (index === 0 ? imgArray.length - 1 : index - 1) : (index === imgArray.length - 1 ? 0 : index + 1)
                     viewFullImageSpanInnerImgDiv.style.backgroundImage = 'url(' + imgArray[newImgIndex].src + ')'
                     viewFullImageSpanInnerTextDiv.innerHTML = (newImgIndex + 1).toString() + ' / ' + arr.length.toString()
+                    curImg = imgArray[newImgIndex]
+
+                    createImageSwitchKeyframe (viewFullImageSpanInnerImgDiv, direction, 'url(' + imgArray[index].src + ')', 'url(' + imgArray[newImgIndex].src + ')')
                     return true
                 }
             })
         }
 
-        let notPreventParentOnClickEventElementId = [ viewFullImageSpanInnerImgDiv.id, viewFullImageSpan.id, viewFullImageSpanInnerTextDiv.id, ]
+        let notPreventParentOnClickEventElementId = [viewFullImageSpanInnerImgDiv.id, viewFullImageSpan.id, viewFullImageSpanInnerTextDiv.id,]
 
-        viewFullImageSpan.onclick = function (e) {
+        viewFullImageSpan.onclick = async function (e) {
             if (notPreventParentOnClickEventElementId.indexOf(e.target.id) === -1) return
+            if (curImg === undefined) return
+            createImageOpenCloseKeyframe (curImg, viewFullImageSpanInnerImgDiv, false)
+            await new Promise(r => setTimeout(r, keyframeDuration))
             this.style.display = 'none'
         }
 
@@ -87,9 +248,13 @@ function plugin(hook, vm) {
             let viewFullImageSpanInnerImgDiv = document.getElementById('viewFullImageSpanInnerImgDiv')
             let viewFullImageSpanInnerTextDiv = document.getElementById('viewFullImageSpanInnerTextDiv')
             img.addEventListener('click', function () {
+                curImg = img
+
                 viewFullImageSpanInnerImgDiv.style.backgroundImage = 'url(' + img.src + ')'
                 viewFullImageSpan.style.display = 'block'
                 viewFullImageSpanInnerTextDiv.innerHTML = (index + 1).toString() + ' / ' + arr.length.toString()
+
+                createImageOpenCloseKeyframe (curImg, viewFullImageSpanInnerImgDiv, true)
             })
         })
     })
