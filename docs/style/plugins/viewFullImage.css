@@ -58,3 +58,7 @@ img:not(.ignoreViewFullImageImg):not(.emoji) {
 .gt-comment-avatar>img {
     cursor: default !important;
 }
+
+.gt-header-avatar>img {
+    cursor: default !important;
+}
