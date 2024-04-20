@@ -18,7 +18,7 @@ var Sakura = function Sakura(selector, options) {
         // The maximum size of the petal.
         minSize: 10,
         // The minimum size of the petal.
-        delay: 300,
+        delay: 1000,
         // Delay between petals.
         colors: [{
             // You can add multiple colors (chosen randomly) by adding elements to the array.
