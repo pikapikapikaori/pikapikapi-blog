@@ -192,17 +192,20 @@ function plugin(hook, vm) {
                 return !(img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1 || img.className.indexOf('emoji') > -1 || img.src.indexOf('avatars.githubusercontent') > -1)
             })
 
-            imgArray.some((img, index, arr) => {
-                if (imgArray.length !== 1 && viewFullImageSpanInnerImgDiv.style.backgroundImage.indexOf(img.src) > -1) {
-                    newImgIndex = direction ? (index === 0 ? imgArray.length - 1 : index - 1) : (index === imgArray.length - 1 ? 0 : index + 1)
-                    viewFullImageSpanInnerImgDiv.style.backgroundImage = 'url(' + imgArray[newImgIndex].src + ')'
-                    viewFullImageSpanInnerTextDiv.innerHTML = (newImgIndex + 1).toString() + ' / ' + arr.length.toString()
-                    curImg = imgArray[newImgIndex]
+            if (imgArray.length !== 1) {
+                imgArray.some((img, index, arr) => {
+                    if (viewFullImageSpanInnerImgDiv.style.backgroundImage.indexOf(img.src) > -1) {
+                        newImgIndex = direction ? (index === 0 ? imgArray.length - 1 : index - 1) : (index === imgArray.length - 1 ? 0 : index + 1)
+                        viewFullImageSpanInnerImgDiv.style.backgroundImage = 'url(' + imgArray[newImgIndex].src + ')'
+                        viewFullImageSpanInnerTextDiv.innerHTML = (newImgIndex + 1).toString() + ' / ' + arr.length.toString()
+                        curImg = imgArray[newImgIndex]
+    
+                        createImageSwitchKeyframe (viewFullImageSpanInnerImgDiv, direction, 'url(' + imgArray[index].src + ')', 'url(' + imgArray[newImgIndex].src + ')')
+                        return true
+                    }
+                })
 
-                    createImageSwitchKeyframe (viewFullImageSpanInnerImgDiv, direction, 'url(' + imgArray[index].src + ')', 'url(' + imgArray[newImgIndex].src + ')')
-                    return true
-                }
-            })
+            }
         }
 
         let notPreventParentOnClickEventElementId = [viewFullImageSpanInnerImgDiv.id, viewFullImageSpan.id, viewFullImageSpanInnerTextDiv.id,]

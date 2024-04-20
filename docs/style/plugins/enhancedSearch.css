@@ -4,8 +4,8 @@
 }
 
 .search .input-wrap {
-    border-top: 1px solid #eee !important;
-    border-bottom: 1px solid #eee !important;
+    border-top: 1px solid var(--global-border-default-color,#eee) !important;
+    border-bottom: 1px solid var(--global-border-default-color,#eee) !important;
 }
 
 .search .input-wrap>input[type=search] {

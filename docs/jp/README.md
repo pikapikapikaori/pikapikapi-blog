@@ -21,9 +21,6 @@ Welcome to my blog, you can find the language selection to the right of the navi
 右側のアイコンの機能は：
 
 - ページを自動/ライト/ダークモードに切り替えます
-- ズームイン
-- ズームアウト
-- デフォルトのサイズに戻します
 - テーマカラーピッカー
 - コメント
 - 桜吹雪の特殊効果のオン/オフを切り替えます

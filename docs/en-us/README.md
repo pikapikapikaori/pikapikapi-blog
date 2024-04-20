@@ -21,9 +21,6 @@ Welcome to my blog, you can find the language selection to the right of the navi
 The floating icons on the right are, from top to bottom:
 
 - Switch auto/light/dark mode
-- Zoom in
-- Zoom out
-- Default size
 - Theme color picker
 - Comment
 - Turn on/off the falling cherry blossoms effect

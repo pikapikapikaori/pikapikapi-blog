@@ -7,6 +7,11 @@
 
 :root {
     --docsify-example-panels-document-width: 80%;
+    --global-el-border-radius: 10px;
+    --avatar-border-radius: 50%;
+    --global-border-default-color: #eee;
+    --global-background-black-blur: rgba(0,0,0,.1);
+    --global-background-white-blur: rgba(255,255,255,.1);
 }
 
 ::-webkit-scrollbar {
@@ -32,7 +37,7 @@
     margin: 10px 0 10px 5% !important;
     padding-right: 5%;
     padding-bottom: 5px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--global-border-default-color,#eee);
 }
 
 .coverPageScrollDownChevronDiv {
@@ -119,19 +124,19 @@
 }
 
 iframe {
-    border-radius: 10px;
+    border-radius: var(--global-el-border-radius,10px);
 }
 
 img {
-    border-radius: 10px;
+    border-radius: var(--global-el-border-radius,10px);
 }
 
 video {
-    border-radius: 10px;
+    border-radius: var(--global-el-border-radius,10px);
 }
 
 pre {
-    border-radius: 10px;
+    border-radius: var(--global-el-border-radius,10px);
 }
 
 .docsify-copy-code-button {
