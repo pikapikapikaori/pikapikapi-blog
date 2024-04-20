@@ -50,3 +50,7 @@
     color: var(--theme-color,#ea6f5a);
     font-family: 'Menlo';
 }
+
+img:not(.ignoreViewFullImageImg) {
+    cursor: pointer;
+}

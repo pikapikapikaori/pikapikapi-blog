@@ -1,5 +1,61 @@
 // Docsify plugin functions
 function plugin(hook, vm) {
+
+    let curImg = undefined
+
+    let keyframeDuration = 150
+
+    function createKeyframe(tarImg, tarEl, isOpen) {
+        let fullImageTop = tarImg.getBoundingClientRect().top + 'px'
+        let fullImageLeft = tarImg.getBoundingClientRect().left + 'px'
+        let fullImageWidth = tarImg.offsetWidth + 'px'
+        let fullImageHeight = tarImg.offsetHeight + 'px'
+
+        let tarImageTop = '10%'
+        let tarImageLeft = '10%'
+        let tarImageWidth = '80%'
+        let tarImageHeight = '80%'
+
+        if (isOpen) {
+            tarEl.animate(
+                [
+                    { 
+                        top: fullImageTop, 
+                        left: fullImageLeft, 
+                        width: fullImageWidth, 
+                        height: fullImageHeight, 
+                    }, 
+                    { 
+                        top: tarImageTop, 
+                        left: tarImageLeft, 
+                        width: tarImageWidth, 
+                        height: tarImageHeight, 
+                    },
+                ],
+                keyframeDuration,
+            )
+        }
+        else {
+            tarEl.animate(
+                [
+                    {
+                        top: tarImageTop, 
+                        left: tarImageLeft, 
+                        width: tarImageWidth, 
+                        height: tarImageHeight, 
+                    }, 
+                    {
+                        top: fullImageTop, 
+                        left: fullImageLeft, 
+                        width: fullImageWidth, 
+                        height: fullImageHeight, 
+                    },
+                ],
+                keyframeDuration,
+            )
+        }
+    }
+
     hook.mounted(function () {
         var viewFullImageSpan = document.createElement('span')
 
@@ -42,15 +98,19 @@ function plugin(hook, vm) {
                     newImgIndex = direction ? (index === 0 ? imgArray.length - 1 : index - 1) : (index === imgArray.length - 1 ? 0 : index + 1)
                     viewFullImageSpanInnerImgDiv.style.backgroundImage = 'url(' + imgArray[newImgIndex].src + ')'
                     viewFullImageSpanInnerTextDiv.innerHTML = (newImgIndex + 1).toString() + ' / ' + arr.length.toString()
+                    curImg = imgArray[newImgIndex]
                     return true
                 }
             })
         }
 
-        let notPreventParentOnClickEventElementId = [ viewFullImageSpanInnerImgDiv.id, viewFullImageSpan.id, viewFullImageSpanInnerTextDiv.id, ]
+        let notPreventParentOnClickEventElementId = [viewFullImageSpanInnerImgDiv.id, viewFullImageSpan.id, viewFullImageSpanInnerTextDiv.id,]
 
-        viewFullImageSpan.onclick = function (e) {
+        viewFullImageSpan.onclick = async function (e) {
             if (notPreventParentOnClickEventElementId.indexOf(e.target.id) === -1) return
+            if (curImg === undefined) return
+            createKeyframe (curImg, viewFullImageSpanInnerImgDiv, false)
+            await new Promise(r => setTimeout(r, keyframeDuration))
             this.style.display = 'none'
         }
 
@@ -87,9 +147,13 @@ function plugin(hook, vm) {
             let viewFullImageSpanInnerImgDiv = document.getElementById('viewFullImageSpanInnerImgDiv')
             let viewFullImageSpanInnerTextDiv = document.getElementById('viewFullImageSpanInnerTextDiv')
             img.addEventListener('click', function () {
+                curImg = img
+
                 viewFullImageSpanInnerImgDiv.style.backgroundImage = 'url(' + img.src + ')'
                 viewFullImageSpan.style.display = 'block'
                 viewFullImageSpanInnerTextDiv.innerHTML = (index + 1).toString() + ' / ' + arr.length.toString()
+
+                createKeyframe (curImg, viewFullImageSpanInnerImgDiv, true)
             })
         })
     })
