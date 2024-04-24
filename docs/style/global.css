@@ -142,3 +142,11 @@ pre {
 .docsify-copy-code-button {
     border-radius: 10px !important;
 }
+
+.docsify-tabs__tab:not(.docsify-tabs__tab--active) {
+    cursor: pointer;
+}
+
+.docsify-tabs__tab:not(.docsify-tabs__tab--active):hover {
+    color: var(--theme-color,#ea6f5a);
+}
