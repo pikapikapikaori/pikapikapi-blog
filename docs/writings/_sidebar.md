@@ -32,6 +32,7 @@
 </div>
 
 -
+  - [近期艺术展 甲辰年四月二十五日](/writings/ArtExibit-20240425)
   - [随记：玩具重摄 甲辰年四月二十四日](/writings/Notes-20240424)
   - [随记：玩具重摄 甲辰年四月十八日](/writings/Notes-20240418)
   - [近期艺术展 甲辰年四月十三日](/writings/ArtExibit-20240413)
