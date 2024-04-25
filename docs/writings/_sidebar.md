@@ -32,10 +32,10 @@
 </div>
 
 -
-  - [近期艺术展 甲辰年四月二十五日](/writings/ArtExibit-20240425)
+  - [近期艺术展 甲辰年四月二十五日](/writings/ArtExhibit-20240425)
   - [随记：玩具重摄 甲辰年四月二十四日](/writings/Notes-20240424)
   - [随记：玩具重摄 甲辰年四月十八日](/writings/Notes-20240418)
-  - [近期艺术展 甲辰年四月十三日](/writings/ArtExibit-20240413)
+  - [近期艺术展 甲辰年四月十三日](/writings/ArtExhibit-20240413)
   - [日本旅行随拍 令和六年三月](/writings/JPTra-20240328)
   - [日本旅行随拍 令和六年二月](/writings/JPTra-20240217)
   - [随记：近日玩具 癸卯年癸亥月甲午日](/writings/Notes-20231202)
