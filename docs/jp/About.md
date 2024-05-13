@@ -9,7 +9,8 @@
 > 星みるひとの\
 > 目にも似る\
 > さびしきつかれ\
-> 早春のたび
+> 早春のたび\
+> —— 宮沢賢治
 
 知恵と美への愛を持つ人になりたいです。
 
@@ -24,7 +25,7 @@
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
-    <img src="./_media/kaori-logo.JPG" class="mainPageAboutMeAvatar" />
+    <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
     <h4 class="mainPageAboutMeTitle">リエキヨウ</h4>
     <p class="mainPageAboutMeDescription">李亦杨 / Jeff Li</p>
     <div class="mainPageAboutMeLinks">

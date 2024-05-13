@@ -5,8 +5,9 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->式微，式微，胡不归？微君之故，胡为乎中露？\
->式微，式微，胡不归？微君之躬，胡为乎泥中？
+> 式微，式微，胡不归？微君之故，胡为乎中露？\
+> 式微，式微，胡不归？微君之躬，胡为乎泥中？\
+> —— 《诗经·邶风·式微》
 
 想成为一个爱智慧、爱美的人。
 
@@ -21,7 +22,7 @@
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
-    <img src="./_media/kaori-logo.JPG" class="mainPageAboutMeAvatar" />
+    <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
     <h4 class="mainPageAboutMeTitle">李亦杨</h4>
     <p class="mainPageAboutMeDescription">リエキヨウ / Jeff Li</p>
     <div class="mainPageAboutMeLinks">

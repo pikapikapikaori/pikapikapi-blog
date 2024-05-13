@@ -29,10 +29,14 @@
 | [姬路白雪の资源小站](https://pan.jlbx.xyz) | 下载 | 文字ACG游戏为主 |
 | [梓澪の妙妙屋](https://zi0.cc) | 下载 | 文字ACG游戏为主 |
 | [失落小站](https://www.shinnku.com) | 下载 | 文字ACG游戏为主 |
+| [2DFan](https://2dfan.com) | 下载 | 文字ACG游戏为主 |
 | [Alicesoft](http://retropc.net/alice/) | 下载 | Alicesoft官方老游戏，日站 |
+| [绯月ScarletMoon](https://bbs.kfpromax.com/) | 论坛 | 文字ACG游戏综合论坛，含资源 |
+| [2dj](https://www.aixgame.cc) | 论坛 | 文字ACG游戏综合论坛，含资源 |
 | [k73资源网](http://www.k73.com/down/3ds/list-81-2.html) | 下载 | 老游戏ROM |
 | [ROMSFUN](https://romsfun.com) | 下载 | 老游戏ROM，外站 |
 | [INTERNET ARCHIVE 3ds cia](https://archive.org/download/3ds-cia-eshop) | 下载 | 3DS CIA，外站 |
+| [GGbases](https://www.ggbases.com) | 下载 | 游戏综合，外站 |
 | [琉璃神社](https://www.hacg.mov) | 下载 | ACGN综合资源 |
 | [鸠摩搜索](https://www.jiumodiary.com) | 聚合搜索 | 书籍资料搜索 |
 | [BTDigg](https://www.btdig.com) | BT聚合搜索 | 综合资源聚合搜索，外站 |
@@ -55,10 +59,16 @@
 | [ACG情报交流](http://duobaoxiang.ysepan.com) | ACGN资料 | ACG资料整理 |
 | [SAKUGABOORU](https://www.sakugabooru.com) | ACGN资料 | 作画片段信息 |
 | [作画wiki](https://w.atwiki.jp/sakuga/) | ACGN资料 | 作画资料 |
+| [演出wiki](https://w.atwiki.jp/enshutsu/) | ACGN资料 | 演出资料 |
 | [アニメ用語](http://www.inouejet.com/camera/) | ACGN资料 | 动画用语辞典 |
 | [SAKUGABLOG](https://blog.sakugabooru.com) | ACGN资料 | 作画信息 |
 | [80年代のOVA](https://80s-ova.com) | ACGN资料 | 动画介绍推荐 |
 | [Getchu](https://www.getchu.com) | ACGN资料 | ACGN发售信息 |
+| [Moon Phase](http://m-p.sakura.ne.jp) | ACGN资料 | 动画信息 |
+| [WEBアニメスタイル](http://animestyle.jp) | ACGN资料 | 动画资料 |
+| [WEBアニメスタイル（旧）](http://www.style.fm/as/index_old.shtml) | ACGN资料 | 动画资料 |
+| [アニメ！アニメ！](https://animeanime.jp) | ACGN资料 | 动画资料 |
+| [日本動画協会](https://aja.gr.jp) | ACGN资料 | 动画产业资料 |
 | [番组放送](https://bgmlist.com) | ACGN资料 | 动画放送信息汇总 |
 | [批评空间](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op) | ACGN资料 | 文字AVG游戏鉴赏，[原站](https://erogamescape.dyndns.org) |
 | [Anime Scene Search](https://trace.moe) | ACGN工具 | 动画截图搜索 |
@@ -73,6 +83,7 @@
 | [【WIXOSS】入门及规则介绍](https://bbs.newwise.com/thread-955986-1-1.html) | 游戏资料 | WIXOSS规则 |
 | [現代麻雀技術論](http://yabejp.web.fc2.com/mahjong/index.html) | 游戏资料 | 麻将技巧 |
 | [麻雀戦術書「ビギナーズラック」](http://beginners.biz) | 游戏资料 | 麻将技巧 |
+| [経済産業省のWEBサイト （METI/経済産業省）](https://www.meti.go.jp) | 综合资料 | 日本经济产业报告 |
 
 ## 其他导航站
 

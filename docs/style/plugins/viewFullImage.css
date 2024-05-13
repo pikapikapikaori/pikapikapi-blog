@@ -50,3 +50,15 @@
     color: var(--theme-color,#ea6f5a);
     font-family: 'Menlo';
 }
+
+img:not(.ignoreViewFullImageImg):not(.emoji) {
+    cursor: pointer;
+}
+
+.gt-comment-avatar>img {
+    cursor: default !important;
+}
+
+.gt-header-avatar>img {
+    cursor: default !important;
+}

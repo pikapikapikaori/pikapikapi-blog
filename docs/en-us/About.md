@@ -3,18 +3,19 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
->Darkling I listen; and for many a time\
->I have been half in love with easeful Death,\
->Called him soft names in many a mused rhyme,\
->To take into the air my quiet breath;\
->Now more than ever seems it rich to die,\
->To cease upon the midnight with no pain,\
->While thou art pouring forth thy soul abroad\
->In such an ecstasy!\
->Still wouldst thou sing, and I have ears in vain --\
->To thy high requiem become a sod.
+> Darkling I listen; and for many a time.\
+> I have been half in love with easeful Death,\
+> Called him soft names in many a mused rhyme,\
+> To take into the air my quiet breath;\
+> Now more than ever seems it rich to die,\
+> To cease upon the midnight with no pain,\
+> While thou art pouring forth thy soul abroad.\
+> In such an ecstasy!\
+> Still wouldst thou sing, and I have ears in vain --\
+> To thy high requiem become a sod.\
+> — John Keats, "Ode to a Nightingale"
 
-Dream to be a person who holds love of wisdom and beauty.
+Dream of becoming a person who holds love of wisdom and beauty.
 
 ## About This Blog
 
@@ -27,7 +28,7 @@ Besides, a [sub-site](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/) o
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
-    <img src="./_media/kaori-logo.JPG" class="mainPageAboutMeAvatar" />
+    <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
     <h4 class="mainPageAboutMeTitle">Jeff Li</h4>
     <p class="mainPageAboutMeDescription">李亦杨 / リエキヨウ</p>
     <div class="mainPageAboutMeLinks">
