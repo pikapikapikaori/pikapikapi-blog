@@ -14,4 +14,3 @@
 
 - [个人十佳榜单](writings/PersonalTenBest)。
 - [不成文的短评](writings/BriefComments)。
-- [个人观影记录](writings/PersonalRecordsBackup)。
