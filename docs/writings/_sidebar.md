@@ -44,3 +44,10 @@
   - [记第25届上海国际电影节](/writings/Siff25-20230604)
   - [随记：图集 癸卯年丁巳月丙寅日](/writings/Notes-20230508)
   - [随记：图集 庚子年庚辰月甲午日](/writings/Notes-20200421)
+
+<div class="pagesSideBarLevel1TitleDiv">
+  哲学实践
+</div>
+
+-
+  - [退学日记 壹](/writings/Phila-20240526)
