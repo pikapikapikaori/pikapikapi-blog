@@ -11,6 +11,28 @@
             <img src="./_media/logo.JPG" class="ignoreViewFullImageImg">
         </div>
         <div class="briefCommentsOrNotesInBlogCommentsContainer">
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/meishi-1-20240603.PNG" alt="brief comment picture: TOLRO-800">
+            </div>
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/meishi-2-20240603.PNG" alt="brief comment picture: TOLRO-800">
+            </div>
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/meishi-3-20240603.PNG" alt="brief comment picture: TOLRO-800">
+            </div>
+            <div class="briefCommentsOrNotesInBlogCommentsContainerImg">
+                <img src="./writings/_media/BriefComments/meishi-4-20240603.PNG" alt="brief comment picture: TOLRO-800">
+            </div>
+            开服近三周每天醒来第一件事和睡前最后一件事都是学马仕启动。不得不说虽然人设初见很普但架不住文本塑造写得好，另一方面游戏性也还算不错。名片制作界面感觉也相当不错，可以直接拿来当制作人门票了。
+            <hr class="briefCommentsOrNotesInBlogCommentsDivider"/>
+            2024.06.03
+        </div>
+    </div>
+    <div class="briefCommentsOrNotesInBlog">
+        <div class="briefCommentsOrNotesInBlogImageContainer">
+            <img src="./_media/logo.JPG" class="ignoreViewFullImageImg">
+        </div>
+        <div class="briefCommentsOrNotesInBlogCommentsContainer">
             小魔女doremi25周年特别映像。比起前两年那个做作的「寻找见习魔女」还是这种看到成长后的doremi他们的方式更令人感动。虽然似乎要有新作，不过我想小说中那成长后的他们的故事大抵也不会再变成动画了。这几年这种成长为大人后的大家的动画片也未免太多了。作为已经成长为可悲大人的我而言，看到成长后的大家真是有种说不出的滋味。
             <br>
             音符，好喜欢。
