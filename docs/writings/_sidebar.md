@@ -51,5 +51,6 @@
 </div>
 
 -
+  - [赋诗 贰](/writings/Poem-20240701)
   - [赋诗 壹](/writings/Poem-20240628)
   - [退学日记 壹](/writings/Phila-20240526)
