@@ -33,6 +33,7 @@
 </div>
 
 -
+  - [记第26届上海国际电影节](/writings/Siff26-20240611)
   - [近期艺术展 甲辰年四月二十五日](/writings/ArtExhibit-20240425)
   - [随记：玩具重摄 甲辰年四月二十四日](/writings/Notes-20240424)
   - [随记：玩具重摄 甲辰年四月十八日](/writings/Notes-20240418)
@@ -45,3 +46,12 @@
   - [记第25届上海国际电影节](/writings/Siff25-20230604)
   - [随记：图集 癸卯年丁巳月丙寅日](/writings/Notes-20230508)
   - [随记：图集 庚子年庚辰月甲午日](/writings/Notes-20200421)
+
+<div class="pagesSideBarLevel1TitleDiv">
+  哲学实践
+</div>
+
+-
+  - [赋诗 贰](/writings/Poem-20240701)
+  - [赋诗 壹](/writings/Poem-20240628)
+  - [退学日记 壹](/writings/Phila-20240526)
