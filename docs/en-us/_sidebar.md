@@ -3,7 +3,7 @@
 </div>
 
 -
-  - [Latest Posts](/en-us/)
+  - [Latest Posts](/en-us/README)
 
 <div class="pagesSideBarLevel1TitleDiv">
   Homepage

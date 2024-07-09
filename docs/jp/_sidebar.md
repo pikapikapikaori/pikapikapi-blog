@@ -3,7 +3,7 @@
 </div>
 
 -
-  - [最近のポースト](/jp/)
+  - [最近のポースト](/jp/README)
 
 <div class="pagesSideBarLevel1TitleDiv">
   ホームページ
