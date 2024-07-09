@@ -33,7 +33,7 @@ function plugin(hook, vm) {
     }
 
     function testImgPrefix(imgUrl) {
-        let prefixes = ['JPG', 'jpg', 'webp', 'png', 'gif', 'jpeg',]
+        let prefixes = ['JPG', 'jpg', 'webp', 'gif', 'jpeg', 'png', ]
         var curPrefix = ''
         prefixes.some(prefix => {
             var isExist = imageExists(imgUrl + '.' + prefix)
