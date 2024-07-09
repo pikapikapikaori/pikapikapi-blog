@@ -4,7 +4,7 @@ function plugin(hook, vm) {
 
     const tocDiv = "<div class='tocPageDiv'></div>"
 
-    const ignoreTocPageList = ["README", "Beginning", "BriefComments", "PersonalTen", "PersonalRecords", "UsefulWebsites"]
+    const ignoreTocPageList = ["README", "PersonalTen", "PersonalRecords"]
 
     let hasTocs = false
 
@@ -21,15 +21,15 @@ function plugin(hook, vm) {
         }
     }
 
-    function imageExists(image_url){
+    function imageExists(image_url) {
 
         var http = new XMLHttpRequest();
-    
+
         http.open('HEAD', image_url, false);
         http.send();
-    
+
         return http.status != 404;
-    
+
     }
 
     function testImgPrefix(imgUrl) {
@@ -72,9 +72,18 @@ function plugin(hook, vm) {
             return !flag
         })
 
-        pages.sort((a,b) => {
-            aDate = a.href.substring(a.href.length-8)
-            bDate = b.href.substring(b.href.length-8)
+        pages.sort((a, b) => {
+            aDate = a.href.substring(a.href.length - 8)
+            bDate = b.href.substring(b.href.length - 8)
+
+            if (Number.isNaN(aDate - "0")) {
+                aDate = "-1"
+            }
+
+            if (Number.isNaN(bDate - "0")) {
+                bDate = "-1"
+            }
+
             return bDate - aDate
         })
 
