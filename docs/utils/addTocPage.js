@@ -1,10 +1,10 @@
 // Docsify plugin functions
 function plugin(hook, vm) {
-    const tocMarkup = "<!-- toc -->"
+    const tocMarkup = '<!-- toc -->'
 
-    const tocDiv = "<div class='tocPageDiv'></div>"
+    const tocDiv = '<div class=\'tocPageDiv\'></div>'
 
-    const ignoreTocPageList = ["README", "PersonalTen", "PersonalRecords"]
+    const ignoreTocPageList = ['README', 'PersonalTen', 'PersonalRecords',]
 
     let hasTocs = false
 
@@ -14,29 +14,29 @@ function plugin(hook, vm) {
 
     function renderSidebar() {
         if (hasTocs) {
-            document.body.classList.add("forceClose")
+            document.body.classList.add('forceClose')
         }
         else {
-            document.body.classList.remove("forceClose")
+            document.body.classList.remove('forceClose')
         }
     }
 
     function imageExists(image_url) {
 
-        var http = new XMLHttpRequest();
+        var http = new XMLHttpRequest()
 
-        http.open('HEAD', image_url, false);
-        http.send();
+        http.open('HEAD', image_url, false)
+        http.send()
 
-        return http.status != 404;
+        return http.status != 404
 
     }
 
     function testImgPrefix(imgUrl) {
-        let prefixes = ["jpg", "JPG", "gif", "png", "webp", "jpeg"]
-        var curPrefix = ""
+        let prefixes = ['jpg', 'JPG', 'gif', 'png', 'webp', 'jpeg',]
+        var curPrefix = ''
         prefixes.some(prefix => {
-            var isExist = imageExists(imgUrl + "." + prefix)
+            var isExist = imageExists(imgUrl + '.' + prefix)
             if (isExist) {
                 curPrefix = prefix
             }
@@ -55,9 +55,9 @@ function plugin(hook, vm) {
     }
 
     function renderTocContents() {
-        tocPageDiv = document.getElementsByClassName("tocPageDiv")[0]
+        tocPageDiv = document.getElementsByClassName('tocPageDiv')[0]
 
-        pages = Array.from(document.getElementsByClassName("sidebar-nav")[0].getElementsByTagName("a"))
+        pages = Array.from(document.getElementsByClassName('sidebar-nav')[0].getElementsByTagName('a'))
         pages.shift()
 
         pages = pages.filter(page => {
@@ -76,12 +76,12 @@ function plugin(hook, vm) {
             aDate = a.href.substring(a.href.length - 8)
             bDate = b.href.substring(b.href.length - 8)
 
-            if (Number.isNaN(aDate - "0")) {
-                aDate = "-1"
+            if (Number.isNaN(aDate - '0')) {
+                aDate = '-1'
             }
 
-            if (Number.isNaN(bDate - "0")) {
-                bDate = "-1"
+            if (Number.isNaN(bDate - '0')) {
+                bDate = '-1'
             }
 
             return bDate - aDate
@@ -89,19 +89,19 @@ function plugin(hook, vm) {
 
         pages.forEach(page => {
             pageHref = page.href
-            tmp = pageHref.replace("index.html#/", "")
-            pagePictureHref = tmp.substring(0, tmp.lastIndexOf('/')) + "/_media" + tmp.substring(tmp.lastIndexOf('/')) + "/cover-picture"
+            tmp = pageHref.replace('index.html#/', '')
+            pagePictureHref = tmp.substring(0, tmp.lastIndexOf('/')) + '/_media' + tmp.substring(tmp.lastIndexOf('/')) + '/cover-picture'
 
             pageImgPrefix = testImgPrefix(pagePictureHref)
 
-            if (pageImgPrefix === "") {
-                pagePictureHref = "_media/defaultImg/picture-2.gif"
+            if (pageImgPrefix === '') {
+                pagePictureHref = '_media/defaultImg/picture-2.gif'
             }
             else {
-                pagePictureHref += "." + pageImgPrefix
+                pagePictureHref += '.' + pageImgPrefix
             }
 
-            pageHrefDiv = "<a class='tocPageDisplayA' href=" + pageHref + "><div class='tocPageDisplayDiv'><div class='tocPageDisplayTitleImg'><img class='ignoreViewFullImageImg' src='" + pagePictureHref + "' loading='lazy'></div><div class='tocPageDisplayTitleDiv'>" + page.innerHTML + "</div></div></a>"
+            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div></div></a>'
 
             tocPageDiv.innerHTML += pageHrefDiv
         })

@@ -11,7 +11,7 @@
   ],
   "devDependencies": {
     "@babel/eslint-parser": "^7.21.8",
-    "docsify-cli": "^4.4.4"
+    "docsify-cli": "^4.4.2"
   },
   "dependencies": {
     "eslint": "^8.39.0"
