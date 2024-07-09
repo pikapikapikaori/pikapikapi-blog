@@ -6,13 +6,6 @@
   - [最近のポースト](/jp/archive/)
 
 <div class="pagesSideBarLevel1TitleDiv">
-  序文
-</div>
-
--
-  - [序文](/jp/archive/Beginning)
-
-<div class="pagesSideBarLevel1TitleDiv">
   アーカイブ
 </div>
 

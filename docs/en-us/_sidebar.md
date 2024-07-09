@@ -10,6 +10,6 @@
 </div>
 
 -
-  - [Navigation](/en-us/Beginning)
+  - [Instructions for use](/en-us/Beginning)
   - [Photographs](/en-us/Photograph)
   - [About Me](/en-us/About)

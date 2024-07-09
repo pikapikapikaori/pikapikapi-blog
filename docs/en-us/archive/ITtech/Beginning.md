@@ -3,8 +3,6 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 
-Here are some IT-related blogs that I write.
-
 ## Some Tools or Projects
 
 Below is some tools or projects I developed:

@@ -10,7 +10,6 @@
 </div>
 
 -
-  - [前言](/writings/Beginning)
   - [个人十佳榜单](/writings/PersonalTenBest)
   - [短评集](/writings/BriefComments)
   - [个人观影记录](/writings/PersonalRecordsBackup)

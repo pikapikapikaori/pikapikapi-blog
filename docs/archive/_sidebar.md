@@ -10,7 +10,6 @@
 </div>
 
 -
-  - [前言](/archive/Beginning)
   - [一些小工具](/archive/ArchiveTools)
 
 <div class="pagesSideBarLevel1TitleDiv">

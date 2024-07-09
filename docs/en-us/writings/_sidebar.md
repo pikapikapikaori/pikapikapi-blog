@@ -10,7 +10,6 @@
 </div>
 
 -
-  - [Beginning](/en-us/writings/Beginning)
   - [Personal Ten Best List](/en-us/writings/PersonalTenBest)
 
 <div class="pagesSideBarLevel1TitleDiv">

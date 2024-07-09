@@ -10,6 +10,6 @@
 </div>
 
 -
-  - [ナビ](/jp/Beginning)
+  - [使用説明](/jp/Beginning)
   - [写真](/jp/Photograph)
   - [このサイトについて](/jp/About)

@@ -10,6 +10,6 @@
 </div>
 
 -
-  - [导航](/Beginning)
+  - [使用说明](/Beginning)
   - [摄影](/Photograph)
   - [关于](/About)

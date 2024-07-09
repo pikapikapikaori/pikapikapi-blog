@@ -10,7 +10,6 @@
 </div>
 
 -
-  - [序文](/jp/writings/Beginning)
   - [個人ベスト10リスト](/jp/writings/PersonalTenBest)
 
 <div class="pagesSideBarLevel1TitleDiv">
