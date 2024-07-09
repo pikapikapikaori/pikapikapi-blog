@@ -17,7 +17,7 @@
 
 此外，我也基于[Hexo](https://hexo.io/)搭建了本博客的[分站点](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)，您可以在下面预览：
 
-![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=700px')
+![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=400px')
 
 <!-- div:right-panel -->
 

@@ -1,9 +1,16 @@
 <div class="pagesSideBarLevel1TitleDiv">
+  最近发布
+</div>
+
+-
+  - [最近发布](/archive/ZhiArchive/)
+
+<div class="pagesSideBarLevel1TitleDiv">
   序
 </div>
 
 -
-  - [前言](/archive/ZhiArchive/)
+  - [前言](/archive/ZhiArchive/Beginning)
 
 <div class="pagesSideBarLevel1TitleDiv">
   知乎回答

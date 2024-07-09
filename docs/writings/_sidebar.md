@@ -1,9 +1,16 @@
 <div class="pagesSideBarLevel1TitleDiv">
+  最近发布
+</div>
+
+-
+  - [最近发布](/writings/)
+
+<div class="pagesSideBarLevel1TitleDiv">
   序
 </div>
 
 -
-  - [前言](/writings/)
+  - [前言](/writings/Beginning)
   - [个人十佳榜单](/writings/PersonalTenBest)
   - [短评集](/writings/BriefComments)
   - [个人观影记录](/writings/PersonalRecordsBackup)

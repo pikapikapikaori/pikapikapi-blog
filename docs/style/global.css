@@ -12,6 +12,7 @@
     --global-border-default-color: #eee;
     --global-background-black-blur: rgba(0,0,0,.1);
     --global-background-white-blur: rgba(255,255,255,.1);
+    --global-sidebar-width: 300px;
 }
 
 ::-webkit-scrollbar {
@@ -120,7 +121,7 @@
 }
 
 .markdown-section {
-    max-width: 1100px !important;
+    max-width: 800px !important;
 }
 
 iframe {
