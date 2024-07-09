@@ -6,6 +6,10 @@ function plugin(hook, vm) {
 
     const ignoreTocPageList = ['README', 'PersonalTen', 'PersonalRecords',]
 
+    const prefixes = ['JPG', 'jpg', 'webp', 'gif', 'jpeg', 'png', ]
+
+    const recentAmount = 10
+
     let hasTocs = false
 
     function getRndInteger(min, max) {
@@ -33,7 +37,6 @@ function plugin(hook, vm) {
     }
 
     function testImgPrefix(imgUrl) {
-        let prefixes = ['JPG', 'jpg', 'webp', 'gif', 'jpeg', 'png', ]
         var curPrefix = ''
         prefixes.some(prefix => {
             var isExist = imageExists(imgUrl + '.' + prefix)
@@ -86,6 +89,8 @@ function plugin(hook, vm) {
 
             return bDate - aDate
         })
+
+        pages = pages.slice(0, recentAmount)
 
         pages.forEach(page => {
             pageHref = page.href
