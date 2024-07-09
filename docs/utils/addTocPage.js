@@ -4,6 +4,8 @@ function plugin(hook, vm) {
 
     const tocDiv = "<div class='tocPageDiv'></div>"
 
+    const ignoreTocPageList = ["README", "Beginning", "BriefComments", "PersonalTen", "PersonalRecords", "UsefulWebsites"]
+
     let hasTocs = false
 
     function getRndInteger(min, max) {
@@ -57,6 +59,25 @@ function plugin(hook, vm) {
 
         pages = Array.from(document.getElementsByClassName("sidebar-nav")[0].getElementsByTagName("a"))
         pages.shift()
+
+        pages = pages.filter(page => {
+            var flag = false
+
+            ignoreTocPageList.forEach(singleton => {
+                if (page.href.indexOf(singleton) > 0) {
+                    flag = true
+                }
+            })
+
+            return !flag
+        })
+
+        pages.sort((a,b) => {
+            aDate = a.href.substring(a.href.length-8)
+            bDate = b.href.substring(b.href.length-8)
+            return bDate - aDate
+        })
+
         pages.forEach(page => {
             pageHref = page.href
             tmp = pageHref.replace("index.html#/", "")
