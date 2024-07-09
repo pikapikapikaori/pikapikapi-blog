@@ -34,7 +34,8 @@
     min-height: 200px;
     max-height: 200px;
     overflow: hidden;
-    border-radius: var(--global-el-border-radius, 10px);
+    border-top-left-radius: var(--global-el-border-radius, 10px);
+    border-top-right-radius: var(--global-el-border-radius, 10px);
 }
 
 .tocPageDisplayA img {
@@ -43,6 +44,8 @@
     min-height: 200px;
     max-height: 200px;
     transition: transform 0.4s;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
 }
 
 .tocPageDisplayA:hover {
