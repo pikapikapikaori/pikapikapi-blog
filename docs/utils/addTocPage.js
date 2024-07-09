@@ -30,6 +30,20 @@ function plugin(hook, vm) {
     
     }
 
+    function testImgPrefix(imgUrl) {
+        let prefixes = ["jpg", "JPG", "gif", "png", "webp", "jpeg"]
+        var curPrefix = ""
+        prefixes.some(prefix => {
+            var isExist = imageExists(imgUrl + "." + prefix)
+            if (isExist) {
+                curPrefix = prefix
+            }
+            return isExist
+        })
+
+        return curPrefix
+    }
+
     function setDefaultTocs() {
         hasTocs = false
     }
@@ -46,10 +60,15 @@ function plugin(hook, vm) {
         pages.forEach(page => {
             pageHref = page.href
             tmp = pageHref.replace("index.html#/", "")
-            pagePictureHref = tmp.substring(0, tmp.lastIndexOf('/')) + "/_media" + tmp.substring(tmp.lastIndexOf('/')) + "/cover-picture.JPG"
+            pagePictureHref = tmp.substring(0, tmp.lastIndexOf('/')) + "/_media" + tmp.substring(tmp.lastIndexOf('/')) + "/cover-picture"
 
-            if (!imageExists(pagePictureHref)) {
-                pagePictureHref = "_media/defaultImg/picture-1.webp"
+            pageImgPrefix = testImgPrefix(pagePictureHref)
+
+            if (pageImgPrefix === "") {
+                pagePictureHref = "_media/defaultImg/picture-2.gif"
+            }
+            else {
+                pagePictureHref += "." + pageImgPrefix
             }
 
             pageHrefDiv = "<a class='tocPageDisplayA' href=" + pageHref + "><div class='tocPageDisplayDiv'><div class='tocPageDisplayTitleImg'><img class='ignoreViewFullImageImg' src='" + pagePictureHref + "' loading='lazy'></div><div class='tocPageDisplayTitleDiv'>" + page.innerHTML + "</div></div></a>"
