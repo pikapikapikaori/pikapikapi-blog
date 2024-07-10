@@ -72,6 +72,7 @@
 }
 
 .tocPaginatorInput input {
+    outline: 0;
     font-size: inherit;
     color: inherit;
     width: 2em;
@@ -87,6 +88,10 @@
 }
 
 .tocPaginatorInput input:hover {
+    border-color: var(--theme-color,#ea6f5a);
+}
+
+.tocPaginatorInput input:focus {
     border-color: var(--theme-color,#ea6f5a);
 }
 
