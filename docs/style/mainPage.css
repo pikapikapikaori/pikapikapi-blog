@@ -1,7 +1,7 @@
 .mainPageRightPanelContainer {
     font-family: 'WeibeiSC-Bold';
     border: 1px solid var(--theme-color,#ea6f5a);
-    background-color: var(--global-background-black-blur,rgba(0,0,0,.1));
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
     border-radius: var(--global-el-border-radius,10px);
     margin: 0 auto 20px;
     max-width: 400px;
@@ -172,7 +172,7 @@
     margin-left: 30px;
     margin-right: 10px;
     padding: 20px 20px 20px;
-    background-color: var(--global-background-black-blur,rgba(0,0,0,.1));
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
     border: 1px solid var(--theme-color,#ea6f5a);
     border-radius: var(--global-el-border-radius,10px);
 }
@@ -266,7 +266,7 @@
     overflow: hidden;
     height: 170px;
     padding: 5px;
-    background-color: rgba(0, 0, 0, .1);
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
     border-radius: var(--global-el-border-radius,10px);
     border: 1px solid var(--theme-color,#ea6f5a);
     align-items: center;

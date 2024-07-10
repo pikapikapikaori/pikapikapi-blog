@@ -5,7 +5,7 @@
     margin-bottom: 10px;
     margin-top: 5px;
     text-align: center;
-    background-color: var(--global-background-black-blur, rgba(0, 0, 0, .1));
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
     min-height: 270px;
     text-decoration: none;
 }
