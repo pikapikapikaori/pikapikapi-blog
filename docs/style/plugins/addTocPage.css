@@ -110,7 +110,7 @@
 body.forceClose {
     .sidebar {
         visibility: hidden !important;
-        transform: translateX(--global-sidebar-width) !important;
+        transform: translateX(0) !important;
     }
 
     .sidebar-toggle {
@@ -119,5 +119,10 @@ body.forceClose {
 
     .content {
         left: 0 !important;
+        transform: translateX(0) !important;
+    }
+
+    .app-nav {
+        display: inherit !important;
     }
 }
