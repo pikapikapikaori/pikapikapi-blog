@@ -8,7 +8,7 @@ function plugin(hook, vm) {
 
     const prefixes = ['JPG', 'jpg', 'webp', 'gif', 'jpeg', 'png', ]
 
-    const recentAmount = 10
+    const recentAmount = 8
 
     let hasTocs = false
 
