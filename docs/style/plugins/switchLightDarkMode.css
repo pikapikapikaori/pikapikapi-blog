@@ -47,7 +47,7 @@
 }
 
 .colorPickerSlider::-webkit-slider-runnable-track {
-    background-color: rgba(0,0,0,.2);
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
     height: 5px;
     border-radius: var(--global-el-border-radius,10px);
 }
