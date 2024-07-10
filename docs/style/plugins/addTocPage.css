@@ -65,6 +65,46 @@
     font-size: 20px;
 }
 
+.tocPaginatorDiv {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.tocPaginatorInput input {
+    height: 100%;
+    width: 2.5em;
+    margin: 0 0.3em;
+    text-align: center;
+    border-radius: var(--global-widget-border-radius, 0.3em);
+    border: 0.1em solid var(--global-border-default-color,#eee);
+}
+
+.tocPaginatorInput span {
+    height: 100%;
+    margin: 0 0.3em;
+}
+
+.tocPaginatorInput input:hover {
+    border-color: var(--theme-color,#ea6f5a);
+}
+
+.tocPaginatorInput input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+
+.tocPaginatorButtonDiv {
+    margin: 0 0.1em;
+    border-radius: var(--global-widget-border-radius, 0.3em);
+    border: 0.1em solid transparent;
+}
+
+.tocPaginatorButtonDiv:hover {
+    cursor: pointer;
+    
+    border-color: var(--theme-color,#ea6f5a);
+}
+
 body.forceClose {
     .sidebar {
         visibility: hidden !important;

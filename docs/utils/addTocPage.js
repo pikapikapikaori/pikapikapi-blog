@@ -2,7 +2,7 @@
 function plugin(hook, vm) {
     const tocMarkup = '<!-- toc -->'
 
-    const tocDiv = '<div class=\'tocPageDiv\'></div>'
+    const tocDiv = '<div class=\'tocPageDiv\'></div><div class=\'tocPaginatorDiv\'><div class=\'tocPaginatorLeftButtonDiv tocPaginatorButtonDiv\'><?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M15 6l-6 6 6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class=\'tocPaginatorInput\'></div><div class=\'tocPaginatorRightButtonDiv tocPaginatorButtonDiv\'><?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M9 6l6 6-6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div>'
 
     const ignoreTocPageList = ['README', 'PersonalTen', 'PersonalRecords',]
 
@@ -11,6 +11,12 @@ function plugin(hook, vm) {
     const recentAmount = 10
 
     let hasTocs = false
+
+    let sortedPages = []
+
+    let curPageIndex = 1
+
+    let maxPageIndex = 1
 
     function getRndInteger(min, max) {
         return Math.floor(Math.random() * (max - min + 1)) + min
@@ -58,8 +64,6 @@ function plugin(hook, vm) {
     }
 
     function renderTocContents() {
-        tocPageDiv = document.getElementsByClassName('tocPageDiv')[0]
-
         pages = Array.from(document.getElementsByClassName('sidebar-nav')[0].getElementsByTagName('a'))
         pages.shift()
 
@@ -90,7 +94,26 @@ function plugin(hook, vm) {
             return bDate - aDate
         })
 
-        pages = pages.slice(0, recentAmount)
+        sortedPages = pages
+
+        maxPageIndex = Math.ceil(pages.length / recentAmount)
+
+        renderTocPageUnderPaginator()
+    }
+
+    function renderTocPageUnderPaginator () {
+        tocPageDiv = document.getElementsByClassName('tocPageDiv')[0]
+        tocPageDiv.innerHTML = ''
+
+        if (curPageIndex < 1) {
+            curPageIndex = 1
+        }
+
+        if (curPageIndex > maxPageIndex) {
+            curPageIndex = maxPageIndex
+        }
+
+        let pages = sortedPages.slice((curPageIndex - 1) * recentAmount, curPageIndex * recentAmount)
 
         pages.forEach(page => {
             pageHref = page.href
@@ -110,6 +133,46 @@ function plugin(hook, vm) {
 
             tocPageDiv.innerHTML += pageHrefDiv
         })
+
+        tocPaginatorInputDiv = document.getElementsByClassName('tocPaginatorInput')
+        if (tocPaginatorInputDiv.length > 0) {
+            tocPaginatorInputDiv = tocPaginatorInputDiv[0]
+            if (tocPaginatorInputDiv.hasChildNodes()) {
+                tocPaginatorInputDiv.childNodes[0].value = curPageIndex
+            }
+        }
+    }
+
+    function renderTocPaginator() {
+        tocPaginatorDiv = document.getElementsByClassName('tocPaginatorDiv')[0]
+        tocPaginatorInputDiv = document.getElementsByClassName('tocPaginatorInput')[0]
+        tocPaginatorLeftButtonDiv = document.getElementsByClassName('tocPaginatorLeftButtonDiv')[0]
+        tocPaginatorRightButtonDiv = document.getElementsByClassName('tocPaginatorRightButtonDiv')[0]
+
+        tocPaginatorLeftButtonDiv.onclick = function (e) {
+            if (curPageIndex > 1) {
+                curPageIndex -= 1
+                renderTocPageUnderPaginator ()
+            }
+        }
+        tocPaginatorRightButtonDiv.onclick = function (e) {
+            if (curPageIndex < maxPageIndex) {
+                curPageIndex += 1
+                renderTocPageUnderPaginator ()
+            }
+        }
+
+        tocPaginatorInputDiv.innerHTML = '<input class=\'tocPaginatorInputBox\' type=\'number\' value=\'' + curPageIndex + '\' min=\'1\' max=\'' + maxPageIndex + '\'></input><span>/</span><span>' + maxPageIndex + '</span>'
+
+        tocPaginatorInput = tocPaginatorInputDiv.childNodes[0]
+
+        tocPaginatorInput.onchange = function () {
+            curPageIndex = this.value
+
+            renderTocPageUnderPaginator()
+
+            this.value = curPageIndex
+        }
     }
 
     hook.beforeEach(function (content) {
@@ -125,6 +188,7 @@ function plugin(hook, vm) {
     hook.doneEach(function () {
         if (hasTocs) {
             renderTocContents()
+            renderTocPaginator()
         }
         renderSidebar()
         setDefaultTocs()
