@@ -17,3 +17,7 @@
 .search .input-wrap>input[type=search] {
     background: #3f3f3f! important;
 }
+
+.tocPageDisplayDateDiv {
+    color: var(--global-background-white-blur, rgba(255,255,255,.1)) !important;
+}

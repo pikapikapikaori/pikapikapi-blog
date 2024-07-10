@@ -58,11 +58,20 @@
 }
 
 .tocPageDisplayTitleDiv {
-    padding: 20px;
+    padding: 20px 20px 5px 20px;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
     font-size: 20px;
+}
+
+.tocPageDisplayDateDiv {
+    padding: 0 20px 20px 20px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 15px;
+    color: var(--global-background-black-blur, rgba(0,0,0,.1));
 }
 
 .tocPaginatorDiv {

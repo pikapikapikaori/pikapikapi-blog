@@ -22,6 +22,18 @@ function plugin(hook, vm) {
         return Math.floor(Math.random() * (max - min + 1)) + min
     }
 
+    function strToDate(dateStr) {
+        if (Number.isNaN(dateStr - '0')) {
+            return '&nbsp'
+        }
+
+        if (dateStr.length !== 8) {
+            return '&nbsp'
+        }
+
+        return dateStr.substring(0, 4) + '-' + dateStr.substring(4, 6) + '-' + dateStr.substring(6, 8)
+    }
+
     function renderSidebar() {
         if (hasTocs) {
             document.body.classList.add('forceClose')
@@ -129,7 +141,7 @@ function plugin(hook, vm) {
                 pagePictureHref += '.' + pageImgPrefix
             }
 
-            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div></div></a>'
+            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div><div class=\'tocPageDisplayDateDiv\'>' + strToDate(tmp.substr(tmp.length-8)) + '</div></div></a>'
 
             tocPageDiv.innerHTML += pageHrefDiv
         })
