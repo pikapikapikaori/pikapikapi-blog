@@ -141,6 +141,7 @@ function plugin(hook, vm) {
                 tocPaginatorInputDiv.childNodes[0].value = curPageIndex
             }
         }
+        document.scrollingElement.scrollTop = 0
     }
 
     function renderTocPaginator() {
