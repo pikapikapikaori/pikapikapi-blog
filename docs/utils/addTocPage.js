@@ -192,6 +192,9 @@ function plugin(hook, vm) {
         }
         renderSidebar()
         setDefaultTocs()
+
+        // fix auto2top
+        document.scrollingElement.scrollTop = 0
     })
 }
 
