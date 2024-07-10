@@ -72,9 +72,11 @@
 }
 
 .tocPaginatorInput input {
+    color: inherit;
     width: 2em;
     margin: 0 0.3em;
     text-align: center;
+    background-color: transparent;
     border-radius: var(--global-widget-border-radius, 0.3em);
     border: 0.1em solid var(--global-border-default-color,#eee);
 }
