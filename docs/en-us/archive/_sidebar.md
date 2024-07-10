@@ -1,9 +1,9 @@
 <div class="pagesSideBarLevel1TitleDiv">
-  Beginning
+  Latest Posts
 </div>
 
 -
-  - [Beginning](/en-us/archive/)
+  - [Latest Posts](/en-us/archive/)
 
 <div class="pagesSideBarLevel1TitleDiv">
   Archive

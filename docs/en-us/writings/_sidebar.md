@@ -1,9 +1,15 @@
 <div class="pagesSideBarLevel1TitleDiv">
+  Latest Posts
+</div>
+
+-
+  - [Latest Posts](/en-us/writings/)
+
+<div class="pagesSideBarLevel1TitleDiv">
   Preface
 </div>
 
 -
-  - [Beginning](/en-us/writings/)
   - [Personal Ten Best List](/en-us/writings/PersonalTenBest)
 
 <div class="pagesSideBarLevel1TitleDiv">

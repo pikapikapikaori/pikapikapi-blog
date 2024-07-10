@@ -20,7 +20,7 @@
 
 さらに、[Hexo](https://hexo.io/)を利用し、このブログの[サブサイト](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)もデプロイされました。プレビューはこちらです：
 
-![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=700px')
+![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=400px')
 
 <!-- div:right-panel -->
 

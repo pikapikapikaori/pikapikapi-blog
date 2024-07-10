@@ -18,7 +18,12 @@
 }
 
 .pageRightToolsWidgetsSpan>svg:hover {
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
+}
+
+.pageRightToolsWidgetsSpan>svg {
     cursor: pointer;
+    border-radius: var(--global-widget-border-radius, 0.3em);
 }
 
 .colorPickerPopupDiv {
@@ -26,7 +31,7 @@
     height: 170px;
     width: 200px;
     border-radius: var(--global-el-border-radius,10px);
-    background-color: var(--global-background-black-blur,rgba(0,0,0,.1));
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
     text-align: center;
     backdrop-filter: blur(30px);
     -webkit-backdrop-filter: blur(30px);
@@ -42,7 +47,7 @@
 }
 
 .colorPickerSlider::-webkit-slider-runnable-track {
-    background-color: rgba(0,0,0,.2);
+    background-color: var(--global-theme-color-blur, #ea6f5a1a);
     height: 5px;
     border-radius: var(--global-el-border-radius,10px);
 }
@@ -56,6 +61,11 @@
     background-color: var(--theme-color,#ea6f5a);
     border-radius: 3px;
     cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.colorPickerSlider::-webkit-slider-thumb:hover {
+    transform: scale(1.1);
 }
 
 .colorPickerPresetColorListDiv {
@@ -71,6 +81,11 @@
     margin: 3px 5px 7px 3px;
     border-radius: 5px;
     cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.colorPickerPresetColorBtnDiv:hover {
+    transform: scale(1.1);
 }
 
 .colorPickerPopupSpanAppear {

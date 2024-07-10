@@ -1,9 +1,15 @@
 <div class="pagesSideBarLevel1TitleDiv">
+  最近发布
+</div>
+
+-
+  - [最近发布](/archive/)
+
+<div class="pagesSideBarLevel1TitleDiv">
   序
 </div>
 
 -
-  - [前言](/archive/)
   - [一些小工具](/archive/ArchiveTools)
 
 <div class="pagesSideBarLevel1TitleDiv">

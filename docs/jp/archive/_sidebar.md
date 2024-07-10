@@ -1,9 +1,9 @@
 <div class="pagesSideBarLevel1TitleDiv">
-  序文
+  最近のポースト
 </div>
 
 -
-  - [序文](/jp/archive/)
+  - [最近のポースト](/jp/archive/)
 
 <div class="pagesSideBarLevel1TitleDiv">
   アーカイブ

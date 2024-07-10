@@ -8,10 +8,12 @@
 :root {
     --docsify-example-panels-document-width: 80%;
     --global-el-border-radius: 10px;
+    --global-widget-border-radius: 0.3em;
     --avatar-border-radius: 50%;
     --global-border-default-color: #eee;
     --global-background-black-blur: rgba(0,0,0,.1);
     --global-background-white-blur: rgba(255,255,255,.1);
+    --global-theme-color-blur: #c7a2ec1a
 }
 
 ::-webkit-scrollbar {
@@ -120,7 +122,7 @@
 }
 
 .markdown-section {
-    max-width: 1100px !important;
+    max-width: 800px !important;
 }
 
 iframe {

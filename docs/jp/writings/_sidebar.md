@@ -1,9 +1,15 @@
 <div class="pagesSideBarLevel1TitleDiv">
+  最近のポースト
+</div>
+
+-
+  - [最近のポースト](/jp/writings/)
+
+<div class="pagesSideBarLevel1TitleDiv">
   序文
 </div>
 
 -
-  - [序文](/jp/writings/)
   - [個人ベスト10リスト](/jp/writings/PersonalTenBest)
 
 <div class="pagesSideBarLevel1TitleDiv">

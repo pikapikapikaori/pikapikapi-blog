@@ -23,7 +23,7 @@ Dream of becoming a person who holds love of wisdom and beauty.
 
 Besides, a [sub-site](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/) of this blog is also available, which is powered by [Hexo](https://hexo.io/). You can preview the sub-site below:
 
-![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=700px')
+![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=400px')
 
 <!-- div:right-panel -->
 
