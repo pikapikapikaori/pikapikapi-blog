@@ -71,7 +71,7 @@
     white-space: nowrap;
     overflow: hidden;
     font-size: 15px;
-    color: var(--global-background-black-blur, rgba(0,0,0,.1));
+    color: var(--global-background-black-blur, rgba(0, 0, 0, .1));
 }
 
 .tocPaginatorDiv {
@@ -90,7 +90,7 @@
     text-align: center;
     background-color: transparent;
     border-radius: var(--global-widget-border-radius, 0.3em);
-    border: 0.1em solid var(--global-border-default-color,#eee);
+    border: 0.1em solid var(--global-border-default-color, #eee);
 }
 
 .tocPaginatorInput span {
@@ -98,14 +98,15 @@
 }
 
 .tocPaginatorInput input:hover {
-    border-color: var(--theme-color,#ea6f5a);
+    border-color: var(--theme-color, #ea6f5a);
 }
 
 .tocPaginatorInput input:focus {
-    border-color: var(--theme-color,#ea6f5a);
+    border-color: var(--theme-color, #ea6f5a);
 }
 
-.tocPaginatorInput input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{
+.tocPaginatorInput input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
     -webkit-appearance: none;
 }
 

@@ -64,8 +64,8 @@
     height: 3%;
     position: absolute;
     text-align: center;
-    color: var(--theme-color,#ea6f5a);
-    font-family: 'Menlo';
+    color: var(--theme-color, #ea6f5a);
+    font-family: 'Menlo', monospace;
 }
 
 img:not(.ignoreViewFullImageImg):not(.emoji) {

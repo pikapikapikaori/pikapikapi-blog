@@ -3,22 +3,31 @@
 }
 
 @keyframes dynamicCoverSwitch {
-    0%, 17%, 100% {
+
+    0%,
+    17%,
+    100% {
         background: url("../../_media/coverBackgrounds/cover-1.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    25%, 42% {
+
+    25%,
+    42% {
         background: url("../../_media/coverBackgrounds/cover-2.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    50%, 67% {
+
+    50%,
+    67% {
         background: url("../../_media/coverBackgrounds/cover-3.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
-    75%, 92% {
+
+    75%,
+    92% {
         background: url("../../_media/coverBackgrounds/cover-4.jpg");
         background-size: cover;
         background-repeat: no-repeat;
