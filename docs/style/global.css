@@ -34,7 +34,7 @@ textarea {
 
 .pageSidebarTitleClass {
     font-size: 26px;
-    font-family: 'KakuGyoStd-Light', cursive;
+    font-family: 'KakuGyoStd', cursive;
     color: var(--theme-color, #ea6f5a);
 }
 
