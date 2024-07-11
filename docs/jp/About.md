@@ -26,7 +26,7 @@
 
 <div class="mainPageRightPanelContainer">
     <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
-    <h4 class="mainPageAboutMeTitle">リエキヨウ</h4>
+    <h4 class="mainPageAboutMeTitle"><ruby>李亦楊<rt>リエキヨウ</rt></ruby></h4>
     <p class="mainPageAboutMeDescription">李亦杨 / Jeff Li</p>
     <div class="mainPageAboutMeLinks">
         <a href="https://github.com/pikapikapikaori/" target="_blank" rel="noopener">
@@ -55,7 +55,6 @@
 <div class="mainPageRightPanelContainer">
     <h4 class="mainPageAboutMeTitle">サイト情報</h4>
     <p class="mainPageAboutMeBadges">
-        <img src="https://img.shields.io/github/license/pikapikapikaori/pikapikapi-blog" alt="license" height="17px" class="ignoreViewFullImageImg">
         <img src="https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build" alt="rss build" height="17px" class="ignoreViewFullImageImg">
         <img src="https://img.shields.io/github/last-commit/pikapikapikaori/pikapikapi-blog?label=last%20updated" alt="last updated" height="17px" class="ignoreViewFullImageImg">
     </p>

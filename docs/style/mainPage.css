@@ -1,8 +1,8 @@
 .mainPageRightPanelContainer {
-    font-family: 'WeibeiSC-Bold';
-    border: 1px solid var(--theme-color,#ea6f5a);
+    font-family: 'HanyiSentyFlorCalligraphy', cursive;
+    border: 1px solid var(--theme-color, #ea6f5a);
     background-color: var(--global-theme-color-blur, #ea6f5a1a);
-    border-radius: var(--global-el-border-radius,10px);
+    border-radius: var(--global-el-border-radius, 10px);
     margin: 0 auto 20px;
     max-width: 400px;
     text-align: center;
@@ -11,16 +11,18 @@
 .mainPageAboutMeAvatar {
     max-width: 100px;
     margin-top: 20px;
-    border-radius: var(--avatar-border-radius,50%);
+    border-radius: var(--avatar-border-radius, 50%);
     overflow: hidden;
 }
 
 .mainPageAboutMeTitle {
     margin: 10px 0 5px !important;
+    font-size: 1.8rem !important;
 }
 
 .mainPageAboutMeDescription {
     margin: 0 0 10px !important;
+    font-size: 1.4rem !important;
 }
 
 .mainPageAboutMeLinks {
@@ -93,7 +95,7 @@
 }
 
 .briefCommentsOrNotesInBlogTitleYearDivider::before {
-    background: var(--theme-color,#ea6f5a);
+    background: var(--theme-color, #ea6f5a);
     height: 2px;
     width: 100px;
     content: ' ';
@@ -103,7 +105,7 @@
 }
 
 .briefCommentsOrNotesInBlogTitleYearDivider::after {
-    background: var(--theme-color,#ea6f5a);
+    background: var(--theme-color, #ea6f5a);
     height: 2px;
     width: 100px;
     content: ' ';
@@ -113,18 +115,19 @@
 }
 
 .briefCommentsOrNotesInBlogTitleYear {
-    font-family: "WeibeiSC-Bold";
+    font-family: "HYLuoHuaShiW", cursive;
     margin-top: 40px;
 }
 
 .briefCommentsOrNotesInBlogTitleYear>summary {
     text-align: center;
-    font-family: "Menlo";
-    font-size: 50px;
-    color: var(--theme-color,#ea6f5a);
+    font-family: "Menlo", monospace;
+    font-size: 3.1rem;
+    color: var(--theme-color, #ea6f5a);
     list-style: none;
     margin-bottom: 40px;
     position: relative !important;
+    transition: 0.4s;
 }
 
 .briefCommentsOrNotesInBlogTitleYear>summary:hover {
@@ -138,20 +141,24 @@
 .briefCommentsOrNotesInBlogTitleYear>summary::after {
     content: "";
     position: absolute;
-    font-size: 30px;
+    font-size: 2.2rem;
     margin-left: 10%;
     margin-top: 20px;
-    border-left: 3px solid var(--theme-color,#ea6f5a);
-    border-top: 3px solid var(--theme-color,#ea6f5a);
+    border-left: 3px solid var(--theme-color, #ea6f5a);
+    border-top: 3px solid var(--theme-color, #ea6f5a);
     height: 10px;
     width: 10px;
     transform: rotate(45deg);
     transition: 0.2s ease-in-out;
 }
 
-.briefCommentsOrNotesInBlogTitleYear[open] summary::after {
+.briefCommentsOrNotesInBlogTitleYear[open]>summary::after {
     transform: rotate(225deg);
     transition: 0.2s ease-in-out;
+}
+
+.briefCommentsOrNotesInBlogTitleYear>summary:hover {
+    filter: brightness(var(--global-brightness-blur, 0.85));
 }
 
 .briefCommentsOrNotesInBlog {
@@ -160,7 +167,7 @@
 }
 
 .briefCommentsOrNotesInBlogImageContainer {
-    border-radius: var(--avatar-border-radius,50%);
+    border-radius: var(--avatar-border-radius, 50%);
     overflow: hidden;
     max-width: 50px;
     max-height: 50px;
@@ -173,8 +180,8 @@
     margin-right: 10px;
     padding: 20px 20px 20px;
     background-color: var(--global-theme-color-blur, #ea6f5a1a);
-    border: 1px solid var(--theme-color,#ea6f5a);
-    border-radius: var(--global-el-border-radius,10px);
+    border: 1px solid var(--theme-color, #ea6f5a);
+    border-radius: var(--global-el-border-radius, 10px);
 }
 
 .briefCommentsOrNotesInBlogCommentsContainerImg {
@@ -193,7 +200,7 @@
     border: 0 !important;
     width: 100% !important;
     height: 0 !important;
-    border-top: 0.2rem dotted var(--theme-color,#ea6f5a) !important;
+    border-top: 0.2rem dotted var(--theme-color, #ea6f5a) !important;
     position: relative !important;
     overflow: visible !important;
     margin: 1.2rem 0 !important;
@@ -254,12 +261,6 @@
     padding: 0 5px;
 }
 
-.personalTenBestTitle {
-    text-align: center;
-    font-family: 'WeibeiSC-Bold';
-    font-size: 30px;
-}
-
 .personalTenBestContent {
     margin-top: 10px;
     display: flex;
@@ -267,8 +268,8 @@
     height: 170px;
     padding: 5px;
     background-color: var(--global-theme-color-blur, #ea6f5a1a);
-    border-radius: var(--global-el-border-radius,10px);
-    border: 1px solid var(--theme-color,#ea6f5a);
+    border-radius: var(--global-el-border-radius, 10px);
+    border: 1px solid var(--theme-color, #ea6f5a);
     align-items: center;
 }
 
@@ -285,7 +286,7 @@
 
 .personalTenBestContentInfo h5 {
     margin: 0 0 0 !important;
-    font-size: 1.4em;
+    font-size: 1.4rem;
 }
 
 .personalTenBestContentInfo p {
@@ -294,8 +295,8 @@
 
 .personalTenBestTitleSmall {
     text-align: center;
-    font-family: 'WeibeiSC-Bold';
-    font-size: 25px;
+    font-family: 'HanyiSentyFlorCalligraphy', cursive;
+    font-size: 2.2rem;
     margin: 10px 0;
 }
 
@@ -309,7 +310,7 @@
     width: auto;
     margin-right: -55px;
     position: relative;
-    border-radius: var(--global-el-border-radius,10px);
+    border-radius: var(--global-el-border-radius, 10px);
 }
 
 @media screen and (max-width: 1000px) {
@@ -338,18 +339,18 @@
     }
 
     .personalTenBestContentInfo h5 {
-        font-size: 1.1em;
+        font-size: 1.1rem;
     }
-    
+
     .personalTenBestContentInfo p {
-        font-size: 0.9em;
-        line-height: 1.4em;
+        font-size: 0.9rem;
+        line-height: 1.4rem;
     }
 
     .personalTenBestImgSmall {
         width: 282px;
     }
-    
+
     .personalTenBestImgSmall img {
         height: 100px;
         width: auto;

@@ -1,29 +1,29 @@
 .gt-header-controls-tip {
-    color: var(--theme-color,#ea6f5a) !important;
+    color: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-link {
-    color: var(--theme-color,#ea6f5a) !important;
-    border-bottom: 1px dotted var(--theme-color,#ea6f5a) !important;
+    color: var(--theme-color, #ea6f5a) !important;
+    border-bottom: 1px dotted var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-btn-login {
-    background-color: var(--theme-color,#ea6f5a) !important;
-    border: 1px solid var(--theme-color,#ea6f5a) !important;
+    background-color: var(--theme-color, #ea6f5a) !important;
+    border: 1px solid var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-btn-preview {
-    color: var(--theme-color,#ea6f5a) !important;
-    border: 1px solid var(--theme-color,#ea6f5a) !important;
+    color: var(--theme-color, #ea6f5a) !important;
+    border: 1px solid var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-btn-public {
-    background-color: var(--theme-color,#ea6f5a) !important;
-    border-color: var(--theme-color,#ea6f5a) !important;
+    background-color: var(--theme-color, #ea6f5a) !important;
+    border-color: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-container .gt-comment-username {
-    color: var(--theme-color,#ea6f5a) !important;
+    color: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-container .gt-ico-github .gt-svg svg {
@@ -31,7 +31,7 @@
 }
 
 .gt-container .gt-svg svg {
-    fill: var(--theme-color,#ea6f5a) !important;
+    fill: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-container a.is--active {
@@ -39,17 +39,17 @@
 }
 
 .gt-container a.is--active:before {
-    background: var(--theme-color,#ea6f5a) !important;
+    background: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-container a {
-    color: var(--theme-color,#ea6f5a) !important;
+    color: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-popup .gt-action {
-    color: var(--theme-color,#ea6f5a) !important;
+    color: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-popup .gt-action {
-    color: var(--theme-color,#ea6f5a) !important;
+    color: var(--theme-color, #ea6f5a) !important;
 }

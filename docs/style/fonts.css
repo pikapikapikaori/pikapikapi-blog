@@ -1,0 +1,87 @@
+@import url('https://fonts.cdnfonts.com/css/menlo');
+
+@font-face {
+    font-family: 'Migikataagari';
+    src: url('./fonts/migikataagari.ttf');
+}
+
+@font-face {
+    font-family: 'KakuGyoStd';
+    src: url('./fonts/A-OTF-KakuGyoStd-Light.otf');
+}
+
+@font-face {
+    font-family: 'KleeOne';
+    src: url('./fonts/KleeOne/KleeOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'KleeOne';
+    src: url('./fonts/KleeOne/KleeOne-SemiBold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Claire-Palmer-Serif';
+    src: url('./fonts/Claire-Palmer-Serif.otf');
+}
+
+@font-face {
+    font-family: 'Claire-Palmer-Script';
+    src: url('./fonts/Claire-Palmer-Script.otf');
+}
+
+@font-face {
+    font-family: 'Italiana-Regular';
+    src: url('./fonts/Italiana-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'WeibeiSC-Bold';
+    src: url('./fonts/WeibeiSC-Bold.otf');
+}
+
+@font-face {
+    font-family: 'HYQuanTangShiF';
+    src: url('./fonts/HYQuanTangShi/HYQuanTangShiF.ttf');
+}
+
+@font-face {
+    font-family: 'HYQuanTangShiJ';
+    src: url('./fonts/HYQuanTangShi/HYQuanTangShiJ.ttf');
+}
+
+@font-face {
+    font-family: 'HYQuanTangShiJF';
+    src: url('./fonts/HYQuanTangShi/HYQuanTangShiJF.ttf');
+}
+
+@font-face {
+    font-family: 'HYKaiTiS';
+    src: url('./fonts/HYKaiTi/HYKaiTiS.ttf');
+}
+
+@font-face {
+    font-family: 'HanyiSentyFlorCalligraphy';
+    src: url('./fonts/HanyiSentyFlorCalligraphy.ttf');
+}
+
+@font-face {
+    font-family: 'HYLuoHuaShiW';
+    src: url('./fonts/HYLuoHuaShiW.ttf');
+}
+
+@font-face {
+    font-family: 'HYGuoQiangXingShuW';
+    src: url('./fonts/HYGuoQiangXingShuW.ttf');
+}
+
+@font-face {
+    font-family: 'MRT';
+    src: url('./fonts/MRT/MRT-beta.ttf');
+}
+
+@font-face {
+    font-family: 'KouzanBrushFontSousyo';
+    src: url('./fonts/KouzanBrushFontSousyo.ttf');
+}

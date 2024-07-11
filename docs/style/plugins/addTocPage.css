@@ -53,7 +53,7 @@
 
     img {
         transform: scale(1.03);
-        filter: brightness(0.85);
+        filter: brightness(var(--global-brightness-blur, 0.85));
     }
 }
 
@@ -62,7 +62,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .tocPageDisplayDateDiv {
@@ -70,8 +70,8 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    font-size: 15px;
-    color: var(--global-background-black-blur, rgba(0,0,0,.1));
+    font-size: 1rem;
+    color: var(--global-background-black-blur, rgba(0, 0, 0, .1));
 }
 
 .tocPaginatorDiv {
@@ -90,7 +90,7 @@
     text-align: center;
     background-color: transparent;
     border-radius: var(--global-widget-border-radius, 0.3em);
-    border: 0.1em solid var(--global-border-default-color,#eee);
+    border: 0.1em solid var(--global-border-default-color, #eee);
 }
 
 .tocPaginatorInput span {
@@ -98,14 +98,15 @@
 }
 
 .tocPaginatorInput input:hover {
-    border-color: var(--theme-color,#ea6f5a);
+    border-color: var(--theme-color, #ea6f5a);
 }
 
 .tocPaginatorInput input:focus {
-    border-color: var(--theme-color,#ea6f5a);
+    border-color: var(--theme-color, #ea6f5a);
 }
 
-.tocPaginatorInput input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{
+.tocPaginatorInput input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
     -webkit-appearance: none;
 }
 

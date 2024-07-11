@@ -1,12 +1,12 @@
 ![logo](../_media/logo.JPG ':size=20% :class=ignoreViewFullImageImg')
 
-# リエキヨウ <small>李亦杨 / Jeff Li</small>
+# <ruby>李亦楊<rt>リエキヨウ</rt></ruby> <small>李亦楊 / Jeff Li</small>
 
-> 
-
+> Don't worry, be happy.
+<!-- 
 <div class="coverPageDescriptionDiv">
     <h2 class="coverPageDescriptionTypewriter">Don't worry, be happy.</h2>
-</div>
+</div> -->
 
 <div class="coverPageScrollDownChevronDiv">
     <a href="#/jp/#main" class="coverPageScrollDownChevron">
