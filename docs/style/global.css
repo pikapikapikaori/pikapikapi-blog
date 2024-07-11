@@ -1,18 +1,11 @@
-@import url('https://fonts.cdnfonts.com/css/menlo');
-
-@font-face {
-    font-family: 'WeibeiSC-Bold';
-    src: url('./fonts/WeibeiSC-Bold.otf');
-}
-
 :root {
     --docsify-example-panels-document-width: 80%;
     --global-el-border-radius: 10px;
     --global-widget-border-radius: 0.3em;
     --avatar-border-radius: 50%;
     --global-border-default-color: #eee;
-    --global-background-black-blur: rgba(0,0,0,.1);
-    --global-background-white-blur: rgba(255,255,255,.1);
+    --global-background-black-blur: rgba(0, 0, 0, .1);
+    --global-background-white-blur: rgba(255, 255, 255, .1);
     --global-theme-color-blur: #c7a2ec1a
 }
 
@@ -23,23 +16,36 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--theme-color,#ea6f5a) !important;
+    background: var(--theme-color, #ea6f5a) !important;
+}
+
+body {
+    font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+}
+
+button,
+textarea {
+    font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.markdown-body {
+    font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
 }
 
 .pageSidebarTitleClass {
     font-size: 26px;
-    font-family: 'Menlo', sans-serif;
-    color: var(--theme-color,#ea6f5a);
+    font-family: 'KakuGyoStd-Light', cursive;
+    color: var(--theme-color, #ea6f5a);
 }
 
 .pagesSideBarLevel1TitleDiv {
-    font-family: 'WeibeiSC-Bold';
+    font-family: 'WeibeiSC-Bold', cursive;
     font-size: 20px;
     max-width: 95%;
     margin: 10px 0 10px 5% !important;
     padding-right: 5%;
     padding-bottom: 5px;
-    border-bottom: 1px solid var(--global-border-default-color,#eee);
+    border-bottom: 1px solid var(--global-border-default-color, #eee);
 }
 
 .coverPageScrollDownChevronDiv {
@@ -47,36 +53,40 @@
 }
 
 .coverPageScrollDownChevron {
-    position:relative;
+    position: relative;
     animation: moveChevron 2s infinite;
     -webkit-animation: moveChevron 2s infinite;
 }
 
 @keyframes moveChevron {
-    0%   {
+    0% {
         top: 0px;
         opacity: 0.3;
     }
-	50%  {
+
+    50% {
         top: 15px;
         opacity: 1;
     }
-	100% {
+
+    100% {
         top: 0px;
         opacity: 0.3;
     }
 }
 
 @-webkit-keyframes moveChevron {
-    0%   {
+    0% {
         top: 0px;
         opacity: 0.3;
     }
-	50%  {
+
+    50% {
         top: 15px;
         opacity: 1;
     }
-	100% {
+
+    100% {
         top: 0px;
         opacity: 0.3;
     }
@@ -126,19 +136,19 @@
 }
 
 iframe {
-    border-radius: var(--global-el-border-radius,10px);
+    border-radius: var(--global-el-border-radius, 10px);
 }
 
 img {
-    border-radius: var(--global-el-border-radius,10px);
+    border-radius: var(--global-el-border-radius, 10px);
 }
 
 video {
-    border-radius: var(--global-el-border-radius,10px);
+    border-radius: var(--global-el-border-radius, 10px);
 }
 
 pre {
-    border-radius: var(--global-el-border-radius,10px);
+    border-radius: var(--global-el-border-radius, 10px);
 }
 
 .docsify-copy-code-button {
@@ -150,5 +160,5 @@ pre {
 }
 
 .docsify-tabs__tab:not(.docsify-tabs__tab--active):hover {
-    color: var(--theme-color,#ea6f5a);
+    color: var(--theme-color, #ea6f5a);
 }
