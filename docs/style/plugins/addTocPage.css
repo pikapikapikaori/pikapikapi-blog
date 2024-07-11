@@ -62,7 +62,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .tocPageDisplayDateDiv {
@@ -70,7 +70,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    font-size: 15px;
+    font-size: 1rem;
     color: var(--global-background-black-blur, rgba(0, 0, 0, .1));
 }
 

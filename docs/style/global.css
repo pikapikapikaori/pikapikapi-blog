@@ -33,14 +33,14 @@ textarea {
 }
 
 .pageSidebarTitleClass {
-    font-size: 26px;
+    font-size: 1.65rem;
     font-family: 'KakuGyoStd', cursive;
     color: var(--theme-color, #ea6f5a);
 }
 
 .pagesSideBarLevel1TitleDiv {
     font-family: 'WeibeiSC-Bold', cursive;
-    font-size: 20px;
+    font-size: 1.25rem;
     max-width: 95%;
     margin: 10px 0 10px 5% !important;
     padding-right: 5%;

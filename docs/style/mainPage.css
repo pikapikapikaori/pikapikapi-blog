@@ -1,5 +1,5 @@
 .mainPageRightPanelContainer {
-    font-family: 'WeibeiSC-Bold', cursive;
+    font-family: 'HanyiSentyFlorCalligraphy', cursive;
     border: 1px solid var(--theme-color, #ea6f5a);
     background-color: var(--global-theme-color-blur, #ea6f5a1a);
     border-radius: var(--global-el-border-radius, 10px);
@@ -17,10 +17,12 @@
 
 .mainPageAboutMeTitle {
     margin: 10px 0 5px !important;
+    font-size: 1.8rem !important;
 }
 
 .mainPageAboutMeDescription {
     margin: 0 0 10px !important;
+    font-size: 1.4rem !important;
 }
 
 .mainPageAboutMeLinks {
@@ -120,7 +122,7 @@
 .briefCommentsOrNotesInBlogTitleYear>summary {
     text-align: center;
     font-family: "Menlo", monospace;
-    font-size: 50px;
+    font-size: 3.1rem;
     color: var(--theme-color, #ea6f5a);
     list-style: none;
     margin-bottom: 40px;
@@ -138,7 +140,7 @@
 .briefCommentsOrNotesInBlogTitleYear>summary::after {
     content: "";
     position: absolute;
-    font-size: 30px;
+    font-size: 2.2rem;
     margin-left: 10%;
     margin-top: 20px;
     border-left: 3px solid var(--theme-color, #ea6f5a);
@@ -254,12 +256,6 @@
     padding: 0 5px;
 }
 
-.personalTenBestTitle {
-    text-align: center;
-    font-family: 'WeibeiSC-Bold', cursive;
-    font-size: 30px;
-}
-
 .personalTenBestContent {
     margin-top: 10px;
     display: flex;
@@ -285,7 +281,7 @@
 
 .personalTenBestContentInfo h5 {
     margin: 0 0 0 !important;
-    font-size: 1.4em;
+    font-size: 1.4rem;
 }
 
 .personalTenBestContentInfo p {
@@ -294,8 +290,8 @@
 
 .personalTenBestTitleSmall {
     text-align: center;
-    font-family: 'WeibeiSC-Bold', cursive;
-    font-size: 25px;
+    font-family: 'HanyiSentyFlorCalligraphy', cursive;
+    font-size: 2.2rem;
     margin: 10px 0;
 }
 
@@ -338,12 +334,12 @@
     }
 
     .personalTenBestContentInfo h5 {
-        font-size: 1.1em;
+        font-size: 1.1rem;
     }
 
     .personalTenBestContentInfo p {
-        font-size: 0.9em;
-        line-height: 1.4em;
+        font-size: 0.9rem;
+        line-height: 1.4rem;
     }
 
     .personalTenBestImgSmall {
