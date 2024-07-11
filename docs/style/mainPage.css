@@ -127,6 +127,7 @@
     list-style: none;
     margin-bottom: 40px;
     position: relative !important;
+    transition: 0.4s;
 }
 
 .briefCommentsOrNotesInBlogTitleYear>summary:hover {
@@ -151,9 +152,13 @@
     transition: 0.2s ease-in-out;
 }
 
-.briefCommentsOrNotesInBlogTitleYear[open] summary::after {
+.briefCommentsOrNotesInBlogTitleYear[open]>summary::after {
     transform: rotate(225deg);
     transition: 0.2s ease-in-out;
+}
+
+.briefCommentsOrNotesInBlogTitleYear>summary:hover {
+    filter: brightness(var(--global-brightness-blur, 0.85));
 }
 
 .briefCommentsOrNotesInBlog {

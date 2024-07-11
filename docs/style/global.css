@@ -6,7 +6,8 @@
     --global-border-default-color: #eee;
     --global-background-black-blur: rgba(0, 0, 0, .1);
     --global-background-white-blur: rgba(255, 255, 255, .1);
-    --global-theme-color-blur: #c7a2ec1a
+    --global-theme-color-blur: #c7a2ec1a;
+    --global-brightness-blur: 0.85;
 }
 
 ::-webkit-scrollbar {

@@ -79,3 +79,15 @@ img:not(.ignoreViewFullImageImg):not(.emoji) {
 .gt-header-avatar>img {
     cursor: default !important;
 }
+
+img:not(.ignoreViewFullImageImg):not(.emoji):hover {
+    filter: brightness(var(--global-brightness-blur, 0.85));
+}
+
+img:not(.ignoreViewFullImageImg):not(.emoji) {
+    transition: 0.4s;
+}
+
+.gt-avatar img:hover, .gt-comment-avatar img:hover {
+    filter: none !important;
+}
