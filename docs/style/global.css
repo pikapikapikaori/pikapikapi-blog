@@ -32,6 +32,10 @@ textarea {
     font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
 }
 
+section.cover h1 {
+    font-family: 'KakuGyoStd', cursive;
+}
+
 .pageSidebarTitleClass {
     font-size: 1.65rem;
     font-family: 'MRT', cursive;

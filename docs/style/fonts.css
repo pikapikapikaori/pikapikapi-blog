@@ -80,3 +80,8 @@
     font-family: 'MRT';
     src: url('./fonts/MRT/MRT-beta.ttf');
 }
+
+@font-face {
+    font-family: 'KouzanBrushFontSousyo';
+    src: url('./fonts/KouzanBrushFontSousyo.ttf');
+}
