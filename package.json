@@ -1,6 +1,6 @@
 {
   "name": "pikapikapi-blog",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "scripts": {
     "start": "docsify serve ./docs --port 4000",
     "lint": "eslint .",
