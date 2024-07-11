@@ -75,3 +75,8 @@
     font-family: 'HYGuoQiangXingShuW';
     src: url('./fonts/HYGuoQiangXingShuW.ttf');
 }
+
+@font-face {
+    font-family: 'MRT';
+    src: url('./fonts/MRT/MRT-beta.ttf');
+}
