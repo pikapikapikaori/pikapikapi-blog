@@ -7,17 +7,17 @@
 }
 
 .docsify-pagination-container {
-    border-top: 1px solid var(--global-border-default-color,#eee) !important;
+    border-top: 1px solid var(--global-border-default-color, #eee) !important;
 }
 
 .sidebar {
-    border-right: 1px solid var(--global-border-default-color,#eee) !important;
+    border-right: 1px solid var(--global-border-default-color, #eee) !important;
 }
 
 .search .input-wrap>input[type=search] {
-    background: #3f3f3f! important;
+    background: #3f3f3f ! important;
 }
 
 .tocPageDisplayDateDiv {
-    color: var(--global-background-white-blur, rgba(255,255,255,.1)) !important;
+    color: var(--global-background-white-blur, rgba(255, 255, 255, .1)) !important;
 }
