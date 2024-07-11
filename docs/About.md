@@ -24,7 +24,7 @@
 <div class="mainPageRightPanelContainer">
     <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
     <h4 class="mainPageAboutMeTitle">李亦杨</h4>
-    <p class="mainPageAboutMeDescription">リエキヨウ / Jeff Li</p>
+    <p class="mainPageAboutMeDescription"><ruby>李亦楊<rt>リエキヨウ</rt></ruby> / Jeff Li</p>
     <div class="mainPageAboutMeLinks">
         <a href="https://github.com/pikapikapikaori/" target="_blank" rel="noopener">
             <?xml version="1.0" encoding="UTF-8"?>

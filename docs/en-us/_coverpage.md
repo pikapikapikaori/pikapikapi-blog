@@ -1,6 +1,6 @@
 ![logo](../_media/logo.JPG ':size=20% :class=ignoreViewFullImageImg')
 
-# Jeff Li <small>李亦杨 / リエキヨウ</small>
+# Jeff Li <small>李亦杨 / <ruby>李亦楊<rt>リエキヨウ</rt></ruby></small>
 
 > 
 

@@ -30,7 +30,7 @@ Besides, a [sub-site](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/) o
 <div class="mainPageRightPanelContainer">
     <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
     <h4 class="mainPageAboutMeTitle">Jeff Li</h4>
-    <p class="mainPageAboutMeDescription">李亦杨 / リエキヨウ</p>
+    <p class="mainPageAboutMeDescription">李亦杨 / <ruby>李亦楊<rt>リエキヨウ</rt></ruby></p>
     <div class="mainPageAboutMeLinks">
         <a href="https://github.com/pikapikapikaori/" target="_blank" rel="noopener">
             <?xml version="1.0" encoding="UTF-8"?>
