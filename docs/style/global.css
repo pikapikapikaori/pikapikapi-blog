@@ -36,6 +36,10 @@ section.cover h1 {
     font-family: 'KakuGyoStd', cursive;
 }
 
+section.cover p {
+    font-family: 'Claire-Palmer-Script', cursive;
+}
+
 .pageSidebarTitleClass {
     font-size: 1.65rem;
     font-family: 'MRT', cursive;
@@ -53,7 +57,9 @@ section.cover h1 {
 }
 
 .coverPageScrollDownChevronDiv {
-    margin: 50px 0 0;
+    margin: 40px 0 0;
+    position: absolute;
+    left: calc(50% - 10px);
 }
 
 .coverPageScrollDownChevron {
