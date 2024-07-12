@@ -21,10 +21,6 @@ Dream of becoming a person who holds love of wisdom and beauty.
 
 [This blog](https://pikapikapikaori.github.io/pikapikapi-blog/#/en-us/) is powered by [Docsify](https://docsify.js.org/#/), and is deployed on GitHub Pages. You can also visit the [standby site](https://pikapikapi-blog.vercel.app/#/en-us/) which is deployed on Vercel.
 
-Besides, a [sub-site](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/) of this blog is also available, which is powered by [Hexo](https://hexo.io/). You can preview the sub-site below:
-
-![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=400px')
-
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
@@ -57,10 +53,6 @@ Besides, a [sub-site](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/) o
 
 <div class="mainPageRightPanelContainer">
     <h4 class="mainPageAboutMeTitle">About This Site</h4>
-    <p class="mainPageAboutMeBadges">
-        <img src="https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build" alt="rss build" height="17px" class="ignoreViewFullImageImg">
-        <img src="https://img.shields.io/github/last-commit/pikapikapikaori/pikapikapi-blog?label=last%20updated" alt="last updated" height="17px" class="ignoreViewFullImageImg">
-    </p>
     <div class="mainPageAboutMeImageLinks">
         <a href="https://github.com/pikapikapikaori/pikapikapi-blog" target="_blank" rel="noopener">
             <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">

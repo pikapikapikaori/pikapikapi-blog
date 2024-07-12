@@ -15,10 +15,6 @@
 
 [本博客](https://pikapikapikaori.github.io/pikapikapi-blog/)基于[Docsify](https://docsify.js.org/#/)搭建，部署在GitHub Pages上。您也可以访问部署在Vercel上的[备用站](https://pikapikapi-blog.vercel.app)。
 
-此外，我也基于[Hexo](https://hexo.io/)搭建了本博客的[分站点](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)，您可以在下面预览：
-
-![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=400px')
-
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
@@ -51,10 +47,6 @@
 
 <div class="mainPageRightPanelContainer">
     <h4 class="mainPageAboutMeTitle">本站信息</h4>
-    <p class="mainPageAboutMeBadges">
-        <img src="https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build" alt="rss build" height="17px" class="ignoreViewFullImageImg">
-        <img src="https://img.shields.io/github/last-commit/pikapikapikaori/pikapikapi-blog?label=last%20updated" alt="last updated" height="17px" class="ignoreViewFullImageImg">
-    </p>
     <div class="mainPageAboutMeImageLinks">
         <a href="https://github.com/pikapikapikaori/pikapikapi-blog" target="_blank" rel="noopener">
             <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">

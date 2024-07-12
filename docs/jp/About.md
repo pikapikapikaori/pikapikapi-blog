@@ -18,10 +18,6 @@
 
 [このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用して、GitHub Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
 
-さらに、[Hexo](https://hexo.io/)を利用し、このブログの[サブサイト](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/)もデプロイされました。プレビューはこちらです：
-
-![pikapikiapi-blog-hexo](https://pikapikapikaori.github.io/pikapikapi-blog-hexo/ ':include :type=iframe height=400px')
-
 <!-- div:right-panel -->
 
 <div class="mainPageRightPanelContainer">
@@ -54,10 +50,6 @@
 
 <div class="mainPageRightPanelContainer">
     <h4 class="mainPageAboutMeTitle">サイト情報</h4>
-    <p class="mainPageAboutMeBadges">
-        <img src="https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build" alt="rss build" height="17px" class="ignoreViewFullImageImg">
-        <img src="https://img.shields.io/github/last-commit/pikapikapikaori/pikapikapi-blog?label=last%20updated" alt="last updated" height="17px" class="ignoreViewFullImageImg">
-    </p>
     <div class="mainPageAboutMeImageLinks">
         <a href="https://github.com/pikapikapikaori/pikapikapi-blog" target="_blank" rel="noopener">
             <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
