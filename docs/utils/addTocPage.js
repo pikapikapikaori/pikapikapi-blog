@@ -6,7 +6,7 @@ function plugin(hook, vm) {
 
     const ignoreTocPageList = ['README', 'PersonalTen', 'PersonalRecords',]
 
-    const prefixes = ['jpg', 'gif', 'JPG', 'jpeg', 'webp', 'png', ]
+    const prefixes = ['jpg', 'gif',]
 
     const recentAmount = 8
 
@@ -113,7 +113,7 @@ function plugin(hook, vm) {
         renderTocPageUnderPaginator()
     }
 
-    function renderTocPageUnderPaginator () {
+    function renderTocPageUnderPaginator() {
         tocPageDiv = document.getElementsByClassName('tocPageDiv')[0]
         tocPageDiv.innerHTML = ''
 
@@ -141,7 +141,7 @@ function plugin(hook, vm) {
                 pagePictureHref += '.' + pageImgPrefix
             }
 
-            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div><div class=\'tocPageDisplayDateDiv\'>' + strToDate(tmp.substr(tmp.length-8)) + '</div></div></a>'
+            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div><div class=\'tocPageDisplayDateDiv\'>' + strToDate(tmp.substr(tmp.length - 8)) + '</div></div></a>'
 
             tocPageDiv.innerHTML += pageHrefDiv
         })
@@ -165,13 +165,13 @@ function plugin(hook, vm) {
         tocPaginatorLeftButtonDiv.onclick = function (e) {
             if (curPageIndex > 1) {
                 curPageIndex -= 1
-                renderTocPageUnderPaginator ()
+                renderTocPageUnderPaginator()
             }
         }
         tocPaginatorRightButtonDiv.onclick = function (e) {
             if (curPageIndex < maxPageIndex) {
                 curPageIndex += 1
-                renderTocPageUnderPaginator ()
+                renderTocPageUnderPaginator()
             }
         }
 
