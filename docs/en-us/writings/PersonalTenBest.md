@@ -585,7 +585,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-5.jpg" alt="ドラゴンクエストV 天空の花嫁">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ドラゴンクエストV 天空の花嫁</h5>
+                    <h5>ドラゴンクエスト V 天空の花嫁</h5>
                     <p>Dragon Quest V: Hand of the Heavenly Bride</p>
                     <p>1992 &ensp; Japan</p>
                     <p>ENIX</p>
@@ -622,7 +622,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" alt="NEWラブプラス+">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>NEW ラブプラス+</h5>
+                    <h5>NEW ラブプラス +</h5>
                     <p>New Love Plus +</p>
                     <p>2014 &ensp; Japan</p>
                     <p>Konami</p>
@@ -655,7 +655,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="ファイナルファンタジーIX">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ファイナルファンタジーIX</h5>
+                    <h5>ファイナルファンタジー IX</h5>
                     <p>FINAL FANTASY IX</p>
                     <p>2000 &ensp; Japan</p>
                     <p>SQUARE</p>
