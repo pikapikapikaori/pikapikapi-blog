@@ -361,6 +361,9 @@
 .poemDiv {
     writing-mode: vertical-rl;
     float: right;
+    padding: 1rem 0;
+    border-top: 1px solid var(--global-border-default-color, #eee);
+    border-bottom: 1px solid var(--global-border-default-color, #eee);
 
     h1 {
         margin: 0 0 0 1rem !important;
@@ -403,11 +406,11 @@
     }
 
     output:last-child {
-        margin-top: 0 !important;
+        margin-left: 0 !important;
     }
 
     output:first-child {
-        margin-bottom: 0 !important;
+        margin-right: 0 !important;
     }
 
     pre::after, output::after {
