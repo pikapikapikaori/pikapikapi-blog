@@ -16,7 +16,7 @@
 
 ## このブログについて
 
-[このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は[Docsify](https://docsify.js.org/#/)を利用して、GitHub Pagesにデプロイされました。また、Vercelにデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
+[このブログ](https://pikapikapikaori.github.io/pikapikapi-blog/#/jp/)は [Docsify](https://docsify.js.org/#/) を利用して、GitHub Pages にデプロイされました。また、Vercel にデプロイされた[スタンバイサイト](https://pikapikapi-blog.vercel.app/#/jp/)にアクセスすることもできます。
 
 <!-- div:right-panel -->
 

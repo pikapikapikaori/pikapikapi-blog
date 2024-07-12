@@ -231,7 +231,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="仮面ライダー555">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>仮面ライダー555</h5>
+                    <h5>仮面ライダー 555</h5>
                     <p>Kamen Rider 555</p>
                     <p>2003 &ensp; 日本</p>
                     <p>Ryuta Tazaki / Takao Nagaishi</p>
@@ -284,7 +284,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-1-2.jpg" alt="トップをねらえ2">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>トップをねらえ2!</h5>
+                    <h5>トップをねらえ 2!</h5>
                     <p>Top o Nerae 2! Gekijouban</p>
                     <p>2004 &ensp; Japan</p>
                     <p>Tsurumaki Kazuya</p>
@@ -295,7 +295,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-2.jpg" alt="機動戦士Ζガンダム">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>機動戦士Ζガンダム</h5>
+                    <h5>機動戦士 Ζ ガンダム</h5>
                     <p>Kidou Senshi Z Gundam</p>
                     <p>1985 &ensp; Japan</p>
                     <p>Tomino Yoshiyuki</p>
@@ -418,7 +418,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-1.jpg" alt="ミカるんX">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ミカるんX</h5>
+                    <h5>ミカるん X</h5>
                     <p>Mikarun X</p>
                     <p>2008 &ensp; Japan</p>
                     <p>Takatoo Rui</p>
@@ -429,7 +429,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-2.jpg" alt="銀河鉄道999">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>銀河鉄道999</h5>
+                    <h5>銀河鉄道 999</h5>
                     <p>Ginga Tetsudou 999</p>
                     <p>1985 &ensp; Japan</p>
                     <p>Matsumoto Leiji</p>
@@ -574,7 +574,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ゼノブレイド2">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ゼノブレイド2</h5>
+                    <h5>ゼノブレイド 2</h5>
                     <p>Xenoblade 2</p>
                     <p>2017 &ensp; Japan</p>
                     <p>Monolith Soft</p>
@@ -622,7 +622,7 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" alt="NEWラブプラス+">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>NEWラブプラス+</h5>
+                    <h5>NEW ラブプラス+</h5>
                     <p>New Love Plus +</p>
                     <p>2014 &ensp; Japan</p>
                     <p>Konami</p>
