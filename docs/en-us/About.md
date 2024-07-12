@@ -1,4 +1,4 @@
-# About Me
+# About
 
 <!-- panels:start -->
 <!-- div:left-panel -->
@@ -52,14 +52,8 @@ Dream of becoming a person who holds love of wisdom and beauty.
 </div>
 
 <div class="mainPageRightPanelContainer">
-    <h4 class="mainPageAboutMeTitle">About This Site</h4>
     <div class="mainPageAboutMeImageLinks">
-        <a href="https://github.com/pikapikapikaori/pikapikapi-blog" target="_blank" rel="noopener">
-            <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/pin/?username=pikapikapikaori&repo=pikapikapi-blog&show_owner=true&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamicPictureAccordingToThemeMode ignoreViewFullImageImg">
-        </a>
-    </div>
-    <div class="mainPageAboutMeImageLinks">
-        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignoreViewFullImageImg">
+        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignoreViewFullImageImg" style="padding: 10px 10px 0;">
     </div>
 </div>
 

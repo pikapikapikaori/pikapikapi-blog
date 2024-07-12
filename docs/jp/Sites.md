@@ -1,7 +1,7 @@
 # すべてのサイト
 
 <div class="tocPageDiv">
-    <a class="tocPageDisplayA" href="https://pikapikapikaori.github.io/pikapikapi-blog/">
+    <a class="tocPageDisplayA" href="https://pikapikapikaori.github.io/pikapikapi-blog/" target="_blank">
         <div class="tocPageDisplayDiv">
             <div class="tocPageDisplayTitleImg">
                 <center>
@@ -15,7 +15,7 @@
                 このサイト、メインサイト
             </div>
         </div>
-    </a><a class="tocPageDisplayA" href="https://pikapikapikaori.github.io/pikapikapi-blog-hexo/">
+    </a><a class="tocPageDisplayA" href="https://pikapikapikaori.github.io/pikapikapi-blog-hexo/" target="_blank">
         <div class="tocPageDisplayDiv">
             <div class="tocPageDisplayTitleImg">
                 <center>

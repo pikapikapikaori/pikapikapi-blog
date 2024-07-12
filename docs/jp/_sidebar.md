@@ -13,4 +13,4 @@
   - [使用説明](/jp/Beginning)
   - [写真](/jp/Photograph)
   - [すべてのサイト](/jp/Sites)
-  - [このサイトについて](/jp/About)
+  - [情報](/jp/About)
