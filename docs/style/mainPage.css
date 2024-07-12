@@ -357,3 +357,65 @@
         margin-right: -48px;
     }
 }
+
+.poemDiv {
+    writing-mode: vertical-rl;
+    float: right;
+
+    h1 {
+        margin: 0 0 0 1rem !important;
+    }
+    
+    h2 {
+        margin: 0 45px 0 0.8rem !important;
+    }
+    
+    h3 {
+        margin: 0 40px 0 0.6rem !important;
+    }
+
+    figure, p {
+        margin: 0 1.2em !important;
+    }
+
+    blockquote {
+        margin: 0 2em !important;
+    }
+
+    iframe {
+        margin: 0 1em !important;
+    }
+
+    pre, output {
+        margin: 0 1.2em !important;
+    }
+
+    code {
+        margin: 2px 0 !important;
+    }
+
+    pre > code {
+        padding: 1.4rem 2.2em !important;
+    }
+
+    output {
+        padding: 1.4rem 1.7rem;
+    }
+
+    output:last-child {
+        margin-top: 0 !important;
+    }
+
+    output:first-child {
+        margin-bottom: 0 !important;
+    }
+
+    pre::after, output::after {
+        padding: 10px 5px 10px 0 !important;
+    }
+}
+
+div:has(.poemDiv) {
+    overflow: hidden;
+    height: 300px;
+}
