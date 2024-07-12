@@ -12,4 +12,5 @@
 -
   - [Instructions for use](/en-us/Beginning)
   - [Photographs](/en-us/Photograph)
+  - [Sites](/en-us/Sites)
   - [About Me](/en-us/About)
