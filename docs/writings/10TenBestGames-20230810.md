@@ -1,6 +1,6 @@
 # 大量私货的 10 年代十佳游戏
 
-![Cover](_media/10TenBestGames-20230810/cover-picture.JPG)
+![Cover](_media/10TenBestGames-20230810/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2023.08.10\

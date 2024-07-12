@@ -1,6 +1,6 @@
 # 如何评价日本动画电影《企鹅高速公路》？
 
-![Cover](_media/PenguinCriticize-20190205/cover-picture.JPG)
+![Cover](_media/PenguinCriticize-20190205/cover-picture.jpg)
 
 > 本文首发于[知乎](https://www.zhihu.com/question/310761051/answer/589980971)\
 > 发表日期：2019.02.05\

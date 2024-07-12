@@ -1,6 +1,6 @@
 # 永井豪 & 汤浅政明谈「恶魔人 Crybaby」
 
-![Cover](_media/DevilmanInterview-20180123/cover-picture.webp)
+![Cover](_media/DevilmanInterview-20180123/cover-picture.jpg)
 
 > 本文首发于[知乎](https://zhuanlan.zhihu.com/p/32706628)\
 > 发表日期：2018.01.23\

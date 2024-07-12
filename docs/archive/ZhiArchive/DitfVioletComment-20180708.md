@@ -1,6 +1,6 @@
 # 「Darling in the FranXX」比「紫罗兰永恒花园」观感好的诸多理由
 
-![Cover](_media/DitfVioletComment-20180708/cover-picture.webp)
+![Cover](_media/DitfVioletComment-20180708/cover-picture.jpg)
 
 > 本文首发于[知乎](https://zhuanlan.zhihu.com/p/33381639)，原题为《为什么我说 ditf 比京紫观感更好》，有删改\
 > 发表日期：2018.07.08\

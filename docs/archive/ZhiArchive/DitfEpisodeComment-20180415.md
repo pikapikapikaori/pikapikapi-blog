@@ -1,6 +1,6 @@
 # 如何评价动画《DARLING in the FRANXX》第 X 集？
 
-![Cover](_media/DitfEpisodeComment-20180415/cover-picture.JPG)
+![Cover](_media/DitfEpisodeComment-20180415/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2024.04.21\

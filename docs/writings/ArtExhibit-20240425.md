@@ -1,6 +1,6 @@
 # 近期艺术展 甲辰年四月二十五日
 
-![picture](_media/ArtExhibit-20240425/cover-picture.JPG)
+![picture](_media/ArtExhibit-20240425/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2024.04.25\

@@ -1,6 +1,6 @@
 # 「轻羽飞扬」竞赛片段分镜的秘密
 
-![Cover](_media/HanebadoSceneCut-20180817/cover-picture.webp)
+![Cover](_media/HanebadoSceneCut-20180817/cover-picture.jpg)
 
 > 本文首发于[知乎](https://zhuanlan.zhihu.com/p/42275604)\
 > 发表日期：2018.08.17\
