@@ -6,7 +6,7 @@ function plugin(hook, vm) {
 
     const ignoreTocPageList = ['README', 'PersonalTen', 'PersonalRecords',]
 
-    const prefixes = ['jpg', 'gif',]
+    const prefixes = ['jpg', 'gif', 'png', 'webp', 'jpeg',]
 
     const recentAmount = 8
 
@@ -132,16 +132,18 @@ function plugin(hook, vm) {
             tmp = pageHref.replace('index.html#/', '').replace('#/', '')
             pagePictureHref = tmp.substring(0, tmp.lastIndexOf('/')) + '/_media' + tmp.substring(tmp.lastIndexOf('/')) + '/cover-picture'
 
-            pageImgPrefix = testImgPrefix(pagePictureHref)
+            // pageImgPrefix = testImgPrefix(pagePictureHref)
 
-            if (pageImgPrefix === '') {
-                pagePictureHref = '_media/defaultImg/picture-2.gif'
-            }
-            else {
-                pagePictureHref += '.' + pageImgPrefix
-            }
+            // if (pageImgPrefix === '') {
+            //     pagePictureHref = '_media/defaultImg/picture-2.gif'
+            // }
+            // else {
+            //     pagePictureHref += '.' + pageImgPrefix
+            // }
 
-            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div><div class=\'tocPageDisplayDateDiv\'>' + strToDate(tmp.substr(tmp.length - 8)) + '</div></div></a>'
+            pagePictureHref += '.' + 'jpg'
+
+            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\' onerror=\'this.src=\"_media/defaultImg/picture-2.gif\"\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div><div class=\'tocPageDisplayDateDiv\'>' + strToDate(tmp.substr(tmp.length - 8)) + '</div></div></a>'
 
             tocPageDiv.innerHTML += pageHrefDiv
         })
