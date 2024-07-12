@@ -4,7 +4,8 @@
 > 详细可以访问我的[豆瓣](https://www.douban.com/people/160339816)与[Bangumi](https://bgm.tv/user/inuyasha559)。\
 > 最后更新时间：{docsify-last-updated}
 
-| 最后更新时间 |                                          书 csv文件                                          |                                          电影 csv文件                                          |                                     ACGN json文件                                      |
+| 最后更新时间 |                                          书 csv 文件                                          |                                          电影 
+ csv 文件                                          |                                     ACGN json 文件                                      |
 | :----------: | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
 |  2024.07.02  | [db-book-20240702.csv](writings/_media/PersonalRecordsBackup/db-book-20240702.csv ':ignore') | [db-movie-20240702.csv](writings/_media/PersonalRecordsBackup/db-movie-20240702.csv ':ignore') | [bgm-20240702.json.zip](writings/_media/PersonalRecordsBackup/bgm-20240702.json.zip ':ignore') |
 |  2024.06.02  | [db-book-20240602.csv](writings/_media/PersonalRecordsBackup/db-book-20240602.csv ':ignore') | [db-movie-20240602.csv](writings/_media/PersonalRecordsBackup/db-movie-20240602.csv ':ignore') | [bgm-20240602.json.zip](writings/_media/PersonalRecordsBackup/bgm-20240602.json.zip ':ignore') |

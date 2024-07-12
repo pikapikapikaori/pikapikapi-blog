@@ -6,7 +6,7 @@ function plugin(hook, vm) {
 
     const ignoreTocPageList = ['README', 'PersonalTen', 'PersonalRecords',]
 
-    const prefixes = ['JPG', 'jpg', 'webp', 'gif', 'jpeg', 'png', ]
+    const prefixes = ['jpg', 'gif', 'JPG', 'jpeg', 'webp', 'png', ]
 
     const recentAmount = 8
 

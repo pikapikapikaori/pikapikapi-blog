@@ -1,6 +1,6 @@
 # 近期艺术展 甲辰年四月二十五日
 
-![picture](_media/ArtExhibit-20240425/cover-picture.JPG)
+![picture](_media/ArtExhibit-20240425/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2024.04.25\
@@ -9,7 +9,7 @@
 ## 勃鲁盖尔
 
 > 遇见博物馆\
-> 遇见勃鲁盖尔 16、17世纪欧洲画坛大师真迹展
+> 遇见勃鲁盖尔 16、17 世纪欧洲画坛大师真迹展
 
 <section class="multiImagesContainerSection">
 
@@ -31,7 +31,7 @@
 ## 启蒙时期
 
 > 东一美术馆\
-> 最后的故事——乌菲齐馆藏 18世纪欧洲大师绘画
+> 最后的故事——乌菲齐馆藏 18 世纪欧洲大师绘画
 
 <section class="multiImagesContainerSection">
 

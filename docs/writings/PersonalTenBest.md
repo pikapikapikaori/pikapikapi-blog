@@ -210,7 +210,7 @@
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>暴太郎戦隊ドンブラザーズ</h5>
-                    <p>暴太郎战队DON BROTHERS</p>
+                    <p>暴太郎战队 DON BROTHERS</p>
                     <p>2022 &ensp; 日本</p>
                     <p>田崎龙太</p>
                 </div>
@@ -231,8 +231,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="仮面ライダー555">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>仮面ライダー555</h5>
-                    <p>假面骑士555</p>
+                    <h5>仮面ライダー 555</h5>
+                    <p>假面骑士 555</p>
                     <p>2003 &ensp; 日本</p>
                     <p>田崎竜太 / 長石多可男</p>
                 </div>
@@ -284,8 +284,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-anime-1-2.jpg" alt="トップをねらえ2">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>トップをねらえ2!</h5>
-                    <p>飞跃巅峰2！</p>
+                    <h5>トップをねらえ 2!</h5>
+                    <p>飞跃巅峰 2！</p>
                     <p>2004 &ensp; 日本</p>
                     <p>鶴巻和哉</p>
                 </div>
@@ -295,8 +295,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-anime-2.jpg" alt="機動戦士Ζガンダム">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>機動戦士Ζガンダム</h5>
-                    <p>机动战士Z高达</p>
+                    <h5>機動戦士 Ζ ガンダム</h5>
+                    <p>机动战士 Z 高达</p>
                     <p>1985 &ensp; 日本</p>
                     <p>富野由悠季</p>
                 </div>
@@ -418,8 +418,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-manga-1.jpg" alt="ミカるんX">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ミカるんX</h5>
-                    <p>巨乳战队X</p>
+                    <h5>ミカるん X</h5>
+                    <p>巨乳战队 X</p>
                     <p>2008 &ensp; 日本</p>
                     <p>高遠るい</p>
                 </div>
@@ -429,8 +429,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-manga-2.jpg" alt="銀河鉄道999">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>銀河鉄道999</h5>
-                    <p>银河铁道999</p>
+                    <h5>銀河鉄道 999</h5>
+                    <p>银河铁道 999</p>
                     <p>1985 &ensp; 日本</p>
                     <p>松本零士</p>
                 </div>
@@ -542,7 +542,7 @@
                 </div>
                 <div class="personalTenBestContentInfo">
                     <h5>KINGDOM HEARTS II</h5>
-                    <p>王国之心2</p>
+                    <p>王国之心 2</p>
                     <p>2005 &ensp; 日本</p>
                     <p>史克威尔·艾尼克斯</p>
                 </div>
@@ -574,8 +574,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ゼノブレイド2">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ゼノブレイド2</h5>
-                    <p>异度神剑2</p>
+                    <h5>ゼノブレイド 2</h5>
+                    <p>异度神剑 2</p>
                     <p>2017 &ensp; 日本</p>
                     <p>Monolith Soft</p>
                 </div>
@@ -585,8 +585,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-game-5.jpg" alt="ドラゴンクエストV 天空の花嫁">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ドラゴンクエストV 天空の花嫁</h5>
-                    <p>勇者斗恶龙5 天空的新娘</p>
+                    <h5>ドラゴンクエスト V 天空の花嫁</h5>
+                    <p>勇者斗恶龙 5 天空的新娘</p>
                     <p>1992 &ensp; 日本</p>
                     <p>艾尼克斯</p>
                 </div>
@@ -622,8 +622,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-game-7.jpg" alt="NEWラブプラス+">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>NEWラブプラス+</h5>
-                    <p>New爱相随+</p>
+                    <h5>NEW ラブプラス +</h5>
+                    <p>New 爱相随 +</p>
                     <p>2014 &ensp; 日本</p>
                     <p>科乐美</p>
                 </div>
@@ -655,8 +655,8 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="ファイナルファンタジーIX">
                 </div>
                 <div class="personalTenBestContentInfo">
-                    <h5>ファイナルファンタジーIX</h5>
-                    <p>最终幻想9</p>
+                    <h5>ファイナルファンタジー IX</h5>
+                    <p>最终幻想 9</p>
                     <p>2000 &ensp; 日本</p>
                     <p>史克威尔</p>
                 </div>

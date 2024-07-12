@@ -14,7 +14,7 @@
 
 |         名称（链接）          |                                说明                                |                    备注                    |
 | :---------------------------: | :----------------------------------------------------------------: | :----------------------------------------: |
-| [Vercel](https://vercel.com/) | 可以直接部署前端静态界面，<br>也支持以FaaS方式部署一些语言的后端服务器 | [GitHub](https://github.com/vercel/vercel) |
+| [Vercel](https://vercel.com/) | 可以直接部署前端静态界面，<br>也支持以 FaaS 方式部署一些语言的后端服务器 | [GitHub](https://github.com/vercel/vercel) |
 
 ## 前端
 
@@ -22,15 +22,15 @@
 
 |               名称（链接）               |              说明               |                          备注                          |
 | :--------------------------------------: | :-----------------------------: | :----------------------------------------------------: |
-|      [Iconoir](https://iconoir.com)      |        SVG格式Icon生成器        |                                                        |
-|    [Tabler](https://tablericons.com)     |        SVG格式Icon生成器        |                                                        |
-|  [Phosphor](https://phosphoricons.com)   |        SVG格式Icon生成器        |                                                        |
-|       [JAM](https://jam-icons.com)       |        SVG格式Icon生成器        |      [GitHub](https://github.com/michaelampr/jam)      |
-|    [VISIWIG](https://www.visiwig.com)    | SVG格式Icon、花纹、材质等生成器 |                                                        |
-| [Simple Icons](https://simpleicons.org/) |        SVG格式Icon下载器        | [GitHub](https://github.com/simple-icons/simple-icons) |
+|      [Iconoir](https://iconoir.com)      |        SVG 格式 Icon生成器        |                                                        |
+|    [Tabler](https://tablericons.com)     |        SVG 格式 Icon生成器        |                                                        |
+|  [Phosphor](https://phosphoricons.com)   |        SVG 格式 Icon生成器        |                                                        |
+|       [JAM](https://jam-icons.com)       |        SVG 格式 Icon生成器        |      [GitHub](https://github.com/michaelampr/jam)      |
+|    [VISIWIG](https://www.visiwig.com)    | SVG 格式 Icon、花纹、材质等生成器 |                                                        |
+| [Simple Icons](https://simpleicons.org/) |        SVG 格式 Icon下载器        | [GitHub](https://github.com/simple-icons/simple-icons) |
 
 ### 组件库 & 框架 & 包
 
 |             名称（链接）             |         说明          |                        备注                        |
 | :----------------------------------: | :-------------------: | :------------------------------------------------: |
-| [Naive UI](https://www.naiveui.com/) |       Vue组件库       |   [GitHub](https://github.com/tusen-ai/naive-ui)   |
+| [Naive UI](https://www.naiveui.com/) |       Vue 组件库       |   [GitHub](https://github.com/tusen-ai/naive-ui)   |

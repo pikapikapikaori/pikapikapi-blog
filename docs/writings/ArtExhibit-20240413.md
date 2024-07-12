@@ -1,6 +1,6 @@
 # 近期艺术展 甲辰年四月十三日
 
-![picture](_media/ArtExhibit-20240413/cover-picture.JPG)
+![picture](_media/ArtExhibit-20240413/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2024.04.13\
