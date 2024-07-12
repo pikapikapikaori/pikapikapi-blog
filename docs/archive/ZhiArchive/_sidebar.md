@@ -32,4 +32,4 @@
 -
   - [「轻羽飞扬」竞赛片段分镜的秘密](/archive/ZhiArchive/HanebadoSceneCut-20180817)
   - [「Darling in the FranXX」比「紫罗兰永恒花园」观感好的诸多理由](/archive/ZhiArchive/DitfVioletComment-20180708)
-  - [永井豪&汤浅政明谈「恶魔人 Crybaby」](/archive/ZhiArchive/DevilmanInterview-20180123)
+  - [永井豪 & 汤浅政明谈「恶魔人 Crybaby」](/archive/ZhiArchive/DevilmanInterview-20180123)

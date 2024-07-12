@@ -1,4 +1,4 @@
-# 永井豪&汤浅政明谈「恶魔人 Crybaby」
+# 永井豪 & 汤浅政明谈「恶魔人 Crybaby」
 
 ![Cover](_media/DevilmanInterview-20180123/cover-picture.webp)
 
