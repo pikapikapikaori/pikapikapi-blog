@@ -53,3 +53,25 @@
 .gt-popup .gt-action {
     color: var(--theme-color, #ea6f5a) !important;
 }
+
+.gt-container .gt-comment-content {
+    border-radius: var(--global-el-border-radius, 10px);
+}
+
+.gt-container .gt-comment-content:hover {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.gt-container .gt-header-preview {
+    border-radius: var(--global-el-border-radius, 10px) !important;
+    height: 72px;
+}
+
+.gt-container .gt-header-textarea  {
+    border-radius: var(--global-el-border-radius, 10px) !important;
+}
+
+.gt-popup {
+    border-radius: 5px;
+}
