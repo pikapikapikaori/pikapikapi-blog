@@ -1,5 +1,7 @@
 .dynamicCover {
-    animation: dynamicCoverSwitch 40s infinite;
+    animation: dynamicCoverSwitch 30s infinite;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
 }
 
 @keyframes dynamicCoverSwitch {
@@ -8,21 +10,15 @@
     22%,
     100% {
         background: url("../../_media/coverBackgrounds/cover-1.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
     }
 
     33%,
     55% {
         background: url("../../_media/coverBackgrounds/cover-2.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
     }
 
     66%,
     88% {
         background: url("../../_media/coverBackgrounds/cover-3.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
     }
 }
