@@ -16,7 +16,7 @@ function plugin(hook, vm) {
         mask.style.opacity = .6
 
         var curImgId = 1
-        window.setInterval(function () {
+        setInterval(function () {
             cover.style.backgroundImage = 'url(' + backgrounds[curImgId] + ')'
             curImgId = (curImgId + 1) % numberOfImages
         }, interval)
