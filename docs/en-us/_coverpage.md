@@ -16,4 +16,4 @@
     </a>
 </div>
 
-![](_media/cover-background.jpeg)
+![](_media/cover-background.jpg)
