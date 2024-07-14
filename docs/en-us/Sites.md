@@ -1,8 +1,8 @@
 # Sites
 
-<div class="tocPageDiv">
+<div class="toc-page-div">
     <a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-blog/" target="_blank">
-        <div class="tocPageDisplayDiv">
+        <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
                 <center>
                     <img class="ignore-view-full-image-img" src="./_media/Sites/pikapikapi-home.png">
@@ -16,7 +16,7 @@
             </div>
         </div>
     </a><a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-blog-hexo/" target="_blank">
-        <div class="tocPageDisplayDiv">
+        <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
                 <center>
                     <img class="ignore-view-full-image-img" src="./_media/Sites/pikapikapi-hexo.png">

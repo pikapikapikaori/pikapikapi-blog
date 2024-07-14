@@ -10,7 +10,7 @@
 
 <div class="personal-ten-best-container">
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-1.jpg" alt="Le mépris">
@@ -80,7 +80,7 @@
         </div>
     </div>
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-movie-7.jpg" alt="Pulp Fiction">
@@ -144,7 +144,7 @@
 
 <div class="personal-ten-best-container">
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-1.jpg" alt="ロングバケーション">
@@ -203,7 +203,7 @@
         </div>
     </div>
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="暴太郎戦隊ドンブラザーズ">
@@ -267,7 +267,7 @@
 
 <div class="personal-ten-best-container">
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-1.jpg" alt="トップをねらえ">
@@ -337,7 +337,7 @@
         </div>
     </div>
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-anime-5.jpg" alt="カウボーイビバップ">
@@ -412,7 +412,7 @@
 
 <div class="personal-ten-best-container">
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-1.jpg" alt="ミカるんX">
@@ -471,7 +471,7 @@
         </div>
     </div>
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-manga-6.jpg" alt="タッチ">
@@ -535,7 +535,7 @@
 
 <div class="personal-ten-best-container">
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-1.jpg" alt="KINGDOM HEARTS II">
@@ -605,7 +605,7 @@
         </div>
     </div>
     <div class="personal-ten-best">
-        <div class="personalTenBestContentList">
+        <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
                     <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-6-2.jpg" alt="ポケットモンスター ホワイト">
