@@ -65,7 +65,7 @@
 
 这一集中，所有回忆部分均使用了 2.35：1 的纵横比以作区分。此外，有趣的一点是，在前半部分中，所有回忆部分颜色都偏蓝，似乎模拟了日光夜景的拍摄效果，同时画面切换的也越来越快。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-12.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-13.webp)
@@ -84,7 +84,7 @@
 
 ---
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-16.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-17.webp)
@@ -126,7 +126,7 @@
 > 本文首发于[知乎](https://www.zhihu.com/question/274158101/answer/372852569)\
 > 发表日期：2018.04.22
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-21.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-22.webp)
@@ -167,7 +167,7 @@
 
 这一话镜头上还是挺出色的，举两个例子：
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-30.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-31.webp)
@@ -230,7 +230,7 @@
 
 ---
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-51.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-52.webp)
@@ -294,7 +294,7 @@
 
 ---
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-64.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-65.webp)
@@ -305,7 +305,7 @@
 
 ---
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-66.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-67.webp)
@@ -322,7 +322,7 @@
 
 从这里开始，静止画面运用的更多了，很容易看出博士在这里开始个人情感越来越少，而一味在追求科学研究，也因此妻子的死去也并未让博士过度悲伤。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-70.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-71.webp)
@@ -333,7 +333,7 @@
 
 相似的构图还有下面这个。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-72.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-73.webp)
@@ -362,7 +362,7 @@
 
 补几个EVA梗，挺有意思。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfEpisodeComment-20180415/picture-77.webp)
 ![Picture](_media/DitfEpisodeComment-20180415/picture-78.webp)

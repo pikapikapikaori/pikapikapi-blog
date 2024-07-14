@@ -4,7 +4,7 @@
 
 #### **景色**
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/Photograph/scenery-1.jpg)
 ![picture](_media/Photograph/scenery-2.jpg)
@@ -17,7 +17,7 @@
 
 #### **フィギュア**
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/Photograph/figure-4.jpg)
 ![picture](_media/Photograph/figure-2.jpg)

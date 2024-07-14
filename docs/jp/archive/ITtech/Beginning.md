@@ -14,9 +14,9 @@
 
 <!-- div:right-panel -->
 
-<div class="mainPageRightPanelContainer">
-    <h4 class="mainPageAboutMeTitle">言語使用</h4>
-    <div class="mainPageAboutMeImageLinks">
+<div class="main-page-right-panel-container">
+    <h4 class="main-page-about-me-title">言語使用</h4>
+    <div class="main-page-about-me-image-links">
         <img src="https://github-readme-stats-pikapikapikaori.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&locale=ja&border_color=00000000&bg_color=00000000&theme=buefy" alt="picture" class="dynamic-picture-according-to-theme-mode ignore-view-full-image-img">
     </div>
 </div>

@@ -1,11 +1,11 @@
 ## Personal Ten Best
 
-<div class="personalTenBestContainer">
-    <div class="personalTenBest">
-        <div class="personalTenBestTitleSmall">
+<div class="personal-ten-best-container">
+    <div class="personal-ten-best">
+        <div class="personal-ten-best-title-small">
         Movie
         </div>
-        <div class="personalTenBestImgSmall">
+        <div class="personal-ten-best-img-small">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-1.jpg" style="z-index: 10" alt="Le mépris">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-2.jpg" style="z-index: 9" alt="Watchmen">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-3.jpg" style="z-index: 8" alt="Blade Runner">
@@ -18,11 +18,11 @@
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-10.jpg" style="z-index: 1" alt="東邪西毒">
         </div>
     </div>
-    <div class="personalTenBest">
-        <div class="personalTenBestTitleSmall">
+    <div class="personal-ten-best">
+        <div class="personal-ten-best-title-small">
         TV Series
         </div>
-        <div class="personalTenBestImgSmall">
+        <div class="personal-ten-best-img-small">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-1.jpg" style="z-index: 10" alt="ロングバケーション">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-2.jpg" style="z-index: 9" alt="火花">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-3.jpg" style="z-index: 8" alt="篤姫">
@@ -37,12 +37,12 @@
     </div>
 </div>
 
-<div class="personalTenBestContainer">
-    <div class="personalTenBest">
-        <div class="personalTenBestTitleSmall">
+<div class="personal-ten-best-container">
+    <div class="personal-ten-best">
+        <div class="personal-ten-best-title-small">
         Animation
         </div>
-        <div class="personalTenBestImgSmall">
+        <div class="personal-ten-best-img-small">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-1.jpg" style="z-index: 10" alt="トップをねらえ">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-2.jpg" style="z-index: 9" alt="機動戦士Ζガンダム">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-3.jpg" style="z-index: 8" alt="機動戦艦ナデシコ">
@@ -55,11 +55,11 @@
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-anime-10.jpg" style="z-index: 1" alt="少女革命ウテナ">
         </div>
     </div>
-    <div class="personalTenBest">
-        <div class="personalTenBestTitleSmall">
+    <div class="personal-ten-best">
+        <div class="personal-ten-best-title-small">
         Manga
         </div>
-        <div class="personalTenBestImgSmall">
+        <div class="personal-ten-best-img-small">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-1.jpg" style="z-index: 10" alt="ミカるんX">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-2.jpg" style="z-index: 9" alt="銀河鉄道999">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-manga-3.jpg" style="z-index: 8" alt="それでも町は廻っている">
@@ -74,12 +74,12 @@
     </div>
 </div>
 
-<div class="personalTenBestContainer">
-    <div class="personalTenBest">
-        <div class="personalTenBestTitleSmall">
+<div class="personal-ten-best-container">
+    <div class="personal-ten-best">
+        <div class="personal-ten-best-title-small">
         Game
         </div>
-        <div class="personalTenBestImgSmall">
+        <div class="personal-ten-best-img-small">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-1.jpg" style="z-index: 10" alt="KINGDOM HEARTS II">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-2.jpg" style="z-index: 9" alt="narcissu">
             <img class="ignore-view-full-image-img" src="./en-us/writings/_media/PersonalTenBest/personalTenBest-game-3.jpg" style="z-index: 8" alt="遊☆戯☆王">
