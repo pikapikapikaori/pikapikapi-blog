@@ -1,7 +1,6 @@
 .dynamicCover {
-    animation: dynamicCoverSwitch 30s infinite;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
+    /* animation: dynamicCoverSwitch 30s infinite; */
+    transition: background 3s ease-in-out;
 }
 
 @keyframes dynamicCoverSwitch {
@@ -9,16 +8,16 @@
     0%,
     22%,
     100% {
-        background: url("../../_media/coverBackgrounds/cover-1.jpg");
+        background: url("../../_media/coverBackgrounds/cover-1.jpg") center center / cover;
     }
 
     33%,
     55% {
-        background: url("../../_media/coverBackgrounds/cover-2.jpg");
+        background: url("../../_media/coverBackgrounds/cover-2.jpg") center center / cover;
     }
 
     66%,
     88% {
-        background: url("../../_media/coverBackgrounds/cover-3.jpg");
+        background: url("../../_media/coverBackgrounds/cover-3.jpg") center center / cover;
     }
 }
