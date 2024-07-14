@@ -1,11 +1,11 @@
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   Latest Posts
 </div>
 
 -
   - [Latest Posts](/en-us/archive/)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   Archive
 </div>
 

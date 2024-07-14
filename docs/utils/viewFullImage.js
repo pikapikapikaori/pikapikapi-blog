@@ -158,23 +158,23 @@ function plugin(hook, vm) {
     hook.mounted(function () {
         var viewFullImageSpan = document.createElement('span')
 
-        viewFullImageSpan.id = 'viewFullImageSpan'
+        viewFullImageSpan.id = 'view-full-image-span'
 
         var viewFullImageSpanInnerLeftDiv = document.createElement('div')
         var viewFullImageSpanInnerRightDiv = document.createElement('div')
 
-        viewFullImageSpanInnerLeftDiv.id = 'viewFullImageSpanInnerLeftDiv'
-        viewFullImageSpanInnerRightDiv.id = 'viewFullImageSpanInnerRightDiv'
+        viewFullImageSpanInnerLeftDiv.id = 'view-full-image-span-inner-left-div'
+        viewFullImageSpanInnerRightDiv.id = 'view-full-image-span-inner-right-div'
         viewFullImageSpanInnerLeftDiv.innerHTML = '<?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M15 6l-6 6 6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
         viewFullImageSpanInnerRightDiv.innerHTML = '<?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M9 6l6 6-6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>'
 
         var viewFullImageSpanInnerImgDiv = document.createElement('div')
 
-        viewFullImageSpanInnerImgDiv.id = 'viewFullImageSpanInnerImgDiv'
+        viewFullImageSpanInnerImgDiv.id = 'view-full-image-span-inner-img-div'
 
         var viewFullImageSpanInnerTextDiv = document.createElement('div')
 
-        viewFullImageSpanInnerTextDiv.id = 'viewFullImageSpanInnerTextDiv'
+        viewFullImageSpanInnerTextDiv.id = 'view-full-image-span-inner-text-div'
 
         viewFullImageSpan.appendChild(viewFullImageSpanInnerLeftDiv)
         viewFullImageSpan.appendChild(viewFullImageSpanInnerRightDiv)
@@ -185,11 +185,11 @@ function plugin(hook, vm) {
 
         // true for left button
         function buttonLeftRightOnClick(direction) {
-            let viewFullImageSpanInnerImgDiv = document.getElementById('viewFullImageSpanInnerImgDiv')
-            let viewFullImageSpanInnerTextDiv = document.getElementById('viewFullImageSpanInnerTextDiv')
+            let viewFullImageSpanInnerImgDiv = document.getElementById('view-full-image-span-inner-img-div')
+            let viewFullImageSpanInnerTextDiv = document.getElementById('view-full-image-span-inner-text-div')
 
             let imgArray = Array.from(document.getElementsByTagName('img')).filter(img => {
-                return !(img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1 || img.className.indexOf('emoji') > -1 || img.src.indexOf('avatars.githubusercontent') > -1)
+                return !(img.className.split(' ').indexOf('ignore-view-full-image-img') > -1 || img.className.indexOf('emoji') > -1 || img.src.indexOf('avatars.githubusercontent') > -1)
             })
 
             if (imgArray.length !== 1) {
@@ -245,11 +245,11 @@ function plugin(hook, vm) {
 
     hook.doneEach(function () {
         Array.from(document.getElementsByTagName('img')).filter(img => {
-            return !(img.className.split(' ').indexOf('ignoreViewFullImageImg') > -1 || img.className.indexOf('emoji') > -1 || img.src.indexOf('avatars.githubusercontent') > -1)
+            return !(img.className.split(' ').indexOf('ignore-view-full-image-img') > -1 || img.className.indexOf('emoji') > -1 || img.src.indexOf('avatars.githubusercontent') > -1)
         }).forEach((img, index, arr) => {
-            let viewFullImageSpan = document.getElementById('viewFullImageSpan')
-            let viewFullImageSpanInnerImgDiv = document.getElementById('viewFullImageSpanInnerImgDiv')
-            let viewFullImageSpanInnerTextDiv = document.getElementById('viewFullImageSpanInnerTextDiv')
+            let viewFullImageSpan = document.getElementById('view-full-image-span')
+            let viewFullImageSpanInnerImgDiv = document.getElementById('view-full-image-span-inner-img-div')
+            let viewFullImageSpanInnerTextDiv = document.getElementById('view-full-image-span-inner-text-div')
             img.addEventListener('click', function () {
                 curImg = img
 

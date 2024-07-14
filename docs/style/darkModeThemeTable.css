@@ -18,6 +18,6 @@
     background: #3f3f3f ! important;
 }
 
-.tocPageDisplayDateDiv {
+.toc-page-display-date-div {
     color: var(--global-background-white-blur, rgba(255, 255, 255, .1)) !important;
 }

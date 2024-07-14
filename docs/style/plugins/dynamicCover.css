@@ -1,4 +1,4 @@
-.dynamicCover {
+.dynamic-cover {
     /* animation: dynamicCoverSwitch 30s infinite; */
     transition: background 3s ease-in-out;
 }

@@ -28,11 +28,11 @@ function plugin(hook, vm) {
         }
 
         // 若没有footer，则在gitalk容器下方重新添加footer
-        var previousFooter = document.getElementById('footerUnderGitalk')
+        var previousFooter = document.getElementById('footer-under-gitalk')
         if (!previousFooter) {
             var footer = document.createElement('footer')
             var footerDiv = document.createElement('div')
-            footerDiv.id = 'footerUnderGitalk'
+            footerDiv.id = 'footer-under-gitalk'
             footerDiv.innerHTML = gitalkWithFooterOptions.footerInnerHtml
             footer.appendChild(footerDiv)
             document.getElementById('main').parentNode.insertBefore(footer, undefined)

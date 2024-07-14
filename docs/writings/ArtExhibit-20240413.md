@@ -13,7 +13,7 @@
 
 相对来说比较著名的画少一些，不过我本身也欣赏不来立体主义。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/ArtExhibit-20240413/picture-4.jpeg)
 ![picture](_media/ArtExhibit-20240413/picture-5.jpeg)
@@ -32,7 +32,7 @@
 
 威尼斯画派对色彩的运用其实并不很吸引我，尽管不得不承认到了后来的早期印象派的作品都很美。这个展出的意外之喜是看到了几幅伦勃朗与鲁本斯的画作，尽管数量不多。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/ArtExhibit-20240413/picture-12.jpeg)
 ![picture](_media/ArtExhibit-20240413/picture-13.jpeg)
@@ -50,7 +50,7 @@
 
 冲着卡拉瓦乔和他最出名的影响即暗色调画法去看的，最符合预期的一次。不过没有维米尔的作品有点遗憾。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/ArtExhibit-20240413/picture-17.jpeg)
 ![picture](_media/ArtExhibit-20240413/picture-18.jpeg)
@@ -72,7 +72,7 @@
 
 不知道为什么近期上海威尼斯画派的展出特别多。这次主要看提香。不愧是近两百的票价无论是作品数量还是质量都远远超过上面几个展览。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/ArtExhibit-20240413/picture-1.jpeg)
 ![picture](_media/ArtExhibit-20240413/picture-3.jpeg)

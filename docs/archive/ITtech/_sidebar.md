@@ -1,11 +1,11 @@
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   最近发布
 </div>
 
 -
   - [最近发布](/archive/ITtech/)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   序
 </div>
 
@@ -13,7 +13,7 @@
   - [前言](/archive/ITtech/Beginning)
   - [实用工具整理](/archive/ITtech/UsefulToolsOrApps)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   文章
 </div>
 
@@ -24,7 +24,7 @@
   - [软件项目实践的一些思索与后期优化方向：设计、开发以及其他](/archive/ITtech/SoftwareInsights-20230428)
   - [生成 n 位全部二进制数，数组形式：蚂蚁爬杆问题](/archive/ITtech/OOADAntProblem-20210924)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   论文阅读
 </div>
 

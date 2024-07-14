@@ -1,18 +1,18 @@
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   Latest Posts
 </div>
 
 -
   - [Latest Posts](/en-us/writings/)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   Preface
 </div>
 
 -
   - [Personal Ten Best List](/en-us/writings/PersonalTenBest)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   Writings
 </div>
 

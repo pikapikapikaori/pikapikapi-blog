@@ -11,7 +11,7 @@
 > 遇见博物馆\
 > 遇见勃鲁盖尔 16、17 世纪欧洲画坛大师真迹展
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/ArtExhibit-20240425/picture-1.jpg)
 ![picture](_media/ArtExhibit-20240425/picture-2.jpg)
@@ -33,7 +33,7 @@
 > 东一美术馆\
 > 最后的故事——乌菲齐馆藏 18 世纪欧洲大师绘画
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![picture](_media/ArtExhibit-20240425/picture-13.jpeg)
 ![picture](_media/ArtExhibit-20240425/picture-14.jpeg)

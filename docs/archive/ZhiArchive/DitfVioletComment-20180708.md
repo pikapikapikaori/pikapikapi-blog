@@ -54,7 +54,7 @@
 
 第三话在广同意 002 与充一同驾驶后的两个镜头，使用了两个特别的镜头遮蔽
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DitfVioletComment-20180708/picture-7.webp)
 ![Picture](_media/DitfVioletComment-20180708/picture-8.webp)

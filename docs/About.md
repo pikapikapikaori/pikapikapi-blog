@@ -17,11 +17,11 @@
 
 <!-- div:right-panel -->
 
-<div class="mainPageRightPanelContainer">
-    <img src="./_media/logo.JPG" class="mainPageAboutMeAvatar" />
-    <h4 class="mainPageAboutMeTitle">李亦杨</h4>
-    <p class="mainPageAboutMeDescription"><ruby>李亦楊<rt>リエキヨウ</rt></ruby> / Jeff Li</p>
-    <div class="mainPageAboutMeLinks">
+<div class="main-page-right-panel-container">
+    <img src="./_media/logo.JPG" class="main-page-about-me-avatar" />
+    <h4 class="main-page-about-me-title">李亦杨</h4>
+    <p class="main-page-about-me-description"><ruby>李亦楊<rt>リエキヨウ</rt></ruby> / Jeff Li</p>
+    <div class="main-page-about-me-links">
         <a href="https://github.com/pikapikapikaori/" target="_blank" rel="noopener">
             <?xml version="1.0" encoding="UTF-8"?>
             <svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000">
@@ -45,9 +45,9 @@
     </div>
 </div>
 
-<div class="mainPageRightPanelContainer">
-    <div class="mainPageAboutMeImageLinks">
-        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignoreViewFullImageImg" style="padding: 10px 10px 0;">
+<div class="main-page-right-panel-container">
+    <div class="main-page-about-me-image-links">
+        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignore-view-full-image-img" style="padding: 10px 10px 0;">
     </div>
 </div>
 

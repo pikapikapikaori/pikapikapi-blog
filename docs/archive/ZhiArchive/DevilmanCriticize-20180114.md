@@ -104,7 +104,7 @@
 
 动画音乐中最具特色也最为惊艳的就是说唱小哥带来的 freestyle。基本上说唱小哥带来的说唱都是十分映衬主题的。它不仅仅十分带感，还推动了剧情的发展。例如第七集开头的说唱，当时恶魔的存在刚刚向世界揭露，也因此世界陷入恐慌。在说唱小哥的 freestyle 唱到“害怕的人们拿起武器杀人，不害怕的人手无寸铁，反遭其害”时，正配上恶魔搜查队欺负百姓的图像，不仅交代了当时的背景，更是突显出恶魔搜查队的毫无人性以及真正无辜的百姓的可怜。
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/DevilmanCriticize-20180114/picture-16.webp)
 ![Picture](_media/DevilmanCriticize-20180114/picture-17.webp)

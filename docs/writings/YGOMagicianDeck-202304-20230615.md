@@ -43,7 +43,7 @@
 
 先看一下可以考虑投入的卡片吧：
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/YGOMagicianDeck-202304-20230615/card-1.png)
 ![Picture](_media/YGOMagicianDeck-202304-20230615/card-2.png)
@@ -91,7 +91,7 @@
 
 另一方面，由于即将发售的 1202 中霸王也成为了新字段，因而可以考虑投入霸王字段的卡片：
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/YGOMagicianDeck-202304-20230615/card-24.png)
 ![Picture](_media/YGOMagicianDeck-202304-20230615/card-26.png)
@@ -112,7 +112,7 @@
 
 1202 新卡参考：
 
-<section class="multiImagesContainerSection">
+<section class="multi-images-container-section">
 
 ![Picture](_media/YGOMagicianDeck-202304-20230615/1202-1.jpg)
 ![Picture](_media/YGOMagicianDeck-202304-20230615/1202-2.jpg)
