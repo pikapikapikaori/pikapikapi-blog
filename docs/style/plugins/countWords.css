@@ -1,9 +1,9 @@
-#countWordsBlockSpanDiv {
+#count-words-block-span-div {
     padding-top: 0 !important;
 }
 
 @media screen and (max-width: 768px) {
-    #countWordsBlockSpanDiv {
+    #count-words-block-span-div {
         padding-top: 40px !important;
     }
 }

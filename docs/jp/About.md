@@ -50,7 +50,7 @@
 
 <div class="mainPageRightPanelContainer">
     <div class="mainPageAboutMeImageLinks">
-        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignoreViewFullImageImg" style="padding: 10px 10px 0;">
+        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignore-view-full-image-img" style="padding: 10px 10px 0;">
     </div>
 </div>
 

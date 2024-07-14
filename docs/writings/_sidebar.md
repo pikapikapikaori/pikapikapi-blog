@@ -1,11 +1,11 @@
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   最近发布
 </div>
 
 -
   - [最近发布](/writings/)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   序
 </div>
 
@@ -15,7 +15,7 @@
   - [个人观影记录](/writings/PersonalRecordsBackup)
   - [实用网站快速链接](/writings/UsefulWebsites)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   文章
 </div>
 
@@ -34,7 +34,7 @@
   - [「FLCL」：以青春之名向平庸的反抗](/writings/FLCL-20180922)
   - [四月赏曲——浅谈「四月是你的谎言」音乐选择](/writings/Shigatsunouso-20180401)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   随记
 </div>
 
@@ -53,7 +53,7 @@
   - [随记：图集 癸卯年丁巳月丙寅日](/writings/Notes-20230508)
   - [随记：图集 庚子年庚辰月甲午日](/writings/Notes-20200421)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   哲学实践
 </div>
 

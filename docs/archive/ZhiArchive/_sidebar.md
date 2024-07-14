@@ -1,18 +1,18 @@
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   最近发布
 </div>
 
 -
   - [最近发布](/archive/ZhiArchive/)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   序
 </div>
 
 -
   - [前言](/archive/ZhiArchive/Beginning)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   知乎回答
 </div>
 
@@ -25,7 +25,7 @@
   - [如何理解动画中的踩点，轨道，并用这个来分辨原画师？](/archive/ZhiArchive/AnimeTimingAns-20180123)
   - [如何评价 2018 年 1 月新番恶魔人 Crybaby？](/archive/ZhiArchive/DevilmanCriticize-20180114)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   知乎文章
 </div>
 

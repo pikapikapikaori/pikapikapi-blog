@@ -41,13 +41,13 @@ section.cover p {
     font-family: 'Claire-Palmer-Script', cursive;
 }
 
-.pageSidebarTitleClass {
+.page-sidebar-title-class {
     font-size: 1.65rem;
     font-family: 'MRT', cursive;
     color: var(--theme-color, #ea6f5a);
 }
 
-.pagesSideBarLevel1TitleDiv {
+.page-sidebar-level1-title-div {
     font-family: 'WeibeiSC-Bold', cursive;
     font-size: 1.25rem;
     max-width: 95%;
@@ -57,13 +57,13 @@ section.cover p {
     border-bottom: 1px solid var(--global-border-default-color, #eee);
 }
 
-.coverPageScrollDownChevronDiv {
+.cover-page-scroll-down-chevron-div {
     margin: 40px 0 0;
     position: absolute;
     left: calc(50% - 10px);
 }
 
-.coverPageScrollDownChevron {
+.cover-page-scroll-down-chevron {
     position: relative;
     animation: moveChevron 2s infinite;
     -webkit-animation: moveChevron 2s infinite;
@@ -103,13 +103,13 @@ section.cover p {
     }
 }
 
-.coverPageDescriptionDiv {
+.cover-page-description-div {
     align-self: center;
     max-width: 400px;
     margin: 0 auto 0 !important;
 }
 
-.coverPageDescriptionTypewriter {
+.cover-page-description-typewriter {
     width: 360px;
     margin: 0 auto 0;
     position: relative;

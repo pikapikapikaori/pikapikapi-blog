@@ -2,7 +2,7 @@
 function plugin(hook, vm) {
     const tocMarkup = '<!-- toc -->'
 
-    const tocDiv = '<div class=\'tocPageDiv\'></div><div class=\'tocPaginatorDiv\'><div class=\'tocPaginatorLeftButtonDiv tocPaginatorButtonDiv\'><?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M15 6l-6 6 6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class=\'tocPaginatorInput\'></div><div class=\'tocPaginatorRightButtonDiv tocPaginatorButtonDiv\'><?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M9 6l6 6-6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div>'
+    const tocDiv = '<div class=\'tocPageDiv\'></div><div class=\'toc-paginator-div\'><div class=\'tocPaginatorLeftButtonDiv toc-paginator-button-div\'><?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M15 6l-6 6 6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div><div class=\'toc-paginator-input\'></div><div class=\'tocPaginatorRightButtonDiv toc-paginator-button-div\'><?xml version="1.0" encoding="UTF-8"?><svg width="20px" height="20px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="var(--theme-color,#ea6f5a)"><path d="M9 6l6 6-6 6" stroke="var(--theme-color,#ea6f5a)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div>'
 
     const ignoreTocPageList = ['README', 'PersonalTen', 'PersonalRecords',]
 
@@ -36,10 +36,10 @@ function plugin(hook, vm) {
 
     function renderSidebar() {
         if (hasTocs) {
-            document.body.classList.add('forceClose')
+            document.body.classList.add('force-close')
         }
         else {
-            document.body.classList.remove('forceClose')
+            document.body.classList.remove('force-close')
         }
     }
 
@@ -143,12 +143,12 @@ function plugin(hook, vm) {
 
             pagePictureHref += '.' + 'jpg'
 
-            pageHrefDiv = '<a class=\'tocPageDisplayA\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'tocPageDisplayTitleImg\'><img class=\'ignoreViewFullImageImg\' src=\'' + pagePictureHref + '\' loading=\'lazy\' onerror=\'this.src=\"_media/defaultImg/picture-2.gif\"\'></div><div class=\'tocPageDisplayTitleDiv\'>' + page.innerHTML + '</div><div class=\'tocPageDisplayDateDiv\'>' + strToDate(tmp.substr(tmp.length - 8)) + '</div></div></a>'
+            pageHrefDiv = '<a class=\'toc-page-display-a\' href=' + pageHref + '><div class=\'tocPageDisplayDiv\'><div class=\'toc-page-display-title-img\'><img class=\'ignore-view-full-image-img\' src=\'' + pagePictureHref + '\' loading=\'lazy\' onerror=\'this.src=\"_media/defaultImg/picture-2.gif\"\'></div><div class=\'toc-page-display-title-div\'>' + page.innerHTML + '</div><div class=\'toc-page-display-date-div\'>' + strToDate(tmp.substr(tmp.length - 8)) + '</div></div></a>'
 
             tocPageDiv.innerHTML += pageHrefDiv
         })
 
-        tocPaginatorInputDiv = document.getElementsByClassName('tocPaginatorInput')
+        tocPaginatorInputDiv = document.getElementsByClassName('toc-paginator-input')
         if (tocPaginatorInputDiv.length > 0) {
             tocPaginatorInputDiv = tocPaginatorInputDiv[0]
             if (tocPaginatorInputDiv.hasChildNodes()) {
@@ -159,8 +159,8 @@ function plugin(hook, vm) {
     }
 
     function renderTocPaginator() {
-        tocPaginatorDiv = document.getElementsByClassName('tocPaginatorDiv')[0]
-        tocPaginatorInputDiv = document.getElementsByClassName('tocPaginatorInput')[0]
+        tocPaginatorDiv = document.getElementsByClassName('toc-paginator-div')[0]
+        tocPaginatorInputDiv = document.getElementsByClassName('toc-paginator-input')[0]
         tocPaginatorLeftButtonDiv = document.getElementsByClassName('tocPaginatorLeftButtonDiv')[0]
         tocPaginatorRightButtonDiv = document.getElementsByClassName('tocPaginatorRightButtonDiv')[0]
 

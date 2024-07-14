@@ -1,18 +1,18 @@
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   最近のポースト
 </div>
 
 -
   - [最近のポースト](/jp/writings/)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   序文
 </div>
 
 -
   - [個人ベスト 10 リスト](/jp/writings/PersonalTenBest)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   ノート
 </div>
 

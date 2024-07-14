@@ -30,7 +30,7 @@ function plugin(hook, vm) {
             break
         }
 
-        Array.from(document.getElementsByClassName('dynamicPictureAccordingToThemeMode')).forEach(img => {
+        Array.from(document.getElementsByClassName('dynamic-picture-according-to-theme-mode')).forEach(img => {
             var imgSrc = img.src
 
             if (imgSrc.indexOf('theme=') > -1) {
@@ -43,7 +43,7 @@ function plugin(hook, vm) {
     }
 
     let initializeWidgetSpan = function (el, topOffset) {
-        el.className = 'pageRightToolsWidgetsSpan'
+        el.className = 'page-right-tools-widgets-span'
         el.style.position = 'fixed'
         el.style.right = switchLightDarkModeOptions.right.toString() + 'px'
         el.style.top = (switchLightDarkModeOptions.top + 35 * topOffset).toString() + 'px'
@@ -173,28 +173,28 @@ function plugin(hook, vm) {
 
         var colorPickerPopupSpan = document.createElement('span')
         colorPickerPopupSpan.id = 'colorPickerPopupSpan'
-        colorPickerPopupSpan.className = 'colorPickerPopupSpan colorPickerPopupSpanDisappear'
+        colorPickerPopupSpan.className = 'colorPickerPopupSpan color-picker-popup-span-disappear'
         colorPickerPopupSpan.style.position = 'fixed'
         colorPickerPopupSpan.style.right = (switchLightDarkModeOptions.right + 35).toString() + 'px'
         colorPickerPopupSpan.style.top = (switchLightDarkModeOptions.top + 100).toString() + 'px'
         var colorPickerPopupDiv = document.createElement('div')
-        colorPickerPopupDiv.id = 'colorPickerPopupDiv'
-        colorPickerPopupDiv.className = 'colorPickerPopupDiv'
-        colorPickerPopupDiv.innerHTML = '<div class="colorPickerPresetColorListDiv"><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2a2;" data-hue="0"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ecc7a2;" data-hue="30"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #ececa2;" data-hue="60"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #c7eca2;" data-hue="90"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #a2ecec;" data-hue="180"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #aea2ec;" data-hue="250"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #c7a2ec;" data-hue="270"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2ec;" data-hue="300"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2c7;" data-hue="330"></div><div class="colorPickerPresetColorBtnDiv" style="background-color: #eca2b4;" data-hue="345"></div></div><input type="range" min="0" max="360" value="270" class="colorPickerSlider" id="colorPickerSlider" step="5">'
+        colorPickerPopupDiv.id = 'color-picker-popup-div'
+        colorPickerPopupDiv.className = 'color-picker-popup-div'
+        colorPickerPopupDiv.innerHTML = '<div class="color-picker-preset-color-list-div"><div class="color-picker-preset-color-btn-div" style="background-color: #eca2a2;" data-hue="0"></div><div class="color-picker-preset-color-btn-div" style="background-color: #ecc7a2;" data-hue="30"></div><div class="color-picker-preset-color-btn-div" style="background-color: #ececa2;" data-hue="60"></div><div class="color-picker-preset-color-btn-div" style="background-color: #c7eca2;" data-hue="90"></div><div class="color-picker-preset-color-btn-div" style="background-color: #a2ecec;" data-hue="180"></div><div class="color-picker-preset-color-btn-div" style="background-color: #aea2ec;" data-hue="250"></div><div class="color-picker-preset-color-btn-div" style="background-color: #c7a2ec;" data-hue="270"></div><div class="color-picker-preset-color-btn-div" style="background-color: #eca2ec;" data-hue="300"></div><div class="color-picker-preset-color-btn-div" style="background-color: #eca2c7;" data-hue="330"></div><div class="color-picker-preset-color-btn-div" style="background-color: #eca2b4;" data-hue="345"></div></div><input type="range" min="0" max="360" value="270" class="color-picker-slider" id="color-picker-slider" step="5">'
 
         colorPickerPopupSpan.appendChild(colorPickerPopupDiv)
 
         document.body.appendChild(colorPickerSpan)
         document.body.appendChild(colorPickerPopupSpan)
 
-        colorPickerSlider = colorPickerPopupDiv.getElementsByClassName('colorPickerSlider')[0]
+        colorPickerSlider = colorPickerPopupDiv.getElementsByClassName('color-picker-slider')[0]
 
         colorPickerSlider.oninput = function () {
             document.documentElement.style.setProperty('--theme-color', hslToHex(this.value, 66, 78))
             document.documentElement.style.setProperty('--global-theme-color-blur', hslToHex(this.value, 66, 78) + '1a')
         }
 
-        Array.from(colorPickerPopupDiv.getElementsByClassName('colorPickerPresetColorBtnDiv')).forEach(colorPickerPresetColorBtn => {
+        Array.from(colorPickerPopupDiv.getElementsByClassName('color-picker-preset-color-btn-div')).forEach(colorPickerPresetColorBtn => {
             colorPickerPresetColorBtn.onclick = function (event) {
                 document.documentElement.style.setProperty('--theme-color', hslToHex(event.target.dataset.hue, 66, 78))
                 document.documentElement.style.setProperty('--global-theme-color-blur', hslToHex(event.target.dataset.hue, 66, 78) + '1a')
@@ -219,12 +219,12 @@ function plugin(hook, vm) {
             iscolorPickerPopupOpen = !iscolorPickerPopupOpen
 
             if (iscolorPickerPopupOpen) {
-                colorPickerPopupSpan.classList.remove('colorPickerPopupSpanDisappear')
-                colorPickerPopupSpan.classList.add('colorPickerPopupSpanAppear')
+                colorPickerPopupSpan.classList.remove('color-picker-popup-span-disappear')
+                colorPickerPopupSpan.classList.add('color-picker-popup-span-appear')
             }
             else {
-                colorPickerPopupSpan.classList.remove('colorPickerPopupSpanAppear')
-                colorPickerPopupSpan.classList.add('colorPickerPopupSpanDisappear')
+                colorPickerPopupSpan.classList.remove('color-picker-popup-span-appear')
+                colorPickerPopupSpan.classList.add('color-picker-popup-span-disappear')
             }
         }
 
@@ -286,25 +286,25 @@ function plugin(hook, vm) {
 
             if (isWidgetsOpen) {
                 widgetsSpanList.forEach(widget => {
-                    widget.classList.remove('pageRightToolsWidgetsSpanDisappear')
-                    widget.classList.add('pageRightToolsWidgetsSpanAppear')
+                    widget.classList.remove('page-right-tools-widgets-span-disappear')
+                    widget.classList.add('page-right-tools-widgets-span-appear')
                 })
             }
             else {
                 widgetsSpanList.forEach(widget => {
-                    widget.classList.remove('pageRightToolsWidgetsSpanAppear')
-                    widget.classList.add('pageRightToolsWidgetsSpanDisappear')
+                    widget.classList.remove('page-right-tools-widgets-span-appear')
+                    widget.classList.add('page-right-tools-widgets-span-disappear')
                 })
 
                 iscolorPickerPopupOpen = isWidgetsOpen
 
                 if (iscolorPickerPopupOpen) {
-                    colorPickerPopupSpan.classList.remove('colorPickerPopupSpanDisappear')
-                    colorPickerPopupSpan.classList.add('colorPickerPopupSpanAppear')
+                    colorPickerPopupSpan.classList.remove('color-picker-popup-span-disappear')
+                    colorPickerPopupSpan.classList.add('color-picker-popup-span-appear')
                 }
                 else {
-                    colorPickerPopupSpan.classList.remove('colorPickerPopupSpanAppear')
-                    colorPickerPopupSpan.classList.add('colorPickerPopupSpanDisappear')
+                    colorPickerPopupSpan.classList.remove('color-picker-popup-span-appear')
+                    colorPickerPopupSpan.classList.add('color-picker-popup-span-disappear')
                 }
             }
         }

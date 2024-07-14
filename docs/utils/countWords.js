@@ -53,16 +53,16 @@ function plugin(hook, vm) {
         let str = wordsCount + ' ' + tempLocalization.words
         let readTime = Math.ceil(wordsCount / 400) + ' ' + tempLocalization.minute
 
-        document.getElementById('countWordsBlockSpan').innerText = str.concat(' | ').concat(countWordsOptions.isExpected ? readTime : '')
+        document.getElementById('count-words-block-span').innerText = str.concat(' | ').concat(countWordsOptions.isExpected ? readTime : '')
     })
     hook.afterEach(function (html, next) {
         // add html string
         next(
             `
         ${countWordsOptions.position === 'bottom' ? html : ''}
-        <div id="countWordsBlockSpanDiv" style="margin-${countWordsOptions.position ? 'bottom' : 'top'}: ${countWordsOptions.margin
+        <div id="count-words-block-span-div" style="margin-${countWordsOptions.position ? 'bottom' : 'top'}: ${countWordsOptions.margin
 };">
-            <span id="countWordsBlockSpan" style="
+            <span id="count-words-block-span" style="
                   float: ${countWordsOptions.float === 'right' ? 'right' : 'left'};
                   font-size: ${countWordsOptions.fontsize};
                   color:${countWordsOptions.color};">

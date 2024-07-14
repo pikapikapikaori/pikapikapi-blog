@@ -1,11 +1,11 @@
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   最近のポースト
 </div>
 
 -
   - [最近のポースト](/jp/archive/)
 
-<div class="pagesSideBarLevel1TitleDiv">
+<div class="page-sidebar-level1-title-div">
   アーカイブ
 </div>
 

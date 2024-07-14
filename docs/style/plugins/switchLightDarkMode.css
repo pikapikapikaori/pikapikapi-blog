@@ -1,32 +1,32 @@
-.pageRightToolsWidgetsSpanAppear {
+.page-right-tools-widgets-span-appear {
     transform: translate(0, 0);
     transition-duration: 500ms;
 }
 
-.pageRightToolsWidgetsSpanDisappear {
+.page-right-tools-widgets-span-disappear {
     transform: translate(52px, 0);
     transition-duration: 500ms;
 }
 
-.pageRightToolsWidgetsSpan {
+.page-right-tools-widgets-span {
     z-index: 999;
 }
 
-.pageRightToolsWidgetsSpan:hover {
+.page-right-tools-widgets-span:hover {
     transform: scale(1.2);
     transition-duration: 100ms;
 }
 
-.pageRightToolsWidgetsSpan>svg:hover {
+.page-right-tools-widgets-span>svg:hover {
     background-color: var(--global-theme-color-blur, #ea6f5a1a);
 }
 
-.pageRightToolsWidgetsSpan>svg {
+.page-right-tools-widgets-span>svg {
     cursor: pointer;
     border-radius: var(--global-widget-border-radius, 0.3em);
 }
 
-.colorPickerPopupDiv {
+.color-picker-popup-div {
     border: 1px solid var(--theme-color, #ea6f5a);
     height: 170px;
     width: 200px;
@@ -37,7 +37,7 @@
     -webkit-backdrop-filter: blur(30px);
 }
 
-.colorPickerSlider {
+.color-picker-slider {
     width: 80%;
     margin-top: 10px;
     border-radius: var(--global-el-border-radius, 10px);
@@ -46,13 +46,13 @@
     background-color: var(--theme-color, #ea6f5a);
 }
 
-.colorPickerSlider::-webkit-slider-runnable-track {
+.color-picker-slider::-webkit-slider-runnable-track {
     background-color: var(--global-theme-color-blur, #ea6f5a1a);
     height: 5px;
     border-radius: var(--global-el-border-radius, 10px);
 }
 
-.colorPickerSlider::-webkit-slider-thumb {
+.color-picker-slider::-webkit-slider-thumb {
     appearance: none;
     position: relative;
     height: 20px;
@@ -64,18 +64,18 @@
     transition: transform 0.1s;
 }
 
-.colorPickerSlider::-webkit-slider-thumb:hover {
+.color-picker-slider::-webkit-slider-thumb:hover {
     transform: scale(1.1);
 }
 
-.colorPickerPresetColorListDiv {
+.color-picker-preset-color-list-div {
     margin: 30px 8px 10px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.colorPickerPresetColorBtnDiv {
+.color-picker-preset-color-btn-div {
     width: 25px;
     height: 30px;
     margin: 3px 5px 7px 3px;
@@ -84,16 +84,16 @@
     transition: transform 0.1s;
 }
 
-.colorPickerPresetColorBtnDiv:hover {
+.color-picker-preset-color-btn-div:hover {
     transform: scale(1.1);
 }
 
-.colorPickerPopupSpanAppear {
+.color-picker-popup-span-appear {
     transform: translate(0, 0);
     transition-duration: 1s;
 }
 
-.colorPickerPopupSpanDisappear {
+.color-picker-popup-span-disappear {
     transform: translate(270px, 0);
     transition-duration: 1s;
 }
