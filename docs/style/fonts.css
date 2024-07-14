@@ -85,3 +85,20 @@
     font-family: 'KouzanBrushFontSousyo';
     src: url('./fonts/KouzanBrushFontSousyo.ttf');
 }
+
+@font-face {
+    font-family: 'YsabeauOffice';
+    src: url('./fonts/Ysabeau_Office/YsabeauOffice-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'YsabeauOffice';
+    src: url('./fonts/Ysabeau_Office/YsabeauOffice-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'YsabeauOffice';
+    src: url('./fonts/Ysabeau_Office/YsabeauOffice-Light.ttf');
+    font-weight: lighter;
+}

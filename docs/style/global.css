@@ -33,6 +33,10 @@ textarea {
     font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
 }
 
+.minority-language-font-ruby {
+    font-family: 'YsabeauOffice', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+}
+
 section.cover h1 {
     font-family: 'KakuGyoStd', cursive;
 }
