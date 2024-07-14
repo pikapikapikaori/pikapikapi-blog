@@ -15,9 +15,17 @@ function plugin(hook, vm) {
         let mask = cover.getElementsByClassName('mask')[0]
         mask.style.opacity = .6
 
+        let coverBackgrounds = []
+
+        for (var i = 0; i < numberOfImages; i ++) {
+            tmp = new Image()
+            tmp.src = backgrounds[i]
+            coverBackgrounds.push(tmp)
+        }
+
         var curImgId = 1
         setInterval(function () {
-            cover.style.backgroundImage = 'url(' + backgrounds[curImgId] + ')'
+            cover.style.backgroundImage = 'url(' + coverBackgrounds[curImgId].src + ')'
             curImgId = (curImgId + 1) % numberOfImages
         }, interval)
     })
