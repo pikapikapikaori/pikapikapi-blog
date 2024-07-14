@@ -16,7 +16,7 @@
                     <img src="./writings/_media/PersonalTenBest/personalTenBest-movie-1.jpg" alt="Le mépris">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>Le mépris</h5>
+                    <h5><ruby class='minority-language-font-ruby'>Le mépris</ruby></h5>
                     <p>蔑视</p>
                     <p>1963 &ensp; 法国 / 意大利</p>
                     <p>让-吕克·戈达尔</p>
