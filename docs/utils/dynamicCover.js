@@ -17,7 +17,7 @@ function plugin(hook, vm) {
 
         var curImgId = 1
         window.setInterval(function () {
-            cover.style.background = 'url(' + backgrounds[curImgId] + ')' + ' center center / cover'
+            cover.style.backgroundImage = 'url(' + backgrounds[curImgId] + ')'
             curImgId = (curImgId + 1) % numberOfImages
         }, interval)
     })
