@@ -48,7 +48,7 @@ function plugin(hook, vm) {
             admin: gitalkWithFooterOptions.gitalkConfig.admin,
             // facebook-like distraction free mode
             distractionFreeMode: gitalkWithFooterOptions.gitalkConfig.distractionFreeMode,
-            id: location.href.split('#')[1],
+            id: location.href.split('#')[1].split('?')[0],
         })
         gitalk.render('gitalk-container')
     })
