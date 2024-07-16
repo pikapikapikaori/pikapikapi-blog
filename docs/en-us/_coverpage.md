@@ -1,4 +1,4 @@
-![logo](../_media/logo.JPG ':size=20% :class=ignore-view-full-image-img')
+![logo](../_media/logo.JPG ':size=150px :class=ignore-view-full-image-img')
 
 # Jeff Li <small>李亦楊 / <ruby>李亦楊<rt>リエキヨウ</rt></ruby></small>
 
