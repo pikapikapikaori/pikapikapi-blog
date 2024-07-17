@@ -6,8 +6,19 @@
   <link rel="icon" type="image/x-icon" href="./_media/favicon.ico">
   <title>ピカピカピ</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Don't worry, be happy.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <meta name="og:type" content="website">
+  <meta name="og:site_name" content="ピカピカピ">
+  <meta name="og:title" content="ピカピカピ">
+  <meta name="og:url" content="https://pikapikapikaori.github.io/pikapikapi-blog/">
+  <meta name="og:image" content="./_media/og.jpg">
+  <meta name="og:image:alt" content="ピカピカピ">
+  <meta name="og:description" content="Don't worry, be happy.">
+
+  <link rel="alternative" type="application/rss+xml" title="ピカピカピ" href="https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml">
+
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css" disabled>
   <link rel="stylesheet" href="./style/darkModeThemeTable.css" disabled>
@@ -325,6 +336,9 @@
   <!-- 添加自动添加目录页 -->
   <link rel="stylesheet" href="./style/plugins/addTocPage.css">
   <script src="./utils/addTocPage.js"></script>
+
+  <!-- 添加链接标记样式 -->
+  <script src="./utils/addSvgToLinks.js"></script>
 </body>
 
 </html>
