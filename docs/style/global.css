@@ -33,6 +33,39 @@ textarea {
     font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
 }
 
+.markdown-section {
+
+    p,
+    blockquote,
+    li,
+    table {
+        a {
+            color: inherit;
+            font-weight: inherit;
+            text-decoration-color: var(--theme-color, #ea6f5a);
+            text-decoration-thickness: .15em;
+        }
+
+        svg {
+            vertical-align: middle;
+            margin-left: .15em;
+            margin-right: .15em;
+        }
+    }
+}
+
+.markdown-section {
+
+    p,
+    blockquote,
+    li,
+    table {
+        a:hover {
+            text-decoration-color: var(--global-theme-color-blur, #c7a2ec1a);
+        }
+    }
+}
+
 .minority-language-font-ruby {
     font-family: 'YsabeauOffice', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 }
