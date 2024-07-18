@@ -1,5 +1,7 @@
 # 宝可梦晶灿钻石／明亮珍珠与宝可梦 Home 联动相关
 
+![封面图](_media/PokemonBDSP-20230624/cover-picture.jpg)
+
 > 本文首发于个人博客\
 > 发表日期：2023.06.24\
 > 最后编辑于：{docsify-last-updated}
