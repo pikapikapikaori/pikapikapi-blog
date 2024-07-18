@@ -12,16 +12,16 @@
         </div>
         <div class="brief-comments-in-blog-comments-container">
             <div class="brief-comments-in-blog-comments-container-img">
-                <img src="./writings/_media/BriefComments/meishi-1-20240603.PNG" alt="brief comment picture: TOLRO-800">
+                <img src="./writings/_media/BriefComments/meishi-1-20240603.PNG" alt="学园偶像大师截图">
             </div>
             <div class="brief-comments-in-blog-comments-container-img">
-                <img src="./writings/_media/BriefComments/meishi-2-20240603.PNG" alt="brief comment picture: TOLRO-800">
+                <img src="./writings/_media/BriefComments/meishi-2-20240603.PNG" alt="学园偶像大师截图">
             </div>
             <div class="brief-comments-in-blog-comments-container-img">
-                <img src="./writings/_media/BriefComments/meishi-3-20240603.PNG" alt="brief comment picture: TOLRO-800">
+                <img src="./writings/_media/BriefComments/meishi-3-20240603.PNG" alt="学园偶像大师截图">
             </div>
             <div class="brief-comments-in-blog-comments-container-img">
-                <img src="./writings/_media/BriefComments/meishi-4-20240603.PNG" alt="brief comment picture: TOLRO-800">
+                <img src="./writings/_media/BriefComments/meishi-4-20240603.PNG" alt="学园偶像大师截图">
             </div>
             开服近三周每天醒来第一件事和睡前最后一件事都是学马仕启动。不得不说虽然人设初见很普但架不住文本塑造写得好，另一方面游戏性也还算不错。名片制作界面感觉也相当不错，可以直接拿来当制作人门票了。
             <hr class="brief-comments-in-blog-comments-divider"/>
@@ -88,13 +88,13 @@
         <div class="brief-comments-in-blog-comments-container">
             本日静冈模型展，说实话今天公布的 MS 只有这款基地限定 TOLRO-800 还挺想买来耍耍的。出自敢达 UC 第一话，巴纳吉的第一架座机，名场面飞身就小美。其实还挺乐于见到这类机子的模型化的，包括之前的德戴啊 Base Jabber 啊 89 式啊 94 式啊，G 防卫者和米加粒子炮之类的武器装备类的就更不用说了。很适合摆场景，而且确实是能丰富模型种类。
             <div class="brief-comments-in-blog-comments-container-img">
-                <img src="./writings/_media/BriefComments/tolro-800-1-20230511.jpeg" alt="brief comment picture: TOLRO-800">
+                <img src="./writings/_media/BriefComments/tolro-800-1-20230511.jpeg" alt="TOLRO-800　展图">
             </div>
             <div class="brief-comments-in-blog-comments-container-img">
-                <img src="./writings/_media/BriefComments/tolro-800-2-20230511.jpeg" alt="brief comment picture: TOLRO-800">
+                <img src="./writings/_media/BriefComments/tolro-800-2-20230511.jpeg" alt="TOLRO-800　展图">
             </div>
             <div class="brief-comments-in-blog-comments-container-img">
-                <img src="./writings/_media/BriefComments/tolro-800-3-20230511.jpeg" alt="brief comment picture: TOLRO-800">
+                <img src="./writings/_media/BriefComments/tolro-800-3-20230511.jpeg" alt="TOLRO-800　展图">
             </div>
             <blockquote>
                 图源（按序）：twi<a href="https://twitter.com/HobbySite" target="_blank">@HobbySite</a>，twi<a href="https://twitter.com/gundambase_t" target="_blank">@gundambase_t</a>，twi<a href="https://twitter.com/hobby_magazine" target="_blank">@hobby_magazine</a>
