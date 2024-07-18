@@ -41,5 +41,5 @@
 
 ## 附录
 
-![legend & maboroshi](_media/PokemonBDSP-20230624/picture-1.png 
+![传说中的宝可梦](_media/PokemonBDSP-20230624/picture-1.png 
 '神奇宝贝百科罗列出的特殊的宝可梦。其中，“传说中的宝可梦”和“幻之宝可梦”两个类别的宝可梦都会受到 bdsp 的上述传输限制。这一限制也包括了可由宝可梦培育从蛋中孵化的霏欧纳')
