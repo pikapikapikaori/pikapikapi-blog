@@ -6,8 +6,19 @@
   <link rel="icon" type="image/x-icon" href="./_media/favicon.ico">
   <title>ピカピカピ</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Don't worry, be happy.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <meta name="og:type" content="website">
+  <meta name="og:site_name" content="ピカピカピ">
+  <meta name="og:title" content="ピカピカピ">
+  <meta name="og:url" content="https://pikapikapikaori.github.io/pikapikapi-blog/">
+  <meta name="og:image" content="./_media/og.jpg">
+  <meta name="og:image:alt" content="ピカピカピ">
+  <meta name="og:description" content="Don't worry, be happy.">
+
+  <link rel="alternative" type="application/rss+xml" title="ピカピカピ" href="./pikapikapi-blog-rss.xml">
+
   <link rel="stylesheet" href="../resource/backup-sources/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="../resource/backup-sources/npm/docsify@4/lib/themes/dark.css" disabled>
   <link rel="stylesheet" href="./style/darkModeThemeTable.css" disabled>
@@ -17,14 +28,14 @@
   <link rel="stylesheet" href="./style/mainPage.css">
 
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V5GEGL6NHW"></script>
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-V5GEGL6NHW"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'G-V5GEGL6NHW');
-  </script>
+  </script> -->
 </head>
 
 <body>
@@ -125,18 +136,18 @@
 
       // 自用插件
       // 页面添加gitalk，并在最底端添加footer，使得gitalk下方有空间
-      gitalkWithFooter: {
-        footerInnerHtml: "<div style='text-align: center;max-width: 800px;width: 80%;align-self: center;padding: 30px 15px 20px;margin: 0 auto'><div style='border-top: 1px solid var(--global-border-default-color,#eee);'><br><p><small>&copy; 2023 - 2024 李亦杨 / <ruby>李亦楊<rt>リエキヨウ</rt></ruby> / Jeff Li - All Rights Reserved.</small></p><div/></div>",
-        gitalkConfig: {
-          clientID: '6a54e5946401951488d1',
-          clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
-          repo: 'pikapikapi-blog',
-          owner: 'pikapikapikaori',
-          admin: ['pikapikapikaori'],
-          // facebook-like distraction free mode
-          distractionFreeMode: false,
-        }
-      },
+      // gitalkWithFooter: {
+      //   footerInnerHtml: "<div style='text-align: center;max-width: 800px;width: 80%;align-self: center;padding: 30px 15px 20px;margin: 0 auto'><div style='border-top: 1px solid var(--global-border-default-color,#eee);'><br><p><small>&copy; 2023 - 2024 李亦杨 / <ruby>李亦楊<rt>リエキヨウ</rt></ruby> / Jeff Li - All Rights Reserved.</small></p><div/></div>",
+      //   gitalkConfig: {
+      //     clientID: '6a54e5946401951488d1',
+      //     clientSecret: '5ca9de120592a9908348d09480cea6917112a4ec',
+      //     repo: 'pikapikapi-blog',
+      //     owner: 'pikapikapikaori',
+      //     admin: ['pikapikapikaori'],
+      //     // facebook-like distraction free mode
+      //     distractionFreeMode: false,
+      //   }
+      // },
 
       // 添加字数统计，并能够i18n国际化
       countWords: {
