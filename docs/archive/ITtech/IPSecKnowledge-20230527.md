@@ -305,7 +305,7 @@
 
 IPSec 通常有两种传输模式，即隧道模式和传输模式。工作方式见名知意。
 
-![picture](_media/IPSecKnowledge-20230527/picture-1.svg.png)
+![IPSec 传输模式](_media/IPSecKnowledge-20230527/picture-1.svg.png)
 
 ### L2TP / IPSec
 
@@ -326,23 +326,23 @@ Cisco 的 IPSec 大体上是结合使用了 IKE 协议，当然也有在此之�
 
 IKEv1 和 v2 最大不同在于 v2 简化了协商过程并修复了些安全漏洞。
 
-![picture](_media/IPSecKnowledge-20230527/picture-2.png)
+![Ike 协商过程](_media/IPSecKnowledge-20230527/picture-2.png)
 
 基本的认证过程如上图。
 
 现在考虑 IPSec 和 IKE 组合使用的情景，也就是大部分的实际情景：
 
-![picture](_media/IPSecKnowledge-20230527/picture-3.png)
+![IPSe 组合 IKE](_media/IPSecKnowledge-20230527/picture-3.png)
 
 注意这里 IPSec 进行加密和认证的时候支持 MD5 和 SHA-1，在 IKE 认证部分则是利用了 FPS 和 PSK 或 RSA（这里是提供给配置者自选的）。
 
 可以再结合 Cisco 官网的图片和解释看一下：
 
-![picture](_media/IPSecKnowledge-20230527/picture-4.jpg.avif)
+![Cisco IPSec 传输](_media/IPSecKnowledge-20230527/picture-4.jpg.avif)
 
-![picture](_media/IPSecKnowledge-20230527/picture-5.jpg.avif)
+![Cisco IPSec 传输](_media/IPSecKnowledge-20230527/picture-5.jpg.avif)
 
-![picture](_media/IPSecKnowledge-20230527/picture-6.jpg.avif)
+![Cisco IPSec 传输](_media/IPSecKnowledge-20230527/picture-6.jpg.avif)
 
 ## 结论
 

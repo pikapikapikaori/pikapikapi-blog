@@ -1,6 +1,6 @@
 # 如何理解 TV 动画《Darling in the franxx》中画面比例的切换手法？
 
-![Cover](_media/DitfAspectRatio-20180212/cover-picture.jpg)
+![封面图](_media/DitfAspectRatio-20180212/cover-picture.jpg)
 
 > 本文首发于[知乎](https://www.zhihu.com/question/266952828/answer/317969940)\
 > 发表日期：2018.02.12\
@@ -9,9 +9,9 @@
 ## 题目描述
 
 > 在第一话和第四话中均出现了画面比例切换，即 16:9→21:9。\
-> ![Picture](_media/DitfAspectRatio-20180212/picture-2.jpg)\
-> ![Picture](_media/DitfAspectRatio-20180212/picture-3.jpg)\
-> ![Picture](_media/DitfAspectRatio-20180212/picture-1.jpg)\
+> ![问题附图](_media/DitfAspectRatio-20180212/picture-2.jpg)\
+> ![问题附图](_media/DitfAspectRatio-20180212/picture-3.jpg)\
+> ![问题附图](_media/DitfAspectRatio-20180212/picture-1.jpg)\
 > 目前来看，切换比例是为了缩小视野使观众集中在二人戏上，应该是电影常用的表现手法。\
 > 以上为个人看法和猜测，有误解的地方请指出。\
 > 这种手法的好处在哪，是否又在哪些动画同样使用过呢？

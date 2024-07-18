@@ -1,6 +1,6 @@
 # 近期艺术展 甲辰年四月十三日
 
-![picture](_media/ArtExhibit-20240413/cover-picture.jpg)
+![封面图](_media/ArtExhibit-20240413/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2024.04.13\
@@ -15,13 +15,13 @@
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240413/picture-4.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-5.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-6.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-7.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-8.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-9.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-10.jpeg)
+![毕加索展](_media/ArtExhibit-20240413/picture-4.jpeg)
+![毕加索展](_media/ArtExhibit-20240413/picture-5.jpeg)
+![毕加索展](_media/ArtExhibit-20240413/picture-6.jpeg)
+![毕加索展](_media/ArtExhibit-20240413/picture-7.jpeg)
+![毕加索展](_media/ArtExhibit-20240413/picture-8.jpeg)
+![毕加索展](_media/ArtExhibit-20240413/picture-9.jpeg)
+![毕加索展](_media/ArtExhibit-20240413/picture-10.jpeg)
 
 </section>
 
@@ -34,12 +34,12 @@
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240413/picture-12.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-13.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-14.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-15.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-16.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-11.jpeg)
+![遇见提香与文艺复兴展](_media/ArtExhibit-20240413/picture-12.jpeg)
+![遇见提香与文艺复兴展](_media/ArtExhibit-20240413/picture-13.jpeg)
+![遇见提香与文艺复兴展](_media/ArtExhibit-20240413/picture-14.jpeg)
+![遇见提香与文艺复兴展](_media/ArtExhibit-20240413/picture-15.jpeg)
+![遇见提香与文艺复兴展](_media/ArtExhibit-20240413/picture-16.jpeg)
+![遇见提香与文艺复兴展](_media/ArtExhibit-20240413/picture-11.jpeg)
 
 </section>
 
@@ -52,16 +52,16 @@
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240413/picture-17.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-18.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-19.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-20.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-21.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-22.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-23.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-24.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-25.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-26.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-17.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-18.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-19.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-20.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-21.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-22.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-23.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-24.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-25.jpeg)
+![卡拉瓦乔展](_media/ArtExhibit-20240413/picture-26.jpeg)
 
 </section>
 
@@ -74,8 +74,8 @@
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240413/picture-1.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-3.jpeg)
-![picture](_media/ArtExhibit-20240413/picture-2.jpeg)
+![乌菲齐美术馆威尼斯画派展](_media/ArtExhibit-20240413/picture-1.jpeg)
+![乌菲齐美术馆威尼斯画派展](_media/ArtExhibit-20240413/picture-3.jpeg)
+![乌菲齐美术馆威尼斯画派展](_media/ArtExhibit-20240413/picture-2.jpeg)
 
 </section>
