@@ -1,6 +1,6 @@
 # 近期艺术展 甲辰年四月二十五日
 
-![picture](_media/ArtExhibit-20240425/cover-picture.jpg)
+![封面图](_media/ArtExhibit-20240425/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2024.04.25\
@@ -13,18 +13,18 @@
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240425/picture-1.jpg)
-![picture](_media/ArtExhibit-20240425/picture-2.jpg)
-![picture](_media/ArtExhibit-20240425/picture-3.jpg)
-![picture](_media/ArtExhibit-20240425/picture-4.jpg)
-![picture](_media/ArtExhibit-20240425/picture-5.jpg)
-![picture](_media/ArtExhibit-20240425/picture-6.jpg)
-![picture](_media/ArtExhibit-20240425/picture-7.jpg)
-![picture](_media/ArtExhibit-20240425/picture-8.jpg)
-![picture](_media/ArtExhibit-20240425/picture-9.jpg)
-![picture](_media/ArtExhibit-20240425/picture-11.jpg)
-![picture](_media/ArtExhibit-20240425/picture-10.jpg)
-![picture](_media/ArtExhibit-20240425/picture-12.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-1.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-2.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-3.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-4.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-5.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-6.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-7.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-8.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-9.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-11.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-10.jpg)
+![勃鲁盖尔展](_media/ArtExhibit-20240425/picture-12.jpg)
 
 </section>
 
@@ -35,20 +35,20 @@
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240425/picture-13.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-14.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-15.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-16.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-17.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-18.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-19.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-20.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-21.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-22.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-23.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-24.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-25.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-26.jpeg)
-![picture](_media/ArtExhibit-20240425/picture-27.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-13.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-14.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-15.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-16.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-17.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-18.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-19.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-20.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-21.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-22.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-23.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-24.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-25.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-26.jpeg)
+![启蒙时期画展](_media/ArtExhibit-20240425/picture-27.jpeg)
 
 </section>

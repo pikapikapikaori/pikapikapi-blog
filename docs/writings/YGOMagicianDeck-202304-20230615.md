@@ -1,6 +1,6 @@
 # EM·魔术师·异色眼卡组分享
 
-![Picture](_media/YGOMagicianDeck-202304-20230615/cover-picture.jpg)
+![封面图](_media/YGOMagicianDeck-202304-20230615/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2023.06.15\
@@ -10,9 +10,9 @@
 
 直接上图：
 
-![Picture](_media/YGOMagicianDeck-202304-20230615/deck-1.jpeg '卡图版')
+![卡组卡图](_media/YGOMagicianDeck-202304-20230615/deck-1.jpeg '卡图版')
 
-![Picture](_media/YGOMagicianDeck-202304-20230615/deck-2.jpeg '文字版')
+![卡组](_media/YGOMagicianDeck-202304-20230615/deck-2.jpeg '文字版')
 
 本卡组最先是在 19 年 7 月初步构造完成，后续几年间逐渐进行调整。额外卡组位原先包含水机（「水晶机巧继承玻纤」），但由于 22 年 7 月表其变为禁止卡，故暂时以「轨迹之魔术师」替代。
 
@@ -45,45 +45,45 @@
 
 <section class="multi-images-container-section">
 
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-1.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-2.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-3.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-4.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-5.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-6.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-7.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-8.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-9.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-10.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-11.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-12.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-13.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-14.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-15.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-16.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-17.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-18.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-19.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-20.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-21.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-22.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-23.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-25.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-31.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-32.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-33.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-35.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-42.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-43.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-44.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-45.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-46.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-47.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-48.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-49.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-50.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-52.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-53.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-1.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-2.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-3.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-4.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-5.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-6.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-7.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-8.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-9.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-10.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-11.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-12.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-13.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-14.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-15.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-16.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-17.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-18.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-19.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-20.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-21.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-22.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-23.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-25.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-31.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-32.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-33.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-35.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-42.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-43.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-44.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-45.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-46.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-47.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-48.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-49.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-50.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-52.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-53.png)
 
 </section>
 
@@ -93,20 +93,20 @@
 
 <section class="multi-images-container-section">
 
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-24.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-26.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-27.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-28.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-29.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-30.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-36.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-34.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-37.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-38.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-39.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-40.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-41.png)
-![Picture](_media/YGOMagicianDeck-202304-20230615/card-51.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-24.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-26.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-27.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-28.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-29.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-30.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-36.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-34.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-37.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-38.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-39.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-40.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-41.png)
+![卡图](_media/YGOMagicianDeck-202304-20230615/card-51.png)
 
 </section>
 
@@ -114,13 +114,13 @@
 
 <section class="multi-images-container-section">
 
-![Picture](_media/YGOMagicianDeck-202304-20230615/1202-1.jpg)
-![Picture](_media/YGOMagicianDeck-202304-20230615/1202-2.jpg)
-![Picture](_media/YGOMagicianDeck-202304-20230615/1202-3.jpg)
-![Picture](_media/YGOMagicianDeck-202304-20230615/1202-4.jpg)
-![Picture](_media/YGOMagicianDeck-202304-20230615/1202-5.jpg)
-![Picture](_media/YGOMagicianDeck-202304-20230615/1202-6.jpg)
-![Picture](_media/YGOMagicianDeck-202304-20230615/1202-7.jpg)
+![卡图](_media/YGOMagicianDeck-202304-20230615/1202-1.jpg)
+![卡图](_media/YGOMagicianDeck-202304-20230615/1202-2.jpg)
+![卡图](_media/YGOMagicianDeck-202304-20230615/1202-3.jpg)
+![卡图](_media/YGOMagicianDeck-202304-20230615/1202-4.jpg)
+![卡图](_media/YGOMagicianDeck-202304-20230615/1202-5.jpg)
+![卡图](_media/YGOMagicianDeck-202304-20230615/1202-6.jpg)
+![卡图](_media/YGOMagicianDeck-202304-20230615/1202-7.jpg)
 
 </section>
 

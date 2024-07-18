@@ -1,6 +1,6 @@
 # 永井豪 & 汤浅政明谈「恶魔人 Crybaby」
 
-![Cover](_media/DevilmanInterview-20180123/cover-picture.jpg)
+![封面图](_media/DevilmanInterview-20180123/cover-picture.jpg)
 
 > 本文首发于[知乎](https://zhuanlan.zhihu.com/p/32706628)\
 > 发表日期：2018.01.23\
@@ -26,7 +26,7 @@
 
 **汤浅：**其实 45 年前的原作当中，集会就已经跟当时的先锋派艺术结合在一起了。而如今这么做，也是为了让大家更好去理解“召唤恶魔”的行为呢。
 
-![Picture](_media/DevilmanInterview-20180123/picture-1.jpg)
+![采访图](_media/DevilmanInterview-20180123/picture-1.jpg)
 
 **Q：**另外这次新作还有一个特征，就是美树她们成为了田径运动员呢。这是包含了怎样的意图呢？
 
@@ -66,7 +66,7 @@
 
 **永井：**从我个人来说，能够看到《恶魔人》总算被以动画的形式做到最后，还是很开心的呢。我已经看完了动画，感觉真的做得很棒，非常感激。
 
-![Picture](_media/DevilmanInterview-20180123/picture-2.webp)
+![采访图](_media/DevilmanInterview-20180123/picture-2.webp)
 
 **Q：**那么在最后，请两位对接下来要看动画的粉丝们，说几句话吧。
 

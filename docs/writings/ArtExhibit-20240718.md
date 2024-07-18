@@ -1,6 +1,6 @@
 # 近期艺术展 甲辰年七月十八日
 
-![picture](_media/ArtExhibit-20240718/cover-picture.jpg)
+![封面图](_media/ArtExhibit-20240718/cover-picture.jpg)
 
 > 本文首发于个人博客\
 > 发表日期：2024.07.18\
@@ -27,22 +27,22 @@
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240718/picture-1.jpg)
-![picture](_media/ArtExhibit-20240718/picture-6.jpg)
-![picture](_media/ArtExhibit-20240718/picture-2.jpg)
-![picture](_media/ArtExhibit-20240718/picture-3.jpg)
-![picture](_media/ArtExhibit-20240718/picture-4.jpg)
-![picture](_media/ArtExhibit-20240718/picture-5.jpg)
+![安藤忠雄展](_media/ArtExhibit-20240718/picture-1.jpg)
+![安藤忠雄展](_media/ArtExhibit-20240718/picture-6.jpg)
+![安藤忠雄展](_media/ArtExhibit-20240718/picture-2.jpg)
+![安藤忠雄展](_media/ArtExhibit-20240718/picture-3.jpg)
+![安藤忠雄展](_media/ArtExhibit-20240718/picture-4.jpg)
+![安藤忠雄展](_media/ArtExhibit-20240718/picture-5.jpg)
 
 </section>
 
-## 附：题图组图
+## 附：封面组图
 
 <section class="multi-images-container-section">
 
-![picture](_media/ArtExhibit-20240718/picture-7.jpg)
-![picture](_media/ArtExhibit-20240718/picture-8.jpg)
-![picture](_media/ArtExhibit-20240718/picture-9.jpg)
-![picture](_media/ArtExhibit-20240718/picture-10.jpg)
+![封面组图](_media/ArtExhibit-20240718/picture-7.jpg)
+![封面组图](_media/ArtExhibit-20240718/picture-8.jpg)
+![封面组图](_media/ArtExhibit-20240718/picture-9.jpg)
+![封面组图](_media/ArtExhibit-20240718/picture-10.jpg)
 
 </section>

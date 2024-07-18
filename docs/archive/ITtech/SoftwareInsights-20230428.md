@@ -507,19 +507,19 @@ flowchart TD
 
 快速应用开发模型（Rapid Application Development），又称 V 模型。似乎是为了改进瀑布式模型而在上世纪 70 至 80 年代提出的。这一模型大体上遵循下图的几个阶段：
 
-![picture](_media/SoftwareInsights-20230428/RAD-model.webp)
+![RAD](_media/SoftwareInsights-20230428/RAD-model.webp)
 
 ### 微服务
 
 SOA（面向服务架构）的一种变体，提倡将单一应用程序划分为松耦合的服务组，每个服务可独立部署。其概念最早于 2005 年提出。
 
-![picture](_media/SoftwareInsights-20230428/microservice.png)
+![SOA](_media/SoftwareInsights-20230428/microservice.png)
 
 ### 微前端
 
 2016 年被正式提出，是微服务这一概念被扩展到前端的一种应用形式，便于新老项目的共存与过渡，以及项目独立开发等。
 
-![picture](_media/SoftwareInsights-20230428/mircro-frontend.png)
+![微前端](_media/SoftwareInsights-20230428/mircro-frontend.png)
 
 ### `Java` 反射机制
 

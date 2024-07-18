@@ -21,7 +21,7 @@
 <!-- div:right-panel -->
 
 <div class="main-page-right-panel-container">
-    <img src="./_media/logo.JPG" class="main-page-about-me-avatar" />
+    <img src="./_media/logo.JPG" alt="Logo" class="main-page-about-me-avatar" />
     <h4 class="main-page-about-me-title"><ruby>李亦楊<rt>リエキヨウ</rt></ruby></h4>
     <p class="main-page-about-me-description">李亦杨 / Jeff Li</p>
     <div class="main-page-about-me-links">
@@ -50,7 +50,7 @@
 
 <div class="main-page-right-panel-container">
     <div class="main-page-about-me-image-links">
-        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="Visited Times" class="ignore-view-full-image-img" style="padding: 10px 10px 0;">
+        <img src="http://moe-counter.glitch.me/get/@pikapikapi-blog?theme=rule34" alt="訪問計数" class="ignore-view-full-image-img" style="padding: 10px 10px 0;">
     </div>
 </div>
 

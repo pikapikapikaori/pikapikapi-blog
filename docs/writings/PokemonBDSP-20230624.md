@@ -27,19 +27,19 @@
 
 下面以几个例子详述：
 
-1. 假如有来自 bdsp 神奥地区（来源标记为 ![symbol](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')）的帝牙卢卡 A，以及来自其他地区（无来源标记的 g3、g4、g5，或者不为先前提到的来源标记的地区，包含旧神奥）的帝牙卢卡B，那么帝牙卢卡 A 和 B 可以同时从 bdsp 取放到 home。
-2. 假如有来自其他地区（来源标记不为 ![symbol](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')）的帝牙卢卡 A 和帝牙卢卡 B，那么帝牙卢卡 A 和 B 可以同时从 bdsp 取放到 home。
-3. 假如有帝牙卢卡 A 和帝牙卢卡 B，两者都有来源标记为 ![symbol](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')，其中帝牙卢卡 A 出生于 bd，帝牙卢卡 B 出生于 sp，那么将帝牙卢卡 A 由 bd 经过 home 取放到 sp 后，帝牙卢卡 A 和帝牙卢卡 B 可以同时从 bdsp 取放到 home。
-4. 假如有帝牙卢卡 A 和帝牙卢卡 B，两者都有来源标记为 ![symbol](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')，其中帝牙卢卡 A 出生于 bd，帝牙卢卡 B 出生于 sp，将帝牙卢卡 B 经过连接交换直接从 sp 传输到 bd 后（即未经过 home），那么帝牙卢卡 A 和帝牙卢卡 B 至多只能有一只可以从 bdsp 取放到 home。
-5. 同样的，假如有帝牙卢卡 A 和帝牙卢卡 B，两者都有来源标记为 ![symbol](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16') 且都出生于 bd，那么帝牙卢卡 A 和帝牙卢卡 B 至多只能有一只可以同时从 bdsp 取放到 home。
+1. 假如有来自 bdsp 神奥地区（来源标记为 ![来源标记](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')）的帝牙卢卡 A，以及来自其他地区（无来源标记的 g3、g4、g5，或者不为先前提到的来源标记的地区，包含旧神奥）的帝牙卢卡B，那么帝牙卢卡 A 和 B 可以同时从 bdsp 取放到 home。
+2. 假如有来自其他地区（来源标记不为 ![来源标记](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')）的帝牙卢卡 A 和帝牙卢卡 B，那么帝牙卢卡 A 和 B 可以同时从 bdsp 取放到 home。
+3. 假如有帝牙卢卡 A 和帝牙卢卡 B，两者都有来源标记为 ![来源标记](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')，其中帝牙卢卡 A 出生于 bd，帝牙卢卡 B 出生于 sp，那么将帝牙卢卡 A 由 bd 经过 home 取放到 sp 后，帝牙卢卡 A 和帝牙卢卡 B 可以同时从 bdsp 取放到 home。
+4. 假如有帝牙卢卡 A 和帝牙卢卡 B，两者都有来源标记为 ![来源标记](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16')，其中帝牙卢卡 A 出生于 bd，帝牙卢卡 B 出生于 sp，将帝牙卢卡 B 经过连接交换直接从 sp 传输到 bd 后（即未经过 home），那么帝牙卢卡 A 和帝牙卢卡 B 至多只能有一只可以从 bdsp 取放到 home。
+5. 同样的，假如有帝牙卢卡 A 和帝牙卢卡 B，两者都有来源标记为 ![来源标记](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16') 且都出生于 bd，那么帝牙卢卡 A 和帝牙卢卡 B 至多只能有一只可以同时从 bdsp 取放到 home。
 
 ## 规避传输限制的方法
 
-当然，有限制就有解决方法。实质上来说，最关键的预防方式是尽可能不要将来源标记为 ![symbol](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16') 的神幻兽放到同一个bdsp的游戏存档中。然而，假如已经不幸发生了这样的情况，解决方法也不是没有。
+当然，有限制就有解决方法。实质上来说，最关键的预防方式是尽可能不要将来源标记为 ![来源标记](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16') 的神幻兽放到同一个bdsp的游戏存档中。然而，假如已经不幸发生了这样的情况，解决方法也不是没有。
 
-事实上，可以参考上述例子的第 4 条，可以考虑将多余的来源标记为 ![symbol](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16') 的神幻兽通过连接交换（而非 home），直接传输到一个新的游戏存档中，再利用home从这个新的存档中将这只神幻兽取出。尽管成本较高，但这也是目前唯一可以对这一类神幻兽存取的方法了。
+事实上，可以参考上述例子的第 4 条，可以考虑将多余的来源标记为 ![来源标记](_media/PokemonBDSP-20230624/Sinnoh_symbol.png ':size=16') 的神幻兽通过连接交换（而非 home），直接传输到一个新的游戏存档中，再利用home从这个新的存档中将这只神幻兽取出。尽管成本较高，但这也是目前唯一可以对这一类神幻兽存取的方法了。
 
 ## 附录
 
-![legend & maboroshi](_media/PokemonBDSP-20230624/picture-1.png 
+![传说中的宝可梦](_media/PokemonBDSP-20230624/picture-1.png 
 '神奇宝贝百科罗列出的特殊的宝可梦。其中，“传说中的宝可梦”和“幻之宝可梦”两个类别的宝可梦都会受到 bdsp 的上述传输限制。这一限制也包括了可由宝可梦培育从蛋中孵化的霏欧纳')
