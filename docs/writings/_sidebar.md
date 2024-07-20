@@ -20,6 +20,7 @@
 </div>
 
 -
+  - [季度印象最深刻单集 2024.07](/writings/SeasonBest-202407-20240721)
   - [季度印象最深刻单集 2024.04](/writings/SeasonBest-202404-20240415)
   - [季度印象最深刻单集 2024.01](/writings/SeasonBest-202401-20240301)
   - [2023 年度TV动画单集十选](/writings/YearBest-2023-20240106)
