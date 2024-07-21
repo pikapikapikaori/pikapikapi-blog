@@ -11,6 +11,18 @@
             <img src="./_media/logo.JPG" alt="Logo" class="ignore-view-full-image-img">
         </div>
         <div class="brief-comments-in-blog-comments-container">
+            「你的名字」重映。应该说有太多新的感受了。八年前首映时从来没有体会到的，但如今却能从中感受到太多的乡愁味。直接题为“鄉愁”的展览牵起瀧对みつは的在意，然而这份ノスタルジア还来自于更多的东西。瀧以みつは的身体体会糸守町，而当他终于踏上这片土地时才发现土地早已在三年前就已经不复存在了。这份由超越时间的身体交换所带来的回不去的土地又怎么不是一份乡愁呢？同样的，当みつは第一次从东京的车站进入到无机物的丛林之中，巨大的声音浪潮将她一瞬间淹没了。更不用说みつは的同学们三言两语之中带出的对土地的情感了。“君名”前后日本动画上的巨大差异，对 311 的回忆，冲浦黄濑安藤田中的突出作画，等等这些都已经被一再的述说了。当我重新在八年后再次观看时，影片自身内流动了八年的时间，早就已经和我本身对八年的记忆混在了一起，就好像是柏格森式的绵延的时间那样。
+            <br>
+            有趣的，之前也从来没有注意到新海诚一贯延续的他本人的趣味，即对女性的脚的捕捉在本片中竟然突出到了如此的程度。从脚开始的对みつは的镜头甚至是作为全片开始而呈现出的镜头，大量的、对脚的镜头，而对みつは亲身前往东京的那一幕甚至全藉低机位的设计去对脚进行捕捉，制服皮鞋的棕色也在其中成为了最吸引观众目光的色彩。更甚者，他甚至还要利用特写去对みつは挠脚作出叙事上的交代。某些意味上，倒也契合了如今国内的这股动画圈子内的潮流了。
+            <hr class="brief-comments-in-blog-comments-divider"/>
+            2024.07.21
+        </div>
+    </div>
+    <div class="brief-comments-in-blog">
+        <div class="brief-comments-in-blog-image-container">
+            <img src="./_media/logo.JPG" alt="Logo" class="ignore-view-full-image-img">
+        </div>
+        <div class="brief-comments-in-blog-comments-container">
             <div class="brief-comments-in-blog-comments-container-img">
                 <img src="./writings/_media/BriefComments/meishi-1-20240603.PNG" alt="学园偶像大师截图">
             </div>
