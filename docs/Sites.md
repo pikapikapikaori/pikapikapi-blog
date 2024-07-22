@@ -1,7 +1,7 @@
 # 站点一览
 
 <div class="toc-page-div">
-    <a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-homepage/" target="_blank">
+    <a class="toc-page-display-a" href="./pages/homepage/index.html" target="_blank">
         <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
                 <center>
@@ -15,7 +15,7 @@
                 主页
             </div>
         </div>
-    </a><a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-homepage/animepage/index.html" target="_blank">
+    </a><a class="toc-page-display-a" href="./pages/animepage/index.html" target="_blank">
         <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
                 <center>
