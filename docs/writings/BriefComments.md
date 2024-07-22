@@ -13,7 +13,14 @@
         <div class="brief-comments-in-blog-comments-container">
             「你的名字」重映。应该说有太多新的感受了。八年前首映时从来没有体会到的，但如今却能从中感受到太多的乡愁味。直接题为“鄉愁”的展览牵起瀧对みつは的在意，然而这份ノスタルジア还来自于更多的东西。瀧以みつは的身体体会糸守町，而当他终于踏上这片土地时才发现土地早已在三年前就已经不复存在了。这份由超越时间的身体交换所带来的回不去的土地又怎么不是一份乡愁呢？同样的，当みつは第一次从东京的车站进入到无机物的丛林之中，巨大的声音浪潮将她一瞬间淹没了。更不用说みつは的同学们三言两语之中带出的对土地的情感了。“君名”前后日本动画上的巨大差异，对 311 的回忆，冲浦黄濑安藤田中的突出作画，等等这些都已经被一再的述说了。当我重新在八年后再次观看时，影片自身内流动了八年的时间，早就已经和我本身对八年的记忆混在了一起，就好像是柏格森式的绵延的时间那样。
             <br>
-            有趣的，之前也从来没有注意到新海诚一贯延续的他本人的趣味，即对女性的脚的捕捉在本片中竟然突出到了如此的程度。从脚开始的对みつは的镜头甚至是作为全片开始而呈现出的镜头，大量的、对脚的镜头，而对みつは亲身前往东京的那一幕甚至全藉低机位的设计去对脚进行捕捉，制服皮鞋的棕色也在其中成为了最吸引观众目光的色彩。更甚者，他甚至还要利用特写去对みつは挠脚作出叙事上的交代。某些意味上，倒也契合了如今国内的这股动画圈子内的潮流了。
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/kimonaha-1.png" alt="你的名字截图">
+            </div>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/kimonaha-2.png" alt="你的名字截图">
+            </div>
+            <br>
+            有趣的，之前也从来没有注意到新海诚一贯延续的他本人的趣味，即对女性的脚的捕捉在本片中竟然突出到了如此的程度。从脚开始的对みつは的镜头甚至是作为全片开始而呈现出的镜头，大量的、对脚的镜头，而对みつは亲身前往东京的那一幕甚至全藉低机位的设计去对脚进行捕捉，制服皮鞋的棕色也在其中成为了最吸引观众目光的色彩。更甚者，他甚至还要去对みつは挠脚作出叙事上的交代。某些意味上，倒也契合了如今国内的这股动画圈子内的潮流了。
             <hr class="brief-comments-in-blog-comments-divider"/>
             2024.07.21
         </div>
@@ -35,6 +42,7 @@
             <div class="brief-comments-in-blog-comments-container-img">
                 <img src="./writings/_media/BriefComments/meishi-4-20240603.PNG" alt="学园偶像大师截图">
             </div>
+            <br>
             开服近三周每天醒来第一件事和睡前最后一件事都是学马仕启动。不得不说虽然人设初见很普但架不住文本塑造写得好，另一方面游戏性也还算不错。名片制作界面感觉也相当不错，可以直接拿来当制作人门票了。
             <hr class="brief-comments-in-blog-comments-divider"/>
             2024.06.03
@@ -47,8 +55,9 @@
         <div class="brief-comments-in-blog-comments-container">
             小魔女 doremi 25 周年特别映像。比起前两年那个做作的「寻找见习魔女」还是这种看到成长后的 doremi 他们的方式更令人感动。虽然似乎要有新作，不过我想小说中那成长后的他们的故事大抵也不会再变成动画了。这几年这种成长为大人后的大家的动画片也未免太多了。作为已经成长为可悲大人的我而言，看到成长后的大家真是有种说不出的滋味。
             <br>
-            音符，好喜欢。
             <iframe style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/i3mzMFy3dBg?si=FLPAmelZry08wb65" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <br>
+            音符，好喜欢。
             <hr class="brief-comments-in-blog-comments-divider"/>
             2024.04.15
         </div>
@@ -99,6 +108,7 @@
         </div>
         <div class="brief-comments-in-blog-comments-container">
             本日静冈模型展，说实话今天公布的 MS 只有这款基地限定 TOLRO-800 还挺想买来耍耍的。出自敢达 UC 第一话，巴纳吉的第一架座机，名场面飞身就小美。其实还挺乐于见到这类机子的模型化的，包括之前的德戴啊 Base Jabber 啊 89 式啊 94 式啊，G 防卫者和米加粒子炮之类的武器装备类的就更不用说了。很适合摆场景，而且确实是能丰富模型种类。
+            <br>
             <div class="brief-comments-in-blog-comments-container-img">
                 <img src="./writings/_media/BriefComments/tolro-800-1-20230511.jpeg" alt="TOLRO-800　展图">
             </div>
@@ -108,6 +118,7 @@
             <div class="brief-comments-in-blog-comments-container-img">
                 <img src="./writings/_media/BriefComments/tolro-800-3-20230511.jpeg" alt="TOLRO-800　展图">
             </div>
+            <br>
             <blockquote>
                 图源（按序）：twi<a href="https://twitter.com/HobbySite" target="_blank">@HobbySite</a>，twi<a href="https://twitter.com/gundambase_t" target="_blank">@gundambase_t</a>，twi<a href="https://twitter.com/hobby_magazine" target="_blank">@hobby_magazine</a>
             </blockquote>
