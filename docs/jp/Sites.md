@@ -1,7 +1,7 @@
 # すべてのサイト
 
 <div class="toc-page-div">
-    <a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-homepage/i18n/jp.html" target="_blank">
+    <a class="toc-page-display-a" href="./pages/homepage/i18n/jp.html" target="_blank">
         <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
                 <center>
@@ -15,7 +15,7 @@
                 個人サイト
             </div>
         </div>
-    </a><a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-homepage/animepage/i18n/jp.html" target="_blank">
+    </a><a class="toc-page-display-a" href="./pages/animepage/i18n/jp.html" target="_blank">
         <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
                 <center>
