@@ -39,6 +39,8 @@
 </div>
 
 -
+  - [随记：双反 甲辰年七月二十四日](/writings/Notes-20240724)
+  - [随记：玩具 甲辰年七月二十三日](/writings/Notes-20240723)
   - [近期艺术展 甲辰年七月十八日](/writings/ArtExhibit-20240718)
   - [记第 26 届上海国际电影节](/writings/Siff26-20240611)
   - [近期艺术展 甲辰年四月二十五日](/writings/ArtExhibit-20240425)
