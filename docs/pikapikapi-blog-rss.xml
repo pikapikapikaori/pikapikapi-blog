@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-  <title>Pikapikapi Blog</title>
+  <title>ピカピカピ</title>
   <atom:link href="https://pikapikapikaori.github.io/pikapikapi-blog/pikapikapi-blog-rss.xml" rel="self" type="application/rss+xml" />
   <link>https://pikapikapikaori.github.io/pikapikapi-blog</link>
-  <description>Pikapikapi Blog</description>
+  <description>Don't worry, be happy.</description>
    
   <entry>
     <title><![CDATA[随记：双反 甲辰年七月二十四日]]></title>
