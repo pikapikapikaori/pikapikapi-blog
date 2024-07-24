@@ -75,3 +75,15 @@
 .gt-popup {
     border-radius: 5px;
 }
+
+.gt-container .gt-comment-content {
+    background: var(--global-theme-color-blur, #c7a2ec1a) !important;
+}
+
+.gt-container .gt-comment-admin .gt-comment-username::after {
+    content: ' ☖';
+}
+
+.gt-container .gt-comment-content .gt-comment-body {
+    color: inherit !important;
+}
