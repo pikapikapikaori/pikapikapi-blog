@@ -27,7 +27,10 @@
 - [后端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-backend)
 - [前端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-frontend)
 
-本博客的仓库中也保存了相关的源码，可以参考[这里](https://github.com/pikapikapikaori/pikapikapi-blog/tree/master/resource/ITtech/SoftwareInsights-20230428)。
+源码也可以在下面下载：
+
+- [后端](archive/ITtech/_media/SoftwareInsights-20230428/virtualPetHospital-backend-master.zip ':ignore')
+- [前端](archive/ITtech/_media/SoftwareInsights-20230428/virtualPetHospital-frontend-main.zip ':ignore')
 
 ## 设计
 
