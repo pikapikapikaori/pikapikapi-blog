@@ -1,9 +1,9 @@
 #!/bin/bash
 
 feed="pikapikapi-blog-rss.xml"
-website_title="Pikapikapi Blog"
+website_title="ピカピカピ"
 website_link="https://pikapikapikaori.github.io/pikapikapi-blog"
-description="Pikapikapi Blog"
+description="Don't worry, be happy."
 
 urlencode() {
     local length="${#1}"
