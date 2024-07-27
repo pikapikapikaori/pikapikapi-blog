@@ -71,6 +71,7 @@
 | [日本動画協会](https://aja.gr.jp) | ACGN 资料 | 动画产业资料 |
 | [番组放送](https://bgmlist.com) | ACGN 资料 | 动画放送信息汇总 |
 | [批评空间](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op) | ACGN 资料 | 文字 AVG 游戏鉴赏，[原站](https://erogamescape.dyndns.org) |
+| [文姐书籍目录](https://docs.qq.com/sheet/DYUVBVUVvSUlkSVFE?tab=BB08J2) | ACGN 资料 | 文姐扫描书籍 |
 | [动画巡礼 - anitabi](https://anitabi.cn) | ACGN 资料 | 动漫巡礼资料 |
 | [Anime Scene Search](https://trace.moe) | ACGN 工具 | 动画截图搜索 |
 | [Multi-service image search](http://www.iqdb.org) | ACGN 工具 | 动画截图搜索 |
