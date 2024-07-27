@@ -47,6 +47,12 @@
             <p>
             最惊喜的果然还是本家的新 Live 吧！！
             </p>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-8.jpg" alt="偶像大师 20th">
+            </div>
+            <p>
+            20 周年历程速览（高达ww）。
+            </p>
             <hr class="brief-comments-in-blog-comments-divider"/>
             <p>
             2024.07.27
