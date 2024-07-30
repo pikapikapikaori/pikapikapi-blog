@@ -12,6 +12,21 @@
         </div>
         <div class="brief-comments-in-blog-comments-container">
             <p>
+            小魔女 doremi 25 周年新的特别映像，音乐选自四期最终话 ED 曲。比起上次更加聚焦于长大了的どれみ，别有味道。
+            </p>
+            <iframe style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/4AMf-7R7B0k?si=jbtwVbIocQbh5ZXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <hr class="brief-comments-in-blog-comments-divider"/>
+            <p>
+            2024.07.31
+            </p>
+        </div>
+    </div>
+    <div class="brief-comments-in-blog">
+        <div class="brief-comments-in-blog-image-container">
+            <img src="./_media/logo.JPG" alt="Logo" class="ignore-view-full-image-img">
+        </div>
+        <div class="brief-comments-in-blog-comments-container">
+            <p>
             爱马仕 20th 活动。
             </p>
             <div class="brief-comments-in-blog-comments-container-img">
