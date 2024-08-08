@@ -12,6 +12,74 @@
         </div>
         <div class="brief-comments-in-blog-comments-container">
             <p>
+            小魔女 doremi 25 周年新的特别映像，音乐选自四期最终话 ED 曲。比起上次更加聚焦于长大了的どれみ，别有味道。
+            </p>
+            <iframe style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/4AMf-7R7B0k?si=jbtwVbIocQbh5ZXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <hr class="brief-comments-in-blog-comments-divider"/>
+            <p>
+            2024.07.31
+            </p>
+        </div>
+    </div>
+    <div class="brief-comments-in-blog">
+        <div class="brief-comments-in-blog-image-container">
+            <img src="./_media/logo.JPG" alt="Logo" class="ignore-view-full-image-img">
+        </div>
+        <div class="brief-comments-in-blog-comments-container">
+            <p>
+            爱马仕 20th 活动。
+            </p>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-2.jpg" alt="偶像大师 20th">
+            </div>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-7.jpeg" alt="偶像大师 20th">
+            </div>
+            <p>
+            先是之前就有宣传的 SP Live。
+            </p>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-5.jpeg" alt="偶像大师 20th">
+            </div>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-6.jpeg" alt="偶像大师 20th">
+            </div>
+            <p>
+            新曲。
+            </p>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-3.jpeg" alt="偶像大师 20th">
+            </div>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-4.jpeg" alt="偶像大师 20th">
+            </div>
+            <p>
+            新服装。
+            </p>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-1.jpeg" alt="偶像大师 20th">
+            </div>
+            <p>
+            最惊喜的果然还是本家的新 Live 吧！！
+            </p>
+            <div class="brief-comments-in-blog-comments-container-img">
+                <img src="./writings/_media/BriefComments/imas20th-8.jpg" alt="偶像大师 20th">
+            </div>
+            <p>
+            20 周年历程速览（高达ww）。
+            </p>
+            <hr class="brief-comments-in-blog-comments-divider"/>
+            <p>
+            2024.07.27
+            </p>
+        </div>
+    </div>
+    <div class="brief-comments-in-blog">
+        <div class="brief-comments-in-blog-image-container">
+            <img src="./_media/logo.JPG" alt="Logo" class="ignore-view-full-image-img">
+        </div>
+        <div class="brief-comments-in-blog-comments-container">
+            <p>
             「你的名字」重映。应该说有太多新的感受了。八年前首映时从来没有体会到的，但如今却能从中感受到太多的乡愁味。直接题为“鄉愁”的展览牵起瀧对みつは的在意，然而这份ノスタルジア还来自于更多的东西。瀧以みつは的身体体会糸守町，而当他终于踏上这片土地时才发现土地早已在三年前就已经不复存在了。这份由超越时间的身体交换所带来的回不去的土地又怎么不是一份乡愁呢？同样的，当みつは第一次从东京的车站进入到无机物的丛林之中，巨大的声音浪潮将她一瞬间淹没了。更不用说みつは的同学们三言两语之中带出的对土地的情感了。“君名”前后日本动画上的巨大差异，对 311 的回忆，冲浦黄濑安藤田中的突出作画，等等这些都已经被一再的述说了。当我重新在八年后再次观看时，影片自身内流动了八年的时间，早就已经和我本身对八年的记忆混在了一起，就好像是柏格森式的绵延的时间那样。
             </p>
             <div class="brief-comments-in-blog-comments-container-img">
