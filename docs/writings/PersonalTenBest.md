@@ -1,9 +1,5 @@
 # 个人十佳榜单
 
-[personal ten best card](./PersonalTenBestCard.md ':include')
-
-## 具体列表
-
 <!-- tabs:start -->
 
 #### **电影**

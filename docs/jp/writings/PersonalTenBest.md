@@ -1,9 +1,5 @@
 # 個人ベスト10リスト
 
-[personal ten best card](./PersonalTenBestCard.md ':include')
-
-## リスト
-
 <!-- tabs:start -->
 
 #### **映画**

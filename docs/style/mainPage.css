@@ -289,26 +289,6 @@
     margin: 0 0 0 !important;
 }
 
-.personal-ten-best-title-small {
-    text-align: center;
-    font-family: 'HanyiSentyFlorCalligraphy', cursive;
-    font-size: 2.2rem;
-    margin: 10px 0;
-}
-
-.personal-ten-best-img-small {
-    width: 450px;
-    margin: 0 auto 0;
-}
-
-.personal-ten-best-img-small img {
-    height: 120px;
-    width: auto;
-    margin-right: -55px;
-    position: relative;
-    border-radius: var(--global-el-border-radius, 10px);
-}
-
 @media screen and (max-width: 1000px) {
     .personal-ten-best-container {
         display: block;
@@ -341,16 +321,6 @@
     .personal-ten-best-content-info p {
         font-size: 0.9rem;
         line-height: 1.4rem;
-    }
-
-    .personal-ten-best-img-small {
-        width: 282px;
-    }
-
-    .personal-ten-best-img-small img {
-        height: 100px;
-        width: auto;
-        margin-right: -48px;
     }
 }
 
