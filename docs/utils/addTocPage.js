@@ -210,6 +210,21 @@ function plugin(hook, vm) {
 
         // fix auto2top
         document.scrollingElement.scrollTop = 0
+
+        // fix autoHeader
+        let path = location.href.split('#')[1]
+        // for default title '- ピカピカピ'
+        if (path != '/') {
+            Array.from(document.getElementsByClassName('sidebar-nav')[0].getElementsByTagName('a')).some(a => {
+                if (a.href.split('#')[1] === path) {
+                    if (document.title != a.textContent) {
+                        document.title = a.textContent
+                    }
+                    return true
+                }
+                return false
+            })
+        }
     })
 }
 
