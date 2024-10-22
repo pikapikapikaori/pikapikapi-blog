@@ -210,3 +210,7 @@ pre {
 .docsify-tabs__tab:not(.docsify-tabs__tab--active):hover {
     color: var(--theme-color, #ea6f5a);
 }
+
+nav.app-nav li ul {
+    min-width: 110px;
+}
