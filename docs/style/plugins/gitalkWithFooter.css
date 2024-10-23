@@ -35,7 +35,7 @@
 }
 
 .gt-container a.is--active {
-    color: #333 !important;
+    color: var(--theme-color, #ea6f5a) !important;
 }
 
 .gt-container a.is--active:before {
@@ -47,10 +47,10 @@
 }
 
 .gt-popup .gt-action {
-    color: var(--theme-color, #ea6f5a) !important;
+    color: inherit !important;
 }
 
-.gt-popup .gt-action {
+.gt-popup .gt-action:hover {
     color: var(--theme-color, #ea6f5a) !important;
 }
 
