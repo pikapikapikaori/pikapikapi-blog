@@ -129,7 +129,9 @@ function plugin(hook, vm) {
 
         pages.forEach(page => {
             pageHref = page.href
-            tmp = pageHref.replace('index.html#/', '').replace('#/', '')
+            tmp = pageHref.replace('#/', '')
+            // .replace('index.html#/', '')
+            // for testing
             pagePictureHref = tmp.substring(0, tmp.lastIndexOf('/')) + '/_media' + tmp.substring(tmp.lastIndexOf('/')) + '/cover-picture'
 
             // pageImgPrefix = testImgPrefix(pagePictureHref)
