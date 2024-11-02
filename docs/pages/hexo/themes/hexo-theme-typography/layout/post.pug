@@ -1,0 +1,37 @@
+extends partial/layout
+
+include mixins
+
+block site_title
+    != page.title + " · " + config.title
+
+block description
+    - var desc = page.desc || strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150);
+    meta(name="description", content=desc)
+    meta(name="og:description", content=desc)
+    meta(name="twitter:site", content=config.title)
+    meta(name="twitter:title", content=page.title)
+    meta(name="twitter:card", content="summary")
+
+block content
+    .autopagerize_page_element: .content: .post-page
+        include mixins
+        +make_post(page, true)
+        - var prev = page.prev ? page.prev.path : false;
+        - var next = page.next ? page.next.path : false;
+        .pagination
+            p.clearfix
+                if prev
+                    span.pre.pagbuttons
+                        a(role="navigation",href=url_for(prev), title=page.prev.title)
+                            i.fa.fa-angle-double-left
+                            |&nbsp;
+                            != __('prev_post')+': ' + page.prev.title
+                if next
+                    span &nbsp;
+                    span.next.pagbuttons
+                        a(role="navigation",href=url_for(next), title=page.next.title)
+                            != __('next_post')+': ' + page.next.title
+                            |&nbsp;
+                            i.fa.fa-angle-double-right
+        include partial/comments
