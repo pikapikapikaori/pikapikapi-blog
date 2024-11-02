@@ -1,9 +1,5 @@
 # Personal Ten Best List
 
-[personal ten best card](./PersonalTenBestCard.md ':include')
-
-## Info List
-
 <!-- tabs:start -->
 
 #### **Movie**
