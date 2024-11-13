@@ -1,0 +1,6 @@
+footer
+    - var currYear = new Date().getYear() + 1900;
+    p &copy;&nbsp; 2023 - 
+        !=currYear
+        | &nbsp;
+        a(target="_blank", href=config.url,  rel="noopener noreferrer")!=theme.author ? theme.author : config.author ? config.author : config.title
