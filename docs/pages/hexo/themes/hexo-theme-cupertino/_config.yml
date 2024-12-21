@@ -1,0 +1,102 @@
+# REMEMBER TO EDIT THIS BEFORE DEPLOYING!!!
+
+# the path to your blog's icon:
+favicon: /favicon.ico
+
+# the path to manifest.json
+manifest: /manifest.json
+
+# [Open Graph Protocol](https://ogp.me/)
+og_enabled: true
+og_image: /favicon.ico
+og:
+  # customize og properties here which will replace the defaults
+
+# show excerpt on post list
+show_excerpt: false
+
+# light/dark/auto color scheme
+color_scheme: auto
+
+# show floating color theme toggle
+show_color_scheme_toggle: true
+
+# uppercase categories
+uppercase_categories: true
+
+# capitalize tag names on tags page
+capitalize_tags: false
+
+# add hashtag prefix before tags
+hashtag_prefix_before_tags: true
+
+# rainbow!
+rainbow_banner: false
+rainbow_banner_colors:
+  - '#e50000'
+  - '#ff8d00'
+  - '#ffee00'
+  - '#008121'
+  - '#004cff'
+  - '#760188'
+# choose from [auto, always]
+rainbow_banner_shown: auto
+# Pride Month by default
+rainbow_banner_month: 6
+
+# TOC - table of contents
+toc: true
+toc_max_depth: 2
+
+# scroll reveal (https://scrollrevealjs.org/) - animating elements as they enter/leave the viewport
+scroll_reveal: true
+
+# navigation config
+nav:
+  # the title displays in the upper left corner which won't change
+  title: ピカピカピ
+  # the items displays in the upper right corner
+  items:
+    # these items will display as a link
+    Archives: /archives
+    Categories: /categories
+    About: /about
+    # these will be automatically be an icon
+    Search: /search
+
+# footer items
+footer:
+  # the title
+  ピカピカピ:
+    # the items after the title, display as links
+    Archives: /archives
+    Categories: /categories
+    About: /about
+    Search: /search
+    RSS: /atom.xml
+  # the title
+  Blogs:
+    Homepage: https://pikapikapikaori.github.io/pikapikapi-blog/pages/homepage/index.html
+    Standby Site: https://pikapikapi-blog.vercel.app/
+  # the title
+  Contact:
+    # items
+    Email: mailto:Lyy8759@outlook.com
+    GitHub: https://github.com/pikapikapikaori
+    Bangumi: https://bgm.tv/user/inuyasha559
+    Douban: https://www.douban.com/people/160339816
+
+# footer extra description
+# footer_extra_description: something will be shown at the bottom of the footer
+
+# the license your posts under
+license: 
+# the link of your license
+license_link: 
+
+# search
+# based on [hexo-generator-search](https://github.com/wzpan/hexo-generator-search)
+search: true
+search_path: search.json
+
+# REMEMBER TO EDIT THIS BEFORE DEPLOYING!!!
