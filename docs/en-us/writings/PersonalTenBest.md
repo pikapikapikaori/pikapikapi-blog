@@ -154,35 +154,35 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-2.jpg" alt="火花">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-2.jpg" alt="The Magicians">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>火花</h5>
-                    <p>Hibana</p>
-                    <p>2016 &ensp; Japan</p>
-                    <p>Ryuichi Hiroki / Kazuya Shiraishi / Shûichi Okita</p>
+                    <h5>The Magicians</h5>
+                    <p>The Magicians</p>
+                    <p>2016 &ensp; America</p>
+                    <p>Mike Cahill</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-3.jpg" alt="篤姫">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-3.jpg" alt="暴太郎戦隊ドンブラザーズ">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>篤姫</h5>
-                    <p>Atsuhime</p>
-                    <p>2008 &ensp; Japan</p>
-                    <p>Mineyo Satô</p>
+                    <h5>暴太郎戦隊ドンブラザーズ</h5>
+                    <p>Avataro Sentai Donbrothers</p>
+                    <p>2022 &ensp; Japan</p>
+                    <p>Ryuta Tazaki</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="未来戦隊タイムレンジャー">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="Yes Minister">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>未来戦隊タイムレンジャー</h5>
-                    <p>Future Squadron Timeranger</p>
-                    <p>2000 &ensp; Japan</p>
-                    <p>Satoshi Morota</p>
+                    <h5>Yes Minister</h5>
+                    <p>Yes Minister</p>
+                    <p>1980 &ensp; Britain</p>
+                    <p>Peter Whitmore</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
@@ -202,29 +202,18 @@
         <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="暴太郎戦隊ドンブラザーズ">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="火花">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>暴太郎戦隊ドンブラザーズ</h5>
-                    <p>Avataro Sentai Donbrothers</p>
-                    <p>2022 &ensp; Japan</p>
-                    <p>Ryuta Tazaki</p>
+                    <h5>火花</h5>
+                    <p>Hibana</p>
+                    <p>2016 &ensp; Japan</p>
+                    <p>Ryuichi Hiroki / Kazuya Shiraishi / Shûichi Okita</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="あさが来た">
-                </div>
-                <div class="personal-ten-best-content-info">
-                    <h5>あさが来た</h5>
-                    <p>Asa ga kita</p>
-                    <p>2015 &ensp; Japan</p>
-                    <p>Shinichi Nishitani / Shinzô Nitta</p>
-                </div>
-            </div>
-            <div class="personal-ten-best-content">
-                <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="仮面ライダー555">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="仮面ライダー555">
                 </div>
                 <div class="personal-ten-best-content-info">
                     <h5>仮面ライダー 555</h5>
@@ -235,7 +224,7 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-9.jpg" alt="Friends">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="Friends">
                 </div>
                 <div class="personal-ten-best-content-info">
                     <h5>Friends</h5>
@@ -246,13 +235,24 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-10.jpg" alt="東京ラブストーリー">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-9.jpg" alt="未来戦隊タイムレンジャー">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>東京ラブストーリー</h5>
-                    <p>Tokyo Love Story</p>
-                    <p>1991 &ensp; Japan</p>
-                    <p>Kozo Nagayama / Ohiko Honma</p>
+                    <h5>未来戦隊タイムレンジャー</h5>
+                    <p>Future Squadron Timeranger</p>
+                    <p>2000 &ensp; Japan</p>
+                    <p>Satoshi Morota</p>
+                </div>
+            </div>
+            <div class="personal-ten-best-content">
+                <div class="personal-ten-best-content-img">
+                    <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-series-10.jpg" alt="篤姫">
+                </div>
+                <div class="personal-ten-best-content-info">
+                    <h5>篤姫</h5>
+                    <p>Atsuhime</p>
+                    <p>2008 &ensp; Japan</p>
+                    <p>Mineyo Satô</p>
                 </div>
             </div>
         </div>
