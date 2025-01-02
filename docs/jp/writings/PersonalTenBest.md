@@ -567,13 +567,13 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ゼノブレイド2">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="FINAL FANTASY VII REMAKE">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>ゼノブレイド 2</h5>
-                    <p>异度神剑 2</p>
-                    <p>2017 &ensp; 日本</p>
-                    <p>モノリスソフト</p>
+                    <h5>FINAL FANTASY VII REMAKE</h5>
+                    <p>FINAL FANTASY VII REMAKE</p>
+                    <p>2020 &ensp; 日本</p>
+                    <p>スクウェア・エニックス</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
@@ -648,13 +648,13 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="ファイナルファンタジーIX">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="METAL GEAR SOLID V: THE PHANTOM PAIN">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>ファイナルファンタジー IX</h5>
-                    <p>ファイナルファンタジー IX</p>
-                    <p>2000 &ensp; 日本</p>
-                    <p>スクウェア</p>
+                    <h5>METAL GEAR SOLID V: THE PHANTOM PAIN</h5>
+                    <p>METAL GEAR SOLID V: THE PHANTOM PAIN</p>
+                    <p>2015 &ensp; 日本</p>
+                    <p>Konami</p>
                 </div>
             </div>
         </div>

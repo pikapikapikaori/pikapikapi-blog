@@ -567,13 +567,13 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ゼノブレイド2">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="FINAL FANTASY VII REMAKE">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>ゼノブレイド 2</h5>
-                    <p>异度神剑 2</p>
-                    <p>2017 &ensp; 日本</p>
-                    <p>Monolith Soft</p>
+                    <h5>FINAL FANTASY VII REMAKE</h5>
+                    <p>最终幻想7 重制版</p>
+                    <p>2020 &ensp; 日本</p>
+                    <p>史克威尔·艾尼克斯</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
@@ -648,13 +648,13 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="ファイナルファンタジーIX">
+                    <img src="./writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="METAL GEAR SOLID V: THE PHANTOM PAIN">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>ファイナルファンタジー IX</h5>
-                    <p>最终幻想 9</p>
-                    <p>2000 &ensp; 日本</p>
-                    <p>史克威尔</p>
+                    <h5>METAL GEAR SOLID V: THE PHANTOM PAIN</h5>
+                    <p>合金装备 5 幻痛</p>
+                    <p>2015 &ensp; 日本</p>
+                    <p>科乐美</p>
                 </div>
             </div>
         </div>
