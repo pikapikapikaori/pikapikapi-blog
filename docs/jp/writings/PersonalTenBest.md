@@ -154,35 +154,35 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-2.jpg" alt="火花">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-2.jpg" alt="The Magicians">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>火花</h5>
-                    <p>火花</p>
-                    <p>2016 &ensp; 日本</p>
-                    <p>广木隆一 / 白石和弥 / 冲田修一</p>
+                    <h5>The Magicians</h5>
+                    <p>マジシャンズ</p>
+                    <p>2016 &ensp; アメリカ</p>
+                    <p>Mike Cahill</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-3.jpg" alt="篤姫">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-3.jpg" alt="暴太郎戦隊ドンブラザーズ">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>篤姫</h5>
-                    <p>篤姫</p>
-                    <p>2008 &ensp; 日本</p>
-                    <p>佐藤峰世</p>
+                    <h5>暴太郎戦隊ドンブラザーズ</h5>
+                    <p>暴太郎戦隊ドンブラザーズ</p>
+                    <p>2022 &ensp; 日本</p>
+                    <p>田崎龙太</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="未来戦隊タイムレンジャー">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-4.jpg" alt="Yes Minister">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>未来戦隊タイムレンジャー</h5>
-                    <p>未来戦隊タイムレンジャー</p>
-                    <p>2000 &ensp; 日本</p>
-                    <p>诸田敏 / 松井升</p>
+                    <h5>Yes Minister</h5>
+                    <p>イエス・プライム・ミニスター</p>
+                    <p>1980 &ensp; イギリス</p>
+                    <p>Peter Whitmore</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
@@ -202,29 +202,18 @@
         <div class="personal-ten-best-content-list">
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="暴太郎戦隊ドンブラザーズ">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-6.jpg" alt="火花">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>暴太郎戦隊ドンブラザーズ</h5>
-                    <p>暴太郎戦隊ドンブラザーズ</p>
-                    <p>2022 &ensp; 日本</p>
-                    <p>田崎龙太</p>
+                    <h5>火花</h5>
+                    <p>火花</p>
+                    <p>2016 &ensp; 日本</p>
+                    <p>广木隆一 / 白石和弥 / 冲田修一</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="あさが来た">
-                </div>
-                <div class="personal-ten-best-content-info">
-                    <h5>あさが来た</h5>
-                    <p>あさが来た</p>
-                    <p>2015 &ensp; 日本</p>
-                    <p>西谷真一 / 新田真三 / 佐々木善春</p>
-                </div>
-            </div>
-            <div class="personal-ten-best-content">
-                <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="仮面ライダー555">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-7.jpg" alt="仮面ライダー555">
                 </div>
                 <div class="personal-ten-best-content-info">
                     <h5>仮面ライダー 555</h5>
@@ -235,7 +224,7 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-9.jpg" alt="Friends">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-8.jpg" alt="Friends">
                 </div>
                 <div class="personal-ten-best-content-info">
                     <h5>Friends</h5>
@@ -246,13 +235,24 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-10.jpg" alt="東京ラブストーリー">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-9.jpg" alt="未来戦隊タイムレンジャー">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>東京ラブストーリー</h5>
-                    <p>東京ラブストーリー</p>
-                    <p>1991 &ensp; 日本</p>
-                    <p>永山耕三 / 本间欧彦</p>
+                    <h5>未来戦隊タイムレンジャー</h5>
+                    <p>未来戦隊タイムレンジャー</p>
+                    <p>2000 &ensp; 日本</p>
+                    <p>诸田敏 / 松井升</p>
+                </div>
+            </div>
+            <div class="personal-ten-best-content">
+                <div class="personal-ten-best-content-img">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-series-10.jpg" alt="篤姫">
+                </div>
+                <div class="personal-ten-best-content-info">
+                    <h5>篤姫</h5>
+                    <p>篤姫</p>
+                    <p>2008 &ensp; 日本</p>
+                    <p>佐藤峰世</p>
                 </div>
             </div>
         </div>
@@ -567,13 +567,13 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="ゼノブレイド2">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-4.jpg" alt="FINAL FANTASY VII REMAKE">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>ゼノブレイド 2</h5>
-                    <p>异度神剑 2</p>
-                    <p>2017 &ensp; 日本</p>
-                    <p>モノリスソフト</p>
+                    <h5>FINAL FANTASY VII REMAKE</h5>
+                    <p>FINAL FANTASY VII REMAKE</p>
+                    <p>2020 &ensp; 日本</p>
+                    <p>スクウェア・エニックス</p>
                 </div>
             </div>
             <div class="personal-ten-best-content">
@@ -648,13 +648,13 @@
             </div>
             <div class="personal-ten-best-content">
                 <div class="personal-ten-best-content-img">
-                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="ファイナルファンタジーIX">
+                    <img src="./jp/writings/_media/PersonalTenBest/personalTenBest-game-10.jpg" alt="METAL GEAR SOLID V: THE PHANTOM PAIN">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5>ファイナルファンタジー IX</h5>
-                    <p>ファイナルファンタジー IX</p>
-                    <p>2000 &ensp; 日本</p>
-                    <p>スクウェア</p>
+                    <h5>METAL GEAR SOLID V: THE PHANTOM PAIN</h5>
+                    <p>METAL GEAR SOLID V: THE PHANTOM PAIN</p>
+                    <p>2015 &ensp; 日本</p>
+                    <p>Konami</p>
                 </div>
             </div>
         </div>
