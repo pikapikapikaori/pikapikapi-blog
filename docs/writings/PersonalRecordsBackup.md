@@ -2,10 +2,12 @@
 
 > 本界面的数据只用作备份，每月更新一次。\
 > 详细可以访问我的[豆瓣](https://www.douban.com/people/160339816)与[Bangumi](https://bgm.tv/user/inuyasha559)。\
+> ACGN 的最新数据备份网页版见[此处](writings/_media/PersonalRecordsBackup/bgm-latest.html ':ignore')。\
 > 最后更新时间：{docsify-last-updated}
 
 | 最后更新时间 |                                         书 csv 文件                                          |                                         电影 csv 文件                                          |                                         ACGN json 文件                                         |
 | :----------: | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|  2025.01.03  | [db-book-20250103.csv](writings/_media/PersonalRecordsBackup/db-book-20250103.csv ':ignore') | [db-movie-20250103.csv](writings/_media/PersonalRecordsBackup/db-movie-20250103.csv ':ignore') | [bgm-20250103.json.zip](writings/_media/PersonalRecordsBackup/bgm-20250103.json.zip ':ignore') |
 |  2024.12.02  | [db-book-20241202.csv](writings/_media/PersonalRecordsBackup/db-book-20241202.csv ':ignore') | [db-movie-20241202.csv](writings/_media/PersonalRecordsBackup/db-movie-20241202.csv ':ignore') | [bgm-20241202.json.zip](writings/_media/PersonalRecordsBackup/bgm-20241202.json.zip ':ignore') |
 |  2024.11.19  | [db-book-20241119.csv](writings/_media/PersonalRecordsBackup/db-book-20241119.csv ':ignore') | [db-movie-20241119.csv](writings/_media/PersonalRecordsBackup/db-movie-20241119.csv ':ignore') | [bgm-20241119.json.zip](writings/_media/PersonalRecordsBackup/bgm-20241119.json.zip ':ignore') |
 |  2024.10.23  | [db-book-20241023.csv](writings/_media/PersonalRecordsBackup/db-book-20241023.csv ':ignore') | [db-movie-20241023.csv](writings/_media/PersonalRecordsBackup/db-movie-20241023.csv ':ignore') | [bgm-20241023.json.zip](writings/_media/PersonalRecordsBackup/bgm-20241023.json.zip ':ignore') |
