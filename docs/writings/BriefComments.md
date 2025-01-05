@@ -5,6 +5,24 @@
 <br>
 <hr class="brief-comments-in-blog-title-year-divider">
 <details class="brief-comments-in-blog-title-year" open>
+    <summary>2025</summary>
+    <div class="brief-comments-in-blog">
+        <div class="brief-comments-in-blog-image-container">
+            <img src="./_media/logo.JPG" alt="Logo" class="ignore-view-full-image-img">
+        </div>
+        <div class="brief-comments-in-blog-comments-container">
+            <p>
+            重看「The Magicians」。不得不再次感叹第四季结尾拍的实在是太好了。一片灰白的世界中随着 Q 手指的动作，只有零星的光点爬过镜子上的裂痕。通向狭缝的画面重又出现在恢复如初的镜子上时，爬完裂痕的光点迸发成了一束束的火花，吞噬回眸的 Q。但不仅仅是升格镜头下奏着“Cruel World”的无声的片段，写的更好的恰恰在于随后 Q 在冥界中对从前伙伴的自我剖析。但无论他到底是拯救了朋友，又或者他真只是终于找到了自杀的方式，当伙伴们在夜幕中围绕着火堆，用“Take on Me”唱出无法说出的情愫，一件件地丢出那些记录着苦痛现实生活中的和 Q 共度的零星欢乐时光的物件，原因究竟如何已经无关紧要了。串联起整个四季度的不仅仅是一直未能发现的 Q 的小物修复这种不能更朴素的特长，不仅仅是 Q 从最初就已经有的抑郁症倾向，还是早在最初就已经指出的理论：Magic comes from pain。痛苦之中 J 抛出扑克时做出了和 Q 第一次相同的魔法，于此终于一切全都串联起来了。最后的最后让 Q 走过放下的门，更是再直白不过地直指四季度真正的内核。魔法外衣带来的幻想固然最能吸引人，但本作的最大亮点，也是足以让本作成为极优秀的作品的点恰恰在于从最初的最初就已铺设的，抛离魔法之后从最初的最初就已经一直铺设的对现实的无力感的直接抛出。
+            </p>
+            <hr class="brief-comments-in-blog-comments-divider"/>
+            <p>
+            2025.01.02
+            </p>
+        </div>
+    </div>
+</details>
+<hr class="brief-comments-in-blog-title-year-divider">
+<details class="brief-comments-in-blog-title-year">
     <summary>2024</summary>
     <div class="brief-comments-in-blog">
         <div class="brief-comments-in-blog-image-container">
