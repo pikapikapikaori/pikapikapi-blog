@@ -436,7 +436,7 @@
 
 <p>当然根据具体协议封装方式不同其结构也有所不同，但基本上都会含有上面的部分。从上面也可以看出，IPSec包含了这些协议：AH、ESP和ISAKMP。</p>
 <p>IPSec通常有两种传输模式，即隧道模式和传输模式。工作方式见名知意。</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/05/27/IPSecKnowledge-20230527/picture-1.svg.png" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/05/27/IPSecKnowledge-20230527/picture-1.svg.png" alt="picture"></p>
 <h2 id="L2TP-IPSec"><a href="#L2TP-IPSec" class="headerlink" title="L2TP &#x2F; IPSec"></a>L2TP &#x2F; IPSec</h2><p>L2TP工作在第二层数据链路层，使用端口UDP1701。某种意义上可以理解成是把PPP载荷包了一层UDP。由于IPSec更多侧重于对数据报文的加密也就是安全性，在用户认证上比较薄弱。因而常会考虑将L2TP和IPSec结合。</p>
 <p>仔细想一下，当家里路由器桥接光猫，路由器拨号的时候，光猫只作Modem，路由器通过PPPoE方式拨号，这里PPPoE实质上就是封装了PPP协议。大概是由于PPP擅于进行身份认证和IP分配，所以大量采用PPPoE方式来接入宽带。</p>
 <p>总之由于L2TP可以很方便地做多用户的认证，可以很好地解决IPSec在这方面的缺陷，所以两者经常被组合使用。</p>
@@ -447,15 +447,15 @@
 <li>身份保护，利用DH密钥交换算法和PFS</li>
 </ul>
 <p>IKEv1和v2最大不同在于v2简化了协商过程并修复了些安全漏洞。</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/05/27/IPSecKnowledge-20230527/picture-2.png" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/05/27/IPSecKnowledge-20230527/picture-2.png" alt="picture"></p>
 <p>基本的认证过程如上图。</p>
 <p>现在考虑IPSec和IKE组合使用的情景，也就是大部分的实际情景：</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/05/27/IPSecKnowledge-20230527/picture-3.png" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/05/27/IPSecKnowledge-20230527/picture-3.png" alt="picture"></p>
 <p>注意这里IPSec进行加密和认证的时候支持MD5和SHA-1，在IKE认证部分则是利用了FPS和PSK或RSA（这里是提供给配置者自选的）。</p>
 <p>可以再结合Cisco官网的图片和解释看一下：</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/05/27/IPSecKnowledge-20230527/picture-4.jpg.avif" alt="picture"></p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/05/27/IPSecKnowledge-20230527/picture-5.jpg.avif" alt="picture"></p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/05/27/IPSecKnowledge-20230527/picture-6.jpg.avif" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/05/27/IPSecKnowledge-20230527/picture-4.jpg.avif" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/05/27/IPSecKnowledge-20230527/picture-5.jpg.avif" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/05/27/IPSecKnowledge-20230527/picture-6.jpg.avif" alt="picture"></p>
 <h1 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h1><p>个人来看对个人用户而言这种安全性是足够了的。嫌证书认证麻烦不用RSA而选择PSK都已经足够。其实华硕本身也提供了证书可以使用，不过由于家宽一般都是动态公网IP每次IP变了都要重新弄成本也确实相对高一点。</p>
 <h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
 <li>IPsec and IKE. (2023, April 5). IPsec and IKE. <a target="_blank" rel="noopener" href="https://sc1.checkpoint.com/documents/R81/WebAdminGuides/EN/CP_R81_SitetoSiteVPN_AdminGuide/Topics-VPNSG/IPsec-and-IKE.htm">https://sc1.checkpoint.com/documents/R81/WebAdminGuides/EN/CP_R81_SitetoSiteVPN_AdminGuide/Topics-VPNSG/IPsec-and-IKE.htm</a></li>
@@ -556,7 +556,7 @@
             </div>
             
         </div>
-        <span>&copy; 2023 - 2024 李亦杨 / 李亦楊 / Jeff Li - All Rights Reserved. </span>
+        <span>&copy; 2023 - 2025 李亦杨 / 李亦楊 / Jeff Li - All Rights Reserved. </span>
         
         
             <br>
