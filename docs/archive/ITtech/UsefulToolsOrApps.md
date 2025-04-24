@@ -22,15 +22,23 @@
 
 |               名称（链接）               |              说明               |                          备注                          |
 | :--------------------------------------: | :-----------------------------: | :----------------------------------------------------: |
-|      [Iconoir](https://iconoir.com)      |        SVG 格式 Icon生成器        |                                                        |
-|    [Tabler](https://tablericons.com)     |        SVG 格式 Icon生成器        |                                                        |
-|  [Phosphor](https://phosphoricons.com)   |        SVG 格式 Icon生成器        |                                                        |
-|       [JAM](https://jam-icons.com)       |        SVG 格式 Icon生成器        |      [GitHub](https://github.com/michaelampr/jam)      |
+|      [Iconoir](https://iconoir.com)      |        SVG 格式 Icon 生成器        |                                                        |
+|    [Tabler](https://tablericons.com)     |        SVG 格式 Icon 生成器        |                                                        |
+|  [Phosphor](https://phosphoricons.com)   |        SVG 格式 Icon 生成器        |                                                        |
+|       [JAM](https://jam-icons.com)       |        SVG 格式 Icon 生成器        |      [GitHub](https://github.com/michaelampr/jam)      |
 |    [VISIWIG](https://www.visiwig.com)    | SVG 格式 Icon、花纹、材质等生成器 |                                                        |
-| [Simple Icons](https://simpleicons.org/) |        SVG 格式 Icon下载器        | [GitHub](https://github.com/simple-icons/simple-icons) |
+| [Simple Icons](https://simpleicons.org/) |        SVG 格式 Icon 下载器        | [GitHub](https://github.com/simple-icons/simple-icons) |
 
 ### 组件库 & 框架 & 包
 
 |             名称（链接）             |         说明          |                        备注                        |
 | :----------------------------------: | :-------------------: | :------------------------------------------------: |
 | [Naive UI](https://www.naiveui.com/) |       Vue 组件库       |   [GitHub](https://github.com/tusen-ai/naive-ui)   |
+
+## 其他
+
+|             名称（链接）             |         说明          |                        备注                        |
+| :----------------------------------: | :-------------------: | :------------------------------------------------: |
+| [Vultr](https://www.vultr.com) |       服务器租用       |     |
+| [DuyaoSS](https://387099.blogspot.com/2018/03/ssssr.html?m=1) |       机场测评       |     |
+| [I KNOW](https://iknowwhatyoudownload.com/en/peer/) |       IP 种子查询       |     |
