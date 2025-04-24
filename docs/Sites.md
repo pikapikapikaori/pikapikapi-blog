@@ -29,6 +29,20 @@
                 摄影主页
             </div>
         </div>
+    </a><a class="toc-page-display-a" href="./pages/indexpage/index.html" target="_blank">
+        <div class="toc-page-display-div">
+            <div class="toc-page-display-title-img">
+                <center>
+                    <img class="ignore-view-full-image-img" src="./_media/Sites/pikapikapi-indexpage.png">
+                </center>
+            </div>
+            <div class="toc-page-display-title-div">
+                ピカピカピ
+            </div>
+            <div class="toc-page-display-date-div">
+                导航页
+            </div>
+        </div>
     </a><a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-blog/" target="_blank">
         <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
