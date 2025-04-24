@@ -499,6 +499,31 @@
                     "target": "_blank"
                   }
                 ]
+              },
+              {
+                "category": "說明書",
+                "links": [
+                  {
+                    "name": "Subaru BRZ 25",
+                    "url": "https://www.subaru-china.cn/assets/pdf/support/owners/manual/brz/25/25BRZ_UserManuals.pdf?data=20241212",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Dolby Atmos® Home Theater Installation",
+                    "url": "https://www.dolby.com/siteassets/technologies/dolby-atmos/atmos-installation-guidelines-121318_r3.1.pdf",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "D850",
+                    "url": "https://onlinemanual.nikonimglib.com/d850/zh-cn/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Mamiya C330",
+                    "url": "https://galerie-photo.com/manuels/C330_english-instructions.pdf",
+                    "target": "_blank"
+                  }
+                ]
               }
             ]
         }
