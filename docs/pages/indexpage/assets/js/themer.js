@@ -12,6 +12,11 @@ const setValue = (property, value) => {
 
 const setValueFromLocalStorage = property => {
     let value = localStorage.getItem(property);
+    if(!value) {
+        localStorage.setItem('color-background', '#F8F6F1')
+        localStorage.setItem('color-text-pri', '#4C432E')
+        localStorage.setItem('color-text-acc', '#AA9A73')
+    }
     setValue(property, value);
 };
 
