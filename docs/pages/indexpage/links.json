@@ -1,0 +1,529 @@
+{
+            "bookmarks" : [
+              {
+                "category": "綜合 下載",
+                "links": [
+                  {
+                    "name": "BTDigg",
+                    "url": "https://www.btdig.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "KickAss",
+                    "url": "https://kickass.sx",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Pirate Bay",
+                    "url": "https://www.tpbproxypirate.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "1377x",
+                    "url": "https://www.1337x.tw",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "MagnetDL",
+                    "url": "https://www.magnetdl.com",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "動畫 下載",
+                "links": [
+                  {
+                    "name": "動漫花園資源網",
+                    "url": "http://dmhy.org",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Nyaa",
+                    "url": "https://nyaa.si",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Mikan Project",
+                    "url": "https://mikanani.me",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "ACG RIP",
+                    "url": "https://acg.rip",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "末日动漫",
+                    "url": "https://share.acgnx.se",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "漫猫动漫",
+                    "url": "http://www.comicat.org",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "MioBT",
+                    "url": "http://www.miobt.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "萌番组",
+                    "url": "https://bangumi.moe",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "琉璃神社",
+                    "url": "https://www.hacg.mov",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "影視 下載",
+                "links": [
+                  {
+                    "name": "EZTV",
+                    "url": "https://eztvx.to/home",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "RARBG",
+                    "url": "https://www2.rarbggo.to",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "YTS",
+                    "url": "https://yts.mx",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "电影街",
+                    "url": "https://moviejie.net",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "漫畫書籍 下載",
+                "links": [
+                  {
+                    "name": "13DL",
+                    "url": "https://13dl.me/home/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Kox.moe",
+                    "url": "https://kox.moe",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Library Genesis",
+                    "url": "http://libgen.rs",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "鸠摩搜索",
+                    "url": "https://www.jiumodiary.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "z-library",
+                    "url": "https://z-library.sk/",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "遊戲 下載",
+                "links": [
+                  {
+                    "name": "FitGirl Repacks",
+                    "url": "https://fitgirl-repacks.site",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "SKIDROWCODEX.NET",
+                    "url": "https://www.skidrowcodex.net",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "量子ACG",
+                    "url": "https://oda.lzacg.one",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "姬路白雪の资源小站",
+                    "url": "https://pan.jlbx.xyz",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "梓澪の妙妙屋",
+                    "url": "https://zi0.cc",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "失落小站",
+                    "url": "https://www.shinnku.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "2DFan",
+                    "url": "https://2dfan.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Alicesoft",
+                    "url": "http://retropc.net/alice/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "绯月ScarletMoon",
+                    "url": "https://bbs.kfpromax.com/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "2dj",
+                    "url": "https://www.aixgame.cc",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "k73资源网",
+                    "url": "http://www.k73.com/down/3ds/list-81-2.html",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "ROMSFUN",
+                    "url": "https://romsfun.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "INTERNET ARCHIVE 3ds cia",
+                    "url": "https://archive.org/download/3ds-cia-eshop",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "GGbases",
+                    "url": "https://www.ggbases.com",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "漫畫 在線",
+                "links": [
+                  {
+                    "name": "漫画柜",
+                    "url": "https://www.manhuagui.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "漫画狗",
+                    "url": "https://dogemanga.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Ex-h",
+                    "url": "https://e-hentai.org/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "N-h",
+                    "url": "https://nhentai.net",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "動畫 資料",
+                "links": [
+                  {
+                    "name": "ACG情报交流",
+                    "url": "http://duobaoxiang.ysepan.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "SAKUGABOORU",
+                    "url": "https://www.sakugabooru.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "作画wiki",
+                    "url": "https://w.atwiki.jp/sakuga/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "演出wiki",
+                    "url": "https://w.atwiki.jp/enshutsu/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "アニメ用語",
+                    "url": "http://www.inouejet.com/camera/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "SAKUGABLOG",
+                    "url": "https://blog.sakugabooru.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "80年代のOVA",
+                    "url": "https://80s-ova.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Getchu",
+                    "url": "https://www.getchu.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Moon Phase",
+                    "url": "http://m-p.sakura.ne.jp",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "WEBアニメスタイル",
+                    "url": "http://animestyle.jp",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "WEBアニメスタイル（旧）",
+                    "url": "http://www.style.fm/as/index_old.shtml",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "アニメ！アニメ！",
+                    "url": "https://animeanime.jp",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "日本動画協会",
+                    "url": "https://aja.gr.jp",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "番组放送",
+                    "url": "https://bgmlist.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "文姐书籍目录",
+                    "url": "https://docs.qq.com/sheet/DYUVBVUVvSUlkSVFE?tab=BB08J2",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "动画巡礼 - anitabi",
+                    "url": "https://anitabi.cn",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "動畫 工具",
+                "links": [
+                  {
+                    "name": "Anime Scene Search",
+                    "url": "https://trace.moe",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Multi-service image search",
+                    "url": "http://www.iqdb.org",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "女声优拼音缩写查询",
+                    "url": "https://nulla2011.github.io/sysx/",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "影視 資料",
+                "links": [
+                  {
+                    "name": "TV Calendar",
+                    "url": "https://www.pogdesign.co.uk/cat/",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "遊戲 資料",
+                "links": [
+                  {
+                    "name": "GEMATSU",
+                    "url": "https://www.gematsu.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "批评空间",
+                    "url": "https://erogamescape.dyndns.org",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "OCG Rule",
+                    "url": "https://ocg-rule.readthedocs.io/zh-cn/latest/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "YGO-Engine",
+                    "url": "https://www.ygo-sem.cn/index.html/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Yugioh(OCG) card list ＆ news",
+                    "url": "http://www.qi-wmcard.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "OurOCG",
+                    "url": "https://www.ourocg.cn",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "【WIXOSS】入门及规则介绍",
+                    "url": "https://bbs.newwise.com/thread-955986-1-1.html",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "導航頁",
+                "links": [
+                  {
+                    "name": "ACG喵导航",
+                    "url": "https://www.miaoaaa.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "ACG盒子",
+                    "url": "https://www.acgbox.link",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "自部署 下載",
+                "links": [
+                  {
+                    "name": "Jackett",
+                    "url": "https://github.com/Jackett",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "綜合 資料",
+                "links": [
+                  {
+                    "name": "Kiwix Library",
+                    "url": "https://library.kiwix.org/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "経済産業省のWEBサイト",
+                    "url": "https://www.meti.go.jp",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "中文排版需求",
+                    "url": "https://w3c.github.io/clreq/#abstract",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "語言學",
+                "links": [
+                  {
+                    "name": "International Phonetic Alphabet Translator",
+                    "url": "https://www.internationalphoneticalphabet.org/ipa-translators/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Unalengua IPA Translator",
+                    "url": "https://unalengua.com/ipa?ttsLocale=en-GB-WLS&voiceId=Geraint&sl=en&text=he%20hue",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "IPA Reader",
+                    "url": "hhttps://ipa-reader.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Ethnologue",
+                    "url": "https://www.ethnologue.com",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "各類語言",
+                "links": [
+                  {
+                    "name": "说文解字",
+                    "url": "https://www.shuowen5.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "NoDictionaries",
+                    "url": "https://nodictionaries.com",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "體育 資料",
+                "links": [
+                  {
+                    "name": "現代麻雀技術論",
+                    "url": "http://yabejp.web.fc2.com/mahjong/index.html",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "麻雀戦術書「ビギナーズラック」",
+                    "url": "http://beginners.biz",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "スコアブックの書き方と記号",
+                    "url": "https://baseball.sirakuma.com/5129",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "野球スコアブックの記入方法",
+                    "url": "http://nagasaki89renmei.jp/score-book-.pdf",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "說明書",
+                "links": [
+                  {
+                    "name": "Subaru BRZ 25",
+                    "url": "https://www.subaru-china.cn/assets/pdf/support/owners/manual/brz/25/25BRZ_UserManuals.pdf?data=20241212",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Dolby Atmos® Home Theater Installation",
+                    "url": "https://www.dolby.com/siteassets/technologies/dolby-atmos/atmos-installation-guidelines-121318_r3.1.pdf",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "D850",
+                    "url": "https://onlinemanual.nikonimglib.com/d850/zh-cn/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "Mamiya C330",
+                    "url": "https://galerie-photo.com/manuels/C330_english-instructions.pdf",
+                    "target": "_blank"
+                  }
+                ]
+              }
+            ]
+        }
