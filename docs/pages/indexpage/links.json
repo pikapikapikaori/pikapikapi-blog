@@ -474,6 +474,21 @@
                     "target": "_blank"
                   },
                   {
+                    "name": "中华文库",
+                    "url": "hhttps://www.zhonghuashu.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "登樓古籍全文檢索",
+                    "url": "https://tio.freemdict.com/denglou",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "中国古典文献资源导航系统",
+                    "url": "https://www.wenxianxue.cn",
+                    "target": "_blank"
+                  },
+                  {
                     "name": "NoDictionaries",
                     "url": "https://nodictionaries.com",
                     "target": "_blank"
