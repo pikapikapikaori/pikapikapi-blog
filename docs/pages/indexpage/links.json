@@ -457,6 +457,11 @@
                     "name": "Ethnologue",
                     "url": "https://www.ethnologue.com",
                     "target": "_blank"
+                  },
+                  {
+                    "name": "Endangered Languages Project",
+                    "url": "https://www.endangeredlanguages.com",
+                    "target": "_blank"
                   }
                 ]
               },
