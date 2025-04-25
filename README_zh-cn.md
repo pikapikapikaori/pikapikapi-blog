@@ -4,8 +4,6 @@
 
 [English](./README.md) | 简体中文 | [日本語](./README_jp.md)
 
-[个人博客项目](https://pikapikapikaori.github.io/pikapikapi-blog/)
-
 ## 分支命名 & 提交信息
 
 - **新文章：** article-[title]-[yy|yymm|yymmdd]

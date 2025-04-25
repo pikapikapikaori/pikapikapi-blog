@@ -43,7 +43,7 @@
                 导航页
             </div>
         </div>
-    </a><a class="toc-page-display-a" href="https://pikapikapikaori.github.io/pikapikapi-blog/" target="_blank">
+    </a><a class="toc-page-display-a" href="./" target="_blank">
         <div class="toc-page-display-div">
             <div class="toc-page-display-title-img">
                 <center>

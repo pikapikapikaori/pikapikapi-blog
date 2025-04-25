@@ -4,8 +4,6 @@
 
 English | [简体中文](./README_zh-cn.md) | [日本語](./README_jp.md)
 
-[Personal blog](https://pikapikapikaori.github.io/pikapikapi-blog/)
-
 ## Branch Naming & Commit Message
 
 - **New article:** article-[title]-[yy|yymm|yymmdd]
