@@ -7,7 +7,7 @@
   
   <title>软件项目实践的一些思索与后期优化方向：设计、开发以及其他 - ピカピカピ</title>
   
-    <link rel="shortcut icon" href="/pikapikapi-blog/pages/hexo/public/favicon.ico">
+    <link rel="shortcut icon" href="/pages/hexo/public/favicon.ico">
   
   
     <link rel='manifest' href='/manifest.json'>
@@ -20,7 +20,7 @@
   
   <meta property="og:type" content="article" />
   
-  <meta property="og:url" content="https://pikapikapikaori.github.io/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/index.html" />
+  <meta property="og:url" content="https://pikapikapikaori.github.io/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/index.html" />
   
   <meta property="og:image" content="/favicon.ico" />
   
@@ -31,43 +31,43 @@
   
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/var.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/var.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/main.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/main.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/typography.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/typography.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/code-highlighting.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/code-highlighting.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/components.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/components.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/nav.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/nav.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/paginator.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/paginator.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/footer.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/footer.css">
 
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/post-list.css">
-
-  
-  
-  
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/toc.css">
+<link rel="stylesheet" href="/pages/hexo/public/css/post-list.css">
 
   
   
   
+<link rel="stylesheet" href="/pages/hexo/public/css/toc.css">
+
   
   
-<link rel="stylesheet" href="/pikapikapi-blog/pages/hexo/public/css/post.css">
+  
+  
+  
+<link rel="stylesheet" href="/pages/hexo/public/css/post.css">
 
   
   
@@ -81,7 +81,7 @@
         data-color-scheme="auto"
         data-uppercase-categories="true"
         
-        data-config-root="/pikapikapi-blog/pages/hexo/public/"
+        data-config-root="/pages/hexo/public/"
         
         data-toc="true"
         data-toc-max-depth="2"
@@ -90,25 +90,25 @@
     >
         <nav id="theme-nav">
     <div class="inner">
-        <a class="title" href="/pikapikapi-blog/pages/hexo/public/">ピカピカピ</a>
+        <a class="title" href="/pages/hexo/public/">ピカピカピ</a>
         <div class="nav-arrow"></div>
         <div class="nav-items">
-            <a class="nav-item nav-item-home" href="/pikapikapi-blog/pages/hexo/public/">Home</a>
+            <a class="nav-item nav-item-home" href="/pages/hexo/public/">Home</a>
             
             
-            <a class="nav-item" href="/pikapikapi-blog/pages/hexo/public/archives">Archives</a>
-            
-            
-            
-            <a class="nav-item" href="/pikapikapi-blog/pages/hexo/public/categories">Categories</a>
+            <a class="nav-item" href="/pages/hexo/public/archives">Archives</a>
             
             
             
-            <a class="nav-item" href="/pikapikapi-blog/pages/hexo/public/about">About</a>
+            <a class="nav-item" href="/pages/hexo/public/categories">Categories</a>
             
             
             
-            <a class="nav-item nav-item-search nav-item-icon" href="/pikapikapi-blog/pages/hexo/public/search" target="_self" aria-label="Search">&nbsp;</a>
+            <a class="nav-item" href="/pages/hexo/public/about">About</a>
+            
+            
+            
+            <a class="nav-item nav-item-search nav-item-icon" href="/pages/hexo/public/search" target="_self" aria-label="Search">&nbsp;</a>
             
             
         </div>
@@ -120,7 +120,7 @@
         
         <div class="categories text-uppercase">
         
-            <a href="/pikapikapi-blog/pages/hexo/public/categories/技术/">技术</a>
+            <a href="/pages/hexo/public/categories/技术/">技术</a>
         
         </div>
         
@@ -164,7 +164,7 @@
 <h1 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h1><p>由于课程要求重各类文档，因而并没有采取如今主流的敏捷开发模式，而是采取的<a href="#RAD">RAD</a>模型。个人来讲其实并不是很习惯这个模型，一方面其由瀑布式改进而来，从某种角度上还是非常重文档和前期的设计的，对需求的变更与过程中的变化并不敏感，另一方面也是因此在开发过程中的抗风险能力也非常依赖于前期的设计以及开发过程中的质量，由此带来的风险是非常恐怖的。</p>
 <p>总之也是因此在进行前期设计时就花了相当多的时间。然而尽管如此，初期的设计还是有着比较大的漏洞，因而也给后期开发带来了一些麻烦。这些问题大多集中在数据库设计上。</p>
 <h2 id="数据库设计"><a href="#数据库设计" class="headerlink" title="数据库设计"></a>数据库设计</h2><p>由于项目较为庞大因而一些细节的设计我也没有来得及能够去亲自把控，而是交给了同组的其他人。在这里就出了问题。上文所述的测试管理中，题库中的问题需要记录与其相关的问题类别（属于哪种病）、问题类型（单选多选）、问题内容等等。针对此负责这块内容的组员A给出了这样的设计：</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-1.png" alt="er diagram"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-1.png" alt="er diagram"></p>
 <p>且不谈同学A遗漏了需要对每张卷子上包含的题目、以及每位学生在试卷上答题所做出的回答进行存储的功能，单看<code>Question</code>与<code>Category</code>两张表。乍一看虽然是挺合理的设计，然而后者的实际有效字段只有<code>category_name</code>一栏。我不否认在大型项目中这样设计的合理性，但是考虑到这个项目的规模、以及后续可能会进行的功能上的拓展，我个人看来<code>Category</code>这张表完全冗余的。</p>
 <p>另一方面，<code>Exam</code>、<code>Paper</code>、<code>ExamSession</code>这三张一对一的表虽然也是很符合设计原则的设计，但是同样考虑到项目规模与未来可能的拓展，这三张表就算合在一起也不会对性能与吞吐量带来很大的负担。一般来讲，只有在表中有一栏以上可能包含大量空值的情况下，或是某一些栏可能被频繁更新时，一对一关系的设计才相对合理。而在当前的情形中，这样的设计则是给后期撰写<code>SQL</code>与开发上带来了巨大的麻烦。且不谈数据的整合与处理，仅仅是外键的存在就已经带来了巨大的麻烦。这也直接导致了在后期初始化数据<code>SQL</code>撰写上耗费了大量Debug的时间，在开发的编码中也需要增加大量检测外键存在性的不必要代码。</p>
 <h2 id="后端架构设计"><a href="#后端架构设计" class="headerlink" title="后端架构设计"></a>后端架构设计</h2><p>初期设计时我就已经敲定了<a href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1">微服务</a>的架构。通常，微服务确实不适合于本项目这样的小型项目：配置麻烦、DevOps麻烦，等等。此外，大型项目中服务间数据一致性以及安全性都是非常棘手且关键的问题。</p>
@@ -172,9 +172,9 @@
 <p>实践中，jacoco、spotless、公共模块的配置实质上也仅仅耗费了我半天的时间，而后期部署时自动化测试脚本的编写仅仅耗费了我两个小时不到的时间。接口测试上所花费的时间略多一点，不过由于接口测试脚本基本是直接由swagger生成的，因而也没有耗费太多的成本。</p>
 <p>相较于这些仅局限于初期和末期的麻烦而言，微服务架构带来的好处是实打实巨大的。数据库与模块的分离带来的是各模块开发的高独立性以及运行时的高可用性。前文所提到的数据库尽管经常会碰到组员产生的Bug，但分离的数据库使得其余的几个模块并没有受到影响从而能够很顺利的进行开发。另一方面，后端模块的分离使得几个模块都能够被快速地开发出来，也因此能够较早地将接口给到前端，从而留出了大量可用于迭代的时间。产生缺陷时查找定位的范围仅仅在自身的子系统内，因而定位缺陷的成本也略有降低。而最最重要的，由于模块间的松散耦合，即使一个服务失败其他服务也能够继续工作，这给开发与测试都带来了相当程度上的便捷。</p>
 <p>更具体的，微服务给实践中的开发带来了巨大的便捷性。我在项目中大概采取了下图的架构：</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-2.png" alt="architecture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-2.png" alt="architecture"></p>
 <p>作为微服务而言其实也是非常常见与合理的架构。中间层充当网关的角色被外部服务（前端）统一调用，其内部则再根据具体的调用请求来选择合适的服务进行通信，并将数据进行处理后转发给外部服务。在实践中，前端组与后端组同时开发，需求细节与开发细节还不明了的情况下，接口的内容与种类尽管可以大体确定，但具体的数据内容与种类等都是难以确定的。因而，利用中间层也即网关这一角色，接口确定的难题得以被解决。前后端可以先按照自己的想法对接口进行设计与模拟，当有一定的进度、对接口需求更加明确时再利用中间层进行数据的整合与处理，从而节约了大量沟通与修改的时间。</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-3.png" alt="sequence diagram"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-3.png" alt="sequence diagram"></p>
 <p>实践上，数据的转发与整合可以由后端的网关接管，也可以由前端利用nodejs来开发，无论哪种都是非常灵活的。事实上，nodejs构建的中间层或称node层的出现，就是为了让前后端都更关注于业务本身。尽管层数的增加可能会给性能带来一些影响，然而这与开发效率所节省的成本相比是微乎其微的。由过去后端渲染html发送给浏览器的前后端不分离，到前后端分离开发再到中间层的进化，我想这是一个相当自然的过程，也非常值得去学习与应用。</p>
 <p>此外，采取微服务架构，后期的扩展性也是相当高的。一方面，需要增加新业务时可以直接以模块为单位进行添加，而不需要再去对原有代码进行改动。另一方面，甚至也可以将同一服务运行在多台服务器上，并利用Eureka、Ribbon等等组件进行负载均衡与健康检查的功能，从而能够进一步提升可用性与性能，这些都是单体应用难以带来的好处。</p>
 <p>当然，微服务的思想也能直接应用到前端上，也就是前些年提出的<a href="#%E5%BE%AE%E5%89%8D%E7%AB%AF">微前端</a>的思想。似乎前端组也有利用这一思想进行开发，不过本文就先不作赘述了。</p>
@@ -214,16 +214,16 @@
 <p>通过利用上述的写法，项目中的代码可以精简许多，由此也可以使得所需要的测试代码大幅减少，从而使得项目整体的工作量大量降低。事实上，正是由于当前项目中有大量逻辑比较类似的代码，导致为满足覆盖率所需的测试代码非常庞大，从而难以完成自动化测试代码的编写。</p>
 <p>除此之外，一些类内的方法也可以作出一些更改。考虑到方法链的写法更加符合直觉，且也在一定程度上能提升开发效率并使代码更加简洁（尽管在一定程度上破坏了<code>.</code>运算符的原有语义，且也不是很符合 <a href="CQRS">CQRS</a>），因而我个人更倾向于尽可能使用方法链的写法。</p>
 <h2 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h2><p>我个人而言也作为开发人员参与到了前端组的开发中。事实上最大的优化点在于接口调用的时机。当前，前端组在页面渲染时会请求一次后端接口，获取全部数据并渲染到页面上。之后，在进行关键词查找、数据插入、数据删除时各自会调用一次接口。至此为止都是比较合理的，当数据量庞大时前端不应该负责数据的查找工作，利用在服务器侧进行过优化的查询接口比较合理。然而，前端在进行数据编辑时，则是采用下面的流程：</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-4.png" alt="sequence"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/04/28/SoftwareDevelopementInsights-20230428/mermaid-4.png" alt="sequence"></p>
 <p>由于在包含全部数据的页面进行初期渲染时每条数据的全部内容前端都已经获取到，因而选中数据进入编辑页面时完全可以直接利用前端已经拿到的数据进行渲染，不需要再次调用后端端口。且不谈在网络延迟较高的情况下，上面的做法会使得用户体验较差，在服务器有大量请求的情况下，前端冗余的调用会加重服务器的负担，从而影响性能。</p>
 <p>另一方面我也注意到，前端由于没有将方法应用到了页面渲染的各个阶段，从而导致了某些请求会被重复多次执行，这也是影响性能的一大问题。当然，最好的解决方法应是前后端都做一下防抖处理。</p>
 <h1 id="一些其他"><a href="#一些其他" class="headerlink" title="一些其他"></a>一些其他</h1><p>开发上的问题大体如上，基本上都是后续项目中值得进行进一步更改的地方。除此以外，整个项目的生命周期中最最值得被后续继承的地方在于严格的PR-Code Review制度与文档的维护。其中前者保证了代码的质量与规范，后者则提高了有效沟通的效率。这两者才是在开发过程中降低工作量与各类成本的最关键因素。</p>
 <h1 id="名词释义"><a href="#名词释义" class="headerlink" title="名词释义"></a>名词释义</h1><h2 id="RAD"><a href="#RAD" class="headerlink" title="RAD"></a>RAD</h2><p>快速应用开发模型（Rapid Application Development），又称V模型。似乎是为了改进瀑布式模型而在上世纪70至80年代提出的。这一模型大体上遵循下图的几个阶段：</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/RAD-model.webp" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/04/28/SoftwareDevelopementInsights-20230428/RAD-model.webp" alt="picture"></p>
 <h2 id="微服务"><a href="#微服务" class="headerlink" title="微服务"></a>微服务</h2><p>SOA（面向服务架构）的一种变体，提倡将单一应用程序划分为松耦合的服务组，每个服务可独立部署。其概念最早于2005年提出。</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/microservice.png" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/04/28/SoftwareDevelopementInsights-20230428/microservice.png" alt="picture"></p>
 <h2 id="微前端"><a href="#微前端" class="headerlink" title="微前端"></a>微前端</h2><p>2016年被正式提出，是微服务这一概念被扩展到前端的一种应用形式，便于新老项目的共存与过渡，以及项目独立开发等。</p>
-<p><img src="/pikapikapi-blog/pages/hexo/public/2023/04/28/SoftwareDevelopementInsights-20230428/mircro-frontend.png" alt="picture"></p>
+<p><img src="/pikapikapi-blog-hexo/2023/04/28/SoftwareDevelopementInsights-20230428/mircro-frontend.png" alt="picture"></p>
 <h2 id="Java反射机制"><a href="#Java反射机制" class="headerlink" title="Java反射机制"></a><code>Java</code>反射机制</h2><p><code>Java</code>先编译后运行，对象类型在编译期确定。在程序运行时类被动态加载，当类没被用到时没有被加载到JVM，因而利用反射，可以在运行时获得类的各种内容。通过利用反射，可以动态地创建对象，更加灵活，但是会消耗系统资源。</p>
 <h2 id="CQRS"><a href="#CQRS" class="headerlink" title="CQRS"></a>CQRS</h2><p>Command Query Responsibility Segregation，即命令查询职责分离模式，要求一个方法更改对象的状态或返回一个结果，但是不能同时包含这两个行为。从某种角度来说算是继承了从前将系统交互视为CRUD的思想。相较之下，方法链（Method Chaining）语法中由于对象被引用一次即可被多次调用，从某种意义上违反了这一原则。</p>
 <p>更具体的，符合CQRS与<code>.</code>运算符原有语义（<code>调用者.操作名</code>）的写法形如下面的形式：</p>
@@ -255,7 +255,7 @@
         <p class="tags">
             
             <i class="icon"></i>
-            <a href="/pikapikapi-blog/pages/hexo/public/tags/中文/" class="tag">#中文</a><a href="/pikapikapi-blog/pages/hexo/public/tags/开发/" class="tag">#开发</a>
+            <a href="/pages/hexo/public/tags/中文/" class="tag">#中文</a><a href="/pages/hexo/public/tags/开发/" class="tag">#开发</a>
         </p>
         
     </div>
@@ -263,7 +263,7 @@
 
     <div class="container post-prev-next">
         
-        <a href="/pikapikapi-blog/pages/hexo/public/2023/05/08/Notes-20230508/" class="next">
+        <a href="/pages/hexo/public/2023/05/08/Notes-20230508/" class="next">
             <div>
                 <div class="text">
                     <p class="label">Next</p>
@@ -273,7 +273,7 @@
         </a>
         
         
-        <a href="/pikapikapi-blog/pages/hexo/public/2021/09/24/OOADAntProblem-20210924/" class="prev">
+        <a href="/pages/hexo/public/2021/09/24/OOADAntProblem-20210924/" class="prev">
             <div>
                 <div class="text">
                     <p class="label">Previous</p>
@@ -297,15 +297,15 @@
             <div class="group">
                 <h2 class="title">ピカピカピ</h2>
                 
-                <a href="/pikapikapi-blog/pages/hexo/public/archives" class="item">Archives</a>
+                <a href="/pages/hexo/public/archives" class="item">Archives</a>
                 
-                <a href="/pikapikapi-blog/pages/hexo/public/categories" class="item">Categories</a>
+                <a href="/pages/hexo/public/categories" class="item">Categories</a>
                 
-                <a href="/pikapikapi-blog/pages/hexo/public/about" class="item">About</a>
+                <a href="/pages/hexo/public/about" class="item">About</a>
                 
-                <a href="/pikapikapi-blog/pages/hexo/public/search" class="item">Search</a>
+                <a href="/pages/hexo/public/search" class="item">Search</a>
                 
-                <a href="/pikapikapi-blog/pages/hexo/public/atom.xml" class="item">RSS</a>
+                <a href="/pages/hexo/public/atom.xml" class="item">RSS</a>
                 
             </div>
             
@@ -356,7 +356,7 @@
 
 
         
-<script src="/pikapikapi-blog/pages/hexo/public/js/main.js"></script>
+<script src="/pages/hexo/public/js/main.js"></script>
 
         
         
