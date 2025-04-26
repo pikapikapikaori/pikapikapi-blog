@@ -36,8 +36,6 @@ categories:
 - [后端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-backend)
 - [前端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-frontend)
 
-本博客的仓库中也保存了相关的源码，可以参考[这里](https://github.com/pikapikapikaori/tree/master/resource/ITtech/SoftwareDevelopementInsights-20230428)。
-
 # 设计
 
 由于课程要求重各类文档，因而并没有采取如今主流的敏捷开发模式，而是采取的[RAD](#RAD)模型。个人来讲其实并不是很习惯这个模型，一方面其由瀑布式改进而来，从某种角度上还是非常重文档和前期的设计的，对需求的变更与过程中的变化并不敏感，另一方面也是因此在开发过程中的抗风险能力也非常依赖于前期的设计以及开发过程中的质量，由此带来的风险是非常恐怖的。
