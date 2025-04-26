@@ -2,7 +2,7 @@
 
 feed="pikapikapi-blog-rss.xml"
 website_title="ピカピカピ"
-website_link="https://pikapikapikaori.github.io/pikapikapi-blog"
+website_link="https://pikapikapikaori.github.io"
 description="Don't worry, be happy."
 
 urlencode() {
