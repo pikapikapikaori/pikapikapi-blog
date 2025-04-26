@@ -102,3 +102,25 @@
     src: url('./fonts/Ysabeau_Office/YsabeauOffice-Light.ttf');
     font-weight: lighter;
 }
+
+@font-face {
+    font-family: 'GentiumPlus';
+    src: url('./fonts/Gentium_Plus/GentiumPlus-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'GentiumPlus';
+    src: url('./fonts/Gentium_Plus/GentiumPlus-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'GentiumPlus';
+    src: url('./fonts/Gentium_Plus/GentiumPlus-Italic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NotoSerifDevanagari';
+    src: url('./fonts/Noto_Serif_Devanagari/static/NotoSerifDevanagari-Regular.ttf');
+}
