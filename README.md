@@ -1,6 +1,6 @@
 # pikapikapi-blog
 
-![rss build](https://img.shields.io/github/actions/workflow/status/pikapikapikaori/rss.yml?label=rss%20build)
+![rss build](https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapikaori.github.io/rss.yml)
 
 English | [简体中文](./README_zh-cn.md) | [日本語](./README_jp.md)
 
