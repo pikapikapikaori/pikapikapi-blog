@@ -1,6 +1,6 @@
 ---
 title: 大量私货的10年代十佳游戏
-cover_image: /pikapikapi-blog/pages/hexo/public/covers/10TenBestGames-20230810.jpg
+cover_image: /pages/hexo/public/covers/10TenBestGames-20230810.jpg
 cover_image_alt: cover
 date: 2023-08-10 13:57:07
 tags:

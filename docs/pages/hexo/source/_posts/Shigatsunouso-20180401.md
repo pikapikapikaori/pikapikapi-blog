@@ -1,7 +1,7 @@
 ---
 title: 四月赏曲——浅谈「四月是你的谎言」音乐选择
 date: 2018-04-01 16:22:06
-cover_image: /pikapikapi-blog/pages/hexo/public/covers/Shigatsunouso-20180401.jpg
+cover_image: /pages/hexo/public/covers/Shigatsunouso-20180401.jpg
 cover_image_alt: cover
 tags:
     - 动画
