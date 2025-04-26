@@ -148,7 +148,7 @@
 <figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pppd[10432]: Timeout waiting for PADO packets</span><br></pre></td></tr></table></figure>
 
 <p>其中PADO报文就是在PPPoE会话建立过程中由服务器（ISP端）向客户端（家庭光猫 &#x2F; 路由器）发送的报文。完整的PPPoE会话建立过程如下：</p>
-<p><img src="/pikapikapi-blog-hexo/2023/06/04/PPPoE-20230603/picture-1.png" alt="picture"></p>
+<p><img src="/pages/hexo/public/2023/06/04/PPPoE-20230603/picture-1.png" alt="picture"></p>
 <p>换言之，实质上可能是由于在ISP重新分配IP后，由于某些原因路由器拨号时没有发现ISP方用于PPPoE拨号上网的服务器，导致一直无法收到对应的PADO报文。这种情况下手动重启光猫或路由器重新拨号一般就能解决这一问题。</p>
 <p>当然，多数情况下不会出现路由器无法发现ISP方服务器的问题，因而通常在数分钟的断网后路由器就能重新拨号成功，保证网络继续可用。</p>
 <h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
@@ -224,7 +224,7 @@
             <div class="group">
                 <h2 class="title">Blogs</h2>
                 
-                <a href="https://pikapikapikaori.github.io/pikapikapi-blog/pages/homepage/index.html" class="item">Homepage</a>
+                <a href="https://pikapikapikaori.github.io/pages/homepage/index.html" class="item">Homepage</a>
                 
                 <a target="_blank" rel="noopener" href="https://pikapikapi-blog.vercel.app/" class="item">Standby Site</a>
                 
