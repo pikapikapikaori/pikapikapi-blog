@@ -1,18 +1,24 @@
-# pikapikapi-blog
+### ピカピカピ's profile
 
-![rss build](https://img.shields.io/github/actions/workflow/status/pikapikapikaori/pikapikapi-blog/rss.yml?label=rss%20build)
+Dream of becoming a person who holds love of wisdom and beauty.
 
-English | [简体中文](./README_zh-cn.md) | [日本語](./README_jp.md)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pikapikapikaori.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&theme=material-palenight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pikapikapikaori.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&theme=buefy">
+  <img alt="github contribution grid snake animation" src="https://github-readme-stats-pikapikapikaori.vercel.app/api/top-langs/?username=pikapikapikaori&langs_count=10&layout=compact&theme=buefy">
+</picture>
 
-## Branch Naming & Commit Message
+<!--
+**pikapikapikaori/pikapikapikaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- **New article:** article-[title]-[yy|yymm|yymmdd]
-- **Edit article:** edit-[title]-[yymmdd]
-- **Brief comment:** briefnotes-[yymmdd]
-- **Backup:** backup-[yymmdd]
-- **New feature:** feat
-- **Bug fixing:** fix
-- **Refactor:** refactor
-- **Performance:** perf
-- **Config amending:** config
-- **Document:** docs
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
