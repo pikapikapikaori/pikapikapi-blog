@@ -36,7 +36,7 @@ categories:
 - [后端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-backend)
 - [前端](https://github.com/SoftwareDevelopmentPractice6/virtualPetHospital-frontend)
 
-本博客的仓库中也保存了相关的源码，可以参考[这里](https://github.com/pikapikapikaori/pikapikapi-blog/tree/master/resource/ITtech/SoftwareDevelopementInsights-20230428)。
+本博客的仓库中也保存了相关的源码，可以参考[这里](https://github.com/pikapikapikaori/tree/master/resource/ITtech/SoftwareDevelopementInsights-20230428)。
 
 # 设计
 

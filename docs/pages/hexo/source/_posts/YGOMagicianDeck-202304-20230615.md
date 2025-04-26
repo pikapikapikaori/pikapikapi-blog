@@ -1,6 +1,6 @@
 ---
 title: EM·魔术师·异色眼卡组分享
-cover_image: /pikapikapi-blog/pages/hexo/public/covers/YGOMagicianDeck-202304-20230615.jpg
+cover_image: /pages/hexo/public/covers/YGOMagicianDeck-202304-20230615.jpg
 cover_image_alt: cover
 date: 2023-06-15 13:47:15
 tags: 
