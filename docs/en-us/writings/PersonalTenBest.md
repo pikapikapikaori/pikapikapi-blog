@@ -12,8 +12,8 @@
                     <img src="./en-us/writings/_media/PersonalTenBest/personalTenBest-movie-1.jpg" alt="Le mépris">
                 </div>
                 <div class="personal-ten-best-content-info">
-                    <h5><ruby class='minority-language-font-ruby'>Le mépris</ruby></h5>
-                    <p><ruby class='minority-language-font-ruby'>Le mépris</ruby></p>
+                    <h5>Le mépris</h5>
+                    <p>Le mépris</p>
                     <p>1963 &ensp; France / Italy</p>
                     <p>Jean-Luc Godard</p>
                 </div>
