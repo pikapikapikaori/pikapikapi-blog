@@ -76,7 +76,7 @@ footer:
     RSS: /atom.xml
   # the title
   Blogs:
-    Homepage: ../..//homepage/index.html
+    Homepage: ../../homepage/index.html
     Standby Site: https://pikapikapi-blog.vercel.app/
   # the title
   Contact:
