@@ -21,16 +21,16 @@
 }
 
 body {
-    font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'YsabeauOffice', 'HYQuanTangShiJF', 'HYKaiTiS', Arial, sans-serif;
 }
 
 button,
 textarea {
-    font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'YsabeauOffice', 'HYQuanTangShiJF', 'HYKaiTiS', Arial, sans-serif;
 }
 
 .markdown-body {
-    font-family: 'HYQuanTangShiJF', 'HYKaiTiS', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
+    font-family: 'YsabeauOffice', 'HYQuanTangShiJF', 'HYKaiTiS', Arial, sans-serif !important;
 }
 
 .markdown-section {
@@ -67,7 +67,7 @@ textarea {
 }
 
 .minority-language-font-ruby {
-    font-family: 'GentiumPlus', 'YsabeauOffice', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'GentiumPlus', Arial, sans-serif;
 }
 
 section.cover h1 {
