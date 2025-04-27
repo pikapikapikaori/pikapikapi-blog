@@ -1,0 +1,68 @@
+{
+  "name": "@alertbox/docsify-footer",
+  "version": "1.0.0-0",
+  "description": "A footer markdown plugin for magic documentation site generator, docsify.",
+  "jsdelivr": "dist/docsify-footer.min.js",
+  "unpkg": "dist/docsify-footer.min.js",
+  "browser": "dist/docsify-footer.min.js",
+  "main": "src/docsify-footer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alertbox/docsify-footer"
+  },
+  "keywords": [
+    "documentation",
+    "markdown",
+    "plugin",
+    "docsify",
+    "docsify-plugin",
+    "docsify-footer"
+  ],
+  "author": {
+    "name": "Alertbox Inc.",
+    "url": "https://github.com/alertbox/",
+    "email": "alertbox.inc@gmail.com"
+  },
+  "contributors": [
+    "Kosala Nuwan Perera (https://github.com/kosalanuwan/)"
+  ],
+  "license": "MIT",
+  "bugs": "https://github.com/alertbox/docsify-footer/issues/",
+  "homepage": "https://alertbox.github.io/docsify-footer/",
+  "readme": "README.md",
+  "engines": {
+    "node": ">= 10.15",
+    "yarn": ">= 1.17"
+  },
+  "scripts": {
+    "build": "yarn parcel build src/docsify-footer.js -o docsify-footer.min.js",
+    "prepublish": "yarn build",
+    "release": "yarn install && yarn np"
+  },
+  "files": [
+    "dist",
+    "src",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "7.10.1",
+    "@babel/core": "7.10.2",
+    "@babel/preset-env": "7.10.2",
+    "babel-eslint": "10.1.0",
+    "eslint": "7.2.0",
+    "eslint-plugin-import": "2.20.2",
+    "esm": "3.2.25",
+    "np": "6.2.4",
+    "parcel-bundler": "1.12.4"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "collective": {
+    "url": "https://opencollective.com/alertbox"
+  }
+}

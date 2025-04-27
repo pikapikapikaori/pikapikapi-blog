@@ -1,0 +1,28 @@
+{
+  "name": "@sy-records/docsify-loading",
+  "version": "1.1.1",
+  "description": "A plugin that supports the use of loading in docsify.",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sy-records/docsify-loading.git"
+  },
+  "keywords": [
+    "docsify",
+    "loading",
+    "markdown",
+    "images"
+  ],
+  "author": "sy-records",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sy-records/docsify-loading/issues"
+  },
+  "homepage": "https://github.com/sy-records/docsify-loading#readme",
+  "devDependencies": {
+    "terser": "^5.37.0"
+  },
+  "scripts": {
+    "build": "node build/build.js"
+  }
+}

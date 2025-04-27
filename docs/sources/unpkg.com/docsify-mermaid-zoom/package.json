@@ -1,0 +1,24 @@
+{
+  "name": "docsify-mermaid-zoom",
+  "version": "3.0.0",
+  "type": "module",
+  "main": "dist/docsify-mermaid-zoom.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corentinleberre/docsify-mermaid-zoom.git"
+  },
+  "keywords": [
+    "Docsify",
+    "Mermaid"
+  ],
+  "author": "Corentin Le Berre",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite serve src",
+    "build": "vite build --config vite-config.js",
+    "demo": "vite serve demo"
+  },
+  "devDependencies": {
+    "vite": "^4.1.4"
+  }
+}
