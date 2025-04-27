@@ -35,7 +35,7 @@
         <% } %>
 
         <% if (theme.scroll_reveal) { %>
-        <script src="https://unpkg.com/scrollreveal"></script>
+        <script src="<%= url_for('/scrollreveal/scrollreveal') %>"></script>
         <script>
             window.addEventListener('load', () => {
                 ScrollReveal({ delay: 250, reset: true, easing: 'cubic-bezier(0, 0, 0, 1)' })
