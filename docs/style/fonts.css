@@ -1,4 +1,9 @@
-@import url('../sources/fonts/Menlo-Regular.woff');
+@font-face {
+    font-family: 'Menlo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Menlo'), url('../sources/fonts/Menlo-Regular.woff') format('woff');
+}
 
 @font-face {
     font-family: 'Migikataagari';
