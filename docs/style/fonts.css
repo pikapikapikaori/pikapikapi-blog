@@ -6,6 +6,28 @@
 }
 
 @font-face {
+    font-family: 'AppleColorEmoji';
+    src: url('./fonts/AppleColorEmoji.ttf');
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('./fonts/Dosis/static/Dosis-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('./fonts/Dosis/static/Dosis-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('./fonts/Dosis/static/Dosis-Light.ttf');
+    font-weight: lighter;
+}
+
+@font-face {
     font-family: 'Migikataagari';
     src: url('./fonts/migikataagari.ttf');
 }
