@@ -1,3 +1,116 @@
+.minority-language-font-ruby {
+    font-family: 'GentiumPlus', 'NotoSerifDevanagari', Arial, sans-serif;
+}
+
+section.cover h1 {
+    font-family: 'KakuGyoStd', cursive;
+}
+
+section.cover p {
+    font-family: 'Claire-Palmer-Script', cursive;
+}
+
+.page-sidebar-title-class {
+    font-size: 1.65rem;
+    font-family: 'MRT', cursive;
+    color: var(--theme-color, #ea6f5a);
+}
+
+.page-sidebar-level1-title-div {
+    font-family: 'WeibeiSC-Bold', cursive;
+    font-size: 1.25rem;
+    max-width: 95%;
+    margin: 10px 0 10px 5% !important;
+    padding-right: 5%;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--global-border-default-color, #eee);
+}
+
+.cover-page-scroll-down-chevron-div {
+    margin: 40px 0 0;
+    position: absolute;
+    left: calc(50% - 10px);
+}
+
+.cover-page-scroll-down-chevron {
+    position: relative;
+    animation: moveChevron 2s infinite;
+    -webkit-animation: moveChevron 2s infinite;
+}
+
+@keyframes moveChevron {
+    0% {
+        top: 0px;
+        opacity: 0.3;
+    }
+
+    50% {
+        top: 15px;
+        opacity: 1;
+    }
+
+    100% {
+        top: 0px;
+        opacity: 0.3;
+    }
+}
+
+@-webkit-keyframes moveChevron {
+    0% {
+        top: 0px;
+        opacity: 0.3;
+    }
+
+    50% {
+        top: 15px;
+        opacity: 1;
+    }
+
+    100% {
+        top: 0px;
+        opacity: 0.3;
+    }
+}
+
+.cover-page-description-div {
+    align-self: center;
+    max-width: 400px;
+    margin: 0 auto 0 !important;
+}
+
+.cover-page-description-typewriter {
+    width: 360px;
+    margin: 0 auto 0;
+    position: relative;
+    font-family: "Anonymous Pro", monospace;
+    letter-spacing: 2px;
+    overflow: hidden;
+    border-right: 2px solid;
+    white-space: nowrap;
+    animation: typewriter 5s steps(22) 1s 1 normal both,
+        blinkTextCursor 500ms infinite;
+}
+
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 350px;
+    }
+}
+
+@keyframes blinkTextCursor {
+    from {
+        border-right-color: hsl(0, 0%, 80%);
+    }
+
+    to {
+        border-right-color: transparent;
+    }
+}
+
 .main-page-right-panel-container {
     font-family: 'HanyiSentyFlorCalligraphy', cursive;
     border: 1px solid var(--theme-color, #ea6f5a);
