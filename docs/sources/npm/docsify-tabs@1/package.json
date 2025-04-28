@@ -1,0 +1,80 @@
+{
+  "name": "docsify-tabs",
+  "version": "1.6.3",
+  "description": "A docsify.js plugin for rendering tabbed content from markdown",
+  "author": "John Hildenbiddle",
+  "license": "MIT",
+  "homepage": "https://jhildenbiddle.github.io/docsify-tabs/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://jhildenbiddle@github.com/jhildenbiddle/docsify-tabs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhildenbiddle/docsify-tabs/issues"
+  },
+  "keywords": [
+    "docs",
+    "docsify",
+    "docsify.js",
+    "documentation",
+    "generator",
+    "javascript",
+    "js",
+    "markdown",
+    "md",
+    "plugin",
+    "tab",
+    "tabs"
+  ],
+  "browserslist": [
+    "ie >= 11"
+  ],
+  "files": [
+    "dist"
+  ],
+  "main": "dist/docsify-tabs.js",
+  "unpkg": "dist/docsify-tabs.min.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "clean": "rimraf --glob dist/*",
+    "escheck": "es-check es5 'dist/**/*.js'",
+    "lint": "prettier . --check && eslint . && markdownlint *.md docs/*.md --ignore node_modules",
+    "lint:fix": "prettier . --write && eslint . --fix",
+    "prepare": "run-s clean build",
+    "serve": "node server.js",
+    "start": "run-p watch serve",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "run-p 'build -- -w'",
+    "version": "run-s prepare lint escheck"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/preset-env": "^7.13.15",
+    "@eslint/js": "^9.1.1",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "autoprefixer": "^10.2.5",
+    "browser-sync": "^3.0.2",
+    "compression": "^1.7.4",
+    "es-check": "^7.0.0",
+    "eslint": "^9.1.1",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.0.0",
+    "markdownlint-cli": "^0.39.0",
+    "mergician": "^2.0.0",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.3.6",
+    "postcss-custom-properties": "^13.3.5",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-import": "^16.0.1",
+    "prettier": "^3.2.5",
+    "rimraf": "^5.0.5",
+    "rollup": "^4.12.0",
+    "rollup-plugin-postcss": "^4.0.1",
+    "sass": "^1.49.11"
+  }
+}
