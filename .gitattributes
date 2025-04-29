@@ -1,2 +1,2 @@
-docs/** linguist-documentation
-resource/** linguist-vendored
+docs/pages/** linguist-documentation
+docs/sources/** linguist-vendored
