@@ -20,7 +20,8 @@
 </div>
 
 -
-  - [Z 高达最终话脚本](/writings/ZGundam-20250505)
+  - [动画摄影文献](/writings/Anime-20250505)
+  - [Z 高达资料](/writings/ZGundam-20250505)
   - [季度印象最深刻单集 2025.01](/writings/SeasonBest-202501-20250112)
   - [2024 年度 TV 动画单集十选](/writings/YearBest-2024-20250108)
   - [季度印象最深刻单集 2024.10](/writings/SeasonBest-202410-20241007)
