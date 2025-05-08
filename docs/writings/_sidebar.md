@@ -20,6 +20,7 @@
 </div>
 
 -
+  - [动画资料 壹](/writings/Anime-20250508)
   - [动画摄影文献](/writings/Anime-20250505)
   - [Z 高达资料](/writings/ZGundam-20250505)
   - [季度印象最深刻单集 2025.01](/writings/SeasonBest-202501-20250112)
