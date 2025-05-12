@@ -497,6 +497,16 @@
                     "name": "古事記~往古之追慕~",
                     "url": "https://miko.org/~uraki/kuon/furu/furu_index1.htm",
                     "target": "_blank"
+                  },
+                  {
+                    "name": "Dharmamitra",
+                    "url": "https://dharmamitra.org",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "梵藏汉阅读器",
+                    "url": "https://sanskrit-tibetan-chinese-reader.vercel.app",
+                    "target": "_blank"
                   }
                 ]
               },
@@ -546,6 +556,21 @@
                   {
                     "name": "Mamiya C330",
                     "url": "https://galerie-photo.com/manuels/C330_english-instructions.pdf",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "其他",
+                "links": [
+                  {
+                    "name": "能不能好好说话？",
+                    "url": "https://lab.magiconch.com/nbnhhsh/",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "かわいいフリー素材集",
+                    "url": "https://www.irasutoya.com",
                     "target": "_blank"
                   }
                 ]
