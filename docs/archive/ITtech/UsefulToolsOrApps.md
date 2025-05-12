@@ -40,5 +40,7 @@
 |             名称（链接）             |         说明          |                        备注                        |
 | :----------------------------------: | :-------------------: | :------------------------------------------------: |
 | [Vultr](https://www.vultr.com) |       服务器租用       |     |
+| [NameSilo](https://www.namesilo.com) |       域名购买       |     |
+| [KoolCenter](https://www.koolcenter.com) |       路由器固件       |  [固件地址（AX3000为例）](https://www.koolcenter.com/article/firmware/6_download/official_mod/10_tuf-ax3000_official_mod/)   |
 | [DuyaoSS](https://387099.blogspot.com/2018/03/ssssr.html?m=1) |       机场测评       |     |
 | [I KNOW](https://iknowwhatyoudownload.com/en/peer/) |       IP 种子查询       |     |
