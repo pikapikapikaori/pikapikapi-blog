@@ -151,3 +151,18 @@
     font-family: 'NotoSerifDevanagari';
     src: url('./fonts/Noto_Serif_Devanagari/static/NotoSerifDevanagari-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'NotoSerifHebreq';
+    src: url('./fonts/Noto_Serif_Hebrew/static/NotoSerifHebrew-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'UnifrakturMaguntia';
+    src: url('./fonts/UnifrakturMaguntia/UnifrakturMaguntia-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    src: url('./fonts/Tinos/Tinos-Regular.ttf');
+}
