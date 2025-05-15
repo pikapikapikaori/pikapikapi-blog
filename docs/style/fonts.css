@@ -166,3 +166,13 @@
     font-family: 'Tinos';
     src: url('./fonts/Tinos/Tinos-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'Sahitya';
+    src: url('./fonts/Sahitya/Sahitya-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'SortsMillGoudy';
+    src: url('./fonts/Sorts_Mill_Goudy/SortsMillGoudy-Regular.ttf');
+}
