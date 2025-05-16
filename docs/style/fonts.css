@@ -31,6 +31,21 @@
 }
 
 @font-face {
+    font-family: 'QuanZiKuKai';
+    src: url('./fonts/QuanZiKuKai/TW-Kai-98_1.ttf');
+}
+
+@font-face {
+    font-family: 'QuanZiKuKai-extb';
+    src: url('./fonts/QuanZiKuKai/TW-Kai-Ext-B-98_1.ttf');
+}
+
+@font-face {
+    font-family: 'QuanZiKuKai-plus';
+    src: url('./fonts/QuanZiKuKai/TW-Kai-Plus-98_1.ttf');
+}
+
+@font-face {
     font-family: 'WeibeiSC-Bold';
     src: url('./fonts/WeibeiSC-Bold.otf');
 }
