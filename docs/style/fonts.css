@@ -1,76 +1,8 @@
-@font-face {
-    font-family: 'Menlo';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Menlo'), url('../sources/fonts/Menlo-Regular.woff') format('woff');
-}
+/* Serif */
 
 @font-face {
-    font-family: 'AppleColorEmoji';
-    src: url('./fonts/AppleColorEmoji.ttf');
-}
-
-@font-face {
-    font-family: 'Dosis';
-    src: url('./fonts/Dosis/static/Dosis-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'Dosis';
-    src: url('./fonts/Dosis/static/Dosis-Bold.ttf');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'Dosis';
-    src: url('./fonts/Dosis/static/Dosis-Light.ttf');
-    font-weight: lighter;
-}
-
-@font-face {
-    font-family: 'Migikataagari';
-    src: url('./fonts/migikataagari.ttf');
-}
-
-@font-face {
-    font-family: 'KakuGyoStd';
-    src: url('./fonts/A-OTF-KakuGyoStd-Light.otf');
-}
-
-@font-face {
-    font-family: 'KleeOne';
-    src: url('./fonts/KleeOne/KleeOne-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'KleeOne';
-    src: url('./fonts/KleeOne/KleeOne-SemiBold.ttf');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'Claire-Palmer-Serif';
-    src: url('./fonts/Claire-Palmer-Serif.otf');
-}
-
-@font-face {
-    font-family: 'Claire-Palmer-Script';
-    src: url('./fonts/Claire-Palmer-Script.otf');
-}
-
-@font-face {
-    font-family: 'Italiana-Regular';
-    src: url('./fonts/Italiana-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'WeibeiSC-Bold';
-    src: url('./fonts/WeibeiSC-Bold.otf');
-}
-
-@font-face {
-    font-family: 'HYQuanTangShiF';
-    src: url('./fonts/HYQuanTangShi/HYQuanTangShiF.ttf');
+    font-family: 'HYQuanTangShiJF';
+    src: url('./fonts/HYQuanTangShi/HYQuanTangShiJF.ttf');
 }
 
 @font-face {
@@ -79,8 +11,8 @@
 }
 
 @font-face {
-    font-family: 'HYQuanTangShiJF';
-    src: url('./fonts/HYQuanTangShi/HYQuanTangShiJF.ttf');
+    font-family: 'HYQuanTangShiF';
+    src: url('./fonts/HYQuanTangShi/HYQuanTangShiF.ttf');
 }
 
 @font-face {
@@ -89,8 +21,18 @@
 }
 
 @font-face {
-    font-family: 'HanyiSentyFlorCalligraphy';
-    src: url('./fonts/HanyiSentyFlorCalligraphy.ttf');
+    font-family: 'HYKaiTiJ';
+    src: url('./fonts/HYKaiTi/HYKaiTiJ.ttf');
+}
+
+@font-face {
+    font-family: 'HYKaiTiF';
+    src: url('./fonts/HYKaiTi/HYKaiTiF.ttf');
+}
+
+@font-face {
+    font-family: 'WeibeiSC-Bold';
+    src: url('./fonts/WeibeiSC-Bold.otf');
 }
 
 @font-face {
@@ -99,35 +41,88 @@
 }
 
 @font-face {
-    font-family: 'HYGuoQiangXingShuW';
-    src: url('./fonts/HYGuoQiangXingShuW.ttf');
+    font-family: 'FZJiaGW';
+    src: url('./fonts/FZJiaGW.ttf');
 }
 
 @font-face {
-    font-family: 'MRT';
-    src: url('./fonts/MRT/MRT-beta.ttf');
+    font-family: 'FZXiaoZhuan';
+    src: url('./fonts/FZXiaoZhuan.ttf');
+}
+
+/* ZhouWen */
+@font-face {
+    font-family: 'ShirakawaChubun';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaChubun.ttf');
+}
+
+/* JinWen */
+@font-face {
+    font-family: 'ShirakawaKinbun';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaKinbun.ttf');
 }
 
 @font-face {
-    font-family: 'KouzanBrushFontSousyo';
-    src: url('./fonts/KouzanBrushFontSousyo.ttf');
+    font-family: 'ShirakawaKinbun-2';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaKinbun2.ttf');
+}
+
+/* GuWen */
+@font-face {
+    font-family: 'ShirakawaKobun';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaKobun.ttf');
+}
+
+/* JiaGu */
+@font-face {
+    font-family: 'ShirakawaKoukotsu';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaKoukotsu.ttf');
 }
 
 @font-face {
-    font-family: 'YsabeauOffice';
-    src: url('./fonts/Ysabeau_Office/YsabeauOffice-Regular.ttf');
+    font-family: 'ShirakawaKoukotsu-2';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaKoukotsu2.ttf');
+}
+
+/* XiaoZhuan */
+@font-face {
+    font-family: 'ShirakawaTenbun';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaTenbun.ttf');
 }
 
 @font-face {
-    font-family: 'YsabeauOffice';
-    src: url('./fonts/Ysabeau_Office/YsabeauOffice-Bold.ttf');
-    font-weight: bold;
+    font-family: 'ShirakawaTenbun-2';
+    src: url('./fonts/Shirakawa_v1_101/ShirakawaTenbun2.ttf');
 }
 
 @font-face {
-    font-family: 'YsabeauOffice';
-    src: url('./fonts/Ysabeau_Office/YsabeauOffice-Light.ttf');
-    font-weight: lighter;
+    font-family: 'SortsMillGoudy';
+    src: url('./fonts/Sorts_Mill_Goudy/SortsMillGoudy-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'SortsMillGoudy';
+    src: url('./fonts/Sorts_Mill_Goudy/SortsMillGoudy-Italic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond';
+    src: url('./fonts/Cormorant_Garamond/CormorantGaramond-VariableFont_wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond';
+    src: url('./fonts/Cormorant_Garamond/CormorantGaramond-Italic-VariableFont_wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
+/* Blackletter */
+@font-face {
+    font-family: 'UnifrakturMaguntia';
+    src: url('./fonts/UnifrakturMaguntia/UnifrakturMaguntia-Regular.ttf');
 }
 
 @font-face {
@@ -148,23 +143,10 @@
 }
 
 @font-face {
-    font-family: 'NotoSerifDevanagari';
-    src: url('./fonts/Noto_Serif_Devanagari/static/NotoSerifDevanagari-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'NotoSerifHebrew';
-    src: url('./fonts/Noto_Serif_Hebrew/static/NotoSerifHebrew-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'UnifrakturMaguntia';
-    src: url('./fonts/UnifrakturMaguntia/UnifrakturMaguntia-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'Tinos';
-    src: url('./fonts/Tinos/Tinos-Regular.ttf');
+    font-family: 'GentiumPlus';
+    src: url('./fonts/Gentium_Plus/GentiumPlus-BoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
 }
 
 @font-face {
@@ -173,6 +155,224 @@
 }
 
 @font-face {
-    font-family: 'SortsMillGoudy';
-    src: url('./fonts/Sorts_Mill_Goudy/SortsMillGoudy-Regular.ttf');
+    font-family: 'Sahitya';
+    src: url('./fonts/Sahitya/Sahitya-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Tinos';
+    src: url('./fonts/Tinos/Tinos-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    src: url('./fonts/Tinos/Tinos-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Tinos';
+    src: url('./fonts/Tinos/Tinos-Italic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Tinos';
+    src: url('./fonts/Tinos/Tinos-BoldItalic.ttf');
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* Serif Unused */
+
+@font-face {
+    font-family: 'LXGWWenKai';
+    src: url('./fonts/LXGWWenKai/LXGWWenKai-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'LXGWWenKai';
+    src: url('./fonts/LXGWWenKai/LXGWWenKai-Light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'LXGWWenKai';
+    src: url('./fonts/LXGWWenKai/LXGWWenKai-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'LXGWWenKaiMonoTC';
+    src: url('./fonts/LXGWWenKai/LXGWWenKaiMonoTC-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'LXGWWenKaiMonoTC';
+    src: url('./fonts/LXGWWenKai/LXGWWenKaiMonoTC-Light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'LXGWWenKaiMonoTC';
+    src: url('./fonts/LXGWWenKai/LXGWWenKaiMonoTC-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'HanyiSentyFlorCalligraphy';
+    src: url('./fonts/HanyiSentyFlorCalligraphy.ttf');
+}
+
+@font-face {
+    font-family: 'KleeOne';
+    src: url('./fonts/KleeOne/KleeOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'KleeOne';
+    src: url('./fonts/KleeOne/KleeOne-SemiBold.ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'YsabeauOffice';
+    src: url('./fonts/Ysabeau_Office/YsabeauOffice-VariableFont_wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+}
+
+@font-face {
+    font-family: 'YsabeauOffice';
+    src: url('./fonts/Ysabeau_Office/YsabeauOffice-Italic-VariableFont_wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Claire-Palmer-Serif';
+    src: url('./fonts/Claire-Palmer-Serif.otf');
+}
+
+@font-face {
+    font-family: 'NotoSerifDevanagari';
+    src: url('./fonts/Noto_Serif_Devanagari/NotoSerifDevanagari-VariableFont_wdth\,wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-stretch: 50% 200%; 
+}
+
+@font-face {
+    font-family: 'NotoSerifHebrew';
+    src: url('./fonts/Noto_Serif_Hebrew/NotoSerifHebrew-VariableFont_wdth\,wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-stretch: 50% 200%; 
+}
+
+/* Sans */
+
+@font-face {
+    font-family: 'Menlo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Menlo'), url('../sources/fonts/Menlo-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('./fonts/Dosis/Dosis-VariableFont_wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+}
+
+@font-face {
+    font-family: 'AppleColorEmoji';
+    src: url('./fonts/AppleColorEmoji.ttf');
+}
+
+/* Sans Unused */
+
+@font-face {
+    font-family: 'SourceSans3';
+    src: url('./fonts/Source_Sans_3/SourceSans3-VariableFont_wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+}
+
+@font-face {
+    font-family: 'SourceSans3';
+    src: url('./fonts/Source_Sans_3/SourceSans3-Italic-VariableFont_wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Italiana';
+    src: url('./fonts/Italiana-Regular.ttf');
+}
+
+/* Handwriting */
+
+@font-face {
+    font-family: 'HuiZongGong-sc';
+    src: url('./fonts/HuiZongGong/HuiZongGong-sc.ttf');
+}
+
+@font-face {
+    font-family: 'HuiZongGong-tc';
+    src: url('./fonts/HuiZongGong/HuiZongGong-tc.ttf');
+}
+
+@font-face {
+    font-family: 'KakuGyoStd';
+    src: url('./fonts/A-OTF-KakuGyoStd-Light.otf');
+}
+
+@font-face {
+    font-family: 'Claire-Palmer-Script';
+    src: url('./fonts/Claire-Palmer-Script.otf');
+}
+
+/* Handwriting Unused */
+
+@font-face {
+    font-family: 'HYGuoQiangXingShuW';
+    src: url('./fonts/HYGuoQiangXingShuW.ttf');
+}
+
+@font-face {
+    font-family: 'KouzanBrushFontSousyo';
+    src: url('./fonts/KouzanBrushFontSousyo.ttf');
+}
+
+@font-face {
+    font-family: 'Migikataagari';
+    src: url('./fonts/migikataagari.ttf');
+}
+
+@font-face {
+    font-family: 'Ballet';
+    src: url('./fonts/Ballet/Ballet-Regular-VariableFont_opsz.ttf') format('truetype-variations');
+    font-weight: 100 900;
+}
+
+/* Fancy */
+
+@font-face {
+    font-family: 'MRT';
+    src: url('./fonts/MRT/MRT-beta.ttf');
+}
+
+@font-face {
+    font-family: 'MRT-a';
+    src: url('./fonts/MRT/MRT-alpha.ttf');
+}
+
+@font-face {
+    font-family: 'MRT-k';
+    src: url('./fonts/MRT/MRT-kananomi.ttf');
+}
+
+/* Fancy Unused */
+
+@font-face {
+    font-family: 'MadokaRunes';
+    src: url('./fonts/MadokaRunes-2.0.ttf');
 }
