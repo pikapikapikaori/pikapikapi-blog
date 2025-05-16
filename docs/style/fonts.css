@@ -176,3 +176,13 @@
     font-family: 'SortsMillGoudy';
     src: url('./fonts/Sorts_Mill_Goudy/SortsMillGoudy-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'HuiZongGong-sc';
+    src: url('./fonts/HuiZongGong/HuiZongGong-sc.ttf');
+}
+
+@font-face {
+    font-family: 'HuiZongGong-tc';
+    src: url('./fonts/HuiZongGong/HuiZongGong-tc.ttf');
+}

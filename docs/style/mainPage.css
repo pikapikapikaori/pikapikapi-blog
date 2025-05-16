@@ -448,6 +448,7 @@ section.cover p {
     padding: 1rem 0;
     border-top: 1px solid var(--global-border-default-color, #eee);
     border-bottom: 1px solid var(--global-border-default-color, #eee);
+    font-family: 'HuiZongGong-tc', 'HuiZongGong-sc', cursive;
 
     h1 {
         margin: 0 0 0 1rem !important;
