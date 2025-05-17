@@ -121,6 +121,22 @@
     font-style: italic;
 }
 
+/* CJK Ext A-I */
+@font-face {
+    font-family: 'Jigmo';
+    src: url('./fonts/Jigmo-20230816/Jigmo.ttf');
+}
+
+@font-face {
+    font-family: 'Jigmo-2';
+    src: url('./fonts/Jigmo-20230816/Jigmo2.ttf');
+}
+
+@font-face {
+    font-family: 'Jigmo-3';
+    src: url('./fonts/Jigmo-20230816/Jigmo3.ttf');
+}
+
 @font-face {
     font-family: 'CormorantGaramond';
     src: url('./fonts/Cormorant_Garamond/CormorantGaramond-VariableFont_wght.ttf') format('truetype-variations');
