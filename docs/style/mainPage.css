@@ -1,5 +1,10 @@
 .minority-language-font-ruby {
-    font-family: 'GentiumPlus', 'NotoSerifDevanagari', Arial, sans-serif;
+    font-family: 'GentiumPlus', 'Sahitya', serif;
+}
+
+.minority-language-font-right-ruby {
+    font-family: 'Tinos', serif;
+    text-align: right;
 }
 
 section.cover h1 {
@@ -17,7 +22,7 @@ section.cover p {
 }
 
 .page-sidebar-level1-title-div {
-    font-family: 'WeibeiSC-Bold', cursive;
+    font-family: 'WeibeiSC-Bold', serif;
     font-size: 1.25rem;
     max-width: 95%;
     margin: 10px 0 10px 5% !important;
@@ -230,7 +235,7 @@ section.cover p {
 
 .brief-comments-in-blog-title-year>summary {
     text-align: center;
-    font-family: "Menlo", monospace;
+    font-family: "CormorantGaramond", serif;
     font-size: 3.1rem;
     color: var(--theme-color, #ea6f5a);
     list-style: none;
@@ -443,6 +448,7 @@ section.cover p {
     padding: 1rem 0;
     border-top: 1px solid var(--global-border-default-color, #eee);
     border-bottom: 1px solid var(--global-border-default-color, #eee);
+    font-family: 'HuiZongGong-tc', 'HuiZongGong-sc', cursive;
 
     h1 {
         margin: 0 0 0 1rem !important;
